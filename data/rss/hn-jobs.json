@@ -1,0 +1,419 @@
+{
+  "generated_at": "2026-06-04T09:26:11.139167+00:00",
+  "feed": {
+    "slug": "hn-jobs",
+    "name": "HN Jobs (YC companies hiring)",
+    "url": "https://hnrss.org/jobs",
+    "market": "global",
+    "pool": "watch",
+    "tags": [
+      "aggregator",
+      "hn",
+      "yc",
+      "llm"
+    ]
+  },
+  "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai\">https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48386588\">https://news.ycombinator.com/item?id=48386588</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 03 Jun 2026 17:01:00 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
+      "url": "https://news.ycombinator.com/item?id=48382853",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48382853\">https://news.ycombinator.com/item?id=48382853</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 03 Jun 2026 12:00:18 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern\">https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48369098\">https://news.ycombinator.com/item?id=48369098</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 02 Jun 2026 12:01:04 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "url": "https://hi.telli.com/join-us",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://hi.telli.com/join-us\">https://hi.telli.com/join-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48343635\">https://news.ycombinator.com/item?id=48343635</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 31 May 2026 07:00:50 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Cedana (YC S23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc\">https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48322030\">https://news.ycombinator.com/item?id=48322030</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 29 May 2026 12:01:00 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\">https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48303599\">https://news.ycombinator.com/item?id=48303599</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 28 May 2026 02:21:11 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Pelica (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\">https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48301851\">https://news.ycombinator.com/item?id=48301851</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 27 May 2026 22:52:15 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs\">https://www.ycombinator.com/companies/reflex/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297116\">https://news.ycombinator.com/item?id=48297116</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 27 May 2026 17:01:05 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+      "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer\">https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48282478\">https://news.ycombinator.com/item?id=48282478</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 26 May 2026 17:00:40 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/workweave",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269937\">https://news.ycombinator.com/item?id=48269937</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 25 May 2026 18:18:26 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "RentFlow (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead\">https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269041\">https://news.ycombinator.com/item?id=48269041</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 25 May 2026 17:00:27 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+      "location": "remote",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481\">https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48267324\">https://news.ycombinator.com/item?id=48267324</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 25 May 2026 14:32:47 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\">https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48258995\">https://news.ycombinator.com/item?id=48258995</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 24 May 2026 17:00:46 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\">https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234688\">https://news.ycombinator.com/item?id=48234688</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 22 May 2026 12:01:07 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+      "url": "https://news.ycombinator.com/item?id=48225852",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225852\">https://news.ycombinator.com/item?id=48225852</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 21 May 2026 17:00:52 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221230\">https://news.ycombinator.com/item?id=48221230</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 21 May 2026 12:00:20 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "location": "Remote",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\">https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48219340\">https://news.ycombinator.com/item?id=48219340</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 21 May 2026 08:01:53 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community\">https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159405\">https://news.ycombinator.com/item?id=48159405</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 16 May 2026 12:01:06 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://hightouch.com/careers\">https://hightouch.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48151034\">https://news.ycombinator.com/item?id=48151034</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 15 May 2026 17:01:15 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "url": "https://signoz.io/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://signoz.io/careers\">https://signoz.io/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48147533\">https://news.ycombinator.com/item?id=48147533</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 15 May 2026 12:00:31 +0000"
+    }
+  ],
+  "total_entries": 20
+}

@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-06-04T09:26:11.139167+00:00",
+  "feed": {
+    "slug": "v2ex-jobs",
+    "name": "V2EX 招聘节点",
+    "url": "https://www.v2ex.com/feed/tab/jobs.xml",
+    "market": "cn",
+    "pool": "watch",
+    "tags": [
+      "aggregator",
+      "v2ex",
+      "cn"
+    ],
+    "include_keywords": [
+      "大模型",
+      "llm",
+      "算法",
+      "agent",
+      "post-training",
+      "后训练",
+      "sft",
+      "rlhf",
+      "vlm",
+      "mllm",
+      "machine learning",
+      "ml"
+    ]
+  },
+  "items": [
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[上海/北京]招聘 Agent 产品经理 / Agent 开发工程师",
+      "url": "https://www.v2ex.com/t/1217896#reply2",
+      "location": "上海",
+      "description": "<h1>Agent 产品经理 / Agent 开发工程师</h1>\n<p>全职 · 北京 / 上海 </p>\n<hr />\n<h2>关于我们</h2>\n<p>我们在为大型企业搭建 Agent 生态——不是做一两个孤立的智能体，而是把一整套可治理、可复用、可持续演进的智能体能力体系，在企业内部从 0 长出来。</p>\n<p>我们聚焦企业内部最有价值的场景：</p>\n<ul>\n<li>\n<p>智能问数与数据分析</p>\n</li>\n<li>\n<p>业务指标诊断与异常归因</p>\n</li>\n<li>\n<p>智能报告生成与业务洞察</p>\n</li>\n<li>\n<p>跨系统任务自动化与业务流重构</p>\n<p>我们紧跟最前沿的 Agent 生态——Skills 、插件市场、MCP 、多智能体协作、企业级 Agent Registry——并把它们真正落到企业生产环境里。团队正在扩张，寻找 Agent 产品经理与 Agent 开发工程师各若干名。</p>\n</li>\n</ul>\n<h2>我们怎么工作</h2>\n<p>我们是一支 AI-native 团队，日常用最前沿的 AI 工具（ Claude Code 、Codex 、Cursor 等）高强度地做交付。我们的目标始终是能上线、能泛化、能被企业用户长期依赖的系统，而不是一次性的 demo 。</p>\n<p>在这里，角色的边界是流动的：产品经理会亲自下场搭原型、写 prompt 、跑评估，工程师对\"做什么、做到什么程度\"有自己的判断。我们相信，当写代码越来越便宜，**\"决定做什么\"和\"把什么定义为合格\"，才是真正稀缺的能力。**</p>\n<h2>我们在找什么样的人</h2>\n<p>Agent 生态几乎每个季度都在重塑。所以比起\"你用过哪些框架\"，我们更看重这些底层特质：</p>\n<ul>\n<li>\n<p><strong>灵活</strong>：方案跟着问题走，不绑定任何单一工具或技术栈。</p>\n</li>\n<li>\n<p><strong>泛化</strong>：能把一个场景里的经验迁移到全新场景，把一次性解法收敛成可复用的能力。</p>\n</li>\n<li>\n<p><strong>学得快</strong>：新东西出来，你能在几天内读懂、上手，并判断它值不值得用。</p>\n</li>\n<li>\n<p><strong>能自己跑通</strong>：端到端把一个想法变成能演示、能验证的东西，不依赖别人搭好脚手架。</p>\n</li>\n<li>\n<p><strong>对前沿有真热情</strong>：你本来就在追最新的技术，并乐于动手把它用起来。</p>\n<p>这是我们对所有人的共同期待。在此之上，两个角色各有侧重。</p>\n</li>\n</ul>\n<h2>Agent 产品经理</h2>\n<p>你回答的核心问题是：该为企业造哪些 Agent 能力，以及做到什么程度才算好。</p>\n<p><strong>你将负责</strong></p>\n<ul>\n<li>\n<p>把模糊的业务诉求，收敛成精确的用户分群、确切的问题和具体的使用场景，让团队能立刻开干</p>\n</li>\n<li>\n<p>端到端拥有一个场景：从消化用户反馈，到定义场景与口径，再到原型、验收标准、上线与复盘</p>\n</li>\n<li>\n<p>判断每一个能力的最佳形态——做成 Skill 、打包成插件、还是接入 MCP——以及它在企业内如何被发现、审批与治理</p>\n</li>\n<li>\n<p>设计对话流、意图理解、输出契约等产品级规则</p>\n</li",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-04T06:53:53Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[急招][20-40K 14 薪 地点上海] 高级 AI 应用架构师（Agent 方向）",
+      "url": "https://www.v2ex.com/t/1217892#reply0",
+      "location": "上海",
+      "description": "<h2>公司信息</h2>\n<ul>\n<li>公司名称：塔斯汀</li>\n<li>工作地点：上海</li>\n<li>办公模式：现场办公（暂不支持远程）</li>\n</ul>\n<hr />\n<h2>职位介绍</h2>\n<p>我们正在建设企业级 AI Agent 平台，致力于打造下一代 AI 原生生产力工具，推动 AI 能力在真实业务场景中的规模化落地。</p>\n<p>如果你对 AI Agent 、Multi-Agent 、LangGraph 、MCP 、Workflow 编排、Agent 平台建设等方向充满热情，并希望参与前沿 AI 产品从 0 到 1 的建设，欢迎加入我们。</p>\n<hr />\n<h2>岗位职责</h2>\n<ul>\n<li>深度参与 AI Agent 产品体系建设，负责企业级智能效率工具的设计、研发与落地；</li>\n<li>主导 Context Engineering （上下文工程）与 Multi-Agent 架构设计，构建 Agent Skill 生态、Tool Calling 体系及 Workflow 编排平台，持续拓展 Agent 能力边界；</li>\n<li>负责 AI Agent 系统架构设计与核心模块开发，包括 Prompt Pipeline 、Memory System 、Planning System 、Tool System 等关键能力建设；</li>\n<li>构建高可用、高性能 AI Agent 服务体系，解决复杂业务场景下的高并发、低延迟及稳定性问题；</li>\n<li>深入探索 Agent 应用创新场景，设计面向不同角色与业务场景的智能工作流，实现 AI 能力规模化落地；</li>\n<li>\n持续跟踪并落地前沿 AI Agent 技术，包括但不限于：<ul>\n<li>Multi-Agent 协作</li>\n<li>Long Context Engineering</li>\n<li>MCP （ Model Context Protocol ）</li>\n<li>Function Calling</li>\n<li>Tool Use</li>\n<li>Memory Architecture</li>\n<li>Agent Workflow</li>\n<li>AI Coding Agent</li>\n</ul>\n</li>\n<li>与产品、研发及业务团队紧密协作，推动 AI 能力快速转化为实际业务价值。</li>\n</ul>\n<hr />\n<h2>任职要求</h2>\n<h3>AI Agent 能力要求</h3>\n<ul>\n<li>拥有完整 AI Agent 或 LLM 应用开发经验，能够独立完成 Agent 系统设计与开发；</li>\n<li>\n深入理解主流 Agent 设计范式，包括但不限于：<ul>\n<li>ReAct</li>\n<li>Plan-and-Execute</li>\n<li>Reflection</li>\n<li>Tool Use</li>\n<li>Multi-Agent Collaboration</li>\n</ul>\n</li>\n<li>\n熟悉以下核心能力建设：<ul>\n<li>Prompt Engineering</li>\n<li>Context Engineering</li>\n<li>Long Context Management</li>\n<li>Memory Management</li>\n<li>Tool Calling</li>\n<li>RAG</li>\n<li>Evaluat",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-04T06:44:23Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "「广州天河珠江新城」省属国企数科公司直招 AI 应用开发 | 11-21W",
+      "url": "https://www.v2ex.com/t/1217631#reply34",
+      "location": "广州",
+      "description": "<p>团队招人,来 V2EX 发一帖。岗位是大模型应用开发,坐标广州珠江新城。\n我们是省属 Top 3 国企旗下的数科公司,成立两年,集团全资子公司,平时做集团内部和对外的 AI 应用、数字化转型项目，此岗为公司正式员工</p>\n<p>背靠国企,稳定,双休,基本不加班;不古板,平时也用 Claude Code 、Codex 这些工具。招应用开发,不需预训练模型。</p>\n<p>希望你:</p>\n<p>本科以上,计算机相关,代码底子扎实，希望能独立完成项目开发\nPython 熟练,后端能写(FastAPI 、数据库、Docker 这些),会 Go 或 Java 更好\n大模型应用上过手:Agent 编排用过 LangGraph 、CrewAI 或 Claude Agent SDK(自己写过 agent harness 也行),知道 MCP,做过 RAG(会混合检索、重排、GraphRAG 这些更好),用过向量库(Milvus 、Qdrant 、pgvector )\n对观测 / LLMOps 有概念:Langfuse 、Phoenix 这类能自己部署的用过,会拿 Ragas 或 DeepEval 评效果;懂 Prometheus 、Grafana 、SkyWalking\n做过国产开源模型(Qwen)私有化部署或微调的优先</p>\n<p>应届到 3 年:11-15W\n3 年以上:15-21W\n能力强可以谈。</p>\n<p>社保、公积金 12%(顶格),基数每年调，周末双休,作息 8:30-12:00 、14:00-18:00 ，有食堂，工会节日福利、定期体检都有</p>\n<p>地点:广州天河,珠江新城北区集团大厦,地铁 3 号线、5 号线、APM 都能到。\n投递:简历发 〔 <a href=\"mailto:enchiigo@gmail.com\">enchiigo@gmail.com</a> 〕,备注 V2EX + 岗位。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T08:02:27Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[接项目/可全职/远程] 5 年+经验全栈，主导复杂协同表格，白板产品， AI 原生开发，可完成各种项目从零到一实现",
+      "url": "https://www.v2ex.com/t/1217744#reply1",
+      "location": "远程",
+      "description": "<p>大家好，我是一名全栈工程师，具备 5 年+全栈开发经验，曾在某大厂负责复杂前端系统（如多维表格，⽩板等在线协同软件）的架构设计与功能实现，也能独立完成后端和 AI Agent 的全流程开发。</p>\n<p><strong>在线体验的多维表格与白板产品： https://rostack.vercel.app</strong></p>\n<p>精通：React, Tailwind css, Next.js, Nest.js, Electron, Serverless, AI Agent 。可以为您完成需求挖掘，到产品设计，到前端与后端的全流程开发，具备多款成熟产品从零到一的主导落地经验。</p>\n<p>能够深入使用 AI 辅助编程提高效率，也能够将 AI Agent 应用到业务中。</p>\n<p>多年 Remote 经验，英语口语无障碍沟通水平，熟悉远程协作。</p>\n<p>如果您有产品或项目需要合作或落地，欢迎联系（ Base64 ）。</p>\n<p>Email: eXl3ei5oZXJvQGdtYWlsLmNvbQ==</p>\n<p>微信: Tml2M291cw==</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T16:11:45Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[招聘] 抖音直播算法-实习/社招均缺人",
+      "url": "https://www.v2ex.com/t/1217716#reply0",
+      "location": "北京",
+      "description": "<p>我们负责抖音、抖音极速版、抖音火山版等 App 的直播体裁基建和直播营收业务，直播体裁基建立足对边生产边分发时效性高的直播体裁的理解，结合多模态信号理解动态的时间切片和长尾兴趣点，建立短视频域到直播域的兴趣迁移，在全场景分发直播体裁，满足用户看播需求并服务于营收、电商、生活服务、游戏等多业务。直播营收致力于为歌唱/舞蹈/弹奏/朗读/情感/户外等广泛的具有一技之长的普通人通过直播这个舞台被更多人看到获得收入，并满足用户多层次的精神消费和情感表达诉求，让优质内容供给持续增长反哺整个直播生态。</p>\n<p>团队内招人，欢迎投递简历： <a href=\"mailto:zyluo2015@163.com\">zyluo2015@163.com</a></p>\n<p>base: 北京、上海、深圳</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T13:43:33Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[内推] 渣打银行 Standard Chartered 天津/广州 | 60 岗位 | Band 5-7",
+      "url": "https://www.v2ex.com/t/1217663#reply1",
+      "location": "广州",
+      "description": "<p>社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。</p>\n<p>英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==</p>\n<h2>岗位亮点</h2>\n<ul>\n<li><strong>AI Lead Engineer</strong> (Band 5) — 📍Tianjin — AI 团队管理</li>\n<li><strong>Senior Container Engineer</strong> (Band 5) — 📍Guangzhou — K8s 容器平台建设</li>\n<li><strong>Lead, AI Platform- AI Factory</strong> (Band 5) — 📍Guangzhou — AI 平台架构</li>\n<li><strong>Lead AI Engineer</strong> (Band 5) — 📍Guangzhou — AI 团队管理</li>\n<li><strong>Senior Java Developer</strong> (Band 6) — 📍Tianjin — Java 微服务开发</li>\n<li><strong>Java Backend Lead</strong> (Band 6) — 📍Tianjin — Java 后端团队管理</li>\n<li><strong>Java Backend Lead</strong> (Band 6) — 📍Tianjin — Java 后端团队管理</li>\n<li><strong>Lead Developer, Asset Control MRS</strong> (Band 6) — 📍Guangzhou — 全栈/后端开发</li>\n</ul>\n<p>另有零售银行、风控合规（含 AI 模型风险）、企业银行（ CIB AI CoE ）、运营等多个方向共 35 个岗位。</p>\n<hr />\n<h2>完整列表</h2>\n<table>\n<thead>\n<tr>\n<th>职位</th>\n<th>城市</th>\n<th>Band</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/AWS-Engineer/54172-en_GB\" rel=\"nofollow\">AWS Engineer</a></td>\n<td>Guangzhou</td>\n<td>Band 7</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/Manager%2C-ERM%2C-Hong-Kong-&amp;-SCB-HK-Group/53269-en_GB\" rel=\"nofollow\">Manager, ERM, Hong Kong &amp; SCB HK Group</a></td>\n<td>Guangzhou</td>\n<td>Band 6</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/Director%2C-OTCR%2C-Strategic-&amp;-Emerging-Risks-%28AI-&amp;-ML%29/51223-en_GB\" rel=\"nofollow\">Director,",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T09:44:41Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "寻找一位经验丰富的区块链钱包开发工程师，",
+      "url": "https://www.v2ex.com/t/1217641#reply2",
+      "location": "",
+      "description": "<p>负责设计和开发安全、高性能的非托管钱包产品，支持多链资产管理、交易和 DeFi 交互。主要职责负责区块链钱包核心功能的开发（助记词、私钥管理、交易签名、地址生成等）； 支持多条公链（ EVM 链、Solana 、Bitcoin 、TRON 、 等）； 开发和优化钱包前端（ React / React Native / Flutter / Tauri ）和后端服务； 集成硬件钱包（ Ledger 、Trezor 等）及 MPC / SSS 钱包方案； 实现安全功能：生物识别、加密存储、交易模拟、风险检测等； 参与钱包 SDK 、API 和浏览器插件的开发； 跟进最新区块链技术并应用到产品中。</p>\n<p>任职要求本科及以上学历，计算机、密码学、区块链相关专业优先； 至少 2 年 以上区块链钱包或相关开发经验； 精通以下至少一项：EVM 生态（ ethers.js / viem / web3.js ） Solana Rust / Go （智能合约或后端优先）</p>\n<p>熟悉密码学原理（椭圆曲线、助记词、BIP32/44/49 等标准）； 有非托管钱包（ Non-custodial Wallet ）实际项目经验者优先； 熟悉安全最佳实践（私钥保护、审计、常见攻击防范）； 良好的英文阅读和沟通能力（法语为加分项）； 有开源贡献或知名钱包项目经验者优先。</p>\n<p>请携带简历咨询，谢谢； TG：@dajidali2026 E: <a href=\"mailto:ppllmm6868@gmail.com\">ppllmm6868@gmail.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T08:39:39Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[深圳][货拉拉] 货运核心业务-高级测试工程师",
+      "url": "https://www.v2ex.com/t/1217661#reply0",
+      "location": "深圳",
+      "description": "<h2>岗位职责：</h2>\n<ol>\n<li>参与需求全生命周期的质量保障工作，进行需求分析、制定测试计划、风险评估、测试设计，测试过程的相关活动等。</li>\n<li>参与移动端质量效能方向建设，能够使用 AI 测试提效工具完成测试工具/自动测试框架/测试脚本实现等，提高测试质量和效率。</li>\n<li>能与产品、研发团队紧密合作，从质量管理的角度推动整体项目或需求高质量按时交付。</li>\n</ol>\n<h2>任职要求：</h2>\n<ol>\n<li>本科以上学历，计算机相关专业，5 年以上移动端（ Android/iOS ）测试相关经验；</li>\n<li>有较强的代码能力，熟悉 Java ，有过工具、平台开发、AI Agent/Skill 开发经验，具备良好的产品思维；</li>\n<li>有很强的质量意识，有责任感主动性强，有良好的分析定位、解决问题的能力以及团队合作精神，能适应一定压力的工作。</li>\n</ol>\n<hr />\n<p>简历至（ base64 解码）：\nam9lLnh1QGh1b2xhbGEuY24=</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T09:33:26Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "需要数位视频推荐算法工程师（短视频/",
+      "url": "https://www.v2ex.com/t/1217657#reply0",
+      "location": "",
+      "description": "<p>我们是一家专注于视频内容生态的互联网平台，服务数千万用户，每天处理海量视频数据。通过智能推荐算法，为用户带来沉浸式观看体验，同时助力内容创作者成长。 欢迎对推荐系统、多模态学习充满热情的你加入，一起打造行业领先的视频算法！岗位职责 负责视频推荐系统全链路算法研发与优化，包括召回、粗排、精排、重排等模块，持续提升用户完播率、互动率、留存时长等核心指标；\n挖掘用户行为特征与视频多模态内容（视觉、音频、文本），构建精准的用户画像和视频表征模型，实现个性化智能推荐；\n探索并落地前沿技术，如 Transformer 、图神经网络、多模态大模型、AIGC 在视频推荐中的应用，推动算法创新；\n设计并执行 AB 实验，分析线上数据，诊断问题并快速迭代优化模型效果与系统性能；\n与产品、后端、数据团队紧密协作，推动算法从研究到高效线上落地的全流程。</p>\n<p>任职要求 计算机、人工智能、软件工程、数学等相关专业，本科及以上学历（硕士/博士优先）；\n2 年以上推荐系统或多媒体算法开发经验，有短视频/长视频平台实际项目经验者优先；\n扎实的机器学习/深度学习基础，熟练掌握 Python ，熟悉 PyTorch 或 TensorFlow 至少一种框架；\n熟悉大规模数据处理工具（如 Spark 、Flink ）和分布式系统，有推荐系统工程落地经验加分；\n对视频内容理解（ CV 、音频处理、NLP ）有一定了解，熟悉 FFmpeg 、OpenCV 等工具者优先；\n具备良好的数据分析和 AB 实验设计能力，强烈的责任心与团队协作精神，能适应快节奏的工作环境。</p>\n<p>请携带简历咨询，谢谢； TG：@dajidali2026 E: <a href=\"mailto:ppllmm6868@gmail.com\">ppllmm6868@gmail.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T09:28:53Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[急招] 年薪最高 300W！大模型 / Agent Infra 开放， 985/211 优先， 12h 内必回！",
+      "url": "https://www.v2ex.com/t/1217620#reply2",
+      "location": "上海",
+      "description": "岗位：<br />1 ）上海，北京，或远程：Agent 开发工程师（全栈或偏后端），预算 50 - 90 万/年，特别优秀的，尤其是第一学历是 985 top 的，复杂 agent 开发经验丰富的，可以再谈！ base 北京 或 上海；可线下办公的优先，线上办公要特别出类拔萃的才考虑；<br /><br />2)  大模型 Infra ，agent 平台 Infra ，base 北京，或者新加坡；客户要求要有亮点；第一学历 985 ，211 ；过往工作要有沉淀，那种每家做的时间很短不超过一年没有什么沉淀的不考虑；<br />大模型 Infra 预算 100 - 300 万/年，北美 top 大厂的人可以兼职（但需要有结果交付）； agent Infra 预算 50 - 100 万/年（具体视交流结果）；<br /><br /><br />投递方式：发简历到 lily9908@live.cn ，备注 joy,12 小时内优先回复！",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-03T07:36:58Z"
+    }
+  ],
+  "total_entries": 40
+}
