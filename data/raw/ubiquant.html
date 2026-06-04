@@ -1,0 +1,990 @@
+<!DOCTYPE html><html lang="en" style="font-size: 88.8889px;"><head>
+  <meta charset="UTF-8">
+  <meta name="description" content="九坤投资（北京）有限公司是经过中国基金业协会备案的量化投资私募基金管理公司，公司成立于2012年5月，实缴注册资本3000万元。">
+  <meta name="keywords" content="九坤投资（北京）有限公司,九坤投资,九坤,九坤投资有限公司,北京九坤">
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="format-detection" content="telephone = no">
+
+  <title>九坤投资（北京）有限公司-招贤纳士</title>
+
+  <link rel="shortcut icon" href="/static/website/template/images/favicon-website.ico">
+  <link rel="stylesheet" href="/static/website/template/css/normalize.css">
+  <link rel="stylesheet" href="/static/website/template/css/bootstrap-min.css">
+  <link rel="stylesheet" href="/static/website/template/css/main-career.css">
+  <link rel="stylesheet" href="/static/website/template/css/smallmain-career.css">
+  <link rel="stylesheet" media="screen and (min-width:1280px)" href="/static/website/template/css/bigmain-career.css">
+  <link rel="stylesheet" href="/static/website/template/css/swipeslider.css">
+
+  <script src="/static/website/template/js/jquery.min.js"></script>
+  <script src="/static/website/template/js/jquery.color.js"></script>
+  <script type="text/javascript" src="/static/website/template/js/skrollr.min.js"></script>
+  <script src="/static/website/template/js/aes.js"></script>
+  <script>
+
+    var staticPathPrefix = '' || '';
+
+    (function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt =
+          "orientationchange" in window ? "orientationchange" : "resize",
+        recalc = function () {
+          var clientWidth = docEl.clientWidth;
+          if (!clientWidth) return;
+          if (clientWidth >= 1440) {
+            docEl.style.fontSize = "100px";
+          } else if (clientWidth >= 1250) {
+            docEl.style.fontSize = 100 * (clientWidth / 1440) + "px";
+          } else {
+            docEl.style.fontSize = 100 * (clientWidth / 750) + "px";
+          }
+        };
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener("DOMContentLoaded", recalc, false);
+      recalc();
+    })(document, window);
+
+    function getCookie(cname) {
+      var name = cname + '=', ca = document.cookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i].trim();
+        if (c.indexOf(name) == 0) {
+          let word = unescape(c.substring(name.length, c.length));
+          var key = CryptoJS.enc.Utf8.parse("rTAP2ESFiAVqLmjZ");
+          var decrypt = CryptoJS.AES.decrypt(word, key, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 });
+          return CryptoJS.enc.Utf8.stringify(decrypt).toString();
+        }
+      } return '';
+    }
+
+    function setCookie(name, value, seconds) {
+      var expires = '';
+      seconds = seconds || 0;
+      if (seconds != 0) {
+        var date = new Date();
+        date.setTime(date.getTime() + (seconds * 1000));
+        expires = '; expires=' + date.toGMTString();
+      }
+      var key = CryptoJS.enc.Utf8.parse("rTAP2ESFiAVqLmjZ");
+      var srcs = CryptoJS.enc.Utf8.parse(value);
+      var encrypted = CryptoJS.AES.encrypt(srcs, key, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 });
+      document.cookie = name + '=' + encrypted.toString() + expires + '; path=/';
+    }
+
+    function ajax(options) {
+      var xhr = new XMLHttpRequest() || new ActiveXObject("Microsoft,XMLHTTP");
+      var str = "";
+      for (var key in options.data) {
+        str += "&" + key + "=" + options.data[key];
+      }
+      str = str.slice(1);
+      if (options.type == "get") {
+        var url = options.url + "?" + str;
+        xhr.open("get", url); xhr.send();
+      }
+      else if (options.type == "post") {
+        xhr.open("post", options.url);
+        xhr.setRequestHeader("content-type", "application/x-www-form-urlencoded");
+        xhr.send(str)
+      }
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+          var d = xhr.responseText; options.success && options.success(d)
+        } else if (xhr.status != 200) {
+          options.error && options.error(xhr.status);
+        }
+      }
+    }
+
+    var intervalId = setInterval(function () {
+      let lastTime = getCookie('sureTime');
+      let nowTime = new Date().getTime();
+      let loginTime = getCookie('nigol');
+      if (lastTime && ((nowTime - parseInt(lastTime)) > 30000 || (loginTime && ((nowTime - parseInt(loginTime)) > 3600000)))) {
+        setCookie('sureTime', '', 60 * 70 * 1);
+        ShowInvalidLoginMessage(); clearInterval(intervalId);
+      } else {
+        setCookie('sureTime', new Date().getTime(), 60 * 70 * 1);
+      }
+    }, 1000);
+
+    function ShowInvalidLoginMessage() {
+      ajax({
+        type: "post", url: staticPathPrefix + "/auth/logout", data: { username: getCookie('sid') },
+        success: function (res) {
+          setCookie('sid', '', -1); setCookie('login', '', -1);
+          setCookie('token', '', -1);
+          setCookie('user', '', -1);
+          setCookie('username', '', -1);
+          setCookie('type', '', -1);
+          setCookie('investorids', '', -1);
+          setCookie('investorList', '', -1);
+          setCookie('InvestorName', '', -1);
+          setCookie('RiskTol', '', -1);
+          setCookie('IsProfessional', '', -1);
+          setCookie('RiskGrade', '', -1);
+          setCookie('investorTotalAsset', '', -1);
+          setCookie('InvestorType', '', -1);
+          setCookie('qualified', '', -1);
+          setCookie('nigol', '', -1);
+          window.location.reload();
+        }, error: function (xhr) { }
+      })
+    }
+
+    function HTMLDecode(text) {
+      var temp = document.createElement("div");
+      temp.innerHTML = text;
+      var output = temp.innerText || temp.textContent; temp = null;
+      return output;
+    }
+  </script>
+  <title>career</title>
+</head>
+
+<body style="font-size: 16px;" class="modal-open">
+
+  <div class="top-header" data-0="background-color: transparent;" data-1="background-color: white;">
+    <h1 class="header-title home_href pointer" data-0="background: url(/static/website/template/images/logo/ubiquant-logo-white.svg) left top / 100% 100% no-repeat;" data-1="background: url(/static/website/template/images/logo/ubiquant-logo-color.svg) left top / 100% 100% no-repeat;">
+      九坤投资</h1>
+    <div class="header-nav">
+      <li class="login_href pointer">登录/注册</li>
+      <li class="home_href pointer">返回首页</li>
+      <li class="about_href pointer">关于九坤</li>
+      <li class="competition_href pointer">量化竞赛</li>
+      <li class="foundation_href pointer">社会责任 </li>
+      <!-- <li class="ai_href pointer">至知创新研究院</li> -->
+      <li class="en_href pointer"><span style="font-weight: 900;">中文</span>/<span>EN</span></li>
+    </div>
+    <div class="header-nav hide">
+      <li class="login_name login_name_angle">
+        <span class="angle pointer"></span><span class="login_name_text pointer">测试用户</span>
+      </li>
+      <li class="home_href pointer">返回首页</li>
+      <li class="about_href pointer">关于九坤</li>
+      <li class="competition_href pointer">量化竞赛</li>
+      <li class="foundation_href pointer">社会责任 </li>
+      <!-- <li class="ai_href pointer">至知创新研究院</li> -->
+      <li class="en_href pointer"><span style="font-weight: 900;">中文</span>/<span>EN</span></li>
+    </div>
+    <div class="header-nav login">
+      <li class="login_name login_name_angleup"><span class="angleup pointer"></span><span class="login_name_text pointer">测试用户</span></li>
+      <li class="person_href pointer"><span class="person svg person_href"></span>个人中心</li>
+      <li class="passwd_href pointer"><span class="passwd svg passwd_href"></span>修改密码</li>
+      <li class="exit_href pointer"><span class="exit svg exit_href"></span>安全退出</li>
+    </div>
+    <div class="header-nav-mo">
+      <span class="before" data-0="background-color:white;" data-1="background-color:black;"></span>
+      <span class="after" data-0="background-color:white;" data-1="background-color:black;"></span>
+      <span class="middle" data-0="background-color:white;" data-1="background-color:black;"></span>
+    </div>
+  </div>
+
+  <div class="modal-nav">
+    <div class="circle circle1"></div>
+    <div class="circle circle2"></div>
+    <div class="circle circle3"></div>
+    <div class="circle circle4"></div>
+    <h1 class="header-title home_href pointer">九坤投资</h1>
+    <div class="header-nav-mo">
+      <span class="before"></span>
+      <span class="middle"></span>
+      <span class="after"></span>
+    </div>
+    <div class="nav hide">
+      <div class="login_href pointer">登录/注册</div>
+      <div class="home_href pointer">返回首页</div>
+      <div class="about_href" pointer="">关于九坤</div>
+      <div class="competition_href pointer">量化竞赛</div>
+       <div class="foundation_href pointer">社会责任 </div>
+            <!-- <div class="ai_href pointer">至知创新研究院</div> -->
+<div class="en_href pointer"><span style="font-weight: 900;">中文</span>/<span>EN</span></div>
+    </div>
+    <div class="nav hide">
+      <div class="login_name_mo login_name_mo_angle"><span class="login_name_text_mo">测试用户</span><span class="angle pointer"></span></div>
+      <div class="home_href pointer">返回首页</div>
+      <div class="about_href pointer">关于九坤</div>
+      <div class="competition_href pointer">量化竞赛</div>
+       <div class="foundation_href pointer">社会责任 </div>
+            <!-- <div class="ai_href pointer">至知创新研究院</div> -->
+            <div class="en_href pointer"><span style="font-weight: 900;">中文</span>/<span>EN</span></div>
+    </div>
+    <div class="nav login">
+      <div class="login_name_mo login_name_mo_angleup"><span class="login_name_text_mo">测试用户</span><span class="angleup pointer"></span></div>
+      <div class="person_href pointer"><span class="person svg person_href pointer"></span>个人中心 </div>
+      <div class="passwd_href pointer"><span class="passwd svg passwd_href pointer"></span>修改密码 </div>
+      <div class="exit_href pointer"><span class="exit svg exit_href pointer"></span>安全退出 </div>
+      <div class="home_href pointer">返回首页</div>
+      <div class="about_href pointer">关于九坤 </div>
+      <div class="competition_href pointer">量化竞赛 </div>
+       <div class="foundation_href pointer">社会责任 </div>
+            <!-- <div class="ai_href pointer">至知创新研究院</div> -->
+<div class="en_href pointer"><span style="font-weight: 900;">中文</span>/<span>EN</span></div>
+    </div>
+    <div class="nav-line">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+       <div class="line"></div>
+    </div>
+  </div>
+
+  <div class="modal fade exampleModalCenterFirst show" id="exampleModalCenter" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false" aria-labelledby="exampleModalCenterTitle" aria-modal="true" style="display: block;">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="modal-body-top">
+            <div style="background:rgba(255,155,15,0.1);border-radius:8px;padding:6px 12px;min-height:32px;display:flex;align-items:center;gap:4px;margin-bottom:16px;">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" style="flex-shrink:0;"><circle cx="8" cy="8" r="8" fill="#D67D00"></circle><text x="8" y="12" text-anchor="middle" font-size="10" fill="white" font-weight="bold" font-family="Arial,sans-serif">!</text></svg>
+              <span style="font-size:14px;color:#D67D00;">基金有风险，投资需谨慎。管理人不保证投资本金不受损失，也不保证一定盈利及最低收益。</span>
+            </div>
+            <div class="modal-body-title">合格投资者认证</div>
+            <div class="modal-body-content">
+              <div>
+                在继续浏览本公司网站前，请您确认您或您所代表的机构是一名“合格投资者”。“合格投资者”指根据任何国家和地区的证券和投资法规所规定的有资格投资于私募证券投资基金的专业投资者。例如根据我国《私募投资基金监督管理暂行办法》的规定，合格投资者的标准如下：
+              </div>
+              <div>
+                一、具备相应风险识别能力和风险承担能力，投资于单只私募基金的金额不低于100万元且符合下列相关标准的单位和个人：<br>
+                1、净资产不低于1000万元的单位；<br>
+                2、金融资产不低于300万元或者最近三年个人年均收入不低于50万元的个人。(前款所称金融资产包括银行存款、股票、债券、基金份额、资产管理计划、银行理财产品、信托计划、保险产品、期货权益等。)
+              </div>
+              <div>
+                二、下列投资者视为合格投资者：<br>
+                1、社会保障基金、企业年金等养老基金、慈善基金等社会公益基金；<br>
+                2、依法设立并在基金业协会备案的投资计划；<br>
+                3、投资于所管理私募基金的私募基金管理人及其从业人员；<br>
+                4、中国证监会规定的其他投资者。
+              </div>
+              <div>
+                如果您继续访问或使用本网站及其所载资料，即表明您声明及保证您或您所代表的机构为“合格投资者”，并将遵守对您适用的司法区域的有关法律及法规，同意并接受以下条款及相关约束。如果您不符合“合格投资者”标准或不同意下列条款及相关约束，请勿继续访问或使用本网站及其所载信息及资料。
+              </div>
+              <div>
+                投资涉及风险，投资者应详细审阅产品的发售文件以获取进一步资料，了解有关投资所涉及的风险因素，并寻求适当的专业投资和咨询意见。产品净值及其收益存在涨跌可能，过往的产品业绩数据并不预示产品未来的业绩表现。本网站所提供的资料并非投资建议或咨询意见，投资者不应依赖本网站所提供的信息及资料作出投资决策。
+              </div>
+              <div>
+                与本网站所载信息及资料有关的所有版权、专利权、知识产权及其他产权均为本公司所有。本公司概不向浏览该资料人士发出、转让或以任何方式转移任何种类的权利。
+              </div>
+            </div>
+            <div class="line"></div>
+          </div>
+          <div class="modal-first-bottom">
+            <div class="modal-first-bottom-accept">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.35 83.89">
+                <defs>
+                  <style>
+                    .cls-button-short-black {
+                      fill: none;
+                      stroke: #000;
+                      stroke-linejoin: round;
+                      stroke-width: .03rem
+                    }
+                  </style>
+                </defs>
+                <g id="图层_2" data-name="图层 2">
+                  <g id="图层_1-2" data-name="图层 1">
+                    <path class="cls-button-short-black" d="M199.83,41.94c0,.52,0,1,0,1.54A41.52,41.52,0,0,1,174.09,80.3l-.14.06a41.54,41.54,0,0,1-14.49,3H41.94A41.45,41.45,0,0,1,40.81.51H56.89a41.54,41.54,0,0,0-14.49,3l-1.24.53A41.52,41.52,0,0,0,16.55,40.41c0,.51-.05,1-.05,1.54s0,1,.05,1.54a25.47,25.47,0,0,0,25.39,23.9H150.15c13.5-.34,16.88-1.52,17.19-1.64a25.43,25.43,0,0,0,2.36-46.59c-.92-.46-3.43-2.33-14-2.67h18.74A25.47,25.47,0,0,1,199.8,40.4C199.82,40.91,199.83,41.42,199.83,41.94Z">
+                    </path>
+                    <path class="cls-button-short-black" d="M215.85,41.94a41.5,41.5,0,0,1-41.44,41.45H159.46a41.54,41.54,0,0,0,14.49-3l.14-.06A41.52,41.52,0,0,0,199.8,43.48c0-.51,0-1,0-1.54s0-1,0-1.54a25.47,25.47,0,0,0-25.39-23.9H59.93c-8.45.19-12.51,2.27-13.63,2.85A25.43,25.43,0,0,0,48.89,65.7c.34.13,3.33,1.35,15.79,1.69H41.94a25.47,25.47,0,0,1-25.39-23.9c0-.51,0-1,0-1.54s0-1,0-1.54A41.52,41.52,0,0,1,41.16,4.06l1.24-.53a41.54,41.54,0,0,1,14.49-3H174.41A41.49,41.49,0,0,1,215.85,41.94Z">
+                    </path>
+                    <path class="cls-button-short-black" d="M41.94.5h0Z"></path>
+                  </g>
+                </g>
+              </svg>
+              接受
+            </div>
+            <div class="modal-first-bottom-giveup">
+              放弃
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="containers" id="skrollr-body">
+
+    <div class="containers-top">
+      <div class="top-content">
+        <div class="video-loading" style="display: none;">
+          <div class="circle circle-right-big"></div>
+          <div class="circle circle-right-small"></div>
+          <div class="circle circle-left-big"></div>
+          <div class="circle circle-left-small"></div>
+          <div class="loading-gif"></div>
+          <div class="loading-text">Loading...</div>
+        </div>
+        <video id="video" class="top-content-video hide-in-mobile" autoplay="" muted="" loop="" preload=""><source id="source" src="/static/website/template/video/careers.mp4" type="video/mp4"></video>
+      </div>
+      <div class="top-content-images">
+        <figure id="customizability" class="swipslider" style="padding-top: 60%;">
+          <ul class="sw-slides" style="transition-duration: 500ms; transition-timing-function: ease-out; transition-property: all; transform: translateX(-100px);"><li class="sw-slide sw-slide_8">
+              <span class="slide-number">8</span>
+            </li>
+            <li class="sw-slide sw-slide_1">
+              <span class="slide-number">1</span>
+            </li>
+            <li class="sw-slide sw-slide_2">
+              <span class="slide-number">2</span>
+            </li>
+            <li class="sw-slide sw-slide_3">
+              <span class="slide-number">3</span>
+            </li>
+            <li class="sw-slide sw-slide_4">
+              <span class="slide-number">4</span>
+            </li>
+            <li class="sw-slide sw-slide_5">
+              <span class="slide-number">5</span>
+            </li>
+            <li class="sw-slide sw-slide_6">
+              <span class="slide-number">6</span>
+            </li>
+            <li class="sw-slide sw-slide_7">
+              <span class="slide-number">7</span>
+            </li>
+            <li class="sw-slide sw-slide_8">
+              <span class="slide-number">8</span>
+            </li>
+          <li class="sw-slide sw-slide_1">
+              <span class="slide-number">1</span>
+            </li></ul><ul class="sw-bullet"><li class="sw-slide-0 active"></li><li class="sw-slide-1"></li><li class="sw-slide-2"></li><li class="sw-slide-3"></li><li class="sw-slide-4"></li><li class="sw-slide-5"></li><li class="sw-slide-6"></li><li class="sw-slide-7"></li></ul>
+        </figure>
+      </div>
+      <div class="header-text-big">
+        追寻金融领域的阿尔法 挑战量化世界的不可能
+      </div>
+      <div class="header-text-small">
+        公司投研和技术团队核心成员90%毕业于清华、北大、上海交大、复旦、斯坦福等国内外知名院校，且在华尔街知名对冲基金、全球头部科技公司、国内知名互联网企业拥有多年工作经验。
+      </div>
+    </div>
+
+    <div class="containers-recruitment">
+      <div class="recruitment">
+        <div class="social-img">
+          <div class="skew-elm2">
+            <div class="con">
+              <div class="mask"></div>
+            </div>
+          </div>
+        </div>
+        <div class="social social_career_href pointer">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.35 83.89">
+            <defs>
+              <style>
+                .cls-button-short-white {
+                  fill: none;
+                  stroke: #fff;
+                  stroke-linejoin: round;
+                  stroke-width: .03rem
+                }
+              </style>
+            </defs>
+            <g id="图层_2" data-name="图层 2">
+              <g id="图层_1-2" data-name="图层 1">
+                <path class="cls-button-short-white" d="M199.83,41.94c0,.52,0,1,0,1.54A41.52,41.52,0,0,1,174.09,80.3l-.14.06a41.54,41.54,0,0,1-14.49,3H41.94A41.45,41.45,0,0,1,40.81.51H56.89a41.54,41.54,0,0,0-14.49,3l-1.24.53A41.52,41.52,0,0,0,16.55,40.41c0,.51-.05,1-.05,1.54s0,1,.05,1.54a25.47,25.47,0,0,0,25.39,23.9H150.15c13.5-.34,16.88-1.52,17.19-1.64a25.43,25.43,0,0,0,2.36-46.59c-.92-.46-3.43-2.33-14-2.67h18.74A25.47,25.47,0,0,1,199.8,40.4C199.82,40.91,199.83,41.42,199.83,41.94Z"></path>
+                <path class="cls-button-short-white" d="M215.85,41.94a41.5,41.5,0,0,1-41.44,41.45H159.46a41.54,41.54,0,0,0,14.49-3l.14-.06A41.52,41.52,0,0,0,199.8,43.48c0-.51,0-1,0-1.54s0-1,0-1.54a25.47,25.47,0,0,0-25.39-23.9H59.93c-8.45.19-12.51,2.27-13.63,2.85A25.43,25.43,0,0,0,48.89,65.7c.34.13,3.33,1.35,15.79,1.69H41.94a25.47,25.47,0,0,1-25.39-23.9c0-.51,0-1,0-1.54s0-1,0-1.54A41.52,41.52,0,0,1,41.16,4.06l1.24-.53a41.54,41.54,0,0,1,14.49-3H174.41A41.49,41.49,0,0,1,215.85,41.94Z"></path>
+                <path class="cls-button-short-white" d="M41.94.5h0Z"></path>
+              </g>
+            </g>
+          </svg>
+          <span class="social_career_href pointer">社会招聘</span>
+        </div>
+        <div class="school-img">
+          <div class="skew-elm2">
+            <div class="con">
+              <div class="mask"></div>
+            </div>
+          </div>
+        </div>
+        <div class="school school_career_href pointer">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.35 83.89">
+            <defs>
+              <style>
+                .cls-button-short-white {
+                  fill: none;
+                  stroke: #fff;
+                  stroke-linejoin: round;
+                  stroke-width: .03rem
+                }
+              </style>
+            </defs>
+            <g id="图层_2" data-name="图层 2">
+              <g id="图层_1-2" data-name="图层 1">
+                <path class="cls-button-short-white" d="M199.83,41.94c0,.52,0,1,0,1.54A41.52,41.52,0,0,1,174.09,80.3l-.14.06a41.54,41.54,0,0,1-14.49,3H41.94A41.45,41.45,0,0,1,40.81.51H56.89a41.54,41.54,0,0,0-14.49,3l-1.24.53A41.52,41.52,0,0,0,16.55,40.41c0,.51-.05,1-.05,1.54s0,1,.05,1.54a25.47,25.47,0,0,0,25.39,23.9H150.15c13.5-.34,16.88-1.52,17.19-1.64a25.43,25.43,0,0,0,2.36-46.59c-.92-.46-3.43-2.33-14-2.67h18.74A25.47,25.47,0,0,1,199.8,40.4C199.82,40.91,199.83,41.42,199.83,41.94Z"></path>
+                <path class="cls-button-short-white" d="M215.85,41.94a41.5,41.5,0,0,1-41.44,41.45H159.46a41.54,41.54,0,0,0,14.49-3l.14-.06A41.52,41.52,0,0,0,199.8,43.48c0-.51,0-1,0-1.54s0-1,0-1.54a25.47,25.47,0,0,0-25.39-23.9H59.93c-8.45.19-12.51,2.27-13.63,2.85A25.43,25.43,0,0,0,48.89,65.7c.34.13,3.33,1.35,15.79,1.69H41.94a25.47,25.47,0,0,1-25.39-23.9c0-.51,0-1,0-1.54s0-1,0-1.54A41.52,41.52,0,0,1,41.16,4.06l1.24-.53a41.54,41.54,0,0,1,14.49-3H174.41A41.49,41.49,0,0,1,215.85,41.94Z"></path>
+                <path class="cls-button-short-white" d="M41.94.5h0Z"></path>
+              </g>
+            </g>
+          </svg> <span class="school_career_href pointer">校园招聘</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="containers-recruitment-mo">
+      <div class="recruitment">
+        <div class="slider" id="containers-recruitment-mo-slider">
+          <div class="social-img">
+            <div class="skew-elm2">
+              <div class="con">
+                <div class="social social_career_href pointer">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.35 83.89">
+                    <defs>
+                      <style>
+                        .cls-button-short-white {
+                          fill: none;
+                          stroke: #fff;
+                          stroke-linejoin: round;
+                          stroke-width: .05rem
+                        }
+                      </style>
+                    </defs>
+                    <g id="图层_2" data-name="图层 2">
+                      <g id="图层_1-2" data-name="图层 1">
+                        <path class="cls-button-short-white" d="M199.83,41.94c0,.52,0,1,0,1.54A41.52,41.52,0,0,1,174.09,80.3l-.14.06a41.54,41.54,0,0,1-14.49,3H41.94A41.45,41.45,0,0,1,40.81.51H56.89a41.54,41.54,0,0,0-14.49,3l-1.24.53A41.52,41.52,0,0,0,16.55,40.41c0,.51-.05,1-.05,1.54s0,1,.05,1.54a25.47,25.47,0,0,0,25.39,23.9H150.15c13.5-.34,16.88-1.52,17.19-1.64a25.43,25.43,0,0,0,2.36-46.59c-.92-.46-3.43-2.33-14-2.67h18.74A25.47,25.47,0,0,1,199.8,40.4C199.82,40.91,199.83,41.42,199.83,41.94Z"></path>
+                        <path class="cls-button-short-white" d="M215.85,41.94a41.5,41.5,0,0,1-41.44,41.45H159.46a41.54,41.54,0,0,0,14.49-3l.14-.06A41.52,41.52,0,0,0,199.8,43.48c0-.51,0-1,0-1.54s0-1,0-1.54a25.47,25.47,0,0,0-25.39-23.9H59.93c-8.45.19-12.51,2.27-13.63,2.85A25.43,25.43,0,0,0,48.89,65.7c.34.13,3.33,1.35,15.79,1.69H41.94a25.47,25.47,0,0,1-25.39-23.9c0-.51,0-1,0-1.54s0-1,0-1.54A41.52,41.52,0,0,1,41.16,4.06l1.24-.53a41.54,41.54,0,0,1,14.49-3H174.41A41.49,41.49,0,0,1,215.85,41.94Z"></path>
+                        <path class="cls-button-short-white" d="M41.94.5h0Z"></path>
+                      </g>
+                    </g>
+                  </svg>
+                  <span class="social_career_href pointer">社会招聘</span>
+                </div>
+                <div class="mask"></div>
+              </div>
+            </div>
+          </div>
+          <div class="school-img">
+            <div class="skew-elm2">
+              <div class="con">
+                <div class="school school_career_href pointer">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.35 83.89">
+                    <defs>
+                      <style>
+                        .cls-button-short-white {
+                          fill: none;
+                          stroke: #fff;
+                          stroke-linejoin: round;
+                          stroke-width: .05rem
+                        }
+                      </style>
+                    </defs>
+                    <g id="图层_2" data-name="图层 2">
+                      <g id="图层_1-2" data-name="图层 1">
+                        <path class="cls-button-short-white" d="M199.83,41.94c0,.52,0,1,0,1.54A41.52,41.52,0,0,1,174.09,80.3l-.14.06a41.54,41.54,0,0,1-14.49,3H41.94A41.45,41.45,0,0,1,40.81.51H56.89a41.54,41.54,0,0,0-14.49,3l-1.24.53A41.52,41.52,0,0,0,16.55,40.41c0,.51-.05,1-.05,1.54s0,1,.05,1.54a25.47,25.47,0,0,0,25.39,23.9H150.15c13.5-.34,16.88-1.52,17.19-1.64a25.43,25.43,0,0,0,2.36-46.59c-.92-.46-3.43-2.33-14-2.67h18.74A25.47,25.47,0,0,1,199.8,40.4C199.82,40.91,199.83,41.42,199.83,41.94Z"></path>
+                        <path class="cls-button-short-white" d="M215.85,41.94a41.5,41.5,0,0,1-41.44,41.45H159.46a41.54,41.54,0,0,0,14.49-3l.14-.06A41.52,41.52,0,0,0,199.8,43.48c0-.51,0-1,0-1.54s0-1,0-1.54a25.47,25.47,0,0,0-25.39-23.9H59.93c-8.45.19-12.51,2.27-13.63,2.85A25.43,25.43,0,0,0,48.89,65.7c.34.13,3.33,1.35,15.79,1.69H41.94a25.47,25.47,0,0,1-25.39-23.9c0-.51,0-1,0-1.54s0-1,0-1.54A41.52,41.52,0,0,1,41.16,4.06l1.24-.53a41.54,41.54,0,0,1,14.49-3H174.41A41.49,41.49,0,0,1,215.85,41.94Z"></path>
+                        <path class="cls-button-short-white" d="M41.94.5h0Z"></path>
+                      </g>
+                    </g>
+                  </svg> <span class="school_career_href pointer">校园招聘</span>
+                </div>
+                <div class="mask"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <ul class="sw-bullet">
+        <li class="sw-slide-0 active"></li>
+        <li class="sw-slide-1"></li>
+      </ul>
+    </div>
+    <div class="welfare">
+      <div class="welfare-content">
+        <div class="circle circle1"></div>
+        <div class="circle circle2"></div>
+        <div class="welfare-title">
+          <span class="left"></span>
+          <div>公司福利</div>
+          <span class="right"></span>
+        </div>
+        <div class="welfare-detail">
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail"></div>
+              </div>
+              <div class="text">丰厚薪资</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">弹性工时</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">1:1导师制</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">持续培训</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">带薪年假</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">年度体检</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">落户指标</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">住房补贴</div>
+            </div>
+          </div>
+          <div class="block">
+            <div>
+              <div class="img">
+                <div class="img-detail">
+                </div>
+              </div>
+              <div class="text">免费餐食</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="culture">
+      <div class="culture-content">
+        <div class="culture-title">
+          <span class="left"></span>
+          <div>公司文化</div>
+          <span class="right"></span>
+        </div>
+        <div>
+          <div class="culture-img culture-one-img">
+            <div class="skew-elm2">
+              <div class="con">
+              </div>
+            </div>
+          </div>
+          <div class="culture-text culture-one-text">
+            <div class="skew-elm2">
+            </div>
+            <div class="all">
+              <div class="title">创业精神</div>
+              <div class="img"></div>
+              <div class="text">生命不息奋斗不止</div>
+              <div class="text">一往如前的坚持</div>
+              <div class="text">从技术迭代中不断发掘无限可能</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="culture-img culture-two-img">
+            <div class="skew-elm2">
+              <div class="con"></div>
+            </div>
+          </div>
+          <div class="culture-text culture-two-text">
+            <div class="skew-elm2">
+            </div>
+            <div class="all">
+              <div class="title">追求极致</div>
+              <div class="img"></div>
+              <div class="text">想象一件事可能达到的最完美状态</div>
+              <div class="text">结果，不向平庸妥协，不设满足的阈值</div>
+              <div class="text">在追求科学与技术的路上，不断征服</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="culture-img culture-three-img">
+            <div class="skew-elm2">
+              <div class="con"></div>
+            </div>
+          </div>
+          <div class="culture-text culture-three-text">
+            <div class="skew-elm2">
+            </div>
+            <div class="all">
+              <div class="title">灵活敏锐</div>
+              <div class="img"></div>
+              <div class="text">面对挑战，以变应万变，积极思</div>
+              <div class="text">考，结果导向不断质疑是否有更优</div>
+              <div class="text">化的方式实现，寻求突破从0到1，</div>
+              <div class="text">从1到100，非我莫属</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="culture-img culture-four-img">
+            <div class="skew-elm2">
+              <div class="con"></div>
+            </div>
+          </div>
+          <div class="culture-text culture-four-text">
+            <div class="skew-elm2">
+            </div>
+            <div class="all">
+              <div class="title">尊重个性</div>
+              <div class="img"></div>
+              <div class="text">与年轻和优秀为伍，与乐观和真诚同行</div>
+              <div class="text">轻松活泼自由的氛围中</div>
+              <div class="text">让实力和结果代言自己</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="culture-mo">
+      <div class="culture-title-mo">
+        <span class="left"></span>
+        <div>公司文化</div>
+        <span class="right"></span>
+      </div>
+      <div class="culture-img-mo culture-one-img-mo"></div>
+      <div class="culture-text-mo culture-one-text-mo">
+        <div>
+          <div class="title">创业精神</div>
+          <div class="img"></div>
+          <div class="text">生命不息奋斗不止</div>
+          <div class="text">一往如前的坚持</div>
+          <div class="text">从技术迭代中不断发掘无限可能！</div>
+        </div>
+
+      </div>
+      <div class="culture-img-mo culture-two-img-mo"></div>
+      <div class="culture-text-mo culture-two-text-mo">
+        <div>
+          <div class="title">追求极致</div>
+          <div class="img"></div>
+          <div class="text">想象一件事可能达到的最完美状态结果，不向</div>
+          <div class="text">平庸妥协，不设满足的阈值</div>
+          <div class="text">在追求科学与技术的路上，不断征服！</div>
+        </div>
+
+      </div>
+      <div class="culture-img-mo culture-three-img-mo"></div>
+      <div class="culture-text-mo culture-three-text-mo">
+        <div>
+          <div class="title">灵活敏锐</div>
+          <div class="img"></div>
+          <div class="text">面对挑战，以变应万变，积极思考，结果导向</div>
+          <div class="text">不断质疑是否有更优化的方式实现，寻求突破</div>
+          <div class="text">从0到1，从1到100，非我莫属！</div>
+        </div>
+
+      </div>
+      <div class="culture-img-mo culture-four-img-mo"></div>
+      <div class="culture-text-mo culture-four-text-mo">
+        <div>
+          <div class="title">尊重个性</div>
+          <div class="img"></div>
+          <div class="text">与年轻和优秀为伍，与乐观和真诚同行</div>
+          <div class="text">轻松活泼自由的氛围中，</div>
+          <div class="text">让实力和结果代言自己。</div>
+        </div>
+
+      </div>
+    </div>
+    <div class="footer">
+      <div class="footer-container">
+        <div>
+          <div class="footer-icon home_href pointer">
+          </div>
+          <div class="footer-link">
+            <div>
+              <p class="about_href pointer">公司简介</p>
+              <p class="about_href pointer">投资策略</p>
+            </div>
+            <div>
+              <p class="gllue_href pointer">最新职位</p>
+              <p class="foundation_href pointer">社会责任</p>
+            </div>
+            <div>
+              <p class="competition_href pointer">量化竞赛</p>
+              <p class="news_href pointer">九坤资讯</p>
+            </div>
+            <div>
+              <p class="investor_relation_href pointer">投资者关系</p>
+              <p class="contaction_href pointer">联系方式</p>
+            </div>
+          </div>
+          <div class="footer-link-mo">
+            <div>
+              <p class="about_href pointer">公司简介</p>
+              <p class="about_href pointer">投资策略</p>
+              <p class="news_href pointer">九坤资讯</p>
+            </div>
+            <div>
+              <p class="gllue_href pointer">最新职位</p>
+              <p class="foundation_href pointer">社会责任</p>
+              <p class="contaction_href pointer">联系方式</p>
+            </div>
+            <div>
+              <p class="competition_href pointer">量化竞赛</p>
+              <p class="investor_relation_href pointer">投资者关系</p>
+            </div>
+          </div>
+          <div class="code-re">
+            <div class="icon"></div>
+            <div class="text">九坤投资</div>
+          </div>
+          <div class="code-es">
+            <div class="icon"></div>
+            <div class="text">九坤招聘</div>
+          </div>
+          <div class="code-gy">
+            <div class="icon"></div>
+            <div class="text">九坤公益</div>
+          </div>
+          <div class="code-copyright">
+            Copyright © 2015 九坤投资 (北京) 有限公司版权所有 <span class="icp_href pointer">京ICP 备案 15026595号</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script type="text/javascript" src="/static/website/template/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/website/template/js/popper.min.js"></script>
+<script type="text/javascript" src="/static/website/template/js/swipeslider.js"></script>
+<script type="text/javascript" src="/static/website/template/js/main.js"></script>
+<script type="text/javascript" src="/static/website/template/js/career.js"></script>
+<script type="text/javascript">
+  let qualified = getCookie('qualified');
+  if (!getCookie('qualified')) {
+    $('#exampleModalCenter').modal('show');
+  } else {
+    $('body').css('position', 'relative')
+    skrollr.init({
+      forceHeight: false,
+      easing: {
+        vibrate: function (p) {
+          return Math.sin(p * 10 * Math.PI);
+        }
+      }
+    });
+    $('.skrollr-mobile #skrollr-body').css('position', 'fixed');
+    $('.skrollr-desktop #skrollr-body').css('position', 'relative');
+  }
+  $('.modal-first-bottom-giveup').click(function () {
+    window.location.reload();
+  })
+  $('.modal-first-bottom-accept').click(function () {
+    $('#exampleModalCenter').modal('hide');
+    setCookie('qualified', true, 60 * 70 * 1)
+    $('body').css('position', 'relative')
+    skrollr.init({
+      forceHeight: false,
+      easing: {
+        vibrate: function (p) {
+          return Math.sin(p * 10 * Math.PI);
+        }
+      }
+    });
+    $('.skrollr-mobile #skrollr-body').css('position', 'fixed');
+    $('.skrollr-desktop #skrollr-body').css('position', 'relative');
+    video.play();
+  });
+
+  let loginCookies = getCookie('login');
+  if (loginCookies) {
+    document.getElementsByClassName('header-nav')[0].classList.add('hide');
+    document.getElementsByClassName('header-nav')[1].classList.remove('hide');
+    let investorList = getCookie('investorList');
+    let username = getCookie('username');
+    let InvestorName = getCookie('InvestorName');
+    let _username = investorList && investorList.split(',').length > 1 ? username : InvestorName && InvestorName != 'undefined' ? InvestorName : username
+    $('.login_name_text').html(_username);
+  } else {
+    document.getElementsByClassName('header-nav')[0].classList.remove('hide');
+    document.getElementsByClassName('header-nav')[1].classList.add('hide');
+  }
+
+  (function (doc, win) {
+    var docEl = doc.documentElement,
+      resizeEvt =
+        "orientationchange" in window ? "orientationchange" : "resize",
+      recalc = function () {
+        var clientWidth = docEl.clientWidth;
+        if (!clientWidth) {
+          return
+        };
+        if (clientWidth >= 1280) {
+          var video = document.getElementById('video') //staticPathPrefix
+          $('#video').html('<source id="source" src="' + staticPathPrefix + '/static/website/template/video/careers.mp4" type="video/mp4" />')
+          //if(staticPathPrefix){
+          ///}else{
+          /// $('#video').html('<source id="source" src="/static/website/template/video/careers.mp4" type="video/mp4" />')
+          // }
+          video.addEventListener('canplay', function (e) {
+            if (!getCookie('qualified')) {
+              setTimeout(function () {
+                video.pause()
+              }, 200)
+            } else {
+              video.play()
+            }
+          })
+          video.addEventListener('play', function (e) {
+            $('.top-content .video-loading').css('display', 'none')
+          })
+        } else {
+        }
+      };
+    if (!doc.addEventListener) return;
+    win.addEventListener(resizeEvt, recalc, false);
+    doc.addEventListener("DOMContentLoaded", recalc, false);
+    recalc();
+  })(document, window);
+
+  $(window).load(function () {
+    $('#customizability').swipeslider({
+      autoPlay: false,
+      prevNextButtons: false,
+    });
+    $('#recruitment').swipeslider({
+      autoPlay: false,
+      prevNextButtons: false,
+    });
+
+    $('.home_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/home'
+    }))
+     $('.en_href').click((function (e) {
+            setCookie('sureTime', '', 60 * 70 * 1)
+            location.href = staticPathPrefix + '/website/en'
+        }))
+        $('.ai_href').click((function (e) {
+            setCookie('sureTime', '', 60 * 70 * 1)
+            location.href = staticPathPrefix + '/website/ai'
+        }))
+    $('.login_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      if (getCookie('qualified')) {
+        location.href = staticPathPrefix + '/website'
+      } else {
+        window.location.reload();
+      }
+    }))
+    $('.about_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/about'
+    }))
+    $('.contaction_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/contaction'
+    }))
+    $('.investor_relation_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/investorRelation'
+    }))
+    $('.career_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/career'
+    }))
+    $('.competition_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/competition'
+    }))
+    $('.foundation_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/foundation'
+    }))
+    $('.news_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      location.href = staticPathPrefix + '/website/news'
+    }))
+    $('.person_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      if (getCookie('qualified')) {
+        window.location.href = staticPathPrefix + '/website';
+      } else {
+        window.location.reload();
+      }
+    }))
+    $('.passwd_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      if (getCookie('qualified')) {
+        window.location.href = staticPathPrefix + '/website/personalcenter/basicinformation';
+      } else {
+        window.location.reload();
+      }
+    }))
+    $('.exit_href').click((function (e) {
+      setCookie('sureTime', '', 60 * 70 * 1)
+      ajax({
+        type: "post",
+        url: staticPathPrefix + "/auth/logout",
+        data: { username: getCookie('sid') },
+        success: function (res) {
+          setCookie('sid', '', -1);
+          setCookie('login', '', -1);
+          setCookie('token', '', -1);
+          setCookie('user', '', -1);
+          setCookie('username', '', -1);
+          setCookie('type', '', -1);
+          setCookie('investorids', '', -1);
+          setCookie('investorList', '', -1);
+          setCookie('InvestorName', '', -1);
+          setCookie('RiskTol', '', -1);
+          setCookie('IsProfessional', '', -1);
+          setCookie('RiskGrade', '', -1);
+          setCookie('investorTotalAsset', '', -1);
+          setCookie('InvestorType', '', -1);
+          setCookie('qualified', '', -1);
+          setCookie('nigol', '', -1);
+          window.location.reload();
+        },
+        error: function (xhr) {
+          window.location.reload();
+        }
+      })
+    }))
+    $('.social_career_href').click((function (e) {
+      window.open('https://app.mokahr.com/apply/ubiquantrecruit/37030');
+    }))
+    $('.school_career_href').click((function (e) {
+      window.open('https://app.mokahr.com/campus_apply/ubiquantrecruit/37031');
+    }))
+    $('.icp_href').click((function (e) {
+      window.open('https://beian.miit.gov.cn');
+    }))
+    $('.gllue_href').click((function (e) {
+      window.open('https://app.mokahr.com/apply/ubiquantrecruit/37030');
+    }))
+  });
+</script><div class="modal-backdrop fade show"></div>
+
+</body></html>

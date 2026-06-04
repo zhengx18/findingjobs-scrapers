@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-04T09:14:27.107035+00:00",
+  "target": {
+    "slug": "baichuan",
+    "company": "Baichuan",
+    "url": "https://www.baichuan-ai.com/careers",
+    "interact": null,
+    "extract": null,
+    "wait_selector": null,
+    "wait_timeout_ms": 15000,
+    "tags": [
+      "llm",
+      "china",
+      "tier1"
+    ],
+    "market": "cn",
+    "pool": "watch"
+  },
+  "jobs": []
+}
