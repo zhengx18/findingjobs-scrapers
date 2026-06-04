@@ -1,0 +1,40 @@
+# RSS / Atom feeds fetched by rss.py.
+# Each feed becomes one JSON file in data/rss/{slug}.json.
+# items get joined into data/all_rss_jobs.json which findingJobs consumes
+# via the github_relay connector.
+
+feeds:
+  - slug: hn-jobs
+    name: HN Jobs (YC companies hiring)
+    url: https://hnrss.org/jobs
+    market: global
+    pool: watch
+    tags: [aggregator, hn, yc, llm]
+
+  - slug: v2ex-jobs
+    name: V2EX 招聘节点
+    url: https://www.v2ex.com/feed/tab/jobs.xml
+    market: cn
+    pool: watch
+    tags: [aggregator, v2ex, cn]
+    # Only keep items whose title/desc match any of these keywords
+    include_keywords: [大模型, llm, 算法, agent, post-training, 后训练, sft, rlhf, vlm, mllm, machine learning, ml]
+
+  # ─── add more feeds below ────────────────────────────────────────
+  # WeChat 公众号 via RSSHub (公网实例): need 公众号 ipdomain id
+  # Example (replace with real ids):
+  #   - slug: wx-mle-job
+  #     name: 公众号「MLE求职宝典」
+  #     url: https://rsshub.app/wechat/ipdomain/REPLACE_ME
+  #     market: cn
+  #     pool: watch
+  #     tags: [wechat, hiring]
+  #     include_keywords: [招聘, 内推, hiring]
+  #
+  # 即刻话题：找工作/算法岗内推
+  #   - slug: jike-jobs
+  #     url: https://rsshub.app/jike/topic/REPLACE_ME
+  #
+  # 豆瓣小组：北京找工作 等
+  #   - slug: douban-bj-jobs
+  #     url: https://rsshub.app/douban/group/REPLACE_ME
