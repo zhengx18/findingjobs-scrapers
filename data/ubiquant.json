@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-04T09:14:27.107035+00:00",
+  "generated_at": "2026-06-04T09:19:15.459292+00:00",
   "target": {
     "slug": "ubiquant",
     "company": "Ubiquant",
     "url": "https://www.ubiquant.com/website/career",
     "interact": null,
     "extract": null,
-    "wait_selector": null,
     "wait_timeout_ms": 15000,
     "tags": [
       "quant",
@@ -15,38 +14,5 @@
     "market": "cn",
     "pool": "watch"
   },
-  "jobs": [
-    {
-      "company": "Ubiquant",
-      "title": "社会招聘",
-      "url": "https://www.ubiquant.com/website/career",
-      "location": "",
-      "description": "社会招聘",
-      "source": "gh-relay/ubiquant",
-      "tags": [
-        "github-relay",
-        "ubiquant",
-        "quant",
-        "china"
-      ],
-      "market": "cn",
-      "pool": "watch"
-    },
-    {
-      "company": "Ubiquant",
-      "title": "校园招聘",
-      "url": "https://www.ubiquant.com/website/career",
-      "location": "",
-      "description": "校园招聘",
-      "source": "gh-relay/ubiquant",
-      "tags": [
-        "github-relay",
-        "ubiquant",
-        "quant",
-        "china"
-      ],
-      "market": "cn",
-      "pool": "watch"
-    }
-  ]
+  "jobs": []
 }

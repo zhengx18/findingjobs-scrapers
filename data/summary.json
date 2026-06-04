@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-06-04T09:14:27.107035+00:00",
+  "generated_at": "2026-06-04T09:19:15.459292+00:00",
   "targets": {
-    "baichuan": {
-      "company": "Baichuan",
-      "url": "https://www.baichuan-ai.com/careers",
-      "html_bytes": 73831,
-      "text_bytes": 2914,
-      "jobs": 0
-    },
     "ubiquant": {
       "company": "Ubiquant",
       "url": "https://www.ubiquant.com/website/career",
-      "html_bytes": 42971,
+      "html_bytes": 42967,
       "text_bytes": 1364,
-      "jobs": 2
-    },
-    "webank": {
-      "company": "WeBank",
-      "url": "https://www.webank.com/careers/",
-      "html_bytes": 53688,
-      "text_bytes": 450,
-      "jobs": 0
-    },
-    "aixcoder": {
-      "company": "aiXcoder",
-      "url": "https://www.aixcoder.com/",
-      "html_bytes": 504485,
-      "text_bytes": 1295,
       "jobs": 0
     },
     "lagou-llm-bj": {
       "company": "Lagou-search",
-      "url": "https://www.lagou.com/jobs/list_%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95?city=%E5%8C%97%E4%BA%AC&first=true&px=new",
+      "url": "https://www.lagou.com/wn/jobs?kd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95&city=%E5%8C%97%E4%BA%AC",
       "html_bytes": 59329,
       "text_bytes": 117,
       "jobs": 0
     },
     "lagou-agent-bj": {
       "company": "Lagou-search",
-      "url": "https://www.lagou.com/jobs/list_AI%20Agent?city=%E5%8C%97%E4%BA%AC&first=true&px=new",
+      "url": "https://www.lagou.com/wn/jobs?kd=AI%20Agent&city=%E5%8C%97%E4%BA%AC",
+      "html_bytes": 59329,
+      "text_bytes": 117,
+      "jobs": 0
+    },
+    "lagou-post-train-bj": {
+      "company": "Lagou-search",
+      "url": "https://www.lagou.com/wn/jobs?kd=%E5%90%8E%E8%AE%AD%E7%BB%83%20LLM&city=%E5%8C%97%E4%BA%AC",
+      "html_bytes": 59329,
+      "text_bytes": 117,
+      "jobs": 0
+    },
+    "lagou-llm-sh": {
+      "company": "Lagou-search",
+      "url": "https://www.lagou.com/wn/jobs?kd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95&city=%E4%B8%8A%E6%B5%B7",
+      "html_bytes": 59329,
+      "text_bytes": 117,
+      "jobs": 0
+    },
+    "lagou-llm-hz": {
+      "company": "Lagou-search",
+      "url": "https://www.lagou.com/wn/jobs?kd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95&city=%E6%9D%AD%E5%B7%9E",
       "html_bytes": 59329,
       "text_bytes": 117,
       "jobs": 0

@@ -1,16 +1,16 @@
 {
   "generated_at": "2026-06-04T09:19:15.459292+00:00",
   "target": {
-    "slug": "lagou-llm-bj",
+    "slug": "lagou-post-train-bj",
     "company": "Lagou-search",
-    "url": "https://www.lagou.com/wn/jobs?kd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95&city=%E5%8C%97%E4%BA%AC",
+    "url": "https://www.lagou.com/wn/jobs?kd=%E5%90%8E%E8%AE%AD%E7%BB%83%20LLM&city=%E5%8C%97%E4%BA%AC",
     "interact": null,
     "extract": null,
     "wait_timeout_ms": 15000,
     "tags": [
       "aggregator",
       "lagou",
-      "llm"
+      "post-training"
     ],
     "market": "cn",
     "pool": "watch"
