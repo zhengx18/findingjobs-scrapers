@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:26:11.139167+00:00",
+  "generated_at": "2026-06-05T05:58:21.589352+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect\">https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48401433\">https://news.ycombinator.com/item?id=48401433</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 04 Jun 2026 17:00:37 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus\">https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48397435\">https://news.ycombinator.com/item?id=48397435</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 04 Jun 2026 12:00:29 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sat, 16 May 2026 12:01:06 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://hightouch.com/careers\">https://hightouch.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48151034\">https://news.ycombinator.com/item?id=48151034</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 15 May 2026 17:01:15 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "url": "https://signoz.io/careers",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://signoz.io/careers\">https://signoz.io/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48147533\">https://news.ycombinator.com/item?id=48147533</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 15 May 2026 12:00:31 +0000"
     }
   ],
   "total_entries": 20
