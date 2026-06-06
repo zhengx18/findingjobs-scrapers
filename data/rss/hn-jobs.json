@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T05:58:21.589352+00:00",
+  "generated_at": "2026-06-06T05:30:11.881159+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "url": "https://nango.dev/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48411227\">https://news.ycombinator.com/item?id=48411227</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 05 Jun 2026 12:00:18 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 21 May 2026 08:01:53 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community\">https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159405\">https://news.ycombinator.com/item?id=48159405</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 16 May 2026 12:01:06 +0000"
     }
   ],
   "total_entries": 20
