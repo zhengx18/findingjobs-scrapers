@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-06-07T06:02:04.588888+00:00",
+  "generated_at": "2026-06-08T06:18:20.716608+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436669\">https://news.ycombinator.com/item?id=48436669</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 07 Jun 2026 17:01:17 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "url": "https://9mothers.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433987\">https://news.ycombinator.com/item?id=48433987</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 07 Jun 2026 12:00:40 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -362,49 +402,47 @@
       "published": "Fri, 22 May 2026 12:01:07 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-      "url": "https://news.ycombinator.com/item?id=48225852",
+      "company": "V2EX 招聘节点",
+      "title": "盛大集团面经（专升本毕业 9 个月,99%代码靠 AI 写）",
+      "url": "https://www.v2ex.com/t/1218676#reply21",
       "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225852\">https://news.ycombinator.com/item?id=48225852</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>记录一下，盛大旗下一个做 deep research 的子公司，agent / 全栈方向，三轮面下来的过程。</p>\n<p>先交代下背景。我今年应届，毕业五个月。读书的时候有三段实习：智慧芽（苏州做专利数据库那家，在算法组做 AI 对话、PDF 问答，也写过前端中台）、西湖大学（做 AI 应用，多模型组织起来生成论文综述那种）、商汤（给内部算法团队做大模型测试平台，多模态问答的量化评测）。毕业后没去大厂，进了一家小公司，前端身份入职，但基本啥都干了——写过一两个月前端，做过销售（自己主动跟老板说要去合肥、江苏见客户、进工厂理解需求），还干过技术支持、后端、算法，C# 写过 VS 的代码插件，Rust 写过企业连接器，Python 也搞过。对自己的要求就是不设边界。</p>\n<p>代码 90% 以上是 AI 写的，平时会把工作和自己感兴趣的东西沉淀成开源项目和博客。GitHub 在这： <a href=\"https://github.com/tt-a1i\" rel=\"nofollow\">https://github.com/tt-a1i</a> ，掘金在这： <a href=\"https://juejin.cn/user/2175258804632332\" rel=\"nofollow\">https://juejin.cn/user/2175258804632332</a> 。开源基本都是 AI coding agent 这个方向的，archify 、hive 、MiroFish 本地版那些（ MiroFish 本地版就是这次二面、三面的任务，我后面会讲）。</p>\n<p>本来是冲着 AI 用得溜去面的，结果一面差点把我自信心干没了。发出来给同样靠 AI 、做全栈或者 agent 方向的兄弟当个镜子。三轮下来我最大的感受是：AI 用得再溜没用，凡是 AI 写的、或者沿用别人的，面试官一句「为什么」就能把你问到说不出话。</p>\n<hr />\n<h2>一面：自信进去，被基础题打回原形</h2>\n<p>岗位本来投的 React Native ，面试官看了简历直接改全栈面。40 分钟没考算法没问八股，全程顺着我简历往死里追问，最后还来了道纯手写题。后来我才反应过来，他全程就想确认一件事：这些东西到底是我懂，还是 AI 懂。</p>\n<p>第一个翻车的是技术选型。他问我后端写 C# 又写 Rust ，自己开公司选哪个，我张口就「选 Rust 」，类型安全内存安全对 AI 友好（能编译过线上基本不报语法错误）……讲得挺顺。然后他来了句：</p>\n<blockquote>\n<p>你有没有发现，我问这个问题的时候根本没问你要做什么业务，你就直接给我 Rust 这个答案？</p>\n</blockquote>\n<p>当场被点醒，选型脱离业务场景纯属耍流氓。后面还补刀「你想过自己开公司 Rust 不好招人吗」，我只能认怂。</p>\n<p>然后是 gRPC ，连环追问，我全军覆没：</p>\n<ul>\n<li>gRPC 和 HTTP 区别？——基于 HTTP/2 ，效率高，多用于微服务。</li>\n<li>为什么效率高？——「之前看过……记不清了」</li>\n<li>JSON 不行吗？——「 JSON 应该可以，但我没想过为什么用 proto 」</li>\n<li>为什么选 gRPC ？——「沿用后端同事的，我接到任务第二天就开始写了，主要靠 AI 」</li>\n</ul>\n<p>最后这句基本是自爆。一个「为什么高」答不上，一个「为什么选」说不清，直接把底裤问没了。<",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Thu, 21 May 2026 17:00:52 +0000"
+      "published": "2026-06-08T02:29:47Z"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Cekura (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "company": "V2EX 招聘节点",
+      "title": "有没有青岛的朋友聊聊近期的互联网招聘情况",
+      "url": "https://www.v2ex.com/t/1218634#reply2",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221230\">https://news.ycombinator.com/item?id=48221230</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>最近想了解一下青岛的互联网招聘情况，有没有朋友最近面试过来聊聊啊，其他城市的可以来聊聊。</p>\n<p>产品经理\n前端开发\n后端开发\n还有最近很火的 AI Agent 开发怎么样</p>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Thu, 21 May 2026 12:00:20 +0000"
+      "published": "2026-06-08T00:59:52Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "闲暇时刻，要学会避免内耗",
-      "url": "https://www.v2ex.com/t/1218517#reply4",
+      "url": "https://www.v2ex.com/t/1218517#reply6",
       "location": "",
       "description": "一点感悟和大家分享下！（文字纯手敲）<br /><br />各位做技术的，可能在周末或者闲暇的时候想做点事情，比如开发一个自己的项目或者想办法创收。但是可能在这个过程中，打开了无数的浏览器的 tab ，看了又看，文章刷了又刷，github 的项目也看了无数个。项目已经搭建起来了，可能感觉没什么用，就没有继续做了，这个循环一直持续，可能一下午冒出多个想法全部都放弃，其实在这个过程中注意力和脑力就这样被消耗了，长期是非常消磨人的精神的。<br /><br />关于这个，我的感受和建议是如果你没有计划好要做什么事情，就关掉电脑陪陪家人，出门走走，比坐在电脑前面自我消耗更好！ 如果你计划好了你准备做什么，那么才坐在电脑前面执行你的计划，开发你的项目，或者学习。<br /><br />比如你周六下午有时间，比如你可以执行类似下面的计划：<br /><br />去分析一下目前某个产品的应用场景<br />去做竞品的分析<br />学习某一个英文的语法点<br />看 1 小时书<br />开发 2 小时的自己的产品的某个 feature<br />梳理产品未来的 roadmap<br />你有计划，比你盲目的消耗更好，否则比上班还累！ 另外利用的 agent 不要超过 3 个，多了上下文切换也是非常耗费脑力的<br /><br />如果你保持这个习惯，会对你终生有益！",
       "source": "gh-relay/v2ex-jobs",
@@ -422,8 +460,27 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "五年后的程序员会是什么样子呢？",
+      "url": "https://www.v2ex.com/t/1217897#reply91",
+      "location": "",
+      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-04T06:57:37Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[30-70 万·上海徐汇] AI 全栈/后端大牛招募，年轻团队等你加入！",
-      "url": "https://www.v2ex.com/t/1218482#reply6",
+      "url": "https://www.v2ex.com/t/1218482#reply10",
       "location": "上海",
       "description": "地点：上海徐汇区<br />薪资：30-70 万/年（面议）<br />学历：本科及以上。<br />经验：2-5 年开发经验，至少 1 年以上 AI 应用或 Agent 开发实战经验。<br />技术：精通全栈/后端开发，并能深度融合 AI 应用。<br />年龄：30 岁以下（团队氛围年轻，特别优秀者可适度放宽）。<br /><br />投递邮箱： lily.chen@purogent.com",
       "source": "gh-relay/v2ex-jobs",
@@ -442,7 +499,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "纯吐槽公司技术团队现状",
-      "url": "https://www.v2ex.com/t/1218058#reply202",
+      "url": "https://www.v2ex.com/t/1218058#reply207",
       "location": "",
       "description": "个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.<br />  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.<br />  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中那么复杂, 我个人以前主 python, 自己今年也做了几个私人项目, 包括 go, javascript, 结合 ai 基本上能做到无缝切换.<br />  然而后端同事却觉得, php 有其优点并建议先保留, 后续合适的时候再进行切换.上周六看到一篇新闻, 胡彦斌自己使用 ai 开发了一个 app 并上架, 时间一个月.个人觉得, 连一个歌手都能做个 app 并且上架, 而他们还在纠结换不换, 我是不明白考虑的点.<br />  后端 curd 写接口, 160+个接口, 后端 4 个人,一个月还没完成.然后项目中需要 ai 的地方,全部找我. 问题来了, 一个功能, 从数据上到 ai 调用到写入结果, 都让我负责.实际上整个流程,就是一条 prompt+请求 gemini/gpt+写入数据. 这种问题出现了起码 10 次, 我也将请求 gemini/gpt 的 demo 丢群里, 结果还是来找我.我觉得这是不是有点搞笑了, 整个项目评估有 50%都要调用 ai, 那我干脆我把项目干了? 现在的氛围就是, ai 的都甩给我, 感觉就是我调一个接口比他们都好.<br />  原本领导让一个后端同事跟我学习做 agent, 我原本新项目中的 ai 模块想丢给他做, 起码是现学现做, 结果两个星期后领导看到进度太差, 让我接手.结果那 sb 走过来跟我说:\"xxx, 不是我甩锅, 是领导不信任我\", 我心里真是千万个 xxx, 我真想说, 你特么的能好好干,领导还不信任你?",
       "source": "gh-relay/v2ex-jobs",
@@ -460,27 +517,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "五年后的程序员会是什么样子呢？",
-      "url": "https://www.v2ex.com/t/1217897#reply88",
-      "location": "",
-      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T06:57:37Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "写了一个小 skill，献给正在准备面试的朋友，祝成功",
-      "url": "https://www.v2ex.com/t/1218325#reply2",
+      "url": "https://www.v2ex.com/t/1218325#reply3",
       "location": "",
       "description": "<p>最近失业了，到处找面试机会，也一边为即将到来的面试做准备。准备面试时苦于需要不停地手动请教 AI ，于是我写了一个 skill：</p>\n<pre><code>input: CV （简历）+ JD （目标职位描述），可以指定输出语言（中文/英文）\n\noutput: 一套有良好组织的题库（ html ），点击 question 可以复制一段组织好的 prompt ，输入任一个 AI 工具（比如 claude code ）即可得到详解，并预判面试官的追问\n</code></pre>\n<p>分享给也在准备面试的朋友，欢迎提改进意见或者 h 直接贡献 PR 使它变得更好用，能够真正帮助到大家准备好面试，祝成功</p>\n<p><a href=\"https://github.com/pplam/prepme\" rel=\"nofollow\">https://github.com/pplam/prepme</a></p>",
       "source": "gh-relay/v2ex-jobs",
@@ -495,6 +533,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-05T16:10:07Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "岗位方向求助：选数据库还是云原生",
+      "url": "https://www.v2ex.com/t/1218134#reply15",
+      "location": "",
+      "description": "某互联网厂商，hr 给了我两个方向选择：<br /><br />分布式数据库研发工程师/专家｜存储&amp;数据方向<br />负责图数据库、表格数据库、强一致 KV 等分布式数据库产品研发，支撑大规模核心业务场景；参与系统能力建设与架构演进，提升产品的高可用、高可靠和性价比。要求具备 C/C++/Java/Go 至少一种语言开发经验，熟悉算法、数据结构、操作系统，有分布式存储或分布式数据库研发经验，熟悉 HBase 、Cassandra 、TiDB 、Nebula 、OceanBase 等系统优先。<br /><br />云原生高级开发工程师/专家｜容器编排与统一调度方向<br />负责容器应用编排与调度平台的架构设计和核心开发，包括工作负载管理、资源调度、弹性伸缩、GPU 调度、任务调度、混部调度等能力建设；优化 Kubernetes 调度机制，提升大规模集群资源利用率和稳定性。要求熟悉 Kubernetes 核心组件和 Scheduler ，精通 Go 或 C++，了解 Docker 、containerd 、Linux 、cgroups 、网络虚拟化，有 Koordinator 、Volcano 、OpenKruise 或自定义调度器经验优先。<br /><br />楼主有数据库背景，用过 k8s/docker 这种(没有相关背景和项目)。<br /><br />目前刚工作两年，选哪个方向好点啊。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-05T03:24:37Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -514,25 +571,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-05T04:45:24Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "岗位方向求助：选数据库还是云原生",
-      "url": "https://www.v2ex.com/t/1218134#reply14",
-      "location": "",
-      "description": "某互联网厂商，hr 给了我两个方向选择：<br /><br />分布式数据库研发工程师/专家｜存储&amp;数据方向<br />负责图数据库、表格数据库、强一致 KV 等分布式数据库产品研发，支撑大规模核心业务场景；参与系统能力建设与架构演进，提升产品的高可用、高可靠和性价比。要求具备 C/C++/Java/Go 至少一种语言开发经验，熟悉算法、数据结构、操作系统，有分布式存储或分布式数据库研发经验，熟悉 HBase 、Cassandra 、TiDB 、Nebula 、OceanBase 等系统优先。<br /><br />云原生高级开发工程师/专家｜容器编排与统一调度方向<br />负责容器应用编排与调度平台的架构设计和核心开发，包括工作负载管理、资源调度、弹性伸缩、GPU 调度、任务调度、混部调度等能力建设；优化 Kubernetes 调度机制，提升大规模集群资源利用率和稳定性。要求熟悉 Kubernetes 核心组件和 Scheduler ，精通 Go 或 C++，了解 Docker 、containerd 、Linux 、cgroups 、网络虚拟化，有 Koordinator 、Volcano 、OpenKruise 或自定义调度器经验优先。<br /><br />楼主有数据库背景，用过 k8s/docker 这种(没有相关背景和项目)。<br /><br />目前刚工作两年，选哪个方向好点啊。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T03:24:37Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -571,82 +609,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-05T03:55:38Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[急招][20-40K 14 薪 地点上海] 高级 AI 应用架构师（Agent 方向）",
-      "url": "https://www.v2ex.com/t/1217892#reply1",
-      "location": "上海",
-      "description": "<h2>公司信息</h2>\n<ul>\n<li>公司名称：塔斯汀</li>\n<li>工作地点：上海</li>\n<li>办公模式：现场办公（暂不支持远程）</li>\n</ul>\n<hr />\n<h2>职位介绍</h2>\n<p>我们正在建设企业级 AI Agent 平台，致力于打造下一代 AI 原生生产力工具，推动 AI 能力在真实业务场景中的规模化落地。</p>\n<p>如果你对 AI Agent 、Multi-Agent 、LangGraph 、MCP 、Workflow 编排、Agent 平台建设等方向充满热情，并希望参与前沿 AI 产品从 0 到 1 的建设，欢迎加入我们。</p>\n<hr />\n<h2>岗位职责</h2>\n<ul>\n<li>深度参与 AI Agent 产品体系建设，负责企业级智能效率工具的设计、研发与落地；</li>\n<li>主导 Context Engineering （上下文工程）与 Multi-Agent 架构设计，构建 Agent Skill 生态、Tool Calling 体系及 Workflow 编排平台，持续拓展 Agent 能力边界；</li>\n<li>负责 AI Agent 系统架构设计与核心模块开发，包括 Prompt Pipeline 、Memory System 、Planning System 、Tool System 等关键能力建设；</li>\n<li>构建高可用、高性能 AI Agent 服务体系，解决复杂业务场景下的高并发、低延迟及稳定性问题；</li>\n<li>深入探索 Agent 应用创新场景，设计面向不同角色与业务场景的智能工作流，实现 AI 能力规模化落地；</li>\n<li>\n持续跟踪并落地前沿 AI Agent 技术，包括但不限于：<ul>\n<li>Multi-Agent 协作</li>\n<li>Long Context Engineering</li>\n<li>MCP （ Model Context Protocol ）</li>\n<li>Function Calling</li>\n<li>Tool Use</li>\n<li>Memory Architecture</li>\n<li>Agent Workflow</li>\n<li>AI Coding Agent</li>\n</ul>\n</li>\n<li>与产品、研发及业务团队紧密协作，推动 AI 能力快速转化为实际业务价值。</li>\n</ul>\n<hr />\n<h2>任职要求</h2>\n<h3>AI Agent 能力要求</h3>\n<ul>\n<li>拥有完整 AI Agent 或 LLM 应用开发经验，能够独立完成 Agent 系统设计与开发；</li>\n<li>\n深入理解主流 Agent 设计范式，包括但不限于：<ul>\n<li>ReAct</li>\n<li>Plan-and-Execute</li>\n<li>Reflection</li>\n<li>Tool Use</li>\n<li>Multi-Agent Collaboration</li>\n</ul>\n</li>\n<li>\n熟悉以下核心能力建设：<ul>\n<li>Prompt Engineering</li>\n<li>Context Engineering</li>\n<li>Long Context Management</li>\n<li>Memory Management</li>\n<li>Tool Calling</li>\n<li>RAG</li>\n<li>Evaluat",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T06:44:23Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[全职海外远程] AI 后端工程师（Prompt & 多模态视频方向）",
-      "url": "https://www.v2ex.com/t/1217948#reply5",
-      "location": "远程",
-      "description": "<p>AI 后端工程师（ Prompt &amp; 多模态视频方向）\n薪资：20K–25K RMB | 人数：1</p>\n<p>职位亮点：\n加入我们，你将负责将大模型能力真正落地到业务场景，尤其是 Prompt 设计 与 多模态 AI / VL 视频处理，推动 AI 在研发流程中的应用升级。</p>\n<p>岗位职责：</p>\n<p>设计与开发 AI 工作流、Agent 系统及 RAG 知识库，多步骤流程落地；\n独立完成前后端开发，并将大模型能力（ OpenAI 、Claude 、DeepSeek 、Qwen 等）应用于实际业务；\n负责 Prompt 工程设计、自动化工作流搭建及 AI 功能上线优化；\n构建 视频/多模态 AI 模块（视频理解、视频问答、图像+文本任务）；\n利用 Cursor 、Claude Code 、GitHub Copilot 等工具提升研发效率。\n任职要求：</p>\n<p>本科及以上学历，5 年以上全栈开发经验；\n精通 React / Next.js / Vue 前端 + Node.js / Python / Go / Java 后端技术栈；\n熟练使用大模型 API 集成，具备 RAG 、Agent 、Prompt Engineering 实战经验；\n有 多模态 AI / VL 模型视频处理项目经验；\n熟悉 PostgreSQL / MySQL / Redis 、Docker 、CI/CD ，具备系统设计能力。\n加分项：</p>\n<p>熟悉 LangChain 、LlamaIndex 、LangGraph 等 AI 框架；\n有向量数据库（ pgvector 、Qdrant 、Pinecone ）使用经验；\n熟悉 Ollama 、vLLM 或本地模型部署；\n具备 AI 评测体系、监控体系建设经验。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T09:25:29Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "内推，软件开发、AI 算法",
-      "url": "https://www.v2ex.com/t/1218012#reply0",
-      "location": "北京",
-      "description": "公司：电子行业，制造业，规模还比较大，一年收入百亿+，<br />薪资：我觉得还行，具体看部门岗位和职级，我是内推我真不知道具体薪资，<br />强度：双休，日常看情况加班 0~2h ，不同部门岗位不一样，<br />要求: 本科+，应届和社招都行，人务实一些，要能做事的，<br /><br /><br />南京,算法<br />C,matlab,<br />音频算法，端侧语音算法，信号处理，<br /><br /><br />东莞, 软件+算法<br />C#,java<br />会软件开发+算法<br /><br /><br />北京/上海, 算法<br />数据分析, 机器学习, cv, nlp, LLM, agent<br />能力面广一点，有工业背景最好<br /><br /><br />青岛,软件开发<br />c,c++,c#,java,python<br />要电路方面的知识<br /><br /><br />注：<br />我是内推，岗位太多，具体细节我也没办法弄得特别清楚，有兴趣的可以发简历。<br />还有一些非 IT 的岗位，供应链/生产/工艺/硬件研发/项目经理/部门负责人 之类的，有兴趣也可以联系。<br /><br /><br />为降低后期沟通成本，<br />简历请写得清晰朴素一些，<br />邮件内请写清楚现在的状态，期望 base 地，主要技能，大致期望薪资，<br />简历上有明显槽点的请附上解释说明（例如短期频繁跳槽，长期 gap ，换岗换行业），<br /><br /><br />联系方式，<br />我的 v2id at 163 邮箱<br />如果合适我会尽快回复&amp;反馈",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T14:30:31Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[上海/北京]招聘 Agent 产品经理 / Agent 开发工程师",
-      "url": "https://www.v2ex.com/t/1217896#reply2",
-      "location": "上海",
-      "description": "<h1>Agent 产品经理 / Agent 开发工程师</h1>\n<p>全职 · 北京 / 上海 </p>\n<hr />\n<h2>关于我们</h2>\n<p>我们在为大型企业搭建 Agent 生态——不是做一两个孤立的智能体，而是把一整套可治理、可复用、可持续演进的智能体能力体系，在企业内部从 0 长出来。</p>\n<p>我们聚焦企业内部最有价值的场景：</p>\n<ul>\n<li>\n<p>智能问数与数据分析</p>\n</li>\n<li>\n<p>业务指标诊断与异常归因</p>\n</li>\n<li>\n<p>智能报告生成与业务洞察</p>\n</li>\n<li>\n<p>跨系统任务自动化与业务流重构</p>\n<p>我们紧跟最前沿的 Agent 生态——Skills 、插件市场、MCP 、多智能体协作、企业级 Agent Registry——并把它们真正落到企业生产环境里。团队正在扩张，寻找 Agent 产品经理与 Agent 开发工程师各若干名。</p>\n</li>\n</ul>\n<h2>我们怎么工作</h2>\n<p>我们是一支 AI-native 团队，日常用最前沿的 AI 工具（ Claude Code 、Codex 、Cursor 等）高强度地做交付。我们的目标始终是能上线、能泛化、能被企业用户长期依赖的系统，而不是一次性的 demo 。</p>\n<p>在这里，角色的边界是流动的：产品经理会亲自下场搭原型、写 prompt 、跑评估，工程师对\"做什么、做到什么程度\"有自己的判断。我们相信，当写代码越来越便宜，**\"决定做什么\"和\"把什么定义为合格\"，才是真正稀缺的能力。**</p>\n<h2>我们在找什么样的人</h2>\n<p>Agent 生态几乎每个季度都在重塑。所以比起\"你用过哪些框架\"，我们更看重这些底层特质：</p>\n<ul>\n<li>\n<p><strong>灵活</strong>：方案跟着问题走，不绑定任何单一工具或技术栈。</p>\n</li>\n<li>\n<p><strong>泛化</strong>：能把一个场景里的经验迁移到全新场景，把一次性解法收敛成可复用的能力。</p>\n</li>\n<li>\n<p><strong>学得快</strong>：新东西出来，你能在几天内读懂、上手，并判断它值不值得用。</p>\n</li>\n<li>\n<p><strong>能自己跑通</strong>：端到端把一个想法变成能演示、能验证的东西，不依赖别人搭好脚手架。</p>\n</li>\n<li>\n<p><strong>对前沿有真热情</strong>：你本来就在追最新的技术，并乐于动手把它用起来。</p>\n<p>这是我们对所有人的共同期待。在此之上，两个角色各有侧重。</p>\n</li>\n</ul>\n<h2>Agent 产品经理</h2>\n<p>你回答的核心问题是：该为企业造哪些 Agent 能力，以及做到什么程度才算好。</p>\n<p><strong>你将负责</strong></p>\n<ul>\n<li>\n<p>把模糊的业务诉求，收敛成精确的用户分群、确切的问题和具体的使用场景，让团队能立刻开干</p>\n</li>\n<li>\n<p>端到端拥有一个场景：从消化用户反馈，到定义场景与口径，再到原型、验收标准、上线与复盘</p>\n</li>\n<li>\n<p>判断每一个能力的最佳形态——做成 Skill 、打包成插件、还是接入 MCP——以及它在企业内如何被发现、审批与治理</p>\n</li>\n<li>\n<p>设计对话流、意图理解、输出契约等产品级规则</p>\n</li",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T06:53:53Z"
     }
   ]
 }

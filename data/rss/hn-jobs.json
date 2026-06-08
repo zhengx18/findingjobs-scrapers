@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T06:02:04.588888+00:00",
+  "generated_at": "2026-06-08T06:18:20.716608+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436669\">https://news.ycombinator.com/item?id=48436669</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 07 Jun 2026 17:01:17 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "url": "https://9mothers.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433987\">https://news.ycombinator.com/item?id=48433987</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 07 Jun 2026 12:00:40 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 22 May 2026 12:01:07 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-      "url": "https://news.ycombinator.com/item?id=48225852",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225852\">https://news.ycombinator.com/item?id=48225852</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 21 May 2026 17:00:52 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Cekura (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221230\">https://news.ycombinator.com/item?id=48221230</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 21 May 2026 12:00:20 +0000"
     }
   ],
   "total_entries": 20
