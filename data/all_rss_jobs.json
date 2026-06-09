@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-06-08T06:18:20.716608+00:00",
+  "generated_at": "2026-06-09T05:44:54.912094+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48456015\">https://news.ycombinator.com/item?id=48456015</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 09 Jun 2026 03:34:00 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Proliferate (YC S25) is hiring to building open source Codex",
@@ -382,29 +402,47 @@
       "published": "Sun, 24 May 2026 17:00:46 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
-      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "company": "V2EX 招聘节点",
+      "title": "程序员！勇敢的拥抱 AI 时代！",
+      "url": "https://www.v2ex.com/t/1218898#reply37",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\">https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234688\">https://news.ycombinator.com/item?id=48234688</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<h3>当前大家对 ai 有这么几种观点：</h3>\n<h4>担心被 ai 技术取代。</h4>\n<p>一些程序员觉得自己的工作会被 ai 取代，有些担忧的情绪。</p>\n<h4>被厂商洗脑，盲目鼓吹 ai 。</h4>\n<ul>\n<li>\n<p>一些人盲目的搞 vibe coding ，在没有现实需求的情况下，生成一堆毫无意义的代码。</p>\n</li>\n<li>\n<p>还有一些人甚至产生了莫名的优越感。认为，谁用的 token 多谁厉害，谁用的模型贵谁厉害；鼓吹所谓：会使用 AI 的淘汰不会使用的。制造焦虑。</p>\n</li>\n</ul>\n<h3>我的观点：</h3>\n<h4>不要搞毫无意义的 vibe coding 。</h4>\n<ul>\n<li>要从现实需求出发，来利用好 ai 。</li>\n<li>任何时候只有付出劳动才有价值。如果你的 vibe coding 的代码，任何人都可以轻而易举的复刻，那么就没有价值。</li>\n</ul>\n<h4>不要焦虑。</h4>\n<ul>\n<li>不要担心程序员会失业，ai 时代现在才刚刚开始，还需要程序员做大量的工作。</li>\n</ul>\n<h4>勇敢的拥抱 AI 时代。</h4>\n<ul>\n<li>我们是最靠近 ai 的人群，如果说收益，没人比程序员会更先收益，更有回报。</li>\n<li>但是，拥抱 ai,不是简单的使用 ai 来编写代码，而是应该深刻的认识到，后 ai 时代，软件的范式已经发生变化。</li>\n<li>我们不应该简单的面向人编程，而应该面向 agent 编程。过去我们开发业务系统，未来我们要开发各种各样的 agent 。</li>\n<li>目前 ai 应用还需要完成大量的工程化落地的工作，大量的 agent 基础设施需要建设，包括：推理、记忆、信息搜索、上下文管理,框架、接口、数据库、通信协议。</li>\n<li>现实是复杂的，不可一个 agent 解决所有的问题。面对不同业务场景和条件制约，需要开发不同的 agent ，更需要完善不同的技术栈。</li>\n<li>我们要勇敢的拥抱 AI ，不要做鸵鸟，搞懂大模型是如何训练的，agent 是如何实现的，如何用 ai 来改造和优化现有的业务。</li>\n</ul>\n<h4>总结：</h4>\n<ul>\n<li>人类的需求，其实几千年来没有什么变化，但是，满足需求的手段、技术、方式发生了翻天覆地的变化。建议大家可以从自己日常使用的软件开始，比如笔记软件，尝试用 ai 来完成自己的信息搜集、管理等等需求。</li>\n</ul>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Fri, 22 May 2026 12:01:07 +0000"
+      "published": "2026-06-08T18:06:20Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "给大家注入一点 AI 焦虑，和一些破局思考",
+      "url": "https://www.v2ex.com/t/1218995#reply7",
+      "location": "",
+      "description": "<p>最近 AI 的讨论浓度明显在 V 站上升了，今早看到了两个质疑 AI 能做啥的帖子，有感而发</p>\n<p><em>首先做一个限定，以下的工作都是基于 Claude Code Opus 4.8 MAX FAST/CodeX GPT 5.5 FAST 进行的</em></p>\n<p>最近 AI 干的活儿：</p>\n<ol>\n<li>给 Linux Kernel 提了两个 patch ，重构了我们以前看护的模块里面的非常长久的历史问题，性能实测提升非常明显。整个开发、测试脚手架更新、测试执行、报告撰写都是 Agent 做的，现在正在 RFC</li>\n<li>抽取了几个网红交易框架的设计，然后叠加了自己的思路，Vibe 了一个低频交易选股系统。现在家属负责每天执行，实盘胜率 60%，我看了一眼日志，最近一个月捕捉了两个 20%+、若干 10%</li>\n<li>从零基于公开的 datasheet 开发了一个 soc 的仿真器，支持 ring 上对齐级别的模块仿真和接口级的系统仿真。下一步准备按 qemu 组件的模型重构，接入 qemu 。</li>\n<li>现在日常感觉丧失了写代码的兴趣，但是 vibe 的热情不断燃烧。每天各种奇思妙想都想丢给 cc 或者 codex 实现，然后有啥吃操作的就写给 hermes</li>\n</ol>\n<p>可以看到 AI 几乎在我的工作中，影响横跨了软硬芯。客观来说，我认为现阶段的 AI 已经具备了极强的工程实现能力，工程规模也已经不再是 AI 和人类开发的能力边界了。</p>\n<p>但是伴随深度的实际工程应用，我觉得对于我们这代人的破局点反而是清晰度的：</p>\n<ol>\n<li>AI 不产生创意，只是能更快速的实现创意。有可能 2010-2015 互联网繁荣可能重现，寡头们更难通过技术霸权形成垄断，idea 的价值会重新回归到主生态位</li>\n<li>行业的后来者如果不躬身亲为几个大型项目，有可能会撞上一个隐形天花板，设计能力的重要性会被放大，老登们的古法经验会成为一个护城河</li>\n<li>软硬件边界会被 AI 彻底打破，所有人都可以尝试去成为行业的先行者，硬件创新说不定会迎来一次“互联网时刻”</li>\n</ol>\n<p>希望 AI 能迅速完成科技平权，带来一个新的增长时代</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-09T03:16:56Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "盛大集团面经（专升本毕业 9 个月,99%代码靠 AI 写）",
-      "url": "https://www.v2ex.com/t/1218676#reply21",
+      "url": "https://www.v2ex.com/t/1218676#reply50",
       "location": "",
       "description": "<p>记录一下，盛大旗下一个做 deep research 的子公司，agent / 全栈方向，三轮面下来的过程。</p>\n<p>先交代下背景。我今年应届，毕业五个月。读书的时候有三段实习：智慧芽（苏州做专利数据库那家，在算法组做 AI 对话、PDF 问答，也写过前端中台）、西湖大学（做 AI 应用，多模型组织起来生成论文综述那种）、商汤（给内部算法团队做大模型测试平台，多模态问答的量化评测）。毕业后没去大厂，进了一家小公司，前端身份入职，但基本啥都干了——写过一两个月前端，做过销售（自己主动跟老板说要去合肥、江苏见客户、进工厂理解需求），还干过技术支持、后端、算法，C# 写过 VS 的代码插件，Rust 写过企业连接器，Python 也搞过。对自己的要求就是不设边界。</p>\n<p>代码 90% 以上是 AI 写的，平时会把工作和自己感兴趣的东西沉淀成开源项目和博客。GitHub 在这： <a href=\"https://github.com/tt-a1i\" rel=\"nofollow\">https://github.com/tt-a1i</a> ，掘金在这： <a href=\"https://juejin.cn/user/2175258804632332\" rel=\"nofollow\">https://juejin.cn/user/2175258804632332</a> 。开源基本都是 AI coding agent 这个方向的，archify 、hive 、MiroFish 本地版那些（ MiroFish 本地版就是这次二面、三面的任务，我后面会讲）。</p>\n<p>本来是冲着 AI 用得溜去面的，结果一面差点把我自信心干没了。发出来给同样靠 AI 、做全栈或者 agent 方向的兄弟当个镜子。三轮下来我最大的感受是：AI 用得再溜没用，凡是 AI 写的、或者沿用别人的，面试官一句「为什么」就能把你问到说不出话。</p>\n<hr />\n<h2>一面：自信进去，被基础题打回原形</h2>\n<p>岗位本来投的 React Native ，面试官看了简历直接改全栈面。40 分钟没考算法没问八股，全程顺着我简历往死里追问，最后还来了道纯手写题。后来我才反应过来，他全程就想确认一件事：这些东西到底是我懂，还是 AI 懂。</p>\n<p>第一个翻车的是技术选型。他问我后端写 C# 又写 Rust ，自己开公司选哪个，我张口就「选 Rust 」，类型安全内存安全对 AI 友好（能编译过线上基本不报语法错误）……讲得挺顺。然后他来了句：</p>\n<blockquote>\n<p>你有没有发现，我问这个问题的时候根本没问你要做什么业务，你就直接给我 Rust 这个答案？</p>\n</blockquote>\n<p>当场被点醒，选型脱离业务场景纯属耍流氓。后面还补刀「你想过自己开公司 Rust 不好招人吗」，我只能认怂。</p>\n<p>然后是 gRPC ，连环追问，我全军覆没：</p>\n<ul>\n<li>gRPC 和 HTTP 区别？——基于 HTTP/2 ，效率高，多用于微服务。</li>\n<li>为什么效率高？——「之前看过……记不清了」</li>\n<li>JSON 不行吗？——「 JSON 应该可以，但我没想过为什么用 proto 」</li>\n<li>为什么选 gRPC ？——「沿用后端同事的，我接到任务第二天就开始写了，主要靠 AI 」</li>\n</ul>\n<p>最后这句基本是自爆。一个「为什么高」答不上，一个「为什么选」说不清，直接把底裤问没了。<",
       "source": "gh-relay/v2ex-jobs",
@@ -422,8 +460,46 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "[求合作/远程] AI-native 全栈开发｜ Agent / 自动化 / MVP 快速交付",
+      "url": "https://www.v2ex.com/t/1218888#reply0",
+      "location": "远程",
+      "description": "13 年软件开发经验，<br /><br />做过企业级后端、分布式系统、全栈开发。<br /><br />近两年开始重点转向 AI Workflow / Agent 工程化方向，<br />长期深度使用 Claude Code 、Codex 等 AI Coding 工具，<br />探索如何真正提升软件开发效率，而不仅仅是“代码补全”。<br /><br />最近也在做一个 AI-native 自动化开发工作流项目（ Nezha ），<br />重点探索：<br /><br />- 需求拆解<br />- 多任务编排<br />- 自动化代码生成与验证<br />- Feature Branch 隔离<br />- 测试与交付流程自动化<br /><br />希望把 AI 从“代码辅助工具”，进一步变成真正参与软件工程流程的协作者。<br /><br />目前主要希望寻找：<br /><br />- AI 应用<br />- Agent Workflow<br />- 自动化系统<br />- SaaS / 管理后台<br />- MVP 快速验证<br />- 企业内部工具<br /><br />等方向的远程 / 兼职 / 项目合作。<br /><br />偏结果导向，<br />希望通过 AI Workflow 尽可能压缩开发周期，<br />快速交付真正可运行、可验证的产品。<br /><br />项目介绍：<br /><a href=\"https://blog.geekslife.cn/projects/nezha-framework\" rel=\"nofollow noopener\" target=\"_blank\">https://blog.geekslife.cn/projects/nezha-framework</a><br /><br />GitHub：<br /><a href=\"https://github.com/ganluCode\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/ganluCode</a><br /><br />联系微信：itPhoto414",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-08T15:08:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "NVIDIA | AI Developer Technology Engineer 热招中！",
+      "url": "https://www.v2ex.com/t/1218801#reply1",
+      "location": "上海",
+      "description": "<p>🔥 NVIDIA | AI Developer Technology Engineer 热招中！</p>\n<p>大家好，目前英伟达 Developer Technology （ DevTech ）团队 在中国 上海 / 北京 / 深圳 均有招聘需求，正在寻找对 AI 和 GPU 计算充满热情的工程师加入我们！</p>\n<p>📌 岗位亮点</p>\n<p>与顶级应用开发者深度合作，解决 AI workload 在 GPU 上的性能瓶颈</p>\n<p>研发并优化并行算法与数据结构，直接贡献 reference code 及应用优化</p>\n<p>深度参与 next-gen GPU 架构设计，影响 NVIDIA 下一代软件平台方向</p>\n<p>聚焦前沿 AI 方向：多模态模型训练/推理、LLM 的 Reinforcement Learning 等</p>\n<p>📌 我们在找</p>\n<p>硕士/博士，AI 、系统优化或相关方向，或同等经验 + 3 年以上相关工作经历</p>\n<p>扎实的 C++ 功底，熟悉 AI 算法与软件开发</p>\n<p>在多模态模型（训练/推理）或 LLM RL 方向有深入的领域积累</p>\n<p>逻辑清晰，沟通表达能力强</p>\n<p>📌 面试流程</p>\n<p>线上视频面试为主，3 ～ 4 轮与技术面试官一对一 Teams 视频面试，全部通过后进入 Offer 流程，高效透明。</p>\n<p>感兴趣的同学欢迎将最新中文简历发送至我的邮箱：[xiaozhao@nvidia.com]，我会第一时间转给 Hiring Manager 跟进。也欢迎私信我了解更多详情！</p>\n<p>#NVIDIA 招聘 #AI 工程师 #GPU 计算 #DevTech #CUDA #多模态 #深度学习 #社招</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-08T08:09:10Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "有没有青岛的朋友聊聊近期的互联网招聘情况",
-      "url": "https://www.v2ex.com/t/1218634#reply2",
+      "url": "https://www.v2ex.com/t/1218634#reply3",
       "location": "",
       "description": "<p>最近想了解一下青岛的互联网招聘情况，有没有朋友最近面试过来聊聊啊，其他城市的可以来聊聊。</p>\n<p>产品经理\n前端开发\n后端开发\n还有最近很火的 AI Agent 开发怎么样</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -438,6 +514,63 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-08T00:59:52Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[30-70 万·上海徐汇] AI 全栈/后端大牛招募，年轻团队等你加入！",
+      "url": "https://www.v2ex.com/t/1218482#reply13",
+      "location": "上海",
+      "description": "地点：上海徐汇区<br />薪资：30-70 万/年（面议）<br />学历：本科及以上。<br />经验：2-5 年开发经验，至少 1 年以上 AI 应用或 Agent 开发实战经验。<br />技术：精通全栈/后端开发，并能深度融合 AI 应用。<br />年龄：30 岁以下（团队氛围年轻，特别优秀者可适度放宽）。<br /><br />投递邮箱： lily.chen@purogent.com",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-06T14:48:32Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "五年后的程序员会是什么样子呢？",
+      "url": "https://www.v2ex.com/t/1217897#reply93",
+      "location": "",
+      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-04T06:57:37Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "纯吐槽公司技术团队现状",
+      "url": "https://www.v2ex.com/t/1218058#reply208",
+      "location": "",
+      "description": "个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.<br />  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.<br />  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中那么复杂, 我个人以前主 python, 自己今年也做了几个私人项目, 包括 go, javascript, 结合 ai 基本上能做到无缝切换.<br />  然而后端同事却觉得, php 有其优点并建议先保留, 后续合适的时候再进行切换.上周六看到一篇新闻, 胡彦斌自己使用 ai 开发了一个 app 并上架, 时间一个月.个人觉得, 连一个歌手都能做个 app 并且上架, 而他们还在纠结换不换, 我是不明白考虑的点.<br />  后端 curd 写接口, 160+个接口, 后端 4 个人,一个月还没完成.然后项目中需要 ai 的地方,全部找我. 问题来了, 一个功能, 从数据上到 ai 调用到写入结果, 都让我负责.实际上整个流程,就是一条 prompt+请求 gemini/gpt+写入数据. 这种问题出现了起码 10 次, 我也将请求 gemini/gpt 的 demo 丢群里, 结果还是来找我.我觉得这是不是有点搞笑了, 整个项目评估有 50%都要调用 ai, 那我干脆我把项目干了? 现在的氛围就是, ai 的都甩给我, 感觉就是我调一个接口比他们都好.<br />  原本领导让一个后端同事跟我学习做 agent, 我原本新项目中的 ai 模块想丢给他做, 起码是现学现做, 结果两个星期后领导看到进度太差, 让我接手.结果那 sb 走过来跟我说:\"xxx, 不是我甩锅, 是领导不信任我\", 我心里真是千万个 xxx, 我真想说, 你特么的能好好干,领导还不信任你?",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-05T00:28:56Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -460,65 +593,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "五年后的程序员会是什么样子呢？",
-      "url": "https://www.v2ex.com/t/1217897#reply91",
-      "location": "",
-      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T06:57:37Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[30-70 万·上海徐汇] AI 全栈/后端大牛招募，年轻团队等你加入！",
-      "url": "https://www.v2ex.com/t/1218482#reply10",
-      "location": "上海",
-      "description": "地点：上海徐汇区<br />薪资：30-70 万/年（面议）<br />学历：本科及以上。<br />经验：2-5 年开发经验，至少 1 年以上 AI 应用或 Agent 开发实战经验。<br />技术：精通全栈/后端开发，并能深度融合 AI 应用。<br />年龄：30 岁以下（团队氛围年轻，特别优秀者可适度放宽）。<br /><br />投递邮箱： lily.chen@purogent.com",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-06T14:48:32Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "纯吐槽公司技术团队现状",
-      "url": "https://www.v2ex.com/t/1218058#reply207",
-      "location": "",
-      "description": "个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.<br />  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.<br />  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中那么复杂, 我个人以前主 python, 自己今年也做了几个私人项目, 包括 go, javascript, 结合 ai 基本上能做到无缝切换.<br />  然而后端同事却觉得, php 有其优点并建议先保留, 后续合适的时候再进行切换.上周六看到一篇新闻, 胡彦斌自己使用 ai 开发了一个 app 并上架, 时间一个月.个人觉得, 连一个歌手都能做个 app 并且上架, 而他们还在纠结换不换, 我是不明白考虑的点.<br />  后端 curd 写接口, 160+个接口, 后端 4 个人,一个月还没完成.然后项目中需要 ai 的地方,全部找我. 问题来了, 一个功能, 从数据上到 ai 调用到写入结果, 都让我负责.实际上整个流程,就是一条 prompt+请求 gemini/gpt+写入数据. 这种问题出现了起码 10 次, 我也将请求 gemini/gpt 的 demo 丢群里, 结果还是来找我.我觉得这是不是有点搞笑了, 整个项目评估有 50%都要调用 ai, 那我干脆我把项目干了? 现在的氛围就是, ai 的都甩给我, 感觉就是我调一个接口比他们都好.<br />  原本领导让一个后端同事跟我学习做 agent, 我原本新项目中的 ai 模块想丢给他做, 起码是现学现做, 结果两个星期后领导看到进度太差, 让我接手.结果那 sb 走过来跟我说:\"xxx, 不是我甩锅, 是领导不信任我\", 我心里真是千万个 xxx, 我真想说, 你特么的能好好干,领导还不信任你?",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T00:28:56Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "写了一个小 skill，献给正在准备面试的朋友，祝成功",
-      "url": "https://www.v2ex.com/t/1218325#reply3",
+      "url": "https://www.v2ex.com/t/1218325#reply4",
       "location": "",
       "description": "<p>最近失业了，到处找面试机会，也一边为即将到来的面试做准备。准备面试时苦于需要不停地手动请教 AI ，于是我写了一个 skill：</p>\n<pre><code>input: CV （简历）+ JD （目标职位描述），可以指定输出语言（中文/英文）\n\noutput: 一套有良好组织的题库（ html ），点击 question 可以复制一段组织好的 prompt ，输入任一个 AI 工具（比如 claude code ）即可得到详解，并预判面试官的追问\n</code></pre>\n<p>分享给也在准备面试的朋友，欢迎提改进意见或者 h 直接贡献 PR 使它变得更好用，能够真正帮助到大家准备好面试，祝成功</p>\n<p><a href=\"https://github.com/pplam/prepme\" rel=\"nofollow\">https://github.com/pplam/prepme</a></p>",
       "source": "gh-relay/v2ex-jobs",
@@ -536,65 +612,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "岗位方向求助：选数据库还是云原生",
-      "url": "https://www.v2ex.com/t/1218134#reply15",
-      "location": "",
-      "description": "某互联网厂商，hr 给了我两个方向选择：<br /><br />分布式数据库研发工程师/专家｜存储&amp;数据方向<br />负责图数据库、表格数据库、强一致 KV 等分布式数据库产品研发，支撑大规模核心业务场景；参与系统能力建设与架构演进，提升产品的高可用、高可靠和性价比。要求具备 C/C++/Java/Go 至少一种语言开发经验，熟悉算法、数据结构、操作系统，有分布式存储或分布式数据库研发经验，熟悉 HBase 、Cassandra 、TiDB 、Nebula 、OceanBase 等系统优先。<br /><br />云原生高级开发工程师/专家｜容器编排与统一调度方向<br />负责容器应用编排与调度平台的架构设计和核心开发，包括工作负载管理、资源调度、弹性伸缩、GPU 调度、任务调度、混部调度等能力建设；优化 Kubernetes 调度机制，提升大规模集群资源利用率和稳定性。要求熟悉 Kubernetes 核心组件和 Scheduler ，精通 Go 或 C++，了解 Docker 、containerd 、Linux 、cgroups 、网络虚拟化，有 Koordinator 、Volcano 、OpenKruise 或自定义调度器经验优先。<br /><br />楼主有数据库背景，用过 k8s/docker 这种(没有相关背景和项目)。<br /><br />目前刚工作两年，选哪个方向好点啊。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T03:24:37Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "节奏恢复/时间序列算法求助，达成目标奖金 3K",
-      "url": "https://www.v2ex.com/t/1218157#reply23",
-      "location": "远程",
-      "description": "<h2>1. 背景</h2>\n<p>各位老师好，我们在做一个视频周期动作计数问题。具体场景是：根据游泳视频，统计每个泳者在每一段里的划水次数。</p>\n<p>我们有大量“手部出水”检测框、身体框、泳者方向、泳道、泳者身份等原始数据，并且有次数、每次划手开始结束时间的 Ground Truth ，我们的目标是：</p>\n<blockquote>\n<p>从大量有噪声的检测框里，筛出真正对应划水动作的证据，并稳定得到正确的划水次数。</p>\n</blockquote>\n<h2>2. 挑战目标和奖金</h2>\n<p>我们提供原始数据。如果您能提供可复现的方法，在 leave-one-video-out 评估中达到明显提升，我们愿意提供奖金。</p>\n<p>当前最好的 offline Baseline 大约是：</p>\n<ul>\n<li>MAE：3.31</li>\n<li>误差不超过 ±1 次的比例：37.6%</li>\n<li>误差不超过 ±2 次的比例：58.4%</li>\n<li>最大单行误差：15</li>\n</ul>\n<p>目标 A：奖金 1500 元</p>\n<ul>\n<li>MAE &lt; 1.5</li>\n<li>希望误差不超过 ±1 次的比例超过 60%</li>\n<li>最大误差小于 5 （非必须）</li>\n</ul>\n<p>目标 B：奖金 3000 元</p>\n<ul>\n<li>MAE &lt; 1.0</li>\n<li>误差不超过 ±1 次的比例超过 80%</li>\n<li>最大误差小于 3 （非必须）</li>\n</ul>\n<h2>3. 数据说明</h2>\n<p>原始数据：</p>\n<ol>\n<li>每个手部检测框的时间戳</li>\n<li>手部框位置和大小</li>\n<li>身体框位置和大小</li>\n<li>手框与身体框的重叠比例</li>\n<li>手部中心点是否在身体框内</li>\n<li>手部相对身体前后方向的位置</li>\n<li>泳者方向</li>\n<li>泳道、split/趟、泳者身份</li>\n<li>当前系统的 L1 / L2 证据</li>\n</ol>\n<p>Ground Truth：</p>\n<ol>\n<li>人工标注的每一次真实划水开始和结束时间</li>\n<li>每趟每人的划水总数</li>\n</ol>\n<p>目前数据集中有 5 个视频、15 次运行、101 行有效评估数据。原始手部检测框约 13.8 万条，其中约 5.8 万条落在真实划水时间窗口里，约 8.0 万条在窗口外。数据、测试代码和说明文件：<a href=\"https://github.com/cbccbcc/external_clean_challenge_20260605\" rel=\"nofollow\">https://github.com/cbccbcc/external_clean_challenge_20260605</a></p>\n<h2>4. 我们目前的算法尝试：L1 / L2</h2>\n<p>L1 可以理解为对检测框的初步判断：</p>\n<ol>\n<li>找到手部出水检测框；</li>\n<li>判断手框是否和该泳者身体框有关；</li>\n<li>过滤明显像脚或小腿的误检；</li>\n</ol>\n<p>L2 可以理解为在 L1 基础上，引入了序列维度，作为划手的依据：</p>\n<ol>\n<li>L1 （经过验证的手在水上）可以看作 1 ，没有则为 0 ，那么一次划手应该是若干 0+若干 1+若干 0 的组合</li>\n<l",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T04:45:24Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "国产化搞得我好难受啊，自称开源的 tidb 也一样",
-      "url": "https://www.v2ex.com/t/1218147#reply9",
-      "location": "",
-      "description": "<p>公司在推国产化，分析了一些国产化数据库，考虑用 tidb （先叠甲，入股你觉得 tidb 不是国产化，那也没问题，因为内部当时也针对这个问题争论过），结果第一步安装就卡住了，我们的环境就不能联网，只能离线安装，结果喜闻乐见，下载要账号加手机验证，反正我已经见怪不怪了，毕竟之前麒麟那些系统已经经历过一轮了，就不多说了。于是曲线救国，直接访问国外的 pingcap ，但是没找到离线现在页面，只在文档里面提了一句</p>\n<pre><code>Deploy TiUP offline\nPerform the following steps in this section to deploy a TiDB cluster offline using TiUP:\n\nPrepare the TiUP offline component package\nMethod 1: Download the offline binary packages (TiUP offline package included) of the target TiDB version using the following links. You need to download both the server and toolkit packages. Note that your downloading means you agree to the Privacy Policy.\n\nhttps://download.pingcap.com/tidb-community-server-{version}-linux-{arch}.tar.gz\n</code></pre>\n<p>这个网址我用 curl 只能下个几百 k 的包，替换 version 和 arch 后，我浏览器直接访问，提示下面的内容</p>\n<pre><code>This XML file does not appear to have any style information associated with it. The document tree is shown below.\n&lt;Error&gt;\n&lt;Code&gt;NoSuchKey&lt;/Code&gt;\n&lt;Message&gt;The specified key does not exist.&lt;/Message&gt;\n&lt;Resource&gt;/tidb-community-server-8.5.6-linux-amd64.tar.gz&lt;/Resource&gt;\n&lt;RequestId&gt;NmEyMjQ0NWFfMWVhZTI0MDlfN2RmMl9jOWY5ZDE4&lt;/RequestId&gt;\n&lt;TraceId&gt;OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OWEzMDE4ZGI4NTE5MWE4YmYxODQ1NWI3YzFiOTg0ZjdlODlmOGU2Y2Y3NmI3NmU0MmZiZTVhOTU1YmI0NjM4ZWU=&lt;/TraceId&gt;\n&lt;/Error&gt;\n</code></pre>\n<p>看上去，依然要认证？只能说，国产化这一路，你累我累大家累，大家累，才是真的累</p>\n<h2>难道是我姿势不对？</h2>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T03:54:01Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "应届第一份工作也是戛然而止",
-      "url": "https://www.v2ex.com/t/1218148#reply3",
+      "url": "https://www.v2ex.com/t/1218148#reply8",
       "location": "深圳",
       "description": "<p>这周刚刚被裁了，很突然，上午还在改 BUG ，下午就被 Leader 和 HR 叫去谈心了，结果也是喜提大礼包。\n虽然我早就有会被裁的预感，不过真的被裁之后还是挺感叹的，算是记录一下个人感想吧。</p>\n<p>本人是 00 年的，一开始上的大专，后来通过了全日制专升本，最后在 24 年毕业。主要是学了游戏开发方面的东西。\n在深圳找了一年，面试了十几次都不如意，要么是面试之后没下文，要么是把我当猪宰（薪资压的很低）。\n最后是在我差不多准备放弃进入这个行业的时候（真的是在年底，11 月左右），这家在深圳做手游的大概能算中小厂的公司找上了我，他们的手游当时在 TapTap 上还能排到比较前的位置。\n也许是缘分，进这家公司的时候整个面试流程非常顺利，只过了一个星期就走完了大概三轮面试，然后直接就发 Offer 了。最后薪资给到了 10K 、十三薪，有食堂包午晚饭，而且除了赶版本以外，大部分时候都是可以双休的。\n对应届生的我来说，其实算是比较满意了，虽然是中小厂，但是感觉也不比大厂差很多。\n后来过年还送过年货、冬装文化衫，还办了一场挺大的年会，第一次感受到这种氛围，当时的感觉只能说是意气风发。</p>\n<p>不过没想到的是，仅仅一年之内，情况就急转直下了。\n或者也不能叫急转直下，25 年之后，福利慢慢开始缩水，一开始是绩效发放时间延迟，后面开始砍节日礼、砍年假，最后连年终的十三也没有了，年会也只能在公司食堂里展开。\n可以说，这一年给我的落差感是挺大的。</p>\n<p>其实基本上是因为营收越来越差。这家公司的营收几乎靠一个上线项目撑着，但是同时开了两个新项目，25 年底这两个项目都经过了小范围的测试，最后发现数据很差，而上线项目的营收也在走下坡路。\n26 年年后，两个新项目都被砍掉了，人员当场解散。而我因为在上线项目组里，所以没有立马走人。</p>\n<p>不过这也让我有了危机感，这之后我除了正常完成业务需求之外的时间都用来刷算法或者提升技术了，只为了后面万一被裁了做准备。后面就是这样度过了几个月，游戏的营收还在持续下跌，第二批裁员名单来了。\n也许 Leader 认为我准备好了，但具体是什么原因，我没有细问。总之，第二批裁员名单上有了我的名字。</p>\n<p>不过真的被叫过去协商离职的时候，我觉得我其实没有想象中的冷静。因为我虽然想过会被裁，不过没想到这么快且这么突然。尽管如此，我还是很快的接受了这一切。有 N+1 ，而且就我认知来说，确实一分没少，公司大概算是仁至义尽了。</p>\n<p>签完离职单之后，回到工位，我平静的浏览了一遍这一年半所做过的东西，把必要的资料备份发回自己的电脑之后，就这样结束了，明天不用再来上班了。很突然，以至于我到现在感觉还有点没有回过味来。\n比较有意思的是，上周还有两位同一个部门的同事离职，而我刚刚和他们一起吃完散伙饭。没想到放完假回来，我也要走了。</p>\n<p>回想起来，在这家公司工作这一年半时间感觉总的来说其实还是挺好的，跟同事相处的也算是比较融洽，甚至我一度认为我后面会不舍得提离职。好在，最后公司帮我提了离职，或许也算是一个解脱把。</p>\n<p>虽然没能陪这家公司走到最后，不过我这应该也算是达成“干倒一家”的成就了。</p>",
       "source": "gh-relay/v2ex-jobs",
