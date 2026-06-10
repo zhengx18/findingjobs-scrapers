@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T05:44:54.912094+00:00",
+  "generated_at": "2026-06-10T05:59:16.721436+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer\">https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48459968\">https://news.ycombinator.com/item?id=48459968</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 09 Jun 2026 12:01:09 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 25 May 2026 14:32:47 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\">https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48258995\">https://news.ycombinator.com/item?id=48258995</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 24 May 2026 17:00:46 +0000"
     }
   ],
   "total_entries": 20

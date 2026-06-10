@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T05:44:54.912094+00:00",
+  "generated_at": "2026-06-10T05:59:16.721436+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,103 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "[上海] 德国小而美公司从普吉团建回来，招 AI Platform Engineer",
+      "url": "https://www.v2ex.com/t/1203427#reply43",
+      "location": "上海",
+      "description": "<h2>AI Platform Engineer 正在招聘中，JD 见文末，英文简历请投至：</h2>\n<ul>\n<li><a href=\"mailto:jobs@thenetcircle.com\">jobs@thenetcircle.com</a> 或 点击<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>进一步查看详情</li>\n</ul>\n<h2>时隔两年，我们和兄弟公司的伙伴们齐聚普吉。这场温暖重聚，“泰”有趣了！</h2>\n<p>集体活动首日，我们走进一片被绿意环抱的大象保护营地，认真地了解大象的作息、性情与饮食。</p>\n<p>给大象喂食，洗澡，互动中惊呼声、笑声与快门声同时响起，一张张难得的亲密瞬间，被悄悄收藏。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/Q55BrEo3.jpeg\" /></p>\n<p>次日清晨，我们乘车前往普吉山顶大佛。登上观景平台，蔚蓝的安达曼海映着天光，蜿蜒如带。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/HGI2fR1U.jpeg\" /></p>\n<p>下午，我们迎着日光踏入查龙寺，寺院静谧而庄严，阳光下熠熠生辉。有人随意伫立，笑容轻快；有人双手合十，闭目凝神，将一份虔诚悄然镌刻进光影里。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/5gsOH5lU.jpeg\" /></p>\n<p>旅程的最后一章，属于普吉的海。在最南端的神仙半岛观景台，我们登高远眺，海水在阳光下呈现出渐变的蓝，白色的海浪一遍遍描摹着海岸线。</p>\n<p>这样的开阔与宁静，要用眼睛记录，用呼吸感受。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/sOstP8Od.jpeg\" /></p>\n<p>旅程终有结束时，而生活始终向前。愿美好的记忆永存，期待下一次的同行，一起探索世界的美好。</p>\n<p><strong>在 TNC 的我们坚信着：Work Hard, Play Harder!</strong></p>\n<p>欢迎大家移步我们的<a href=\"https://thenetcircle.com/cn/\" rel=\"nofollow\">官网</a>，查看更多过往的人英欢乐精彩瞬间。</p>\n<p>现在，我们正在寻找志同道合的你，成为我们的一份子！</p>\n<p>感兴趣可将简历及相关作品附件发送至顶部邮箱或至<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>内上传~等你哟！</p>\n<h2>AI Platform Engineer</h2>\n<h3>A",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-04-03T13:33:58Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "给大家注入一点 AI 焦虑，和一些破局思考",
+      "url": "https://www.v2ex.com/t/1218995#reply28",
+      "location": "",
+      "description": "<p>最近 AI 的讨论浓度明显在 V 站上升了，今早看到了两个质疑 AI 能做啥的帖子，有感而发</p>\n<p><em>首先做一个限定，以下的工作都是基于 Claude Code Opus 4.8 MAX FAST/CodeX GPT 5.5 FAST 进行的</em></p>\n<p>最近 AI 干的活儿：</p>\n<ol>\n<li>给 Linux Kernel 提了两个 patch ，重构了我们以前看护的模块里面的非常长久的历史问题，性能实测提升非常明显。整个开发、测试脚手架更新、测试执行、报告撰写都是 Agent 做的，现在正在 RFC</li>\n<li>抽取了几个网红交易框架的设计，然后叠加了自己的思路，Vibe 了一个低频交易选股系统。现在家属负责每天执行，实盘胜率 60%，我看了一眼日志，最近一个月捕捉了两个 20%+、若干 10%</li>\n<li>从零基于公开的 datasheet 开发了一个 soc 的仿真器，支持 ring 上对齐级别的模块仿真和接口级的系统仿真。下一步准备按 qemu 组件的模型重构，接入 qemu 。</li>\n<li>现在日常感觉丧失了写代码的兴趣，但是 vibe 的热情不断燃烧。每天各种奇思妙想都想丢给 cc 或者 codex 实现，然后有啥吃操作的就写给 hermes</li>\n</ol>\n<p>可以看到 AI 几乎在我的工作中，影响横跨了软硬芯。客观来说，我认为现阶段的 AI 已经具备了极强的工程实现能力，工程规模也已经不再是 AI 和人类开发的能力边界了。</p>\n<p>但是伴随深度的实际工程应用，我觉得对于我们这代人的破局点反而是清晰度的：</p>\n<ol>\n<li>AI 不产生创意，只是能更快速的实现创意。有可能 2010-2015 互联网繁荣可能重现，寡头们更难通过技术霸权形成垄断，idea 的价值会重新回归到主生态位</li>\n<li>行业的后来者如果不躬身亲为几个大型项目，有可能会撞上一个隐形天花板，设计能力的重要性会被放大，老登们的古法经验会成为一个护城河</li>\n<li>软硬件边界会被 AI 彻底打破，所有人都可以尝试去成为行业的先行者，硬件创新说不定会迎来一次“互联网时刻”</li>\n</ol>\n<p>希望 AI 能迅速完成科技平权，带来一个新的增长时代</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-09T03:16:56Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[内推] 北京知名游戏公司招聘 AI 相关开发工程师 [加急]",
+      "url": "https://www.v2ex.com/t/1219175#reply0",
+      "location": "北京",
+      "description": "AI 开发高级工程师（ 30k-60k ）<br />岗位职责<br />1. AI 工作流开发与部署<br />   开发智能体（ Agent ）工作流，支持自动化实验方案生成与参数调优策略生成， 基于 AI 的研发生产管线。<br />   将 AI 模型集成至现有 AB 测试平台，确保低延迟、高并发的实时推理能力。<br />2. 协助 AB 测试团队优化流量分配、实验设计和结果预测。<br />3. 数据驱动实验优化<br />   结合游戏业务数据（用户行为、付费、留存等），基于大模型的分析框架，替代传统统计检验方法。<br />   开发自动化分析工具，实时监控实验效果并生成决策建议（如提前终止低效实验）。<br />4. 跨团队协作<br />   与数据工程师协作，构建高性能数据管道，支持 AI 模型的训练与迭代。<br />   协助游戏策划团队，将业务假设转化为可量化的 AI 优化目标。<br />5. 技术前瞻性探索<br />   跟踪 AI 在游戏 AB 测试领域的前沿技术（如 Meta-learning 、多智能体协作），推动技术落地。<br /><br />技术能力<br />1. 3 年以上机器学习/AI 开发经验，熟练掌握 Python 及主流框架（ TensorFlow/PyTorch ）。<br />2. 精通强化学习、贝叶斯优化等技术，有 AB 测试相关项目经验。<br />3. 熟悉分布式系统开发（如 Go/Java ），能独立部署 AI 模型 API 。<br />4. 智能体（ Agent ）相关开发经验。<br />5. 游戏与数据敏感度<br />6. 理解游戏核心指标（ LTV 、留存率、付费转化等），能快速定位业务痛点。<br />7. 熟练使用 SQL/Spark ，具备大规模游戏数据分析经验。<br /><br />工程思维<br />注重模型性能优化（如推理延迟、资源占用），熟悉 Docker/Kubernetes 部署。<br />加分项<br />有游戏行业开发经验或熟悉 AI 领域相关前沿工具。<br />发表过相关领域论文或开源项目贡献。<br /><br /><br />Agent 开发工程师（ 30k-50k ）<br />岗位要求：   <br />1 、熟悉主流大模型生态，包括闭源模型（ GPT-4o 、文心一言、通义千问）和开源模型（ Llama 3 、Qwen 、Mistral ）的调用方式与特性差异；<br />2 、具备模型选型与适配能力，能根据业务成本、性能要求选择合适的模型，并完成 API 对接、参数调优（ temperature 、top_p 等），提示词工程、模型微调；   <br />3 、了解轻量化模型部署，如基于 llama.cpp 、vLLM 进行开源模型本地部署与量化（ 4-bit/8-bit ），满足低资源环境下的应用需求；  <br />4 、精通 LangChain/LangGraph 核心组件使用，包括 Document Loaders （文档加载）、Text Splitters （文本分割）、Vector Stores （向量存储，如 Chroma 、FAISS ）、Retrievers （检索器）、Chains （链）、Agents （智能体）；    <br />5 、能基于 LangChain 搭建检索增强生成（ RAG ）系统，实现 “知识库加载→文本向量化→检索→生成” 全流程闭环；  <br />6 、具备 LangChai",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-09T12:17:37Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "头部 FinTech 平台 · AI CTO · 月薪 150k · 老板是连续创业者兼天使投资人",
+      "url": "https://www.v2ex.com/t/1219068#reply2",
+      "location": "杭州",
+      "description": "直接说重点：<br />月薪最高 150k + 期权<br />杭州<br />头部 FinTech 平台，注册用户规模大<br />关于这个 CEO：连续创业者，有成功退出经历，亲自投过多位独角兽创始人。他特别欣赏有创业心的人。如果你有创业梦，他可以成为你未来的天使投资人——这不是画饼，是他一直在做的事。<br /><br />你要做的事：<br />从 0 搭建财务 AI Agent ，包括意图识别、长链路推理、记忆机制、RAG+知识图谱；<br />全栈架构统筹+金融级数据安全；<br />组建算法×工程融合团队。技术方向你定，不是来执行别人方案的。<br /><br />需要你有：<br />8 年+研发经验，带过 5 人以上团队；<br />真实落地过 0 到 1 的 AI 产品；<br />算法和工程都能说得上话，自己能写代码；<br />FinTech 经验优先。<br /><br />能给到这个薪资的公司很多，但老板本身就是你创业路上潜在贵人的机会，可遇不可求。<br />自荐或推荐都欢迎，评论区回复或私信均可。成功推荐重酬感谢。<br />可以加 vx：heysoso1 ，发简历 or LinkedIn 来聊",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-09T06:37:17Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "阿里国际(Aliexpress)急招 Agent 开发，流程快，最核心的交易业务，速来",
+      "url": "https://www.v2ex.com/t/1219071#reply1",
+      "location": "",
+      "description": "职位描述<br />1 、负责阿里国际(Aliexpress)电商交易系统的购物车、下单、订单管理和逆向流程的开发与优化，确保交易流程的顺畅与高效。<br />2 、设计并实施高可用、高性能的 Java 架构，以支持大规模并发交易处理。<br />3 、参与 Agent 开发，提升系统自动化处理能力和智能化水平。<br />4 、与团队协作，利用大模型训练技术，优化 Agent 处理效率和正确率。<br /><br />职位要求<br />1 、本科及以上学历，计算机科学或相关专业，扎实的 Java 基础和架构设计能力。<br />2 、具有至少 3 年的 Java/python 或者其他语音开发经验，有实际的 Agent 开发项目经验者优先。<br />3 、熟悉大模型训练技术，有实际应用经验者更佳。<br />4 、良好的团队合作精神，具备优秀的沟通和协调能力，能与跨部门团队有效协作。<br />5 、对电商交易流程有深入理解，善于解决问题，有创新思维，致力于提升交易系统的质量和效率。<br /><br />流程超快，速来，我专程跟进。<br /><br />(985 、211 、双一流） 或者 （中大厂经验）<br /><br />联系 vx：czQ1NDU2OTQ2 (base64)",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-09T06:40:25Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "程序员！勇敢的拥抱 AI 时代！",
-      "url": "https://www.v2ex.com/t/1218898#reply37",
+      "url": "https://www.v2ex.com/t/1218898#reply39",
       "location": "",
       "description": "<h3>当前大家对 ai 有这么几种观点：</h3>\n<h4>担心被 ai 技术取代。</h4>\n<p>一些程序员觉得自己的工作会被 ai 取代，有些担忧的情绪。</p>\n<h4>被厂商洗脑，盲目鼓吹 ai 。</h4>\n<ul>\n<li>\n<p>一些人盲目的搞 vibe coding ，在没有现实需求的情况下，生成一堆毫无意义的代码。</p>\n</li>\n<li>\n<p>还有一些人甚至产生了莫名的优越感。认为，谁用的 token 多谁厉害，谁用的模型贵谁厉害；鼓吹所谓：会使用 AI 的淘汰不会使用的。制造焦虑。</p>\n</li>\n</ul>\n<h3>我的观点：</h3>\n<h4>不要搞毫无意义的 vibe coding 。</h4>\n<ul>\n<li>要从现实需求出发，来利用好 ai 。</li>\n<li>任何时候只有付出劳动才有价值。如果你的 vibe coding 的代码，任何人都可以轻而易举的复刻，那么就没有价值。</li>\n</ul>\n<h4>不要焦虑。</h4>\n<ul>\n<li>不要担心程序员会失业，ai 时代现在才刚刚开始，还需要程序员做大量的工作。</li>\n</ul>\n<h4>勇敢的拥抱 AI 时代。</h4>\n<ul>\n<li>我们是最靠近 ai 的人群，如果说收益，没人比程序员会更先收益，更有回报。</li>\n<li>但是，拥抱 ai,不是简单的使用 ai 来编写代码，而是应该深刻的认识到，后 ai 时代，软件的范式已经发生变化。</li>\n<li>我们不应该简单的面向人编程，而应该面向 agent 编程。过去我们开发业务系统，未来我们要开发各种各样的 agent 。</li>\n<li>目前 ai 应用还需要完成大量的工程化落地的工作，大量的 agent 基础设施需要建设，包括：推理、记忆、信息搜索、上下文管理,框架、接口、数据库、通信协议。</li>\n<li>现实是复杂的，不可一个 agent 解决所有的问题。面对不同业务场景和条件制约，需要开发不同的 agent ，更需要完善不同的技术栈。</li>\n<li>我们要勇敢的拥抱 AI ，不要做鸵鸟，搞懂大模型是如何训练的，agent 是如何实现的，如何用 ai 来改造和优化现有的业务。</li>\n</ul>\n<h4>总结：</h4>\n<ul>\n<li>人类的需求，其实几千年来没有什么变化，但是，满足需求的手段、技术、方式发生了翻天覆地的变化。建议大家可以从自己日常使用的软件开始，比如笔记软件，尝试用 ai 来完成自己的信息搜集、管理等等需求。</li>\n</ul>",
       "source": "gh-relay/v2ex-jobs",
@@ -48,10 +143,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "给大家注入一点 AI 焦虑，和一些破局思考",
-      "url": "https://www.v2ex.com/t/1218995#reply7",
+      "title": "请教一下，现在学 agent 开发还是 ue 开发更有用点。",
+      "url": "https://www.v2ex.com/t/1218985#reply2",
       "location": "",
-      "description": "<p>最近 AI 的讨论浓度明显在 V 站上升了，今早看到了两个质疑 AI 能做啥的帖子，有感而发</p>\n<p><em>首先做一个限定，以下的工作都是基于 Claude Code Opus 4.8 MAX FAST/CodeX GPT 5.5 FAST 进行的</em></p>\n<p>最近 AI 干的活儿：</p>\n<ol>\n<li>给 Linux Kernel 提了两个 patch ，重构了我们以前看护的模块里面的非常长久的历史问题，性能实测提升非常明显。整个开发、测试脚手架更新、测试执行、报告撰写都是 Agent 做的，现在正在 RFC</li>\n<li>抽取了几个网红交易框架的设计，然后叠加了自己的思路，Vibe 了一个低频交易选股系统。现在家属负责每天执行，实盘胜率 60%，我看了一眼日志，最近一个月捕捉了两个 20%+、若干 10%</li>\n<li>从零基于公开的 datasheet 开发了一个 soc 的仿真器，支持 ring 上对齐级别的模块仿真和接口级的系统仿真。下一步准备按 qemu 组件的模型重构，接入 qemu 。</li>\n<li>现在日常感觉丧失了写代码的兴趣，但是 vibe 的热情不断燃烧。每天各种奇思妙想都想丢给 cc 或者 codex 实现，然后有啥吃操作的就写给 hermes</li>\n</ol>\n<p>可以看到 AI 几乎在我的工作中，影响横跨了软硬芯。客观来说，我认为现阶段的 AI 已经具备了极强的工程实现能力，工程规模也已经不再是 AI 和人类开发的能力边界了。</p>\n<p>但是伴随深度的实际工程应用，我觉得对于我们这代人的破局点反而是清晰度的：</p>\n<ol>\n<li>AI 不产生创意，只是能更快速的实现创意。有可能 2010-2015 互联网繁荣可能重现，寡头们更难通过技术霸权形成垄断，idea 的价值会重新回归到主生态位</li>\n<li>行业的后来者如果不躬身亲为几个大型项目，有可能会撞上一个隐形天花板，设计能力的重要性会被放大，老登们的古法经验会成为一个护城河</li>\n<li>软硬件边界会被 AI 彻底打破，所有人都可以尝试去成为行业的先行者，硬件创新说不定会迎来一次“互联网时刻”</li>\n</ol>\n<p>希望 AI 能迅速完成科技平权，带来一个新的增长时代</p>",
+      "description": "<p>本来是搞 odoo 开发的，现在有点不知道干啥了</p>",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -63,7 +158,7 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-06-09T03:16:56Z"
+      "published": "2026-06-09T02:53:29Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -124,6 +219,25 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "五年后的程序员会是什么样子呢？",
+      "url": "https://www.v2ex.com/t/1217897#reply94",
+      "location": "",
+      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-04T06:57:37Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "有没有青岛的朋友聊聊近期的互联网招聘情况",
       "url": "https://www.v2ex.com/t/1218634#reply3",
       "location": "",
@@ -144,7 +258,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[30-70 万·上海徐汇] AI 全栈/后端大牛招募，年轻团队等你加入！",
-      "url": "https://www.v2ex.com/t/1218482#reply13",
+      "url": "https://www.v2ex.com/t/1218482#reply21",
       "location": "上海",
       "description": "地点：上海徐汇区<br />薪资：30-70 万/年（面议）<br />学历：本科及以上。<br />经验：2-5 年开发经验，至少 1 年以上 AI 应用或 Agent 开发实战经验。<br />技术：精通全栈/后端开发，并能深度融合 AI 应用。<br />年龄：30 岁以下（团队氛围年轻，特别优秀者可适度放宽）。<br /><br />投递邮箱： lily.chen@purogent.com",
       "source": "gh-relay/v2ex-jobs",
@@ -159,25 +273,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-06T14:48:32Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "五年后的程序员会是什么样子呢？",
-      "url": "https://www.v2ex.com/t/1217897#reply93",
-      "location": "",
-      "description": "闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 <a href=\"https://www.v2ex.com/t/694359\" rel=\"nofollow noopener\" target=\"_blank\">/t/694359</a> ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。<br /><br />如果再往后看 5 年：<br />2031 年，身为程序员的你，会在做什么？",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-04T06:57:37Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -216,44 +311,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-07T03:31:35Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "写了一个小 skill，献给正在准备面试的朋友，祝成功",
-      "url": "https://www.v2ex.com/t/1218325#reply4",
-      "location": "",
-      "description": "<p>最近失业了，到处找面试机会，也一边为即将到来的面试做准备。准备面试时苦于需要不停地手动请教 AI ，于是我写了一个 skill：</p>\n<pre><code>input: CV （简历）+ JD （目标职位描述），可以指定输出语言（中文/英文）\n\noutput: 一套有良好组织的题库（ html ），点击 question 可以复制一段组织好的 prompt ，输入任一个 AI 工具（比如 claude code ）即可得到详解，并预判面试官的追问\n</code></pre>\n<p>分享给也在准备面试的朋友，欢迎提改进意见或者 h 直接贡献 PR 使它变得更好用，能够真正帮助到大家准备好面试，祝成功</p>\n<p><a href=\"https://github.com/pplam/prepme\" rel=\"nofollow\">https://github.com/pplam/prepme</a></p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T16:10:07Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "应届第一份工作也是戛然而止",
-      "url": "https://www.v2ex.com/t/1218148#reply8",
-      "location": "深圳",
-      "description": "<p>这周刚刚被裁了，很突然，上午还在改 BUG ，下午就被 Leader 和 HR 叫去谈心了，结果也是喜提大礼包。\n虽然我早就有会被裁的预感，不过真的被裁之后还是挺感叹的，算是记录一下个人感想吧。</p>\n<p>本人是 00 年的，一开始上的大专，后来通过了全日制专升本，最后在 24 年毕业。主要是学了游戏开发方面的东西。\n在深圳找了一年，面试了十几次都不如意，要么是面试之后没下文，要么是把我当猪宰（薪资压的很低）。\n最后是在我差不多准备放弃进入这个行业的时候（真的是在年底，11 月左右），这家在深圳做手游的大概能算中小厂的公司找上了我，他们的手游当时在 TapTap 上还能排到比较前的位置。\n也许是缘分，进这家公司的时候整个面试流程非常顺利，只过了一个星期就走完了大概三轮面试，然后直接就发 Offer 了。最后薪资给到了 10K 、十三薪，有食堂包午晚饭，而且除了赶版本以外，大部分时候都是可以双休的。\n对应届生的我来说，其实算是比较满意了，虽然是中小厂，但是感觉也不比大厂差很多。\n后来过年还送过年货、冬装文化衫，还办了一场挺大的年会，第一次感受到这种氛围，当时的感觉只能说是意气风发。</p>\n<p>不过没想到的是，仅仅一年之内，情况就急转直下了。\n或者也不能叫急转直下，25 年之后，福利慢慢开始缩水，一开始是绩效发放时间延迟，后面开始砍节日礼、砍年假，最后连年终的十三也没有了，年会也只能在公司食堂里展开。\n可以说，这一年给我的落差感是挺大的。</p>\n<p>其实基本上是因为营收越来越差。这家公司的营收几乎靠一个上线项目撑着，但是同时开了两个新项目，25 年底这两个项目都经过了小范围的测试，最后发现数据很差，而上线项目的营收也在走下坡路。\n26 年年后，两个新项目都被砍掉了，人员当场解散。而我因为在上线项目组里，所以没有立马走人。</p>\n<p>不过这也让我有了危机感，这之后我除了正常完成业务需求之外的时间都用来刷算法或者提升技术了，只为了后面万一被裁了做准备。后面就是这样度过了几个月，游戏的营收还在持续下跌，第二批裁员名单来了。\n也许 Leader 认为我准备好了，但具体是什么原因，我没有细问。总之，第二批裁员名单上有了我的名字。</p>\n<p>不过真的被叫过去协商离职的时候，我觉得我其实没有想象中的冷静。因为我虽然想过会被裁，不过没想到这么快且这么突然。尽管如此，我还是很快的接受了这一切。有 N+1 ，而且就我认知来说，确实一分没少，公司大概算是仁至义尽了。</p>\n<p>签完离职单之后，回到工位，我平静的浏览了一遍这一年半所做过的东西，把必要的资料备份发回自己的电脑之后，就这样结束了，明天不用再来上班了。很突然，以至于我到现在感觉还有点没有回过味来。\n比较有意思的是，上周还有两位同一个部门的同事离职，而我刚刚和他们一起吃完散伙饭。没想到放完假回来，我也要走了。</p>\n<p>回想起来，在这家公司工作这一年半时间感觉总的来说其实还是挺好的，跟同事相处的也算是比较融洽，甚至我一度认为我后面会不舍得提离职。好在，最后公司帮我提了离职，或许也算是一个解脱把。</p>\n<p>虽然没能陪这家公司走到最后，不过我这应该也算是达成“干倒一家”的成就了。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-05T03:55:38Z"
     }
   ],
   "total_entries": 50
