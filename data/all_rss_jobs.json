@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T06:17:02.398741+00:00",
+  "generated_at": "2026-06-12T06:12:48.135167+00:00",
   "jobs": [
     {
       "company": "HN Jobs (YC companies hiring)",
@@ -403,6 +403,44 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "CH 传媒 招聘合集 · 40 个热招岗位 远程居家办公\n邮箱 zcgs2149@gmail.com",
+      "url": "https://www.v2ex.com/t/1219851#reply3",
+      "location": "远程",
+      "description": "🤖 AI 类<br />AI 效能官 · Agent 架构师 · AI 应用开发工程师 · AI 流程开发工程师 · Agent Ops 工程师 · AI 研发工程师 · AI 产品经理 · AI 设计师 · AI 效能工程师 · AI 产品研发工程师 · ComfyUI 工程师 · AI 内容创作<br /><br />💻 技术类<br />Java 高级架构师 · Java 高级工程师 · 大数据开发工程师 · GPU 系统优化工程师 · C++后端开发工程师 · Go 开发工程师 · Web 前端开发工程师 · 高级前端架构师 · 安卓 Flutter SDK 工程师 · AI 爬虫工程师 · DevOps 工程师 · 数仓负责人<br /><br />📦 产品类<br />高级产品经理 · AI 产品经理 · 内容增长型产品经理 · 运营系统产品经理 · 项目经理/PO<br /><br />🎨 其他<br />UI 设计师 · 高级 UI 设计师 · 测试工程师 · 推荐算法工程师 · 量化算法工程师 · 高级数据挖掘工程师 · 百度 SEO 优化专员 · 谷歌 SEO 优化专员 · 运维工程师",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-12T03:29:15Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "AI 陪伴产品招远程岗位：全栈开发工程师/文本训练工程师/视频训练工程师/数据工程师/产品经理",
+      "url": "https://www.v2ex.com/t/1219661#reply2",
+      "location": "远程",
+      "description": "<p>我们是专注 AI 陪伴方向的团队，旗下产品有情感陪伴，NSFW 伴侣产品，AI 游戏平台等</p>\n<p>公司主体在美国，目前招聘以下远程全职岗位：</p>\n<p>1 ，高级全栈开发工程师：</p>\n<p>负责公司旗下产品前后端的开发与上线（ Java + Vue 3/TypeScript ）</p>\n<p>5 年以上全栈开发经验，有独立负责一个完整业务领域的经历\n一年以上 AI 辅助编程实战经验（ Claude Code/Cursor 或同类工具）\n适应快速迭代的交付节奏，有远程协作自觉性\n做过支付、结算、账务类系统者优先\n有 AI 应用开发经验者优先</p>\n<p>2 ，文本大模型训练专家</p>\n<p>建立专属小参数文本模型，对对话和叙事质量负责</p>\n<p>基于优秀开源大模型，并执行面向 NSFW 叙事场景的微调训练方案\n构建与清洗华语叙事 / 对话语料，建立数据飞轮\n设计对话质量、角色一致性、长程记忆的评测体系并持续迭代\n优化小参数模型的推理成本与响应速度，推动线上部署</p>\n<p>要求：</p>\n<p>熟悉 LLM 微调经验\n能独立完成从数据到评测的闭环\n有垂直领域小参数模型落地经验\n熟悉角色扮演 / 长程对话记忆方案</p>\n<p>有 hugging face 模型作品优先</p>\n<p>3 ，视频训练专家</p>\n<p>基于优秀开源视频生成模型做深度微调，覆盖仿真人与动漫两个垂直领域\n构建画质、动作一致性、时序连贯、prompt 跟随度的量化评测体系\n建立数据采集与清洗管线，持续提升生成质量</p>\n<p>要求：</p>\n<p>扎实的视频 / 图像生成模型训练经验（扩散模型等）\n熟悉相关训练、微调与评测方法</p>\n<p>有 C 站，hugging face 模型作品优先</p>\n<p>4 ，AI 数据工程师</p>\n<p>设计并搭建面向语言模型训练的数据管线（采集、清洗、去重、质量评估）\n构建 NSFW 领域的语料与多模态数据集，建立标注规范与标注工作流\n搭建数据质量评测与监控体系，支撑模型训练的数据飞轮</p>\n<p>要求：</p>\n<p>扎实的数据工程经验（ ETL 、数据管线、分布式处理）\n熟悉训练数据的构建、清洗与评测，熟练使用 Python 及主流数据工具\n有语言模型数据建设经验，搭建过数据标注平台或标注流程</p>\n<p>5 ，AI 产品经理</p>\n<p>定义 AI 伴侣与创作者工具链的产品方向与迭代节奏\n把模型能力翻译成创作者与用户可感知的体验\n建立数据驱动的产品决策，平衡创作者收益与用户体验\n参与新产品形态（影游 / 游戏）的早期探索</p>\n<p>项目长期稳定，薪资结算灵活</p>\n<p>另在小参数模型训练，视频训练等岗位我们也可以采取项目制或顾问制，如果您不方便远程加入，但具备这方面的能力和一定空余时间，我们也可以采取项目制合作按结果付费</p>\n<p>另外也正在招募推广增长经理，品类运营经理（男性向，女性向，不同语种等），有相关经验者也欢迎联系</p>\n<p>联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t</p>\n<p>联系 VX （ Base64 ）：QzU3OTY4MDA=</p>\n<p>联系 TG （ Base64 ）：QGN6YWs5</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-11T07:59:36Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "寻找一位 AI 应用工程师： LLM + Agent，参与 BioAI 落地产品研发",
       "url": "https://www.v2ex.com/t/1219617#reply0",
       "location": "上海",
@@ -461,7 +499,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "如果读研的话，大家认为选择什么方向最好",
-      "url": "https://www.v2ex.com/t/1219474#reply7",
+      "url": "https://www.v2ex.com/t/1219474#reply8",
       "location": "",
       "description": "比如 计算机视觉、图像处理与多模态感知、人工智能、大模型、机器学习与智能算法、物联网、边缘计算这些方向如果要选择该怎么选呢，有无这些方向毕业的研究生大哥。",
       "source": "gh-relay/v2ex-jobs",
@@ -480,7 +518,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "给大家注入一点 AI 焦虑，和一些破局思考",
-      "url": "https://www.v2ex.com/t/1218995#reply36",
+      "url": "https://www.v2ex.com/t/1218995#reply37",
       "location": "",
       "description": "<p>最近 AI 的讨论浓度明显在 V 站上升了，今早看到了两个质疑 AI 能做啥的帖子，有感而发</p>\n<p><em>首先做一个限定，以下的工作都是基于 Claude Code Opus 4.8 MAX FAST/CodeX GPT 5.5 FAST 进行的</em></p>\n<p>最近 AI 干的活儿：</p>\n<ol>\n<li>给 Linux Kernel 提了两个 patch ，重构了我们以前看护的模块里面的非常长久的历史问题，性能实测提升非常明显。整个开发、测试脚手架更新、测试执行、报告撰写都是 Agent 做的，现在正在 RFC</li>\n<li>抽取了几个网红交易框架的设计，然后叠加了自己的思路，Vibe 了一个低频交易选股系统。现在家属负责每天执行，实盘胜率 60%，我看了一眼日志，最近一个月捕捉了两个 20%+、若干 10%</li>\n<li>从零基于公开的 datasheet 开发了一个 soc 的仿真器，支持 ring 上对齐级别的模块仿真和接口级的系统仿真。下一步准备按 qemu 组件的模型重构，接入 qemu 。</li>\n<li>现在日常感觉丧失了写代码的兴趣，但是 vibe 的热情不断燃烧。每天各种奇思妙想都想丢给 cc 或者 codex 实现，然后有啥吃操作的就写给 hermes</li>\n</ol>\n<p>可以看到 AI 几乎在我的工作中，影响横跨了软硬芯。客观来说，我认为现阶段的 AI 已经具备了极强的工程实现能力，工程规模也已经不再是 AI 和人类开发的能力边界了。</p>\n<p>但是伴随深度的实际工程应用，我觉得对于我们这代人的破局点反而是清晰度的：</p>\n<ol>\n<li>AI 不产生创意，只是能更快速的实现创意。有可能 2010-2015 互联网繁荣可能重现，寡头们更难通过技术霸权形成垄断，idea 的价值会重新回归到主生态位</li>\n<li>行业的后来者如果不躬身亲为几个大型项目，有可能会撞上一个隐形天花板，设计能力的重要性会被放大，老登们的古法经验会成为一个护城河</li>\n<li>软硬件边界会被 AI 彻底打破，所有人都可以尝试去成为行业的先行者，硬件创新说不定会迎来一次“互联网时刻”</li>\n</ol>\n<p>希望 AI 能迅速完成科技平权，带来一个新的增长时代</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -499,7 +537,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "盛大集团面经（专升本毕业 9 个月,99%代码靠 AI 写）",
-      "url": "https://www.v2ex.com/t/1218676#reply53",
+      "url": "https://www.v2ex.com/t/1218676#reply54",
       "location": "",
       "description": "<p>记录一下，盛大旗下一个做 deep research 的子公司，agent / 全栈方向，三轮面下来的过程。</p>\n<p>先交代下背景。我今年应届，毕业五个月。读书的时候有三段实习：智慧芽（苏州做专利数据库那家，在算法组做 AI 对话、PDF 问答，也写过前端中台）、西湖大学（做 AI 应用，多模型组织起来生成论文综述那种）、商汤（给内部算法团队做大模型测试平台，多模态问答的量化评测）。毕业后没去大厂，进了一家小公司，前端身份入职，但基本啥都干了——写过一两个月前端，做过销售（自己主动跟老板说要去合肥、江苏见客户、进工厂理解需求），还干过技术支持、后端、算法，C# 写过 VS 的代码插件，Rust 写过企业连接器，Python 也搞过。对自己的要求就是不设边界。</p>\n<p>代码 90% 以上是 AI 写的，平时会把工作和自己感兴趣的东西沉淀成开源项目和博客。GitHub 在这： <a href=\"https://github.com/tt-a1i\" rel=\"nofollow\">https://github.com/tt-a1i</a> ，掘金在这： <a href=\"https://juejin.cn/user/2175258804632332\" rel=\"nofollow\">https://juejin.cn/user/2175258804632332</a> 。开源基本都是 AI coding agent 这个方向的，archify 、hive 、MiroFish 本地版那些（ MiroFish 本地版就是这次二面、三面的任务，我后面会讲）。</p>\n<p>本来是冲着 AI 用得溜去面的，结果一面差点把我自信心干没了。发出来给同样靠 AI 、做全栈或者 agent 方向的兄弟当个镜子。三轮下来我最大的感受是：AI 用得再溜没用，凡是 AI 写的、或者沿用别人的，面试官一句「为什么」就能把你问到说不出话。</p>\n<hr />\n<h2>一面：自信进去，被基础题打回原形</h2>\n<p>岗位本来投的 React Native ，面试官看了简历直接改全栈面。40 分钟没考算法没问八股，全程顺着我简历往死里追问，最后还来了道纯手写题。后来我才反应过来，他全程就想确认一件事：这些东西到底是我懂，还是 AI 懂。</p>\n<p>第一个翻车的是技术选型。他问我后端写 C# 又写 Rust ，自己开公司选哪个，我张口就「选 Rust 」，类型安全内存安全对 AI 友好（能编译过线上基本不报语法错误）……讲得挺顺。然后他来了句：</p>\n<blockquote>\n<p>你有没有发现，我问这个问题的时候根本没问你要做什么业务，你就直接给我 Rust 这个答案？</p>\n</blockquote>\n<p>当场被点醒，选型脱离业务场景纯属耍流氓。后面还补刀「你想过自己开公司 Rust 不好招人吗」，我只能认怂。</p>\n<p>然后是 gRPC ，连环追问，我全军覆没：</p>\n<ul>\n<li>gRPC 和 HTTP 区别？——基于 HTTP/2 ，效率高，多用于微服务。</li>\n<li>为什么效率高？——「之前看过……记不清了」</li>\n<li>JSON 不行吗？——「 JSON 应该可以，但我没想过为什么用 proto 」</li>\n<li>为什么选 gRPC ？——「沿用后端同事的，我接到任务第二天就开始写了，主要靠 AI 」</li>\n</ul>\n<p>最后这句基本是自爆。一个「为什么高」答不上，一个「为什么选」说不清，直接把底裤问没了。<",
       "source": "gh-relay/v2ex-jobs",
@@ -533,120 +571,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-09T12:17:37Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "头部 FinTech 平台 · AI CTO · 月薪 150k · 老板是连续创业者兼天使投资人",
-      "url": "https://www.v2ex.com/t/1219068#reply2",
-      "location": "杭州",
-      "description": "直接说重点：<br />月薪最高 150k + 期权<br />杭州<br />头部 FinTech 平台，注册用户规模大<br />关于这个 CEO：连续创业者，有成功退出经历，亲自投过多位独角兽创始人。他特别欣赏有创业心的人。如果你有创业梦，他可以成为你未来的天使投资人——这不是画饼，是他一直在做的事。<br /><br />你要做的事：<br />从 0 搭建财务 AI Agent ，包括意图识别、长链路推理、记忆机制、RAG+知识图谱；<br />全栈架构统筹+金融级数据安全；<br />组建算法×工程融合团队。技术方向你定，不是来执行别人方案的。<br /><br />需要你有：<br />8 年+研发经验，带过 5 人以上团队；<br />真实落地过 0 到 1 的 AI 产品；<br />算法和工程都能说得上话，自己能写代码；<br />FinTech 经验优先。<br /><br />能给到这个薪资的公司很多，但老板本身就是你创业路上潜在贵人的机会，可遇不可求。<br />自荐或推荐都欢迎，评论区回复或私信均可。成功推荐重酬感谢。<br />可以加 vx：heysoso1 ，发简历 or LinkedIn 来聊",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-09T06:37:17Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "阿里国际(Aliexpress)急招 Agent 开发，流程快，最核心的交易业务，速来",
-      "url": "https://www.v2ex.com/t/1219071#reply1",
-      "location": "",
-      "description": "职位描述<br />1 、负责阿里国际(Aliexpress)电商交易系统的购物车、下单、订单管理和逆向流程的开发与优化，确保交易流程的顺畅与高效。<br />2 、设计并实施高可用、高性能的 Java 架构，以支持大规模并发交易处理。<br />3 、参与 Agent 开发，提升系统自动化处理能力和智能化水平。<br />4 、与团队协作，利用大模型训练技术，优化 Agent 处理效率和正确率。<br /><br />职位要求<br />1 、本科及以上学历，计算机科学或相关专业，扎实的 Java 基础和架构设计能力。<br />2 、具有至少 3 年的 Java/python 或者其他语音开发经验，有实际的 Agent 开发项目经验者优先。<br />3 、熟悉大模型训练技术，有实际应用经验者更佳。<br />4 、良好的团队合作精神，具备优秀的沟通和协调能力，能与跨部门团队有效协作。<br />5 、对电商交易流程有深入理解，善于解决问题，有创新思维，致力于提升交易系统的质量和效率。<br /><br />流程超快，速来，我专程跟进。<br /><br />(985 、211 、双一流） 或者 （中大厂经验）<br /><br />联系 vx：czQ1NDU2OTQ2 (base64)",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-09T06:40:25Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "程序员！勇敢的拥抱 AI 时代！",
-      "url": "https://www.v2ex.com/t/1218898#reply39",
-      "location": "",
-      "description": "<h3>当前大家对 ai 有这么几种观点：</h3>\n<h4>担心被 ai 技术取代。</h4>\n<p>一些程序员觉得自己的工作会被 ai 取代，有些担忧的情绪。</p>\n<h4>被厂商洗脑，盲目鼓吹 ai 。</h4>\n<ul>\n<li>\n<p>一些人盲目的搞 vibe coding ，在没有现实需求的情况下，生成一堆毫无意义的代码。</p>\n</li>\n<li>\n<p>还有一些人甚至产生了莫名的优越感。认为，谁用的 token 多谁厉害，谁用的模型贵谁厉害；鼓吹所谓：会使用 AI 的淘汰不会使用的。制造焦虑。</p>\n</li>\n</ul>\n<h3>我的观点：</h3>\n<h4>不要搞毫无意义的 vibe coding 。</h4>\n<ul>\n<li>要从现实需求出发，来利用好 ai 。</li>\n<li>任何时候只有付出劳动才有价值。如果你的 vibe coding 的代码，任何人都可以轻而易举的复刻，那么就没有价值。</li>\n</ul>\n<h4>不要焦虑。</h4>\n<ul>\n<li>不要担心程序员会失业，ai 时代现在才刚刚开始，还需要程序员做大量的工作。</li>\n</ul>\n<h4>勇敢的拥抱 AI 时代。</h4>\n<ul>\n<li>我们是最靠近 ai 的人群，如果说收益，没人比程序员会更先收益，更有回报。</li>\n<li>但是，拥抱 ai,不是简单的使用 ai 来编写代码，而是应该深刻的认识到，后 ai 时代，软件的范式已经发生变化。</li>\n<li>我们不应该简单的面向人编程，而应该面向 agent 编程。过去我们开发业务系统，未来我们要开发各种各样的 agent 。</li>\n<li>目前 ai 应用还需要完成大量的工程化落地的工作，大量的 agent 基础设施需要建设，包括：推理、记忆、信息搜索、上下文管理,框架、接口、数据库、通信协议。</li>\n<li>现实是复杂的，不可一个 agent 解决所有的问题。面对不同业务场景和条件制约，需要开发不同的 agent ，更需要完善不同的技术栈。</li>\n<li>我们要勇敢的拥抱 AI ，不要做鸵鸟，搞懂大模型是如何训练的，agent 是如何实现的，如何用 ai 来改造和优化现有的业务。</li>\n</ul>\n<h4>总结：</h4>\n<ul>\n<li>人类的需求，其实几千年来没有什么变化，但是，满足需求的手段、技术、方式发生了翻天覆地的变化。建议大家可以从自己日常使用的软件开始，比如笔记软件，尝试用 ai 来完成自己的信息搜集、管理等等需求。</li>\n</ul>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-08T18:06:20Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "请教一下，现在学 agent 开发还是 ue 开发更有用点。",
-      "url": "https://www.v2ex.com/t/1218985#reply2",
-      "location": "",
-      "description": "<p>本来是搞 odoo 开发的，现在有点不知道干啥了</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-09T02:53:29Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[求合作/远程] AI-native 全栈开发｜ Agent / 自动化 / MVP 快速交付",
-      "url": "https://www.v2ex.com/t/1218888#reply0",
-      "location": "远程",
-      "description": "13 年软件开发经验，<br /><br />做过企业级后端、分布式系统、全栈开发。<br /><br />近两年开始重点转向 AI Workflow / Agent 工程化方向，<br />长期深度使用 Claude Code 、Codex 等 AI Coding 工具，<br />探索如何真正提升软件开发效率，而不仅仅是“代码补全”。<br /><br />最近也在做一个 AI-native 自动化开发工作流项目（ Nezha ），<br />重点探索：<br /><br />- 需求拆解<br />- 多任务编排<br />- 自动化代码生成与验证<br />- Feature Branch 隔离<br />- 测试与交付流程自动化<br /><br />希望把 AI 从“代码辅助工具”，进一步变成真正参与软件工程流程的协作者。<br /><br />目前主要希望寻找：<br /><br />- AI 应用<br />- Agent Workflow<br />- 自动化系统<br />- SaaS / 管理后台<br />- MVP 快速验证<br />- 企业内部工具<br /><br />等方向的远程 / 兼职 / 项目合作。<br /><br />偏结果导向，<br />希望通过 AI Workflow 尽可能压缩开发周期，<br />快速交付真正可运行、可验证的产品。<br /><br />项目介绍：<br /><a href=\"https://blog.geekslife.cn/projects/nezha-framework\" rel=\"nofollow noopener\" target=\"_blank\">https://blog.geekslife.cn/projects/nezha-framework</a><br /><br />GitHub：<br /><a href=\"https://github.com/ganluCode\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/ganluCode</a><br /><br />联系微信：itPhoto414",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-08T15:08:31Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "招聘：\nPosition 一： CFO（Web3/CEX），\nPosition 二：高级前端工程师（预测市场）",
-      "url": "https://www.v2ex.com/t/1219449#reply0",
-      "location": "Remote",
-      "description": "Position 一：CFO （ Web3/CEX ）<br />Job Type: Full-Time ，Onsite-HK<br />Salary：$ 300K/y/500K/y 左右 + 期权<br />PS：<br />1 、负责搭建离岸架构与股权设计（含 ESOP ）、协助申请金融牌照，并建立稳定币结算相关的财务记账、AML/KYC 及风控机制。<br />2 、主导早期融资、财务尽调与条款谈判，统筹财务管理体系、内控预算、税务审计及证券业务资金调度。<br />3 、要求 10 年以上财务经验（含 5 年证券/投行/金融科技），熟悉境外架构与跨境资金，持有 CPA/CFA/ACCA ；有数字资产/牌照申请经验及高层推荐信者优先，中英文商务沟通流利。<br /><br />Position 二：高级前端工程师（预测市场）<br />Job Type: Full-Time ，Remote<br />Salary：RMB  base 40K/m 以内<br />PS：<br />1 、负责交易所核心前端系统（ Web/H5 ，覆盖行情、交易、资产等）的设计与优化，主导架构演进与工程治理。<br />2 、要求 3 年以上中大型前端项目经验，必须有（ CEX/DEX ）交易所或金融交易产品经验；精通 React/Vue 等主流技术栈，能独立负责复杂模块并带领小团队。<br />3 、必须熟练使用 AI Agent 工具提效，具备强沟通协作与 ownership ，有实际团队或项目管理经验。<br /><br /><br />请携带简历咨询，谢谢；<br />TG：@jtx_2023<br />E: justinxu@futuretalent.com.cn",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-10T11:44:32Z"
     }
   ]
 }
