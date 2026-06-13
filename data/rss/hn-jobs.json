@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:12:48.135167+00:00",
+  "generated_at": "2026-06-13T05:56:34.214157+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci\">https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48503717\">https://news.ycombinator.com/item?id=48503717</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 12 Jun 2026 13:14:18 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 25 May 2026 17:00:27 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
-      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
-      "location": "remote",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481\">https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48267324\">https://news.ycombinator.com/item?id=48267324</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 25 May 2026 14:32:47 +0000"
     }
   ],
   "total_entries": 20
