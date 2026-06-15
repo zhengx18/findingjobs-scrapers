@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T06:15:28.193322+00:00",
+  "generated_at": "2026-06-15T06:56:14.864242+00:00",
   "jobs": [
     {
       "company": "HN Jobs (YC companies hiring)",
@@ -403,8 +403,103 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "[上海][外企] AI Full-Stack Engineer 全栈工程师",
+      "url": "https://www.v2ex.com/t/1220544#reply1",
+      "location": "上海",
+      "description": "<p>AI Team - AI Full-Stack Engineer ，参与设计、开发和维护企业级 AI Agent 平台。与产品、FDE 和业务团队紧密协作，快速交付 AI-powered features ，并将 AI Agent / Skill 落到业务工作流中。</p>\n<p>需要具备全栈开发能力，熟悉现代 Web 应用开发技术栈；对 AI Agent 、LLM 应用工程及企业级 Skill 体系建设有实际兴趣或项目经验，能够参与知识库、工具调用、工作流编排、企业系统集成等 AI 能力的设计与开发。</p>\n<p>具备良好的英文阅读与书面沟通能力，能够阅读英文技术文档、API 文档及开源项目资料，并能在国际化团队环境中进行日常协作。</p>\n<h2>Responsibilities / 岗位职责</h2>\n<ol>\n<li>开发和维护 AI Agent 应用模块，包括对话系统、知识库、工作流引擎、Agent 配置和 Skill 管理等功能。</li>\n<li>集成大语言模型能力，包括多轮对话、RAG 、Tool Calling 、工作流编排、Prompt 管理和 Skill 集成。</li>\n<li>构建和接入 Agent Skills 与 Tools ，包括 API Skills 、Workflow Skills 、Script Skills 、MCP Tools ，以及企业内部企业系统集成。</li>\n<li>参与 Skill 执行机制、权限控制、上下文管理、工具协议和调用链路设计。</li>\n<li>开发前端界面，包括 Chat UI 、Agent 配置页面、Skill 管理页面、Workflow 可视化页面和运营看板。</li>\n<li>开发后端 API 、数据模型、任务调度和系统集成服务，支撑 Agent 平台稳定运行。</li>\n<li>参与 Context 数据闭环建设，采集 AI 调用、用户选择、修改反馈和使用结果，并沉淀到结构化数据中。</li>\n<li>与产品、FDE 和业务团队协作，面向真实业务场景快速交付 AI 功能和 MVP 工具。</li>\n</ol>\n<h2>Requirements / 任职要求</h2>\n<ol>\n<li>2-5 年相关软件开发经验，有完整应用、内部工具或企业系统开发经验。</li>\n<li>本科及以上学历，计算机科学、软件工程、信息系统或相关专业优先。</li>\n<li>熟悉 Vue 或 React ，并具备前端页面、组件和状态管理开发经验。</li>\n<li>熟悉 FastAPI 或类似后端框架，能够独立开发 API 、服务逻辑和基础系统集成。</li>\n<li>熟悉 PostgreSQL 、MySQL 、Redis 等常见数据库和缓存系统。</li>\n<li>理解 LLM 应用开发中的基础概念，如 Prompt 、RAG 、Tool Calling 、Function Calling 、Embedding 、Agent Workflow 等。</li>\n<li>具备良好的代码规范、工程意识和团队协作能力。</li>\n<li>能够用中文清晰沟通，英文技术文档阅读无障碍。</li>\n</ol>\n<h2>Nice to Have / 加分项</h2>\n<ol>\n<li>有 LLM / Agent / RAG / Workflow Automation 相关项目经验。</li>\n<li>有 LangChain 、Agno 、Dify 、n8n 、AutoGen 、CrewAI 、MCP 等",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-15T06:25:45Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[内推] 渣打银行广州全新岗位， ML 全栈， DLT 区块链全栈， C++交易系统开发",
+      "url": "https://www.v2ex.com/t/1220520#reply4",
+      "location": "广州",
+      "description": "<p>社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。</p>\n<p>英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==</p>\n<p>4 个全新岗位上线，Base 广州，外资银行技术岗，简历直达 HR 。</p>\n<h3>详情速览</h3>\n<ul>\n<li><strong>Specialist, ML-Engineer</strong>：全栈工程师，参与 AI 应用平台从 0 到 1 建设，负责前后端开发（ Python/FastAPI + React ），集成 LLM 、RAG 、Agent 框架到生产级系统。</li>\n<li><strong>AI-Ops-Engineer</strong>：AI 基础设施运维，设计和交付混合 AI 平台，管理 Databricks/本地集群上的 MLOps 和 LLMOps 管线，搭建监控体系保障 SLA 。</li>\n<li><strong>DLT-Senior-Full-Stack-Engineer</strong>：加入分布式账本技术卓越中心，端到端开发区块链基础设施、数字资产、企业级集成项目，全栈开发岗位。</li>\n<li>**Mgr, Development-C++**：加入金融市场外汇电子交易开发团队，负责 C++ 系统组件设计与开发，服务于全球多市场交易平台。</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>职位</th>\n<th>地点</th>\n<th>Band</th>\n<th>截止日期</th>\n<th>一句话概括</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/Specialist%2C-ML-Engineer/49240-en_GB\" rel=\"nofollow\">Specialist, ML-Engineer</a></td>\n<td>广州</td>\n<td>6</td>\n<td>2026/11/01</td>\n<td>全栈开发构建 AI 应用平台，用 Python + React 整合大模型和 RAG 能力到生产系统</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/AI-Ops-Engineer/56088-en_GB\" rel=\"nofollow\">AI-Ops-Engineer</a></td>\n<td>广州</td>\n<td>6</td>\n<td>2026/11/01</td>\n<td>负责 AI 平台运维建设，管理 MLOps/LLMOps 流程和 GPU 集群，保障 AI 服务稳定高效</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/DLT-Senior-Full-Stack-Engineer/56194-en_GB\" rel=\"nofollow\">DLT-Senior-Full-Stack-Engineer</a></td>\n<td>广州</td>\n<td>6</td>\n<td>2026/11/01</td>\n<td>区块链全栈开发，构建数字资产和企业级分布式账本基础设施</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standa",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-15T05:07:01Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[内推] 渣打银行广州/天津 在招岗位全量汇总 (Band 5-7)",
+      "url": "https://www.v2ex.com/t/1220528#reply0",
+      "location": "广州",
+      "description": "<p>47 个职位、58 个空缺。外资银行技术/业务岗，简历直达 HR 。</p>\n<p>社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。</p>\n<p>英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==</p>\n<p>广州 20 个 | 天津 27 个</p>\n<h2>🤖 AI &amp; 数据</h2>\n<table>\n<thead>\n<tr>\n<th>职位</th>\n<th>地点</th>\n<th>Band</th>\n<th>截止日期</th>\n<th>缺口</th>\n<th>概述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/Director%2C-AI-Software-Engineering/49233-en_GB\" rel=\"nofollow\">Director, AI-Software-Engineering</a></td>\n<td>Guangzhou</td>\n<td>5</td>\n<td>2026/09/30</td>\n<td>1</td>\n<td>AI 软件工程总监，主导 AI 技术战略与工程团队管理</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/AI-Lead-Engineer/51754-en_GB\" rel=\"nofollow\">AI-Lead-Engineer</a></td>\n<td>Tianjin</td>\n<td>6</td>\n<td>-</td>\n<td>1</td>\n<td>AI 技术负责人，带领团队将大模型落地到银行业务场景</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/AI-Ops-Engineer/56088-en_GB\" rel=\"nofollow\">AI-Ops-Engineer</a></td>\n<td>Guangzhou</td>\n<td>6</td>\n<td>2026/08/31</td>\n<td>1</td>\n<td>AI 平台运维，管理 MLOps/LLMOps 流程和 GPU 集群</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/AWS-Engineer/54172-en_GB\" rel=\"nofollow\">AWS-Engineer</a></td>\n<td>Guangzhou</td>\n<td>6</td>\n<td>2026/12/31</td>\n<td>1</td>\n<td>负责 AWS 云基础设施建设和运维，管理容器化集群与高可用架构</td>\n</tr>\n<tr>\n<td><a href=\"https://jobs.standardchartered.com/job/Manager%2C-Data-Engineering/49555-en_GB\" rel=\"nofollow\">Manager, Data-Engineering</a></td>\n<td>Tianjin</td>\n<td>6</td>\n<td>2026/09/30</td>\n<td>1</td>\n<td>数据平台建设，负责数据管道、仓库和大数据基",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-15T05:40:45Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[北京][外企][965][30-60K] 我司招资深后端开发工程师",
+      "url": "https://www.v2ex.com/t/1220270#reply18",
+      "location": "北京",
+      "description": "<h2>我们是做什么的?</h2>\n<p>RightCapital 是一家金融软件公司，核心产品是一款面向美国市场的财务规划 SaaS 系统。客户包括美国的银行、保险公司和券商，他们用我们的系统给美国家庭做财务规划和顾问服务。</p>\n<p>根据 <a href=\"https://www.kitces.com/wp-content/uploads/2025/09/The-Kitces-Report-The-Technology-That-Independent-Financial-Advisors-Actually-Use-And-Like-Vol-1-2025-1.pdf\" rel=\"nofollow\">The Kitces Report</a> 统计，RC 的市场份额从 2021 年的 9.7% 提升至 2025 年的 25.4%，跻身财务规划三巨头（ eMonkey 、RightCapital 、MonkeyGuide ）第二位，并持续增长中。同时客户满意度评分在三巨头中持续保持第一。</p>\n<p>您可以通过 <a href=\"http://www.rightcapital.com/\" rel=\"nofollow\">RightCapital 官网</a> 进一步了解我们的业务，以及 <a href=\"https://www.youtube.com/c/RightCapital\" rel=\"nofollow\">Youtube 频道</a>、  <a href=\"https://help.rightcapital.com/\" rel=\"nofollow\">Help Center</a> 了解我们的产品。</p>\n<h2>在 RC 工作</h2>\n<p>在 RightCapital 工作你可能会发现一些和在国内互联网公司工作非常不一样的地方。</p>\n<h3>质量 &gt; 交付速度</h3>\n<ul>\n<li><strong>写少的代码</strong>：花更多时间思考怎么用最少的代码解决问题。</li>\n<li><strong>写别人愿意读的代码</strong>：好代码是初级工程师也能读懂的代码。我们常说，程序员的客户不是产品经理，而是自己的队友。</li>\n</ul>\n<h3>重视文档</h3>\n<p>文档是思考的工具。把一件事写清楚的过程，本身就是把它想清楚的过程——很多设计上的漏洞，不是在写代码时发现的，而是在写文档、给标题排顺序、被迫把模糊的想法落成文字时暴露出来的。</p>\n<p>得益于文档的沉淀，公司内部的 AI Agent 可以轻而易举的帮助我们快速回顾历史背景，极大地提高了日常工作的效率。</p>\n<h3>极少的会议</h3>\n<p>注意力是工程师最宝贵的资源之一。我们尽量不开不必要的会议，也不希望用会议替代思考。需要对齐一件事时，我们更倾向于先写文档，把背景、问题、选项和判断讲清楚；很多讨论在评论区就能完成，确实需要开会时，也通常是带着文档去开。</p>\n<p>这样做的目的，是让工程师保有大段连续的深度工作时间，也让讨论过程和决策依据以文字形式沉淀下来，方便其他同事和公司内部的 AI Agent 随时回看。</p>\n<h3>利他文化</h3>\n<p>没有一项工作是完全由一个人独立完成的——每个人的产出，或多或少都建立在团队先前的工作和同事的协助之上。正因为如此，我们鼓励大家主动帮助彼此，也鼓励大方地把 Credit 归给提供过帮助的同事。</p>\n<p>在 RC 利他是一种默认假设：当你遇到问题去问别人时，你可以预期得到",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-14T02:56:40Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "拼多多海外治理团队招聘",
+      "url": "https://www.v2ex.com/t/1220481#reply1",
+      "location": "",
+      "description": "岗位职责<br />1 、负责平台，包括规则引擎、检索中心、处罚中心、审核中心等系统的开发；<br /><br />2 、负责高可用业务模块、规则引擎、搜索中心、数据收集等模块的设计、实现和优化；<br /><br />3 、负责系统线上问题的排查、定位和解决，持续优化性能和效率；<br /><br />4 、完成项目需求分析、架构优化、代码实现，保证项目进度和质量。<br /><br />任职要求<br />1 、本科学历，1 年以上互联网研发和架构经验，技术基础扎实，熟悉常用设计模式；<br /><br />2 、熟悉常用数据结构和算法，熟悉 web 开发相关技术栈；<br /><br />3 、熟悉 MySQL 、Redis 、ElasticSearch 、hbase 、kafka 等开源组件原理和特性，并能熟练应用；<br /><br />4 、有较强的责任心和 Owner 意识，具有团队精神、责任感强、具备服务意识；<br /><br />5 、有电商领域风控和经验，或规则引擎研发经验者优先。<br /><br />邮箱:shuimuqinghua77@gmail.com",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-15T03:01:35Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "是不是大部分程序员都会被大模型替代",
-      "url": "https://www.v2ex.com/t/1220221#reply20",
+      "url": "https://www.v2ex.com/t/1220221#reply30",
       "location": "",
       "description": "今天突然想到，如果把程序员看作是人类语言/思维和机器语言之间的翻译官的话，人与人之间的不同语言的交流可以基于模型实现，那么是不是早晚有一天低端的翻译会被机器替代，留下的都是头部的领头人。",
       "source": "gh-relay/v2ex-jobs",
@@ -422,10 +517,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "[北京][外企][965][30-60K] 我司招资深后端开发工程师",
-      "url": "https://www.v2ex.com/t/1220270#reply2",
-      "location": "北京",
-      "description": "<h2>我们是做什么的?</h2>\n<p>RightCapital 是一家金融软件公司，核心产品是一款面向美国市场的财务规划 SaaS 系统。客户包括美国的银行、保险公司和券商，他们用我们的系统给美国家庭做财务规划和顾问服务。</p>\n<p>根据 <a href=\"https://www.kitces.com/wp-content/uploads/2025/09/The-Kitces-Report-The-Technology-That-Independent-Financial-Advisors-Actually-Use-And-Like-Vol-1-2025-1.pdf\" rel=\"nofollow\">The Kitces Report</a> 统计，RC 的市场份额从 2021 年的 9.7% 提升至 2025 年的 25.4%，跻身财务规划三巨头（ eMonkey 、RightCapital 、MonkeyGuide ）第二位，并持续增长中。同时客户满意度评分在三巨头中持续保持第一。</p>\n<p>您可以通过 <a href=\"http://www.rightcapital.com/\" rel=\"nofollow\">RightCapital 官网</a> 进一步了解我们的业务，以及 <a href=\"https://www.youtube.com/c/RightCapital\" rel=\"nofollow\">Youtube 频道</a>、  <a href=\"https://help.rightcapital.com/\" rel=\"nofollow\">Help Center</a> 了解我们的产品。</p>\n<h2>在 RC 工作</h2>\n<p>在 RightCapital 工作你可能会发现一些和在国内互联网公司工作非常不一样的地方。</p>\n<h3>质量 &gt; 交付速度</h3>\n<ul>\n<li><strong>写少的代码</strong>：花更多时间思考怎么用最少的代码解决问题。</li>\n<li><strong>写别人愿意读的代码</strong>：好代码是初级工程师也能读懂的代码。我们常说，程序员的客户不是产品经理，而是自己的队友。</li>\n</ul>\n<h3>重视文档</h3>\n<p>文档是思考的工具。把一件事写清楚的过程，本身就是把它想清楚的过程——很多设计上的漏洞，不是在写代码时发现的，而是在写文档、给标题排顺序、被迫把模糊的想法落成文字时暴露出来的。</p>\n<p>得益于文档的沉淀，公司内部的 AI Agent 可以轻而易举的帮助我们快速回顾历史背景，极大地提高了日常工作的效率。</p>\n<h3>极少的会议</h3>\n<p>注意力是工程师最宝贵的资源之一。我们尽量不开不必要的会议，也不希望用会议替代思考。需要对齐一件事时，我们更倾向于先写文档，把背景、问题、选项和判断讲清楚；很多讨论在评论区就能完成，确实需要开会时，也通常是带着文档去开。</p>\n<p>这样做的目的，是让工程师保有大段连续的深度工作时间，也让讨论过程和决策依据以文字形式沉淀下来，方便其他同事和公司内部的 AI Agent 随时回看。</p>\n<h3>利他文化</h3>\n<p>没有一项工作是完全由一个人独立完成的——每个人的产出，或多或少都建立在团队先前的工作和同事的协助之上。正因为如此，我们鼓励大家主动帮助彼此，也鼓励大方地把 Credit 归给提供过帮助的同事。</p>\n<p>在 RC 利他是一种默认假设：当你遇到问题去问别人时，你可以预期得到",
+      "title": "前端代码直接撸影视行情分析界面，---请欣赏---有需要助力的随时 call 欧阳",
+      "url": "https://www.v2ex.com/t/1220396#reply0",
+      "location": "",
+      "description": "<p>前端代码直接撸影视行情分析界面：</p>\n<p><a href=\"https://ludesala.blogspot.com/2026/06/the-front-end-code-was-directly-used-to.html\" rel=\"nofollow\">https://ludesala.blogspot.com/2026/06/the-front-end-code-was-directly-used-to.html</a></p>\n<p>这是以前老朋友，在 6 月 6 号，在微信里，截图问我家是否直接能前端撸界面，由于图标、文字不是很清楚，确实有点难度。好在我老公说能，我就有信心了。对方给的是全款，非在此，非常感谢小伙伴信任。差不多 6 月 7 号开始干活，一直到 6 月 10 号下午，给客户交活了，就需要对 banner 的 js 功能需要修改一下，6 月 11 号给对方修改的代码，对方非常满意。</p>\n<p>这不，又对此相关项目，进行截图大屏数据，要求再撸界面，这次难度有点大，对方正在写需求文档种。</p>",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -437,7 +532,26 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-06-14T02:56:40Z"
+      "published": "2026-06-14T16:24:34Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "远程后端工程师 20-35K，年底 13 薪",
+      "url": "https://www.v2ex.com/t/1220112#reply6",
+      "location": "远程",
+      "description": "岗位职责：<br />1 、负责核心业务高并发、大流量系统的设计与研发，包括 QPS 优化、P99 延迟优化、容量预估、热点缓存及无状态扩缩容等场景建设。<br />2 、负责业务服务端性能优化，包括路由优化、连接池管理、数据库查询优化、缓存设计、Opcache 、静态化及消息队列等能力建设。<br />3 、负责服务端高可用与稳定性建设，包括限流、降级、熔断、重试、超时控制、监控告警及灰度发布、回滚机制等。<br />4 、参与数据库架构优化，包括表结构设计、索引优化、分库分表方案设计、业务一致性保障及数据迁移方案制定。<br />5 、推动工程化体系建设，包括单元测试、集成测试、CI/CD 流程、监控体系、日志追踪及代码规范落地。<br />6 、参与系统架构评审，输出技术方案文档，并推动跨团队协作与项目落地。<br />7 、持续优化系统性能、稳定性及研发效率，支撑业务快速发展。<br /><br />任职要求：<br />1 、熟练使用主流 Go 开发框架（ Gin 、go-zero 、Kratos 任一），具备扎实的 Go 语言开发能力。<br />2 、熟练使用 mongo-go-driver 、go-redis 、go-elasticsearch 等数据访问客户端，具备相关项目实践经验。<br />3 、熟悉 gRPC 、Protobuf ，能够独立完成服务间接口设计与开发。<br />4 、具备完整的 CI/CD 及容器化交付经验，熟悉 Docker 、Kubernetes 、GitLab CI 或 GitHub Actions 。<br />5 、熟悉 zap 或 slog 日志体系、Prometheus 监控指标及 OpenTelemetry 链路追踪，具备良好的代码规范与工程化意识。<br />6 ，具备 5 年以上 PHP 开发经验，熟悉 PHP 7 至 PHP 8 迁移及兼容方案，精通 Yaf 、Yii 、Laravel 等主流框架。<br /><br />加分项：<br />1 、具备高并发系统开发经验，熟悉 Redis 、Kafka 、RabbitMQ 、Redis Stream 等中间件的应用与优化。<br />2 、熟悉 Elasticsearch 索引设计、聚合查询及性能调优，具备问题排查与优化经验。<br />3 、熟悉 Swoole 或 Workerman 框架，具备前端基础能力，了解 HTML 、CSS 、JavaScript 及 SEO 相关原理。<br />4 、具备 MySQL 性能优化、慢 SQL 分析、Nginx 与 PHP-FPM 调优经验，具备较强的问题定位及线上故障排查能力。<br /><br />TG: @<a href=\"https://www.v2ex.com/member/hrjiejie_88\" rel=\"nofollow noopener\" target=\"_blank\">hrjiejie_88</a><br />Email： Leed79211@gmail.com",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-13T02:43:54Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -476,25 +590,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-12T17:31:59Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "远程后端工程师 20-35K，年底 13 薪",
-      "url": "https://www.v2ex.com/t/1220112#reply5",
-      "location": "远程",
-      "description": "岗位职责：<br />1 、负责核心业务高并发、大流量系统的设计与研发，包括 QPS 优化、P99 延迟优化、容量预估、热点缓存及无状态扩缩容等场景建设。<br />2 、负责业务服务端性能优化，包括路由优化、连接池管理、数据库查询优化、缓存设计、Opcache 、静态化及消息队列等能力建设。<br />3 、负责服务端高可用与稳定性建设，包括限流、降级、熔断、重试、超时控制、监控告警及灰度发布、回滚机制等。<br />4 、参与数据库架构优化，包括表结构设计、索引优化、分库分表方案设计、业务一致性保障及数据迁移方案制定。<br />5 、推动工程化体系建设，包括单元测试、集成测试、CI/CD 流程、监控体系、日志追踪及代码规范落地。<br />6 、参与系统架构评审，输出技术方案文档，并推动跨团队协作与项目落地。<br />7 、持续优化系统性能、稳定性及研发效率，支撑业务快速发展。<br /><br />任职要求：<br />1 、熟练使用主流 Go 开发框架（ Gin 、go-zero 、Kratos 任一），具备扎实的 Go 语言开发能力。<br />2 、熟练使用 mongo-go-driver 、go-redis 、go-elasticsearch 等数据访问客户端，具备相关项目实践经验。<br />3 、熟悉 gRPC 、Protobuf ，能够独立完成服务间接口设计与开发。<br />4 、具备完整的 CI/CD 及容器化交付经验，熟悉 Docker 、Kubernetes 、GitLab CI 或 GitHub Actions 。<br />5 、熟悉 zap 或 slog 日志体系、Prometheus 监控指标及 OpenTelemetry 链路追踪，具备良好的代码规范与工程化意识。<br />6 ，具备 5 年以上 PHP 开发经验，熟悉 PHP 7 至 PHP 8 迁移及兼容方案，精通 Yaf 、Yii 、Laravel 等主流框架。<br /><br />加分项：<br />1 、具备高并发系统开发经验，熟悉 Redis 、Kafka 、RabbitMQ 、Redis Stream 等中间件的应用与优化。<br />2 、熟悉 Elasticsearch 索引设计、聚合查询及性能调优，具备问题排查与优化经验。<br />3 、熟悉 Swoole 或 Workerman 框架，具备前端基础能力，了解 HTML 、CSS 、JavaScript 及 SEO 相关原理。<br />4 、具备 MySQL 性能优化、慢 SQL 分析、Nginx 与 PHP-FPM 调优经验，具备较强的问题定位及线上故障排查能力。<br /><br />TG: @<a href=\"https://www.v2ex.com/member/hrjiejie_88\" rel=\"nofollow noopener\" target=\"_blank\">hrjiejie_88</a><br />Email： Leed79211@gmail.com",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-13T02:43:54Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -552,44 +647,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-12T03:29:15Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "分享一个我在大阪做独立 FDE，接的制造业 AI 落地项目，具体落地的过程",
-      "url": "https://www.v2ex.com/t/1220072#reply5",
-      "location": "",
-      "description": "<p>客户是关西地区一家做精密零部件的中型制造企业,员工大概 400 人,年营收几十亿日元。不是什么明星公司,是日本制造业里最典型的那种:技术积累深、品控严格、信息化程度不高、平均年龄偏大。</p>\n<p>他们找到我的原因很具体:质检环节出了问题。</p>\n<p>这家公司的质检一直靠老师傅目视。产线上的零部件经过最终检查台,两个经验超过二十年的老师傅拿着放大镜和量具一个一个看。他们的准确率极高,接近 99.7%。可问题是:这两个师傅一个 61 岁,一个 58 岁。三年内两个都要退休。后面的年轻人培养了好几个,准确率最高的一个只有 96%。3.7 个百分点的差距,在精密零部件行业意味着客诉翻倍。</p>\n<p>客户最初的需求很直接:\"能不能用 AI 做质检,替代老师傅的眼睛。\"</p>\n<p>这是一个听起来非常标准的\"AI 视觉检测\"项目。市面上方案一大堆,很多 AI 公司会直接报价:采集图片、标注数据、训练模型、部署边缘设备,三个月交付。</p>\n<p>可我去了现场之后发现事情完全不是这样的。</p>\n<p>第一次去工厂,我没聊 AI,花了一整天站在检查台旁边看老师傅工作。</p>\n<p>看完之后我发现一件事:老师傅检查的不只是\"有没有缺陷\"。他们在做的是一个极其复杂的多维度判断——零件表面的纹路是正常的加工痕迹还是异常划伤?这个微小的凹陷是模具磨损导致的(需要报修模具)还是材料杂质导致的(需要换供应商)?颜色的微妙变化是热处理正常范围内的还是温度异常的信号?</p>\n<p>老师傅不只是在做\"合格/不合格\"的二分类,他们在做\"这个问题的根因是什么\"的诊断。而且这个诊断依赖二十年积累的隐性知识,这些知识从来没有被文档化过。</p>\n<p>如果我按照客户最初的需求直接做一个\"缺陷检测 AI\",结果就是:AI 能告诉你\"这个零件有问题\",但不能告诉你\"问题出在哪里、该修什么\"。对客户来说,这只解决了一半的问题,而且是价值比较低的那一半。</p>\n<p>我回去之后跟客户说了一句不太受欢迎的话:\"你们需要的不是一个 AI 质检系统,是一个知识保全系统。AI 检测是其中的一个模块,但不是核心。\"</p>\n<p>客户一开始不太高兴。他们预期的是\"三个月上一个 AI 质检\",我告诉他们\"这件事比你们想的复杂,而且最有价值的部分不是你们以为的那个部分\"。</p>\n<p>这是做 FDE 最不舒服但最关键的时刻:告诉客户他的需求定义是错的。在中国,这句话直接说就行。在日本,你得用一种让对方不丢面子的方式说。我的说法是:\"贵社的质检水准在业界是非常高的(先肯定),正因为如此,简单的 AI 检测方案可能无法完全承继老师傅们积累的技术资产(把问题框定为'方案不够好'而不是'你的需求错了')。如果可以的话,我想提议一个更能保护贵社技术优势的方案(给出替代)。\"同样的意思,日本式包装。</p>\n<p>最终的方案分三层:</p>\n<p>最底层:把老师傅的判断过程全部录下来。不是录视频,是让老师傅一边检查一边说话。\"这个纹路是 A 模具第三次修模之后的正常痕迹\"\"这种颜色说明热处理温度偏高了大概 10 度\"\"这个凹痕的位置和形状说明是材料问题不是加工问题\"。用了三周时间,录了大概 60 小时的音频。然后用 LLM 做转写和结构化,把这些隐性知识变成一个可检索的知识库。</p>\n<p>中间层:基于这个知识库搭一个 RAG 系统。新的质检员遇到拿不准的零件时,可以拍照上传,系统会从知识库里找到最相关的案例和老师傅的判断逻辑,告诉你\"类似的情况老师傅是这样判断的\"。不是替代人的判断,是给",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-12T16:45:19Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "寻找一位 AI 应用工程师： LLM + Agent，参与 BioAI 落地产品研发",
-      "url": "https://www.v2ex.com/t/1219617#reply3",
-      "location": "上海",
-      "description": "## 公司简介<br />这是一家做生物医药细分领域 AI 应用的科技公司，他们的 AI 应用产品主要是专门为生物医药的企业（包括 top 生物医药的外资企业）作 AI 定制 ，包括但不局限于 AI 数字人（需要具备生物医药的数据场景），生物医药的 AI agent 定制等；目前已经有 2 ，3 个产品在订单交付中，这些订单来自于国内和国际 top 的生物医药企业。公司联创多数是来自外资企业，企业文化更像外资企业文化。<br /><br />## 岗位职责<br />1.负责基于大语言模型（ LLM ）的 AI 产品研发与落地<br />    *   参与生物医药行业 AI 应用、AI Agent 、智能助手等产品的设计、开发与迭代；<br />    *   将大模型能力融入企业业务流程，打造实际可用的 AI 解决方案。<br />2.负责 AI Agent 及知识增强系统开发<br />    *   参与 Agent 工作流设计，包括任务规划、工具调用、知识检索等核心能力建设；<br />    *   负责 RAG 、企业知识库、向量检索等 AI 应用基础能力开发与优化。<br />3.负责 AI 应用系统工程开发**<br />    *   参与后端服务、API 接口及全栈功能开发；<br />    *   搭建稳定、高效、可扩展的 AI 产品技术架构，推动产品从原型到生产环境落地。<br />4.参与客户项目交付与产品持续优化<br />    *   与产品、算法及业务团队协作，为国内外头部生物医药企业提供 AI 解决方案；<br />    *   根据实际业务反馈持续优化模型效果和产品体验。<br /><br />## 任职要求<br />1.工程与后端能力<br />    *   扎实的软件全栈工程能力，具备良好的系统设计与工程实现能力；<br />    *   熟练掌握 Python / Java / Go 等主流开发的至少一种后端开发语言；<br />    *   熟悉 Web 后端开发框架及 API 设计；<br />    *   具备数据库设计与数据处理能力（ MySQL / PostgreSQL 等）。<br /><br />2.LLM / AI 应用能力<br />    *   熟悉大模型应用开发流程（ Prompt Engineering 、RAG 、Tool Calling 等）；<br />    *   熟悉向量数据库及知识库构建与检索（如 Milvus / FAISS / Elasticsearch 等）；<br />    *   有 AI Agent 或 LLM 应用系统开发经验。<br />有复杂业务系统,企业级 AI 产品或实际业务落地经验尤佳<br /><br />## 薪酬福利<br />35-70 万/年 <br /><br />## 招聘流程<br />生物医药领域的联创初面，CEO 二面<br /><br />## 工作地点<br />上海<br /><br />##简历投递<br />joy_ss@foxmail.com",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-11T05:54:27Z"
     }
   ]
 }
