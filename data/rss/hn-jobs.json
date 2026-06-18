@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T06:37:46.571648+00:00",
+  "generated_at": "2026-06-18T06:20:41.054263+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead\">https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48573221\">https://news.ycombinator.com/item?id=48573221</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 17 Jun 2026 17:00:02 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 26 May 2026 17:00:40 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269937\">https://news.ycombinator.com/item?id=48269937</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 25 May 2026 18:18:26 +0000"
     }
   ],
   "total_entries": 20
