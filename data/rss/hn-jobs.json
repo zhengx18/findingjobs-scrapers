@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:27:25.705311+00:00",
+  "generated_at": "2026-06-22T06:58:25.112349+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620504\">https://news.ycombinator.com/item?id=48620504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 21 Jun 2026 17:00:28 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 27 May 2026 22:52:15 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs\">https://www.ycombinator.com/companies/reflex/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297116\">https://news.ycombinator.com/item?id=48297116</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 27 May 2026 17:01:05 +0000"
     }
   ],
   "total_entries": 20
