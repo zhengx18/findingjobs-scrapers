@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T06:58:25.112349+00:00",
+  "generated_at": "2026-06-23T05:42:26.362067+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636125\">https://news.ycombinator.com/item?id=48636125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 22 Jun 2026 21:00:51 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/charge-robotics\">https://jobs.ashbyhq.com/charge-robotics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632792\">https://news.ycombinator.com/item?id=48632792</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 22 Jun 2026 17:00:17 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Wildcard (YC W25) is hiring an applied ML engineer",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 29 May 2026 12:01:00 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\">https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48303599\">https://news.ycombinator.com/item?id=48303599</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 28 May 2026 02:21:11 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Pelica (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\">https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48301851\">https://news.ycombinator.com/item?id=48301851</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 27 May 2026 22:52:15 +0000"
     }
   ],
   "total_entries": 20
