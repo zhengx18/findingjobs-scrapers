@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-06-24T05:39:18.664359+00:00",
+  "generated_at": "2026-06-25T05:42:25.245080+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656219\">https://news.ycombinator.com/item?id=48656219</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 24 Jun 2026 07:01:21 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
@@ -382,29 +402,47 @@
       "published": "Sun, 31 May 2026 07:00:50 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Cedana (YC S23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc\">https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48322030\">https://news.ycombinator.com/item?id=48322030</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "company": "V2EX 招聘节点",
+      "title": "[上海] 德国小而美公司从普吉团建回来，招 AI Platform Engineer",
+      "url": "https://www.v2ex.com/t/1203427#reply45",
+      "location": "上海",
+      "description": "<h2>AI Platform Engineer 正在招聘中，JD 见文末，英文简历请投至：</h2>\n<ul>\n<li><a href=\"mailto:jobs@thenetcircle.com\">jobs@thenetcircle.com</a> 或 点击<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>进一步查看详情</li>\n</ul>\n<h2>时隔两年，我们和兄弟公司的伙伴们齐聚普吉。这场温暖重聚，“泰”有趣了！</h2>\n<p>集体活动首日，我们走进一片被绿意环抱的大象保护营地，认真地了解大象的作息、性情与饮食。</p>\n<p>给大象喂食，洗澡，互动中惊呼声、笑声与快门声同时响起，一张张难得的亲密瞬间，被悄悄收藏。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/Q55BrEo3.jpeg\" /></p>\n<p>次日清晨，我们乘车前往普吉山顶大佛。登上观景平台，蔚蓝的安达曼海映着天光，蜿蜒如带。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/HGI2fR1U.jpeg\" /></p>\n<p>下午，我们迎着日光踏入查龙寺，寺院静谧而庄严，阳光下熠熠生辉。有人随意伫立，笑容轻快；有人双手合十，闭目凝神，将一份虔诚悄然镌刻进光影里。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/5gsOH5lU.jpeg\" /></p>\n<p>旅程的最后一章，属于普吉的海。在最南端的神仙半岛观景台，我们登高远眺，海水在阳光下呈现出渐变的蓝，白色的海浪一遍遍描摹着海岸线。</p>\n<p>这样的开阔与宁静，要用眼睛记录，用呼吸感受。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/sOstP8Od.jpeg\" /></p>\n<p>旅程终有结束时，而生活始终向前。愿美好的记忆永存，期待下一次的同行，一起探索世界的美好。</p>\n<p><strong>在 TNC 的我们坚信着：Work Hard, Play Harder!</strong></p>\n<p>欢迎大家移步我们的<a href=\"https://thenetcircle.com/cn/\" rel=\"nofollow\">官网</a>，查看更多过往的人英欢乐精彩瞬间。</p>\n<p>现在，我们正在寻找志同道合的你，成为我们的一份子！</p>\n<p>感兴趣可将简历及相关作品附件发送至顶部邮箱或至<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>内上传~等你哟！</p>\n<h2>AI Platform Engineer</h2>\n<h3>A",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Fri, 29 May 2026 12:01:00 +0000"
+      "published": "2026-04-03T13:33:58Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[兼职] 给 AI 做编程能力“阅卷人”，单题 800 元，时间自由",
+      "url": "https://www.v2ex.com/t/1222634#reply8",
+      "location": "",
+      "description": "<h3>📌 一句话看懂</h3>\n<p>你需要为 AI 大模型实战表现进行多维度专业评分。核心是评估与训练 AI ，不是外包开发，无需你亲自写代码交付业务。</p>\n<h3>💰 收益与节奏</h3>\n<ul>\n<li>单价回报：800 元 / 任务</li>\n<li>时间投入：预计 2 小时 / 题</li>\n<li>工作节奏：纯线上，无排班，时间自由，随时可做，自主在任务池领题。</li>\n</ul>\n<h3>💻 你具体需要做什么？</h3>\n<p>只需完成以下四步闭环：</p>\n<ol>\n<li>领题：领取一道真实的后端项目实战编程题（题目库已提供，无需你原创）。</li>\n<li>测试：在我们配置好的 Docker 环境中，让 4 个不同的 AI 模型分别跑一遍解题过程。</li>\n<li>点评：观察 AI 的每轮表现，撰写 100 字以上的核心过程评价（精准指出 AI 做了什么、哪里做对了、逻辑缺陷在哪）。</li>\n<li>评分：严格按照提供的 7 个专业维度拆解验收标准，为 AI 的代码输出打分，打包提交即算完成。</li>\n</ol>\n<h3>🎯 我们在寻找这样的你</h3>\n<ul>\n<li>技术栈对口：后端 / 全栈工程师，熟练掌握 Java / Python / Go / C++ / JavaScript 中的任意一种。</li>\n<li>懂 AI 工具：日常使用过主流 AI 编程助手或客户端（如 Claude Code 、GitHub Copilot 、通义灵码等）。</li>\n<li>Code Review 能力强：具备敏锐的技术直觉，能一眼看穿“AI 写的代码对不对、坏味道在哪、工程规范差在哪里”。</li>\n</ul>\n<h3>🚫 明确不需要做的事</h3>\n<ul>\n<li>✗ 不需要你亲自写代码交付。</li>\n<li>✗ 不需要你给 AI 写的代码修 Bug 。</li>\n<li>✗ 不需要你出原创算法题。</li>\n</ul>\n<h3>🚀 申请加入流程</h3>\n<ol>\n<li>注册报名岗位： <a href=\"https://talent.meetchances.com/jobs?_fr=v2ex&amp;job_id=160130\" rel=\"nofollow\">https://talent.meetchances.com/jobs?_fr=v2ex&amp;job_id=160130</a></li>\n<li>提交个人简历。</li>\n<li>完成 20-25 分钟线上 AI 面试（手机即可完成，时间灵活自选）。</li>\n<li>通过后即可加入项目群，正式开始领题赚钱！</li>\n</ol>\n<h3>岗位职责</h3>\n<ul>\n<li>\n<p>参与 AI Coding 产品相关的数据标注（如代码 Rubric 标注、代码质量评价等）</p>\n</li>\n<li>\n<p>根据项目需求完成 小型编程任务（脚本编写、调试、算法实现等）</p>\n</li>\n<li>\n<p>对 AI 编程助手（如 Cursor 、Claude Code 、Trae 、通义灵码等）的输出进行对比、评价与优化</p>\n</li>\n<li>\n<p>提供使用体验反馈，协助改进 AI 工具的用户体验</p>\n</li>\n</ul>\n<h3>任职要求</h3>\n<ul>\n<li>\n<p>熟悉至少一门编程语言（ Python / Java / C++ / Go / JavaScript 等），能够独立阅读和编写代码</p>\n</li>\n<",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-24T13:57:52Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "《远程办公》开发者关系工程师 (Developer Advocate)",
-      "url": "https://www.v2ex.com/t/1222499#reply0",
+      "url": "https://www.v2ex.com/t/1222499#reply5",
       "location": "远程",
       "description": "我们是一家专注于 AI 智能体（ Agent ）基础设施的创业公司，网站：[[<a href=\"https://aisa.one/\" rel=\"nofollow noopener\" target=\"_blank\">https://aisa.one/</a> ，为智能体生态提供统一的]API 网关、大模型智能路由、上下文管理、智能体原生支付协议等资源层服务。我们的客户是智能体开发者和智能体本身。<br /><br />公司已获得国际顶级风投及知名战略投资方的支持，投资方覆盖支付、云计算等领域。<br /><br />职位描述<br /><br />AIsa 正在构建面向 Agent 时代的基础设施——从统一的资源层（ API 、LLM 、Skill 、Connector ）到可控的 Agent 运行时与控制平面，致力于打造一个开发者可以自由上传、组合、计费资源的开放生态。<br /><br />作为 AIsa 的首位开发者关系工程师，你将是我们与中国开发者社区之间的核心纽带。你需要把复杂的平台能力转化为开发者能轻松上手的内容：清晰的文档、跑得通的示例、有价值的开源项目，以及真实的社区口碑。<br /><br />这不是一个纯粹写博客的岗位。你是平台采用率的第一责任人，是开发者声音传回产品团队的通道，也是 AIsa 在技术社区的“门面”。我们需要你懂技术、善表达，更要懂开发者。<br /><br />关于这个岗位<br /><br />AIsa 目前处于早期阶段。你不会接手一套成熟的体系，而是要从第一篇文档、第一个示例、第一批开发者开始，亲手搭建起我们的开发者生态。如果你享受“从 0 到 1”的过程，并坚信 Agent 基础设施的未来，这会是一个充满挑战与成就感的位置。<br /><br />岗位职责<br /><br />你的核心目标是降低中国开发者使用 AIsa 平台的门槛，建立技术口碑，并形成有效的产品反馈闭环：<br /><br />• 内容与文档：编写和维护高质量的中文开发者文档、快速上手指南和最佳实践，确保开发者能在最短时间内跑通第一个 Agent ，打磨极致的“第一次成功体验”。<br /><br />• 示例与开源：构建可直接运行的示例项目、SDK 示例和开源工具，用真实代码证明平台能力，并持续运营这些开源资产。<br /><br />• 社区与布道：活跃于国内主流开发者社区（如 GitHub 、掘金、知乎、V2EX 、技术微信群等）及线下技术大会（ Meetup ），进行答疑、分享，建立 AIsa 的技术声誉。<br /><br />• 反馈闭环：作为开发者在内部的代言人，系统性地收集开发者的痛点和需求，推动 API 设计、文档和开发体验（ DX ）的迭代。<br /><br />• 技术验证：以“外部开发者”的视角亲测平台功能，提前发现并解决集成过程中的坑和体验断点。<br /><br />任职要求<br /><br />我们寻找的是兼具**“工程师底子 + 表达能力 + 开发者同理心”**的复合型人才：<br /><br />•技术能力<br />扎实的工程背景，能独立写代码、跑通 API 集成与 Agent 开发；熟悉 Python ；理解 LLM 、Agent 、RAG 等基本概念。加分项：熟悉 TypeScript / Go ；有后端、SDK 或开发者工具开发经验；用过 LangChain 等 Agent 框架。<br /><br />•内容与表达<br />能把复杂技术讲简单；具备优秀的中文技术写作能力（文档、教程、博客",
       "source": "gh-relay/v2ex-jobs",
@@ -460,6 +498,25 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "「广州·珠江新城」省属国企数科公司招大模型应用(15W-25W) / 平台工程师(25W-35W),聊聊你自己?",
+      "url": "https://www.v2ex.com/t/1222158#reply11",
+      "location": "广州",
+      "description": "<p>招人,就不贴\"任职要求一二三四五\"模板了,换个写法吧。</p>\n<p>我们是省属 Top 3 国企下面的数科公司,集团全资子公司,在珠江新城北区集团大厦办公,做集团内外的大模型应用和数字化项目。正式员工,双休,基本不加班,平时也用 Claude Code 、Codex 干活,不算古板。</p>\n<p>现在主要在做通用办公、审计、法务、财务这几类 Agent,往 IaaS + MaaS 平台方向走。agent 前沿热门技术(harness 、长任务、多 agent)也在跟。</p>\n<p>有两个岗位:\n应用开发(本科+):Python / Java 都行,有后端功底（全栈更优）,有自己的审美标准,做过实际的 Agent 开发。年薪 15-25 万。</p>\n<p>平台 / 架构(硕士+,偏资深):Python / Java 都行,有技术品味,主要负责 IaaS + MaaS 平台的架构设计和开发。年薪 25-35 万，合适的可以谈。</p>\n<p>待遇:社保、公积金 12% 顶格(基数每年调),周末双休,8:30 上班、12:00 下班（ 11:40 吃午饭）、下午 2 点到 6 点,没食堂但每月 800 餐补,工会节日福利、定期体检都有。</p>\n<p>地点:广州天河,珠江新城北区集团大厦,地铁 3 号线、5 号线、APM 都能到。</p>\n<p>大胆发简历。发简历的同时,挑你想说的聊聊就行:最近在做什么、有没有得意或者踩坑的项目、平时怎么用 AI 工具、Agent 这块你折腾过什么、你的理解是什么(业余项目、demo 、踩坑)。</p>\n<p>投递:简历发 enchiigo@gmail.com,备注 V2EX + 岗位。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-23T01:51:22Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[北、上、深] 顶级 vc+大牛初创招聘大模型/agent 算法、infra 专家",
       "url": "https://www.v2ex.com/t/1222377#reply1",
       "location": "",
@@ -476,6 +533,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-23T15:12:16Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[求职/应届]Rust 开发方向，或全栈.或者请大佬们看看简历怎么改",
+      "url": "https://www.v2ex.com/t/1222295#reply13",
+      "location": "",
+      "description": "<p>主要是想脱离家庭，薪资能够满足我在当地的食宿就行，喜欢编程，项目主要是兴趣使然或者想解决一些我对某个应用不喜欢的地方。工作地点全国都能接受</p>\n<h1>个人简历</h1>\n<h2>基本信息</h2>\n<ul>\n<li>性别：男 | 籍贯：湖南 | 邮箱：MzI3NDM3NTA5MkBxcS5jb20=</li>\n<li>学校：南华大学 — 计算机学院 / 软件工程/ 本科</li>\n<li>学历时间：2022.09 - 2026.06</li>\n</ul>\n<h2>教育背景</h2>\n<p><strong>南华大学</strong> — 计算机学院 / 软件工程/ 本科\n<strong>时间</strong>：2022.09 - 2026.06</p>\n<p><strong>相关课程</strong>：数据结构与算法、操作系统、计算机网络、数据库原理、Java 程序设计、c++程序设计</p>\n<hr />\n<h2>个人技能</h2>\n<ul>\n<li><strong>编程语言</strong>：熟悉 Rust 、Java ，具备良好的编码规范、工程化意识和代码质量意识。</li>\n<li><strong>后端框架</strong>：熟悉 Spring Boot 、Axum 、MyBatis-Plus 等技术栈，具备 RESTful API 设计、鉴权、缓存、限流、数据持久化等后端开发经验。</li>\n<li><strong>数据库与缓存</strong>：熟悉 MySQL ，了解 Redis ，具备索引设计、SQL 优化和缓存策略设计经验。</li>\n<li><strong>AI 应用开发</strong>：熟悉 Reqwest 、Rig 、Prompt 工程，具备大模型应用、流式输出、上下文管理和工具调用开发经验，了解向量数据库相关概念。</li>\n<li><strong>Rust 生态</strong>：熟悉 Tokio 、Serde 、SQLx ，了解 Rust 所有权、异步编程、错误处理、并发模型与内存安全机制。</li>\n<li><strong>工具与协作</strong>：熟练使用 Git 、Codex 、Claude 、Cursor 等工具，能够结合 AI 提升开发、调试和文档编写效率。</li>\n</ul>\n<hr />\n<h2>实习经历</h2>\n<h3>湖南深度思考信息科技公司 — 提示词工程师</h3>\n<p><em>2026.03 - 2026.05</em></p>\n<ul>\n<li>参与企业级 Sondo AI 视频生成产品开发，负责提示词工程、内容生成流程编排及部分后端能力建设。</li>\n<li>设计并优化 LLM 提示模板和评测集，用于提升视频脚本、分镜和内容生成质量，减少人工处理时间约 40%。</li>\n<li>参与视频内容生成链路编排，使用户通过一句话输入即可在系统提示词辅助下生成约 5 分钟的 AI 视频内容。</li>\n</ul>\n<h3>湘南湘西高新软件园 — 后端开发实习生</h3>\n<p><em>2025.06 - 2025.08</em></p>\n<ul>\n<li>负责企业级云游小程序后端核心模块开发，使用 Spring Boot + MyBatis-Plus + Redis 技术栈，实现用户管理、订单处理、数据统计等功能模块。</li>\n<li>设计并实现 RESTful API 接口 20+，采用 JWT 实现用户认证与授权，接口平均响应时间控制在 100ms 以内。</li>\n",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-06-23T08:24:47Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -498,10 +574,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "[求职/应届]Rust 开发方向，或全栈.或者请大佬们看看简历怎么改",
-      "url": "https://www.v2ex.com/t/1222295#reply10",
+      "title": "苦恼，创业者怎么样才能招到真正合适的人？",
+      "url": "https://www.v2ex.com/t/1221835#reply77",
       "location": "",
-      "description": "<p>主要是想脱离家庭，薪资能够满足我在当地的食宿就行，喜欢编程，项目主要是兴趣使然或者想解决一些我对某个应用不喜欢的地方。工作地点全国都能接受</p>\n<h1>个人简历</h1>\n<h2>基本信息</h2>\n<ul>\n<li>性别：男 | 籍贯：湖南 | 邮箱：MzI3NDM3NTA5MkBxcS5jb20=</li>\n<li>学校：南华大学 — 计算机学院 / 软件工程/ 本科</li>\n<li>学历时间：2022.09 - 2026.06</li>\n</ul>\n<h2>教育背景</h2>\n<p><strong>南华大学</strong> — 计算机学院 / 软件工程/ 本科\n<strong>时间</strong>：2022.09 - 2026.06</p>\n<p><strong>相关课程</strong>：数据结构与算法、操作系统、计算机网络、数据库原理、Java 程序设计、c++程序设计</p>\n<hr />\n<h2>个人技能</h2>\n<ul>\n<li><strong>编程语言</strong>：熟悉 Rust 、Java ，具备良好的编码规范、工程化意识和代码质量意识。</li>\n<li><strong>后端框架</strong>：熟悉 Spring Boot 、Axum 、MyBatis-Plus 等技术栈，具备 RESTful API 设计、鉴权、缓存、限流、数据持久化等后端开发经验。</li>\n<li><strong>数据库与缓存</strong>：熟悉 MySQL ，了解 Redis ，具备索引设计、SQL 优化和缓存策略设计经验。</li>\n<li><strong>AI 应用开发</strong>：熟悉 Reqwest 、Rig 、Prompt 工程，具备大模型应用、流式输出、上下文管理和工具调用开发经验，了解向量数据库相关概念。</li>\n<li><strong>Rust 生态</strong>：熟悉 Tokio 、Serde 、SQLx ，了解 Rust 所有权、异步编程、错误处理、并发模型与内存安全机制。</li>\n<li><strong>工具与协作</strong>：熟练使用 Git 、Codex 、Claude 、Cursor 等工具，能够结合 AI 提升开发、调试和文档编写效率。</li>\n</ul>\n<hr />\n<h2>实习经历</h2>\n<h3>湖南深度思考信息科技公司 — 提示词工程师</h3>\n<p><em>2026.03 - 2026.05</em></p>\n<ul>\n<li>参与企业级 Sondo AI 视频生成产品开发，负责提示词工程、内容生成流程编排及部分后端能力建设。</li>\n<li>设计并优化 LLM 提示模板和评测集，用于提升视频脚本、分镜和内容生成质量，减少人工处理时间约 40%。</li>\n<li>参与视频内容生成链路编排，使用户通过一句话输入即可在系统提示词辅助下生成约 5 分钟的 AI 视频内容。</li>\n</ul>\n<h3>湘南湘西高新软件园 — 后端开发实习生</h3>\n<p><em>2025.06 - 2025.08</em></p>\n<ul>\n<li>负责企业级云游小程序后端核心模块开发，使用 Spring Boot + MyBatis-Plus + Redis 技术栈，实现用户管理、订单处理、数据统计等功能模块。</li>\n<li>设计并实现 RESTful API 接口 20+，采用 JWT 实现用户认证与授权，接口平均响应时间控制在 100ms 以内。</li>\n",
+      "description": "<p>目前在自己创业，组了一个六七个人的初创小团队，刚招募的时候都说的是很感兴趣，也有经验，等真正推行起来，要么磨洋工、要么不懂行、要么干活但说不明白。</p>\n<p>所以创业到现在，让我感觉很深刻的一点是找到既对项目有兴趣，又有能力的人太难。但如果就这样凑合下去，个个都是在大厂能摸就摸的态度干活，对于创业团队来说基本完蛋了就。</p>\n<p>我原以为创业最难的是缺钱，那我不缺钱的话应该很顺利吧，结果现实真是狠狠扇了我一耳光。项目刚开始不到两个月，给我整的心气儿都快没了，我甚至开始计划解散团队，重新组人了。</p>\n<p>也怪我没经验，确实没做好这方面的准备。大佬们有经验的话能不能给指点下迷津呢。到底该怎么找合适的人。</p>\n<p>PS：寻找对 Agent-based 数字人交互方向有浓厚兴趣的人才，全栈｜ Agent ｜角色内容 PM 等，能主动推项目是基本要求，越有能力越好！</p>",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -513,26 +589,7 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-06-23T08:24:47Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "「广州·珠江新城」省属国企数科公司招大模型应用(15W-25W) / 平台工程师(25W-35W),聊聊你自己?",
-      "url": "https://www.v2ex.com/t/1222158#reply10",
-      "location": "广州",
-      "description": "<p>招人,就不贴\"任职要求一二三四五\"模板了,换个写法吧。</p>\n<p>我们是省属 Top 3 国企下面的数科公司,集团全资子公司,在珠江新城北区集团大厦办公,做集团内外的大模型应用和数字化项目。正式员工,双休,基本不加班,平时也用 Claude Code 、Codex 干活,不算古板。</p>\n<p>现在主要在做通用办公、审计、法务、财务这几类 Agent,往 IaaS + MaaS 平台方向走。agent 前沿热门技术(harness 、长任务、多 agent)也在跟。</p>\n<p>有两个岗位:\n应用开发(本科+):Python / Java 都行,有后端功底（全栈更优）,有自己的审美标准,做过实际的 Agent 开发。年薪 15-25 万。</p>\n<p>平台 / 架构(硕士+,偏资深):Python / Java 都行,有技术品味,主要负责 IaaS + MaaS 平台的架构设计和开发。年薪 25-35 万，合适的可以谈。</p>\n<p>待遇:社保、公积金 12% 顶格(基数每年调),周末双休,8:30 上班、12:00 下班（ 11:40 吃午饭）、下午 2 点到 6 点,没食堂但每月 800 餐补,工会节日福利、定期体检都有。</p>\n<p>地点:广州天河,珠江新城北区集团大厦,地铁 3 号线、5 号线、APM 都能到。</p>\n<p>大胆发简历。发简历的同时,挑你想说的聊聊就行:最近在做什么、有没有得意或者踩坑的项目、平时怎么用 AI 工具、Agent 这块你折腾过什么、你的理解是什么(业余项目、demo 、踩坑)。</p>\n<p>投递:简历发 enchiigo@gmail.com,备注 V2EX + 岗位。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-23T01:51:22Z"
+      "published": "2026-06-21T23:31:49Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -571,63 +628,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-06-23T01:34:53Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[上海] 德国小而美公司从普吉团建回来，招 AI Platform Engineer",
-      "url": "https://www.v2ex.com/t/1203427#reply45",
-      "location": "上海",
-      "description": "<h2>AI Platform Engineer 正在招聘中，JD 见文末，英文简历请投至：</h2>\n<ul>\n<li><a href=\"mailto:jobs@thenetcircle.com\">jobs@thenetcircle.com</a> 或 点击<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>进一步查看详情</li>\n</ul>\n<h2>时隔两年，我们和兄弟公司的伙伴们齐聚普吉。这场温暖重聚，“泰”有趣了！</h2>\n<p>集体活动首日，我们走进一片被绿意环抱的大象保护营地，认真地了解大象的作息、性情与饮食。</p>\n<p>给大象喂食，洗澡，互动中惊呼声、笑声与快门声同时响起，一张张难得的亲密瞬间，被悄悄收藏。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/Q55BrEo3.jpeg\" /></p>\n<p>次日清晨，我们乘车前往普吉山顶大佛。登上观景平台，蔚蓝的安达曼海映着天光，蜿蜒如带。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/HGI2fR1U.jpeg\" /></p>\n<p>下午，我们迎着日光踏入查龙寺，寺院静谧而庄严，阳光下熠熠生辉。有人随意伫立，笑容轻快；有人双手合十，闭目凝神，将一份虔诚悄然镌刻进光影里。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/5gsOH5lU.jpeg\" /></p>\n<p>旅程的最后一章，属于普吉的海。在最南端的神仙半岛观景台，我们登高远眺，海水在阳光下呈现出渐变的蓝，白色的海浪一遍遍描摹着海岸线。</p>\n<p>这样的开阔与宁静，要用眼睛记录，用呼吸感受。↓↓</p>\n<p><img alt=\"image-3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/sOstP8Od.jpeg\" /></p>\n<p>旅程终有结束时，而生活始终向前。愿美好的记忆永存，期待下一次的同行，一起探索世界的美好。</p>\n<p><strong>在 TNC 的我们坚信着：Work Hard, Play Harder!</strong></p>\n<p>欢迎大家移步我们的<a href=\"https://thenetcircle.com/cn/\" rel=\"nofollow\">官网</a>，查看更多过往的人英欢乐精彩瞬间。</p>\n<p>现在，我们正在寻找志同道合的你，成为我们的一份子！</p>\n<p>感兴趣可将简历及相关作品附件发送至顶部邮箱或至<a href=\"https://ats.rippling.com/ideawisegroup/jobs/0e60d203-d64b-49e4-8d56-d8c3e63e0c35\" rel=\"nofollow\">链接</a>内上传~等你哟！</p>\n<h2>AI Platform Engineer</h2>\n<h3>A",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-04-03T13:33:58Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "上海徐汇， coffe chat， LLM-Ready 数据方向",
-      "url": "https://www.v2ex.com/t/1221925#reply2",
-      "location": "上海",
-      "description": "<p>来问问，大家在工作/学习中有没有遇到过 LLM-Ready 数据的准备、以及模型训练的动态数据调整的任务～ </p>\n<p>坐标上海徐汇，有做这个方向的也可以约个 coffe chat ，我请客～</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-22T03:28:41Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[接项目/可全职/远程] 5 年+经验全栈，精通复杂 React 前端， Node.js/ Python 后端， Langgraph Agent 开发",
-      "url": "https://www.v2ex.com/t/1222102#reply0",
-      "location": "远程",
-      "description": "<p>大家好，我是一名全栈工程师，具备 5 年+全栈开发经验，能够独⽴负责复杂前端系统（如多维表格，⽩板等在线协同软件）从零到⼀的架构设计与功能实现，也能独立完成 Node.js/Python 后端和基于 Langgraph 的 AI Agent 的全流程开发。</p>\n<p>我能够深入使用 AI 辅助编程，也能够将 AI Agent 应用到具体业务中完成落地。</p>\n<p>具备良好的业务抽象、沟通协作与推进能⼒，能将业务⽬标拆解为可执⾏技术⽅案并交付结果。</p>\n<p>多年 Remote 经验，英语口语无障碍沟通水平，熟悉远程开发中的协作范式。</p>\n<p>在线体验的多维表格与白板产品（基于 Langgraph 打造的表格 Agent ）： <a href=\"https://rostack.vercel.app\" rel=\"nofollow\">https://rostack.vercel.app</a></p>\n<p>开源地址： <a href=\"https://github.com/RealRong/Rostack\" rel=\"nofollow\">https://github.com/RealRong/Rostack</a></p>\n<p>如果您有开发需求，欢迎联系（ Base64 Decode ）。</p>\n<p>Email: eXl3ei5oZXJvQGdtYWlsLmNvbQ==</p>\n<p>微信: Tml2M291cw==</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-06-22T15:06:36Z"
     }
   ]
 }
