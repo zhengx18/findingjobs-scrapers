@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T05:48:11.334627+00:00",
+  "generated_at": "2026-06-27T05:28:36.330944+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://hightouch.com/careers#open-positions\">https://hightouch.com/careers#open-positions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691893\">https://news.ycombinator.com/item?id=48691893</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 26 Jun 2026 21:00:50 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\">https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48688961\">https://news.ycombinator.com/item?id=48688961</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 26 Jun 2026 17:00:43 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Besimple AI (YC P25) Is Hiring",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 03 Jun 2026 17:01:00 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
-      "url": "https://news.ycombinator.com/item?id=48382853",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48382853\">https://news.ycombinator.com/item?id=48382853</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 03 Jun 2026 12:00:18 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern\">https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48369098\">https://news.ycombinator.com/item?id=48369098</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 02 Jun 2026 12:01:04 +0000"
     }
   ],
   "total_entries": 20
