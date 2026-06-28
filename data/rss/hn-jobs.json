@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T05:28:36.330944+00:00",
+  "generated_at": "2026-06-28T05:54:31.137253+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\">https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699842\">https://news.ycombinator.com/item?id=48699842</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 27 Jun 2026 17:00:15 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Nox Metals (YC S25) Is Hiring SWE",
+      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697504\">https://news.ycombinator.com/item?id=48697504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 27 Jun 2026 12:01:03 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Hightouch (YC S19) Is Hiring",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 04 Jun 2026 17:00:37 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus\">https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48397435\">https://news.ycombinator.com/item?id=48397435</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 04 Jun 2026 12:00:29 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai\">https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48386588\">https://news.ycombinator.com/item?id=48386588</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 03 Jun 2026 17:01:00 +0000"
     }
   ],
   "total_entries": 20
