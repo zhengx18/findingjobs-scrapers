@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T06:05:08.898392+00:00",
+  "generated_at": "2026-07-02T05:32:19.419657+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753045\">https://news.ycombinator.com/item?id=48753045</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 01 Jul 2026 21:00:14 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel\">https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746331\">https://news.ycombinator.com/item?id=48746331</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 01 Jul 2026 13:22:24 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+      "url": "https://news.ycombinator.com/item?id=48744213",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744213\">https://news.ycombinator.com/item?id=48744213</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 01 Jul 2026 09:18:43 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Supabase (YC S20) Is Hiring for Multigres",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sun, 07 Jun 2026 12:00:40 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer\">https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48424103\">https://news.ycombinator.com/item?id=48424103</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 06 Jun 2026 12:00:56 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-      "url": "https://nango.dev/careers",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48411227\">https://news.ycombinator.com/item?id=48411227</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 05 Jun 2026 12:00:18 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect\">https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48401433\">https://news.ycombinator.com/item?id=48401433</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 04 Jun 2026 17:00:37 +0000"
     }
   ],
   "total_entries": 20
