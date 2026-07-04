@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T05:28:06.514880+00:00",
+  "generated_at": "2026-07-04T05:10:46.354741+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead\">https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48779906\">https://news.ycombinator.com/item?id=48779906</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 03 Jul 2026 21:00:50 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 09 Jun 2026 03:34:00 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Proliferate (YC S25) is hiring to building open source Codex",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436669\">https://news.ycombinator.com/item?id=48436669</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 07 Jun 2026 17:01:17 +0000"
     }
   ],
   "total_entries": 20
