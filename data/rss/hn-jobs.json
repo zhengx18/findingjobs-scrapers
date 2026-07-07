@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T05:58:24.641024+00:00",
+  "generated_at": "2026-07-07T05:40:14.602191+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "url": "https://news.ycombinator.com/item?id=48806976",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806976\">https://news.ycombinator.com/item?id=48806976</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 06 Jul 2026 16:33:04 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 09 Jun 2026 12:01:09 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48456015\">https://news.ycombinator.com/item?id=48456015</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 09 Jun 2026 03:34:00 +0000"
     }
   ],
   "total_entries": 20
