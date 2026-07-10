@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T05:40:55.690290+00:00",
+  "generated_at": "2026-07-10T05:37:08.488172+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849011\">https://news.ycombinator.com/item?id=48849011</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 09 Jul 2026 17:00:37 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+      "url": "https://news.ycombinator.com/item?id=48844517",
+      "location": "Remote",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844517\">https://news.ycombinator.com/item?id=48844517</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 09 Jul 2026 12:01:17 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\">https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841963\">https://news.ycombinator.com/item?id=48841963</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 09 Jul 2026 07:00:43 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sun, 21 Jun 2026 17:00:28 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "url": "https://www.flexport.com/company/careers/",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48593694\">https://news.ycombinator.com/item?id=48593694</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 19 Jun 2026 01:01:13 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead\">https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48573221\">https://news.ycombinator.com/item?id=48573221</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 17 Jun 2026 17:00:02 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
-      "url": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office\">https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48537556\">https://news.ycombinator.com/item?id=48537556</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 15 Jun 2026 07:00:22 +0000"
     }
   ],
   "total_entries": 20
