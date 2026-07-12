@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T04:42:20.883981+00:00",
+  "generated_at": "2026-07-12T04:53:53.747620+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success\">https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873665\">https://news.ycombinator.com/item?id=48873665</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 11 Jul 2026 17:00:35 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Moss (YC F25) Is Hiring",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 24 Jun 2026 07:01:21 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636125\">https://news.ycombinator.com/item?id=48636125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 22 Jun 2026 21:00:51 +0000"
     }
   ],
   "total_entries": 20
