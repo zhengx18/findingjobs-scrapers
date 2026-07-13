@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:53:53.747620+00:00",
+  "generated_at": "2026-07-13T05:00:39.533942+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -30,7 +30,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...",
-      "url": "https://www.v2ex.com/t/1226643#reply29",
+      "url": "https://www.v2ex.com/t/1226643#reply81",
       "location": "",
       "description": "<p>我是专科 大二的学生，因为比赛拿奖有个专业课免试资格，所以升本能去本省计算机专业里最好的本科</p>\n<p>本来是留校实习的，但因为种种问题（没有处理这种事的经验），现在被流放到市场了。</p>\n<p>我现在感觉到 AI Agent 对 CRUD 写胶水真没什么意思了，我个人很喜欢计算机，10 年前就注册了 Github ，最早是用 Java 写一些 Android 小应用发到当时的酷安市场，几 w 的下载量，谈不上厉害，但那时候的我也挺开心的。</p>\n<p>之后接触 Webdev ，最开始 Vue-&gt;Go ，到现在 AI agent 最喜欢的 Nextjs+tailwindcss</p>\n<p>我感觉应用层变来变去，你很难在其中找到一个属于自己的位置，我最早接触 Webdev 的时候 jQuery+PHP 特别火，现在已经查无此人了</p>\n<p>去年 25 年 7 月，我开始接触嵌入式，我做了一个智能车</p>\n<p>项目的详细可以看我写的一篇博客文章：<a href=\"https://lycois.org/cn/blog/2025/rasp-robot-car/cn\" rel=\"nofollow\">https://lycois.org/cn/blog/2025/rasp-robot-car/cn</a></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://lycois.org/_astro/raspcar.C2biH41I_1yU3Ay.webp\" /></p>\n<p>当时我没有用 AI Agent 写代码，真的就是闷头学，但其实只学了点皮毛懂点嵌入式基础的通信协议，GPIO, I2C, SPI ，串口通信什么的，学了点 gdb 调试，懂了什么是 CPU 中断，CPU 时钟，</p>\n<p>再学学调 PID ，看了看增量式 PID ，位置式 PID 。</p>\n<p>然后让 AI agnet 用 Nextjs 搓了个可视化的控制面板，控制面板与树莓派用 WebSocket 连了一下，用 mjpg 图传。</p>\n<p>然后在电脑搭了个简单的中间曾，用 YoloV8 去做目标检测，整个流程就变得稍稍有点复杂：STM32-&gt;树莓派 -&gt; YoloV8  flask -&gt; Nextjs</p>\n<p>整个项目耗资 800¥，我的感受是在资源极度限制的情况下，其实也很有意思。</p>\n<p>但我没有往模电数电继续深入。因为我通过这两三个月的体验，感受到了嵌入式软件是一个很封闭的行业，我理解的是很多事情都是在不同的芯片厂商的基础上去做有限度的开发。但 FPGA/DSP 的那些就感觉不一样，我也不太懂。硬件学了一下焊接，会焊引脚，感觉做硬件不适合我。有想复刻的硬件项目发现要贴片，我也谈不上喜欢就不想搞了。</p>\n<p>现在老师帮我申报了几千块，我买了 Astra pro 深度相机，更 NB 的车架，买了个镭神 N10p 雷达，准备玩玩 ROS SLAM 什么的，做做自动规划的东西。</p>\n<p>现在我在学 C 和 Rust ，正在用 C+SDL 手搓一个带 GUI 的 markdown editor ，用 Rust 做一个 SSG ，两个都要自己实现 markdown parser ，或许在实现同样的功能时，我能更好的感受到 Rust 的 Ownership 和内存安全的意义。</p>\n<p>而且我找到了一个很好的学习方式（ ",
       "source": "gh-relay/v2ex-jobs",
@@ -48,10 +48,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "用了 ai 之后工作很碎片化，完全无法进入心流",
-      "url": "https://www.v2ex.com/t/1226513#reply28",
-      "location": "",
-      "description": "<p>有没有发现用了 ai 之后，工作时间高度碎片化。在等待 ai 写代码的时候我去做别的事情，或者别的项目，这让我感觉很糟糕，完全无法进入心流状态。\n整个人过的浑浑噩噩，慌慌张张，经常忘记 agent 事情做完了，顾了这个顾不了那个。导致事情做的更慢</p>\n<p>有什么好的办法吗？你们在等 ai 工作的时候会干啥？还是因为怕自己没了状态就什么都不干盯着 ai 看？</p>",
+      "title": "[招聘丨远程全职]华人团队已融资🚀 AI+预测市场： AI 推荐算法专家/产品经理/BD&Growth Manager/QA 测试",
+      "url": "https://www.v2ex.com/t/1226799#reply7",
+      "location": "远程",
+      "description": "SmartX 是一款人工智能驱动型预测市场交易终端，集行情挖掘、市场监控、交易执行三大核心能力于一体。<br />平台搭载 AI 智能信号系统，结合热点事件、行情波动、主力资金动向自动生成市场分析建议，清晰解读行情现状与背后逻辑；配备智能自选监控面板，实时追踪价格、资金流与信号变动，支持 Telegram 自定义异动提醒；内置完整交易终端，提供市价 / 限价挂单、持仓管理、盘口深度查询与消息通知功能，可依据任意市场信号直接完成交易操作。<br />SmartX 实现超额收益行情发掘、主力资金追踪、交易执行全流程一体化，不止交易，更胜交易。<br />其创始团队拥有顶级项目成功经验，相关项目曾登陆币安、OKX 等主流交易所，历史市值高达数亿美元。依托资深行业经验与前沿工具，SmartX 为预测市场交易者提供可落地的交易洞察。<br /><br />公司全员远程，推行 AI 工作流驱动的组织模式。<br /><br />X: <a href=\"https://x.com/SmartXTerminal\" rel=\"nofollow noopener\" target=\"_blank\">https://x.com/SmartXTerminal</a><br />Website: <a href=\"https://app.smartx.io\" rel=\"nofollow noopener\" target=\"_blank\">https://app.smartx.io</a><br /><br />联系方式：TG：@AmberKuo_O 或邮箱 <a href=\"http://amberkuo.work\" rel=\"nofollow noopener\" target=\"_blank\">amberkuo.work</a>@gmail.com<br /><br />面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3 个工作日会回复您，通过简历筛选，我会联系您先进行线上测试，然后进行 2-3 轮线上面试。<br /><br />背景要求：英文可以作为工作语言（流利读写以上水平），本科以上学历，有互联网大厂经验加分/有全栈能力加分。必须深入了解 AI 工具及使用。<br /><br />二、职位说明<br /><br />（ 1 ） AI 推荐算法专家（薪资 4000u-6000u ）<br />🚀 职位主旨<br />作为 SmartX 的 AI 核心力量，你将从 0 到 1 设计并主导专为预测市场（如 Polymarket 、Manifold ）打造的千人千面个性化推荐系统与聪明钱（ Smart Money ）挖掘流。我们希望用顶级的 AI/LLM 技术与推荐算法，将复杂的市场行为转化为精准的交易信号，帮助全球用户定制化把握市场机遇。<br />🎯 核心职责 <br />从 0 到 1 架构架构设计：负责 SmartX 核心 AI 推荐算法系统的设计与实现，构建业界领先的预测市场“千人千面”个性化分发网络。<br />多维用户画像系统：深度建模用户的兴趣偏好（政治、体育、娱乐、宏观经济等）与风险承受能力，实现超高匹配度的内容与策略推荐。<br />聪明钱（ Smart Money ）策略挖掘：协同后端团队，利用图算法、聚类及异常检测技术，识别、追踪并清洗链上/链下专业交易者的信号，优化新手跟单体验。<br />前沿技术落地：将大语言模型（ LLM ）、强化学习（ RL ）与传统推荐算法（如召回、粗排、精排、重排机制）深度结合，探索 ",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -63,12 +63,31 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-07-10T19:57:08Z"
+      "published": "2026-07-12T17:19:26Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "准备开始面试了，感觉 agent 跟以前背八股一样。先整理一波资料。有需要的可拿",
+      "url": "https://www.v2ex.com/t/1226786#reply6",
+      "location": "",
+      "description": "<p>如题，网络分享资料</p>\n<p>共勉，找工作的 佬们</p>\n<p>「 Agent 面试」，<a href=\"https://pan.quark.cn/s/9a8595b484a3\" rel=\"nofollow\">https://pan.quark.cn/s/9a8595b484a3</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-12T15:04:48Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "这年头，程序员带新人是不是很亏，还不如带 AI 吧",
-      "url": "https://www.v2ex.com/t/1226523#reply20",
+      "url": "https://www.v2ex.com/t/1226523#reply23",
       "location": "",
       "description": "几年前一直是把 tech lead / CTO 当职业目标，以为从底层开始 CRUD ，搞算法，搞 infra ，搞架构，搞产品设计，学通了之后开始学管理，成为技术管理层就天下无敌了，起码在一个领域的公司横着走，再差也可以当个小头目。<br /><br />最近几年 vibe coding 后，感觉技术人员走管理不是很明智。自己费心费力带人，无非就是把自己驾驭 AI 的 skill 交出去。不如多花点时间多玩玩 AI ，尝试各种 AI 的玩法，驾驭 AI 反而是这个时代更重要的东西，而且不会轻易把各种技巧教给别人，教会徒弟，饿死师傅。     以前教别人技术，对自己也有一定提升。现在这个说法可能不太能成立。<br /><br />最近上面又要给我塞人，心里有点不爽。  一方面要花时间带，一方面还要保证自己工作的饭碗不会被替代。  <br /><br />不知道大家怎么看？",
       "source": "gh-relay/v2ex-jobs",
@@ -87,7 +106,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[上海] SHEIN 内推：算法/前端/ Java /AI Agent/安全/测试/iOS/数据/数据库， 18-90k",
-      "url": "https://www.v2ex.com/t/1226560#reply3",
+      "url": "https://www.v2ex.com/t/1226560#reply8",
       "location": "上海",
       "description": "整理了一批 SHEIN 当前上海 base 的全量 50+技术类岗位。目前 SHEIN 招聘官网或者 BOSS 直聘没办法一下子全部筛选出来，我就手动一个个筛选出来深圳这部分技术岗位+各自对应的公开薪资。<br /><br />这批岗位方向覆盖前端、Java 、算法、AI Agent 、数据、数据库、测试、安全、架构。<br /><br />其中算法岗位最多，薪资范围最高可达 90K （薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）：<br />1️⃣ 算法 / AI 方向｜ 35K-90K<br />算法中台、广告商业化、海外广告、智能客服、NLP 、商品治理、活动选品、价格策略、营销风控、流量反作弊、供应链预测等。<br />其中广告投放/商业化算法、算法专家 TL 薪资更高，部分可到 60K-90K 。<br />2️⃣ Java / 后台开发｜ 25K-55K<br />覆盖平台治理、招商、营销个性化、用户增长、风控、算法工程化、JAVA 大数据研发等方向。更看重复杂系统经验、工程落地能力和业务理解。<br />3️⃣ 前端 / App / 全栈｜ 25K-45K<br />包括 C 端电商用增 Vue 前端、iOS 、全栈开发、云存储产品全栈等，适合有业务增长、平台工具或 C 端项目经验的同学。<br />4️⃣ 数据 / 数仓 / 数据库｜ 25K-60K<br />数据开发数仓、广告投放数据、StarRocks/Doris 、ClickHouse 、数据库平台研发、NoSQL 数据库运维等方向都有机会。<br />5️⃣ 测试 / 安全 / 架构 / 项目管理｜ 18K-70K<br />包括平台治理测试、技术架构师、数据安全、网络安全 NTA 、研发项目经理等岗位。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/vpkmmx\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/vpkmmx</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a> <br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />我是 SHEIN 员工，不是 HR ，这帖只是内推信息整理，不代表官方招聘口径。<br />SHEIN 不同部门、团队、业务线差异比较大，我不能给所有团队背书。<br />建议大家面试时重点确认团队业务、汇报线、加班节奏、人",
       "source": "gh-relay/v2ex-jobs",
@@ -105,8 +124,27 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "用了 ai 之后工作很碎片化，完全无法进入心流",
+      "url": "https://www.v2ex.com/t/1226513#reply31",
+      "location": "",
+      "description": "<p>有没有发现用了 ai 之后，工作时间高度碎片化。在等待 ai 写代码的时候我去做别的事情，或者别的项目，这让我感觉很糟糕，完全无法进入心流状态。\n整个人过的浑浑噩噩，慌慌张张，经常忘记 agent 事情做完了，顾了这个顾不了那个。导致事情做的更慢</p>\n<p>有什么好的办法吗？你们在等 ai 工作的时候会干啥？还是因为怕自己没了状态就什么都不干盯着 ai 看？</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-10T19:57:08Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "后续: 老板要求用 AI 几周完成一年的工作量",
-      "url": "https://www.v2ex.com/t/1226380#reply45",
+      "url": "https://www.v2ex.com/t/1226380#reply47",
       "location": "",
       "description": "<p>前情提要: <a href=\"https://www.v2ex.com/t/1211896#reply101\" rel=\"nofollow\">https://www.v2ex.com/t/1211896#reply101</a></p>\n<p>其实已经过了一段时间了. 但是一直太忙所以现在才写出来。</p>\n<p><strong>省流太长不看版本: 没做完</strong></p>\n<p>虽然老板给了一个月时间，但并没有暂停其他产品需求, 估计没想到。产品经理也不知道这件事，所以产品需求还是照常排期、照常交付。导致重构前几周基本没有实质进展，大家还是在做原本的业务需求。</p>\n<p>到了 ddl 前一周的周五周会，老板发飙，要求必须在期限内完成，做不完就走人。而且他的要求变了, 不是小范围整理代码或抽离部分模块，而是要把一个大单体服务拆成多个微服务。至于服务之间的历史依赖、数据依赖、业务边界、灰度方案、回滚方案、测试覆盖这些问题，因为当时气氛的原因没有讨论, 后面也没空讨论了。</p>\n<p>其中一个组把任务交给了一个刚入职不久的<strong>新人</strong>。DDL 前几天，组长不知道为啥在老板也在的大群里 at 新人的导师，问当前进度如何。导师回复说进度不理想，时间紧、任务重，需要更多支持。被老板看到了, 出来发话说：<strong>你这就是不会用 Agent 。你可以让 Agent 去做嘛, 读代码、生成测试用例，然后你人看下方案有无问题，把边界和方向定好，一个晚上就能写完了</strong>。 </p>\n<p>到了 DDL 当天上午，项目经理在 TL 群(无老板的)里要求大家汇报进度。一个 TL 向项目经理质疑，说这本身就是一个不合理的需求，目前大家做的东西根本不能称为重构，甚至方向都是偏的。项目经理很礼貌地请他把这个观点发到老板在的大群里。这个 TL 回复说可以。<strong>之后这个群没有下文，老板在的大群也没有新的信息</strong>。</p>\n<p>到了下午，项目经理在老板在的大群里 at 全员要求汇报进度。大家纷纷表示自己模块已经完成了重构，对应的微服务也已经实现完成。我不知道是不是真的, 反正我没做完, 但我随大流。</p>\n<p>实在好奇就去看了一下:</p>\n<p>新人负责的服务，建了一个仓库，里面有个 HTTP client 接收。没了。</p>\n<p>上午说“这不是重构”的 TL ，我没找到对应模块的仓库。</p>\n<p>但这并不妨碍大家说自己已经做完了, 反正也没人细究。而老板表示很满意，随后约了第二天的会议，要求大家分享这次使用 AI 重构的经验。</p>\n<p>在第二天会议上，几个人分享了一些 Agent 使用经验, 就是一些让 Agent 自己记录错误、形成 loop 、不断修正之类的常规方法。</p>\n<p>最后老板做总结，说这次实践是公司通往 AI 原生的一大步。大家鼓掌撒花....</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -124,27 +162,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "还会推荐学生报考计算机吗",
-      "url": "https://www.v2ex.com/t/1226034#reply76",
-      "location": "",
-      "description": "<p>在当前互联网大厂裁员的趋势和大模型的发展下，对于一个本科生四年毕业后，是否还会有很好的就业市场。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-09T02:53:13Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "[保定-长城汽车]资深运维开发（SRE）招聘｜运维平台、devops 平台开发",
-      "url": "https://www.v2ex.com/t/1226372#reply7",
+      "url": "https://www.v2ex.com/t/1226372#reply10",
       "location": "",
       "description": "<h1>运维开发：</h1>\n<h2>职位描述：</h2>\n<ol>\n<li>参与业务架构设计与评审，并提炼业务方需求；</li>\n<li>完善长城集团运维支撑工具体系建设，智能监控，AIOps 实践；</li>\n<li>研发自动化运维平台，提高运维、开发协作效率，规范操作流程；</li>\n<li>负责从业务方及交互体验视角，改善现有工具体系建设。</li>\n</ol>\n<h2>职位要求:</h2>\n<ol>\n<li>五年以上大型互联网运维开发经验，本科及以上学历（大专也行吧）；</li>\n<li>熟悉 Linux 操作系统，基础知识扎实；</li>\n<li>Python 熟练工，我们用 Django 的，具备实际的项目开发经验；</li>\n<li>熟悉常见前端开发框架；</li>\n<li>熟悉开源的监控软件(Zabbix/Open-Falcon/Prometheus)中的一种；</li>\n<li>掌握 ELK ，Grafana 的采集策略和工作原理；</li>\n<li>熟悉 Docker ，K8S 相关技术体系；</li>\n<li>有强烈的上进心和求知欲，善于学习新事物，对技术充满激情，乐于面对挑战，具备很强的分析和解决问题的能力；</li>\n<li>具备强烈责任感、严密的逻辑思维和组织协调能力。</li>\n</ol>\n<h2>有以下经验者优先：</h2>\n<ol>\n<li>了解运维流程或 DevOps 、有大型互联网工具系统开发经历者优先；</li>\n<li>掌握数据可视化、数据分析算法者优先；</li>\n<li>熟悉 Docker ，k8s 优先；</li>\n<li>了解云原生，智能运维，AIops 优先；</li>\n<li>对运维的整体行业发展趋势理解透彻的优先；</li>\n</ol>\n<h2>总结（字数太长看重点）</h2>\n<p>其实就是想要一个会 Python 开发，搞过运维，或者运维开发的人，能力一定是要有的，工资可能给不太高，但是胜在稳定，极其稳定。\n联系方式：emhhbmcueGlhb3JhbkBnd20uY24=</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -159,6 +178,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-10T06:02:42Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "还会推荐学生报考计算机吗",
+      "url": "https://www.v2ex.com/t/1226034#reply77",
+      "location": "",
+      "description": "<p>在当前互联网大厂裁员的趋势和大模型的发展下，对于一个本科生四年毕业后，是否还会有很好的就业市场。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-09T02:53:13Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -235,63 +273,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-09T16:47:36Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "你们公司对 AI Agent 的额度开始缩减了吗",
-      "url": "https://www.v2ex.com/t/1225778#reply43",
-      "location": "",
-      "description": "<p>坐标某大厂，短短两个月，肉眼可见的额度缩水。</p>\n<p>起初每人每个月有 1000+RMB 的额度，公司鼓励使用 ai ，内部自研的 agent 、以及 openclaw 额度不计入总额度内，于是大家都使用 hermes 、codex 配置 header=openclaw 伪造流量，每月能刷数倍于月额度，公司也睁一眼闭一眼。</p>\n<p>7 月开始，通过 openclaw 、公司自研的模型，的资源也会消耗月额度了</p>\n<p>大家也都是这样吗，是不是说明 ai 的成本比预想高多了，更难代替程序员呢</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-08T03:07:25Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[社招] 阿里巴巴-千问事业部-Agent 开发 P6/P7",
-      "url": "https://www.v2ex.com/t/1226083#reply2",
-      "location": "",
-      "description": "团队招聘，简历直达，HC 机会难得，有疑问的请留言。<br />邮箱: Buffer.from(\"MTI5ODA5NDk5NEBxcS5jb20=\", 'base64').toString('utf-8') // nodejs<br /><br />------------------------------------------------------------------------<br />职位描述：<br />1.负责垂域 Agent （音乐、控制、场景识别等）的研发迭代优化工作;<br />2.结合业务需求，独立进行复杂系统的方案设计和编码实现；<br />3.负责系统性能调优，提高系统响应速度和稳定性；<br />4.解决系统优化过程中遇到的各种技术问题。<br /><br />职位要求<br />1.本科及以上学历，计算机相关专业；具备良好的技术知识结构，扎实的 JAVA 基础，精通 JAVA 编程语言，熟悉常见 Web 框架（如 SpringMVC/Struts 等）；<br />2.至少 5 年以上 JavaEE 开发经验，至少 1 年以上微服务开发经验，独立承担过中大型项目架构设计，拥有企业级应用的设计和开发经验优先；<br />3.熟练掌握常用设计模式，熟悉分布式、缓存、消息、搜索等机制；<br />4.熟悉 JVM 原理，熟悉多线程及高性能的设计与编码，有高并发、高负载平台开发经验者优先；<br />5.熟悉 SpringBoot 、SpringCloud 、Dubbo 、Netty 、iBatis 等主流开源框架和技术；<br />6.热爱技术研发，具有快速学习能力，注重代码质量，有良好的软件工程知识和编码规范意识；<br />7.有 AI 应用的开发经验或者 Agent 开发经验者优先。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-09T05:53:57Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "看到这个帖子「技术人员都不要去碰菠菜、多层次网络营销（传销/MLM）、未经合规许可的离岸数字货币交易所项目？」，我也有个疑问🤔",
-      "url": "https://www.v2ex.com/t/1225624#reply15",
-      "location": "上海",
-      "description": "<p>比较好奇，这家公司是否也属于 MLM 或者灰色地带擦边呢？</p>\n<p><a href=\"https://v2ex.com/t/1203427\" rel=\"nofollow\">https://v2ex.com/t/1203427</a></p>\n<p>看宣传，是挺高大上的，坐标上海苏州河畔，国外团建，X 上的 post 也是各种下午茶福利，精致的美美的。如图：\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/IKmTr5a.png\" /></p>\n<p>但深入了解下去，就会发现，其实这家公司在巴塞罗那的业务，基本上都是色情社交相关，似乎还有一部分第三方支付，见 <a href=\"https://ideawisegroup.com/\" rel=\"nofollow\">https://ideawisegroup.com/</a></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/pj4UQOR.jpeg\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/PYZMTmy.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/FW7OqiG.png\" /></p>\n<p>这种公司，技术团队在中国大陆，但是在做着中国大陆范围非法业务的公司，是合规的吗？如果去入职会有法律风险吗？</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-07T09:06:39Z"
     }
   ],
   "total_entries": 50
