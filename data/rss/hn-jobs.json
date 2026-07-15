@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T04:27:43.329822+00:00",
+  "generated_at": "2026-07-15T04:27:51.781777+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security\">https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909820\">https://news.ycombinator.com/item?id=48909820</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 14 Jul 2026 17:00:17 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 26 Jun 2026 21:00:50 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\">https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48688961\">https://news.ycombinator.com/item?id=48688961</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 26 Jun 2026 17:00:43 +0000"
     }
   ],
   "total_entries": 20
