@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:27:51.781777+00:00",
+  "generated_at": "2026-07-16T04:39:09.550872+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Artie (YC S23) Is Hiring Software Engineers",
+      "url": "https://jobs.ashbyhq.com/artie",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/artie\">https://jobs.ashbyhq.com/artie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923833\">https://news.ycombinator.com/item?id=48923833</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 15 Jul 2026 17:01:02 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/\">https://jiga.io/about-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919510\">https://news.ycombinator.com/item?id=48919510</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 15 Jul 2026 12:00:23 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sat, 27 Jun 2026 17:00:15 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697504\">https://news.ycombinator.com/item?id=48697504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 27 Jun 2026 12:01:03 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers#open-positions",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://hightouch.com/careers#open-positions\">https://hightouch.com/careers#open-positions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691893\">https://news.ycombinator.com/item?id=48691893</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 26 Jun 2026 21:00:50 +0000"
     }
   ],
   "total_entries": 20
