@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:39:09.550872+00:00",
+  "generated_at": "2026-07-17T04:42:03.825763+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Adaptional (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs\">https://www.ycombinator.com/companies/adaptional/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937125\">https://news.ycombinator.com/item?id=48937125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 16 Jul 2026 17:00:55 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Artie (YC S23) Is Hiring Software Engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 01 Jul 2026 09:18:43 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Supabase (YC S20) Is Hiring for Multigres",
-      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\">https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699842\">https://news.ycombinator.com/item?id=48699842</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 27 Jun 2026 17:00:15 +0000"
     }
   ],
   "total_entries": 20

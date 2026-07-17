@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:39:09.550872+00:00",
+  "generated_at": "2026-07-17T04:42:03.825763+00:00",
   "feeds": {
     "hn-jobs": {
       "name": "HN Jobs (YC companies hiring)",
@@ -10,7 +10,7 @@
     "v2ex-jobs": {
       "name": "V2EX 招聘节点",
       "url": "https://www.v2ex.com/feed/tab/jobs.xml",
-      "raw": 40,
+      "raw": 50,
       "kept": 10
     }
   }
