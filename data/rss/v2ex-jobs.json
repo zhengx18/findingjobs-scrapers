@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:25:52.401520+00:00",
+  "generated_at": "2026-07-19T04:48:53.540403+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -30,7 +30,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "我发现真的只有互联网行业自己卷死自己，自己把自己的工作整没了。",
-      "url": "https://www.v2ex.com/t/1228193#reply1",
+      "url": "https://www.v2ex.com/t/1228193#reply40",
       "location": "",
       "description": "应该只有互联网开发会出现所谓的 35 斩杀线吧，并且经验完全没有用，瞬间被 ai 替代。 像机械 电子 这种，开源好像没有计算机的多。经验多的老师傅 完全不担心失业。 但是就算你是全栈 资深  高级，  算法  在 ai 出来后，人人自危。   <br /><br />还有今年冒出来的 agent 开发工程师。 公司真的需要这玩意吗，造需求，就更 3 月份的龙虾一样。等 agent 开发完了。还需要那么多 agent 开发吗？最后还是自己把自己干死了。",
       "source": "gh-relay/v2ex-jobs",
@@ -48,8 +48,46 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "需要区块链开发方面的人才（链上合约交易所 & 预测市场）| 远程全职 | 25-40k",
+      "url": "https://www.v2ex.com/t/1228246#reply0",
+      "location": "远程",
+      "description": "<p><strong>公司简介</strong></p>\n<p>一家专注于全球全品类金融市场数据研发、量化投研技术输出与跨境金融信息服务的专业科技企业</p>\n<p><strong>岗位职责</strong></p>\n<p>1 。基于 HyperLiquid 的 HIP3 / HIP4 协议，参与搭建链上合约交易系统及预测市场</p>\n<p>2 。负责智能合约的开发、部署与优化（前期会基于 HIP3 和 HIP4 搭建）</p>\n<p>3 。开发链上预言机</p>\n<p>4 。开发前端页面（包括 APP 端）</p>\n<p>5 。优化交易性能（ Gas 、延迟、吞吐），提升用户交易体验</p>\n<p>6 。与产品经理协作，实现交易产品功能（如永续合约、预测池等）</p>\n<p>7 。持续跟踪 DeFi / 衍生品赛道最新技术方案，并落地到产品中</p>\n<p>8 。参与安全审计、漏洞排查与系统稳定性优化</p>\n<p><strong>任职要求</strong></p>\n<p>1 。有区块链开发经验（必须），参与过 DeFi / CEX / 衍生品项目优先</p>\n<p>2 。熟悉智能合约开发（熟练使用 Solidity ）</p>\n<p>3 。3 年以上开发经验，精通 Java 、Golang 、Python 中的一种或几种</p>\n<p>4 。具备扎实的数据结构与算法基础，熟悉高性能编程模型</p>\n<p>5 。熟悉 Vibe Coding</p>\n<p>6 。理解 AMM / Orderbook / Perp / 预测市场 等机制</p>\n<p>7 。熟悉链上交易核心模块：清算机制、保证金模型、资金费率等</p>\n<p>8 。对 HyperLiquid 或类似链上交易协议有深入了解（加分项）</p>\n<p>9 。熟悉常见安全问题（重入攻击、闪电贷攻击等）</p>\n<p>10 。具备良好的代码习惯与系统设计能力</p>\n<p><strong>加分项</strong></p>\n<p>1 。有完整上线项目经验（主网部署）</p>\n<p>2 。熟悉预言机（如 Chainlink / Pyth ）</p>\n<p>3 。有撮合引擎或高频交易系统经验</p>\n<p><strong>薪酬福利</strong></p>\n<p>1 。月薪：25,000 – 40,000 元 / 月（视经验而定）</p>\n<p>2 。全职远程办公，弹性工作时间</p>\n<p>3 。参与核心 DeFi 衍生品协议开发，与资深技术团队共事</p>\n<p>4 。项目上线后可能享有绩效奖金或代币激励（具体面议）</p>\n<p><strong>如何申请</strong></p>\n<p>如您对本职位感兴趣，请将简历发送至邮箱： <a href=\"mailto:li0409099@163.com\">li0409099@163.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-18T11:50:20Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "AI Algorithm Engineer/DevOps 远程/本人(美国办公室）混合",
+      "url": "https://www.v2ex.com/t/1228235#reply0",
+      "location": "远程",
+      "description": "AI Algorithm Engineer/年薪 20 万美金内<br /><br />Responsibilities<br /><br />• Lead research, pre-training, optimization, and iteration of Vision Foundation Models, including Stable Diffusion, DiT, Vision Transformer (ViT), Segment Anything Model (SAM), CLIP, and other cutting-edge computer vision models.<br /><br />• Design and fine-tune vision models for business scenarios such as AI image generation, image editing, multimodal understanding, and intelligent visual applications.<br /><br />• Lead Supervised Fine-Tuning (SFT), Parameter-Efficient Fine-Tuning (PEFT), LoRA, ControlNet, Adapter tuning, and related optimization techniques.<br /><br />• Explore and improve generative model architectures and visual feature extraction networks to enhance image quality, stability, resolution, inference efficiency, and multimodal alignment.<br /><br />• Collaborate with engineering teams to deploy large-scale AI models into production and optimize inference performance through quantization, pruning, inference acceleration, memory optimization, and deployment tuning.<br /><br />• Continuously track the latest academic research, open-source projects, and industry trends in Computer Vision (CV), Multimodal AI, and Generative AI, rapidly transforming new technologies into business value.<br /><br />Requirements<br /><br />Education<br />• Bachelor's degree or above in Computer Science, Artificial Intelligence, Applied Mathematics, or related fields.<br /><br />Technical Skills<br /><br />• Str",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-18T10:53:51Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[招聘] 模型蒸馏工程师 · 角色扮演方向（接受多种合作方式，可付费做测试任务）",
-      "url": "https://www.v2ex.com/t/1228141#reply1",
+      "url": "https://www.v2ex.com/t/1228141#reply3",
       "location": "远程",
       "description": "<p>我们是专注 NSFW 角色扮演领域的公司，目前在启动针对自部署模型的训练工作</p>\n<p>我们知道这个岗位对能力，经验的要求较高，所以我们针对这个任务有多种合作模式：</p>\n<p>1 ，全职远程</p>\n<p>2 ，兼职（有一定时间投入保证项目稳定推进）</p>\n<p>2 ，顾问（按时间付费，自己不做大量重复性工作，有实际角色扮演类模型落地经验，设计方案并指导我们一步步达到最终可考证效果）</p>\n<p>[注意事项：如果您有成熟针对多样性的体系化蒸馏经验和训练经验，并且能接受限时的任务测试（时间段以您方便为主，大概消耗 3-5 小时时间，我们可以针对这个任务付费，主要确保您有真实的蒸馏方案设计能力和动手能力，降低大家的沟通成本）] </p>\n<p>招聘需求：</p>\n<p>我们不是找\"会跑训练脚本\"的人。而是能设计整套蒸馏方案、并解决角色扮演最大难题——“多样性”的人:</p>\n<p>蒸馏体系设计:设计从教师模型选择、数据生成、到质量筛选的完整蒸馏流程；</p>\n<p>多样性与防同质化:用系统化的方法保证蒸馏出的数据能支撑\"千人千面\"的角色演绎</p>\n<p>蒸馏技巧的落地:懂 on-policy / off-policy 蒸馏的取舍、教师模型拒答的绕过、数据配比、质量分层——用这些技巧提取真正高质量的训练数据</p>\n<p>数据提取与工程:从各种来源(教师模型生成、小说/存档转换、运营日志)系统化地提取、清洗、结构化角色扮演对话数据</p>\n<p>数据闭环:设计上线后用真实运营数据持续迭代的蒸馏闭环</p>\n<p>岗位要求：</p>\n<p>亲手设计过蒸馏方案、并训出过能用的模型\n对\"数据多样性/防同质化\"有系统方法论\n熟悉相关开源模型底座 + LoRA/QLoRA/SFT/DPO 工具链</p>\n<p>加分项</p>\n<p>有过角色扮演类模型的蒸馏/训练经验\n您自己是酒馆深度用户/创作者</p>\n<p>联系方式：</p>\n<p>联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t</p>\n<p>联系 VX （ Base64 ）：QzU3OTY4MDA=</p>\n<p>联系 TG （ Base64 ）：QGN6YWs5</p>\n<p>我们已在 V2 上合作过多位全栈等岗位工程师，已支付酬劳也有一定量级，非常有诚意，希望大神能联系我们达成合作</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -68,7 +106,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[base 地 福州 25k-35k 14 薪] 前端负责人",
-      "url": "https://www.v2ex.com/t/1228116#reply2",
+      "url": "https://www.v2ex.com/t/1228116#reply4",
       "location": "",
       "description": "## 悉知<br />福州塔斯汀餐饮管理有限公司<br />地点在福州, 不考虑福州的小伙伴不要投递！！<br /><br />## 我们希望你是这样的人：<br /><br />- 具备 5 年以上前端开发经验，有大型复杂 B 端系统研发经验，能够独立负责前端架构设计和核心技术方案落地。<br /><br />- 有过带领团队的经验，能够给团队成员做项目进度把关、技术指导，带领团队成长，建设优良的技术氛围<br /><br />- 具有丰富的 AI Coding 经验，熟练运用包括但不限于 Claude Code 、Codex 、Grok 等成熟 Agent 辅助日常开发<br /><br />- 具备处理复杂业务场景的能力，有高数据量、高交互、高复杂度页面开发经验，能够针对大量页面控件、复杂组件渲染等场景进行性能优化，保障系统稳定流畅运行。<br /><br />- 具备前端工程体系建设经验，参与或主导过组件库、公共业务组件、微前端架构等基础设施建设，有推动多业务、多团队协作开发的实践经验。<br /><br /><br />- 对前端技术体系有较深入理解，熟练掌握 Vue2/Vue3 、React 、TypeScript 等主流技术栈，能够根据业务场景进行合理的技术选型和架构设计。<br /><br /><br />- 具备一定全栈开发能力，熟悉 Node.js 相关技术，具备 BFF 服务开发经验，能够参与前后端接口设计、数据处理和系统协同建设。<br /><br />- 具备前端可观测体系建设经验，熟悉埋点采集、性能监控、异常分析、用户行为数据分析等相关能力。<br /><br />- 具备较强的问题分析和技术推动能力，能够独立解决复杂技术问题，并推动团队研发效率和工程质量提升。<br /><br /><br />## 联系方式<br />avenhen90@gmail.com",
       "source": "gh-relay/v2ex-jobs",
@@ -87,7 +125,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "远程全职岗位开发/运营/设计，有兴趣看看啊",
-      "url": "https://www.v2ex.com/t/1228100#reply2",
+      "url": "https://www.v2ex.com/t/1228100#reply4",
       "location": "远程",
       "description": "远程全职岗位<br />高级 PHP 开发工程师 20-30k<br />视频平台 / 高并发 / 缓存与 CDN 方向<br />01 岗位职责<br />  负责视频资料检索平台的后端架构与核心业务开发，包括搜索聚合、影片与创作者资料、播放服务、用户行为、收藏历史、排行榜和内容运营接口。<br />  设计并持续优化高并发 API ，落地多级缓存、请求合并、异步队列、限流、熔断、降级和热点数据保护，保障突发流量下的可用性。<br />  负责 MySQL 数据模型、索引、慢查询与读写链路优化，处理缓存与数据库一致性、数据回填、幂等和任务重试等问题。<br />  建设 Redis 缓存体系，能够针对缓存穿透、击穿、雪崩、大 Key 、热 Key 和缓存失效风暴制定可执行方案。<br />  参与 Cloudflare/CDN 接入与治理，包括 Cache Rules 、缓存键、TTL 、回源保护、主动刷新、WAF 、Rate Limiting 、防盗链和多线路切换。<br />  负责视频播放链路相关后端能力，理解 HLS/m3u8 、TS 分片、AES-128 Key 、播放清单改写、鉴权 URL 、回源与边缘缓存。<br />  完善日志、指标、链路追踪和告警体系，能够快速定位线上性能问题，并对容量、故障和发布风险负责。<br />  推动代码评审、自动化测试、灰度发布、回滚和技术文档建设，带领团队形成稳定的工程规范。<br />02 任职要求          <br />  5 年以上 PHP 开发经验，至少 2 年承担核心系统或技术负责人角色；熟悉 PHP 8 、Composer 、PSR 规范及主流框架。<br />   必须具备真实的大用户量或高并发线上项目经验，能够说明业务规模、峰值 QPS 、容量瓶颈、优化过程和最终结果。<br />  熟练掌握 MySQL 与 Redis ，具备数据库性能分析、缓存架构设计和线上数据问题处置能力。<br />  必须具备 Cloudflare 或主流 CDN 的生产经验，理解浏览器缓存、边缘缓存、源站缓存及缓存键对命中率的影响。<br />  熟悉 Linux 、Nginx 或 HAProxy 、Docker 、Git 和 CI/CD ，能够独立完成服务部署、排障和性能调优。<br />  熟悉 RESTful API 、签名鉴权、权限控制、文件上传安全和第三方接口对接，重视安全与数据边界。<br />  具备清晰的系统设计能力和主人翁意识，能够把需求转化为可上线、可观测、可扩容的技术方案。<br />03 加分项            <br />  有视频、直播、内容社区、图片搜索、短视频或大规模媒体资源平台经验。<br />  使用过 Hyperf 、Swoole 、RoadRunner 等常驻内存或异步框架，并处理过连接泄漏与内存增长问题。<br />  有 Elasticsearch/OpenSearch 、ClickHouse 、Kafka 、RabbitMQ 等组件的生产实践。<br />  有 AWS 、跨账号网络、对象存储、CloudFront 、Cloudflare Workers/R2 或多 CDN 调度经验。<br />  有反爬、防盗链、风控、攻击流量治理或大规模图片处理经验。<br /><br /><br />Golang 、PHP 开发工程师 25-45k<br /><br />岗位职责：<br />负责基于 PHP 语言和 Golang 语言的 Web 应用",
       "source": "gh-relay/v2ex-jobs",
@@ -121,6 +159,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-16T19:21:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[东莞/招聘] saas 平台开发负责人+后端开发各 1 人， Java 方向，重视 AI 辅助开发（20~35k， 15~20k）",
+      "url": "https://www.v2ex.com/t/1227539#reply10",
+      "location": "远程",
+      "description": "<p><em>（帮兄弟发的广告）</em></p>\n<h2>公司及项目背景</h2>\n<p>传统行业顶流机构和金融大佬的合作创业公司，已启动并盈利运转 2 年多，有成熟稳定的长期项目，主要聚焦 AI 和物联网在传统制造业场景的创新应用。\n现有平台主要包括设备及第三方系统接入、统一风险事件、AI 辅助研判、任务处置闭环、权限审计和数据分析等模块。\n因为有新的项目要上马，此前的开发团队和平台架构都亟待升级，现招聘：</p>\n<ul>\n<li>团队负责人 × 1</li>\n<li>后端开发 × 1</li>\n</ul>\n<h2>岗位职责</h2>\n<ul>\n<li>熟练且习惯使用 Codex 、Claude Code 、Cursor 等 AI 工具提升开发效率，同时把控代码质量；</li>\n<li>参与平台技术架构、核心模块和数据模型设计；</li>\n<li>负责核心功能开发，包括事件中枢、处置流程、权限审计和第三方接口接入；</li>\n<li>推动代码规范、测试、Code Review 、部署和持续交付；</li>\n<li>与业务团队沟通，将业务流程、风险规则转化为可落地的系统功能；</li>\n<li>解决项目中的架构、性能、安全和线上运行问题。</li>\n</ul>\n<h2>岗位要求</h2>\n<ul>\n<li>熟练使用 AI 辅助开发工具，能够展示实际使用方式和交付成果；</li>\n<li>熟练掌握 Java 、Spring Boot 及常见后端开发体系；</li>\n<li>熟悉 MySQL 或 PostgreSQL 、Redis 、REST API 等；</li>\n<li>理解模块化设计、状态机、幂等、失败重试、权限和审计等机制；</li>\n<li>有真实项目从 0 到 1 开发及上线运行经验；</li>\n<li>具备一定前端理解能力，能够与 Vue 、React 或 TypeScript 开发协作；</li>\n<li>能亲自下场写代码，不接受只做管理或只画架构图；</li>\n<li>有责任心，能够独立分析问题并推动结果落地。</li>\n</ul>\n<h2>加分项</h2>\n<blockquote>\n<p>我们致力于用 AI 改造传统服务的全流程，不仅体现在产品设计上，也希望体现在产品开发迭代的过程中。</p>\n</blockquote>\n<ul>\n<li>有物联网、设备接入、MQTT 、Webhook 或第三方平台对接经验；</li>\n<li>有多租户 SaaS 、事件中心、工单系统或任务调度平台经验；</li>\n<li>有大模型、Agent 、RAG 或 AI 工作流开发经验；</li>\n<li>有带领小型研发团队、招聘和培养开发人员的经验；</li>\n<li>有较完整的开源项目、技术文章或可展示的项目成果。</li>\n</ul>\n<h2>岗位区别</h2>\n<h3>团队负责人 × 1</h3>\n<p>需要重点承担技术路线、任务拆解、代码评审、人员带领和整体交付责任。\n如果特别符合，可以视情况采用远程顾问形式合作，但最好还是在珠三角范围内。</p>\n<h3>主力后端开发 × 1</h3>\n<p>以核心模块开发和解决实际问题为主，但同样要求具备独立设计和高质量交付能力。</p>\n<h2>工作方式及待遇</h2>\n<ul>\n<li>法定节假日、双休、结果导向；公司文化没啥说的，不官僚。</li>\n<li>希望能够理解和接受项目阶段性的加班需要；</li>\n<li>团队负责人：20k ～ 35k ；</li>\n<li>后端开发：15k ～ 20k",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-15T10:04:13Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -178,26 +235,7 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-16T12:37:01Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[东莞/招聘] saas 平台开发负责人+后端开发各 1 人， Java 方向，重视 AI 辅助开发（20~35k， 15~20k）",
-      "url": "https://www.v2ex.com/t/1227539#reply9",
-      "location": "远程",
-      "description": "<p><em>（帮兄弟发的广告）</em></p>\n<h2>公司及项目背景</h2>\n<p>传统行业顶流机构和金融大佬的合作创业公司，已启动并盈利运转 2 年多，有成熟稳定的长期项目，主要聚焦 AI 和物联网在传统制造业场景的创新应用。\n现有平台主要包括设备及第三方系统接入、统一风险事件、AI 辅助研判、任务处置闭环、权限审计和数据分析等模块。\n因为有新的项目要上马，此前的开发团队和平台架构都亟待升级，现招聘：</p>\n<ul>\n<li>团队负责人 × 1</li>\n<li>后端开发 × 1</li>\n</ul>\n<h2>岗位职责</h2>\n<ul>\n<li>熟练且习惯使用 Codex 、Claude Code 、Cursor 等 AI 工具提升开发效率，同时把控代码质量；</li>\n<li>参与平台技术架构、核心模块和数据模型设计；</li>\n<li>负责核心功能开发，包括事件中枢、处置流程、权限审计和第三方接口接入；</li>\n<li>推动代码规范、测试、Code Review 、部署和持续交付；</li>\n<li>与业务团队沟通，将业务流程、风险规则转化为可落地的系统功能；</li>\n<li>解决项目中的架构、性能、安全和线上运行问题。</li>\n</ul>\n<h2>岗位要求</h2>\n<ul>\n<li>熟练使用 AI 辅助开发工具，能够展示实际使用方式和交付成果；</li>\n<li>熟练掌握 Java 、Spring Boot 及常见后端开发体系；</li>\n<li>熟悉 MySQL 或 PostgreSQL 、Redis 、REST API 等；</li>\n<li>理解模块化设计、状态机、幂等、失败重试、权限和审计等机制；</li>\n<li>有真实项目从 0 到 1 开发及上线运行经验；</li>\n<li>具备一定前端理解能力，能够与 Vue 、React 或 TypeScript 开发协作；</li>\n<li>能亲自下场写代码，不接受只做管理或只画架构图；</li>\n<li>有责任心，能够独立分析问题并推动结果落地。</li>\n</ul>\n<h2>加分项</h2>\n<blockquote>\n<p>我们致力于用 AI 改造传统服务的全流程，不仅体现在产品设计上，也希望体现在产品开发迭代的过程中。</p>\n</blockquote>\n<ul>\n<li>有物联网、设备接入、MQTT 、Webhook 或第三方平台对接经验；</li>\n<li>有多租户 SaaS 、事件中心、工单系统或任务调度平台经验；</li>\n<li>有大模型、Agent 、RAG 或 AI 工作流开发经验；</li>\n<li>有带领小型研发团队、招聘和培养开发人员的经验；</li>\n<li>有较完整的开源项目、技术文章或可展示的项目成果。</li>\n</ul>\n<h2>岗位区别</h2>\n<h3>团队负责人 × 1</h3>\n<p>需要重点承担技术路线、任务拆解、代码评审、人员带领和整体交付责任。\n如果特别符合，可以视情况采用远程顾问形式合作，但最好还是在珠三角范围内。</p>\n<h3>主力后端开发 × 1</h3>\n<p>以核心模块开发和解决实际问题为主，但同样要求具备独立设计和高质量交付能力。</p>\n<h2>工作方式及待遇</h2>\n<ul>\n<li>法定节假日、双休、结果导向；公司文化没啥说的，不官僚。</li>\n<li>希望能够理解和接受项目阶段性的加班需要；</li>\n<li>团队负责人：20k ～ 35k ；</li>\n<li>后端开发：15k ～ 20k",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-15T10:04:13Z"
     }
   ],
-  "total_entries": 40
+  "total_entries": 50
 }
