@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T04:47:23.829000+00:00",
+  "generated_at": "2026-07-22T04:47:05.999189+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "url": "https://news.ycombinator.com/item?id=48995037",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 21 Jul 2026 17:00:20 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "DrDroid (YC W23) Is Hiring",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 02 Jul 2026 13:14:57 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753045\">https://news.ycombinator.com/item?id=48753045</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 01 Jul 2026 21:00:14 +0000"
     }
   ],
   "total_entries": 20
