@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T04:48:38.377678+00:00",
+  "generated_at": "2026-07-25T04:44:17.688260+00:00",
   "jobs": [
     {
       "company": "HN Jobs (YC companies hiring)",
@@ -403,6 +403,25 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "AI 时代，程序员变全干工程师",
+      "url": "https://www.v2ex.com/t/1229586#reply13",
+      "location": "",
+      "description": "AI 时代早已来临，对程序员的冲击是最大！过去软件行业的分工很精细，现在编程门槛降低了，是个人就能用 AI 写点代码。原先的职业程序员要变全干工程师了。xdm 的 agent work 生产力工具都用啥啊？",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-24T08:03:29Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[深圳 / 远程] 固件工程师 30 - 40K/mo",
       "url": "https://www.v2ex.com/t/1228757#reply3",
       "location": "深圳",
@@ -423,7 +442,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[创业组队] 远程 · 实物大宗商品贸易 AI Agent（团队在瑞士），已有试点客户，找技术合伙人",
-      "url": "https://www.v2ex.com/t/1229431#reply4",
+      "url": "https://www.v2ex.com/t/1229431#reply7",
       "location": "远程",
       "description": "<p>我 24 岁，人在日内瓦，之前在全球头部的能源和实物大宗商品贸易公司做 operations 。要解决的就是我自己干过的活。</p>\n<p><strong>产品</strong>：给实物大宗商品贸易公司的操作团队用的 AI agent 。注意是实物贸易，不是衍生品——真的有船、有货、有单据在动。这行到现在还是跑在邮件、PDF 和 Excel 上，一笔货的同一份信息要在四五个地方重复录入，漏一步就赔钱。产品读这些文档，起草每一步操作，全程跟单，对不上就报警，人工确认后才发出。</p>\n<p><strong>现状</strong>：不只是 demo 。目前在一家石油天然气贸易公司做试点，另外和全球最大的咖啡贸易商之一也已经在谈。客户就在楼下，日内瓦一带约 900 家实物贸易公司。</p>\n<p><strong>找什么人</strong>：做过有真实后果的生产系统（金融/支付/物流那种），LLM agent 工程有实战，英文能开会。合伙人，不是外包。</p>\n<p><strong>待遇</strong>：有工资，加上真实比例的股份，具体谈。全远程，我在 UTC+2 。</p>\n<p>先聊一次，合适的话再看具体的东西。</p>\n<p>联系（ base64 ）：c2FiLmFpZm9ydHJhZGVvcGVyYXRpb25zQG91dGxvb2suY29t</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -555,46 +574,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "[PromptX 极客团队招募] 寻找 5-8 位极客伙伴，在 AI Coding 时代一起做点酷东西！",
-      "url": "https://www.v2ex.com/t/1228932#reply16",
-      "location": "",
-      "description": "<p>你是否也有过这样的时刻：脑子里每天都有各种天马行空的想法，想做类似 <strong>Photoshop 、Figma 、Notion</strong> 这样兼具实用与美感的伟大工具，但每次一想到跨语言、跨平台的庞大工程量，就被复杂的现实劝退？</p>\n<p><strong>在 AI Coding 的时代，这个限制被彻底打破了。</strong></p>\n<p>借力 AI ，个人和微型团队的生产力被无限放大。现在的我们，拥有了前所未有的交付速度，正是去把那些“听起来很酷”的想法变成现实的最好时机。</p>\n<p>我想组建一个 <strong>5–8 人的高浓度创作小组</strong>（如果碰撞出成熟方向，随时准备真刀真枪创业）。</p>\n<hr />\n<h3>💡 我们可能探索的方向</h3>\n<p>我们不限制思路，主打<strong>快速验证、敏捷迭代</strong>。潜在的方向包括但不限于：</p>\n<ul>\n<li><strong>AI 视频编辑器</strong>（探索全新的 AI 剪辑/生成交互与管线）</li>\n<li><strong>AI 智能笔记本 / 知识库</strong>（重塑下一代 Thinking Tool ）</li>\n<li><strong>各类图形/设计/跨平台协同工具</strong></li>\n<li>...以及任何我们共同脑洞出来的酷产品！</li>\n</ul>\n<hr />\n<h3>🎯 寻找怎样的你？</h3>\n<p><strong>核心是能够下场动手、真正有执行力的伙伴：</strong></p>\n<ol>\n<li><strong>极客精神 &amp; AI Coding：</strong> 能够熟练运用 AI Coding 工具快速交付，有强烈的创造欲望。</li>\n<li><strong>多维背景大加分：</strong> 纯研发非常欢迎！但如果你除了写代码，还懂<strong>产品逻辑、推销/流量增长</strong>，或者有<strong>合规过审、独立 App 上架</strong>等全流程经验，那就更棒了。</li>\n<li><strong>极高的 Passion：</strong> 你对“创造”这件事本身充满激情，想真正下场折腾，而不是只来听听热闹。</li>\n</ol>\n<hr />\n<h3>💻 关于发起人（我是谁）</h3>\n<ul>\n<li><strong>大厂经验：</strong> 10 年，互联网经验，目前在大厂担任业务方向负责人（带 10 人左右团队），主导过比较多复杂的业务与架构系统。</li>\n<li><strong>极客基因：</strong> 几年前凭灵感独立手搓过一些开源项目，GitHub 累计 <strong>2k+ Star</strong>（账号：<a href=\"https://github.com/bobiscool\" rel=\"nofollow\">github.com/bobiscool</a>，不算高，但是我希望你也是有相应的作品）。</li>\n</ul>\n<hr />\n<h3>⚠️ 关于成本与未来（丑话说在前面）</h3>\n<ul>\n<li><strong>关于报酬：</strong> 目前<strong>无薪酬/无工资</strong>，这是一个纯粹由兴趣、野心和极客精神驱动的早期创作小组。</li>\n<li><strong>关于成本：</strong> 大家的 AI Coding 工具 / API 费用自行承担；服务器等公共资源费用初期平摊。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-21T16:18:13Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "球指点",
-      "url": "https://www.v2ex.com/t/1229027#reply6",
-      "location": "",
-      "description": "<p>岗位图像算法，检测/分割/点位等。\n现在 N ，15 薪，社保基数 1W, 公积金全额==3 年，定位新业务拓展，无新人培训无管理，纯是一把刀\n新的 N+10K ，13 薪，社保基础最低，公积金协商 20K==初创公司，需求基本都摸过，协商后期参与 SLAM 的研发</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-22T03:48:24Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "兄弟们提离职了",
-      "url": "https://www.v2ex.com/t/1228783#reply51",
+      "url": "https://www.v2ex.com/t/1228783#reply52",
       "location": "",
       "description": "<p>传统行业传统 AI ，跳到外面创业公司做 agent 。\n现在提了流程，但是+1 +2 以及大 boss 都来留，薪资也愿意拉平，这可咋整。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -612,10 +593,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "这一波 AI 冲击下 有多少开发人员失业了呢？",
-      "url": "https://www.v2ex.com/t/1228794#reply49",
+      "title": "[PromptX 极客团队招募] 寻找 5-8 位极客伙伴，在 AI Coding 时代一起做点酷东西！",
+      "url": "https://www.v2ex.com/t/1228932#reply16",
       "location": "",
-      "description": "<p>大家统计过身边的情况吗？</p>\n<p>我个人感觉得有 30%以上程序员失业了，并且新毕业的计算机系学生也很难找到工作</p>\n<p>只有算法类活得很好</p>",
+      "description": "<p>你是否也有过这样的时刻：脑子里每天都有各种天马行空的想法，想做类似 <strong>Photoshop 、Figma 、Notion</strong> 这样兼具实用与美感的伟大工具，但每次一想到跨语言、跨平台的庞大工程量，就被复杂的现实劝退？</p>\n<p><strong>在 AI Coding 的时代，这个限制被彻底打破了。</strong></p>\n<p>借力 AI ，个人和微型团队的生产力被无限放大。现在的我们，拥有了前所未有的交付速度，正是去把那些“听起来很酷”的想法变成现实的最好时机。</p>\n<p>我想组建一个 <strong>5–8 人的高浓度创作小组</strong>（如果碰撞出成熟方向，随时准备真刀真枪创业）。</p>\n<hr />\n<h3>💡 我们可能探索的方向</h3>\n<p>我们不限制思路，主打<strong>快速验证、敏捷迭代</strong>。潜在的方向包括但不限于：</p>\n<ul>\n<li><strong>AI 视频编辑器</strong>（探索全新的 AI 剪辑/生成交互与管线）</li>\n<li><strong>AI 智能笔记本 / 知识库</strong>（重塑下一代 Thinking Tool ）</li>\n<li><strong>各类图形/设计/跨平台协同工具</strong></li>\n<li>...以及任何我们共同脑洞出来的酷产品！</li>\n</ul>\n<hr />\n<h3>🎯 寻找怎样的你？</h3>\n<p><strong>核心是能够下场动手、真正有执行力的伙伴：</strong></p>\n<ol>\n<li><strong>极客精神 &amp; AI Coding：</strong> 能够熟练运用 AI Coding 工具快速交付，有强烈的创造欲望。</li>\n<li><strong>多维背景大加分：</strong> 纯研发非常欢迎！但如果你除了写代码，还懂<strong>产品逻辑、推销/流量增长</strong>，或者有<strong>合规过审、独立 App 上架</strong>等全流程经验，那就更棒了。</li>\n<li><strong>极高的 Passion：</strong> 你对“创造”这件事本身充满激情，想真正下场折腾，而不是只来听听热闹。</li>\n</ol>\n<hr />\n<h3>💻 关于发起人（我是谁）</h3>\n<ul>\n<li><strong>大厂经验：</strong> 10 年，互联网经验，目前在大厂担任业务方向负责人（带 10 人左右团队），主导过比较多复杂的业务与架构系统。</li>\n<li><strong>极客基因：</strong> 几年前凭灵感独立手搓过一些开源项目，GitHub 累计 <strong>2k+ Star</strong>（账号：<a href=\"https://github.com/bobiscool\" rel=\"nofollow\">github.com/bobiscool</a>，不算高，但是我希望你也是有相应的作品）。</li>\n</ul>\n<hr />\n<h3>⚠️ 关于成本与未来（丑话说在前面）</h3>\n<ul>\n<li><strong>关于报酬：</strong> 目前<strong>无薪酬/无工资</strong>，这是一个纯粹由兴趣、野心和极客精神驱动的早期创作小组。</li>\n<li><strong>关于成本：</strong> 大家的 AI Coding 工具 / API 费用自行承担；服务器等公共资源费用初期平摊。",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -627,7 +608,7 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-07-21T05:24:58Z"
+      "published": "2026-07-21T16:18:13Z"
     }
   ]
 }
