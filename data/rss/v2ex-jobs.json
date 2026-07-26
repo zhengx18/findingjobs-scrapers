@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:44:17.688260+00:00",
+  "generated_at": "2026-07-26T04:58:36.979688+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,27 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "[base 深圳 10k-20k 14~16 薪] Agent 开发工程师",
+      "url": "https://www.v2ex.com/t/1229845#reply2",
+      "location": "深圳",
+      "description": "<h2>工作职责</h2>\n<ol>\n<li>参与 AI Agent 系统的设计与研发，负责任务规划（ Planning ）、工具调用（ Tool Use ）、上下文管理（ Context Management ）、记忆机制（ Memory ）等核心模块的开发与迭代；</li>\n<li>基于 TypeScript / Node.js 技术栈，开发和维护 Agent Runtime 、CLI 工具、SDK 及相关工程基础设施；</li>\n<li>负责 Agent 工具调用能力的开发与集成，包括浏览器、Shell 、文件系统、数据库、第三方 API 、MCP 、Skills 等工具生态；</li>\n<li>参与 Agent 工作流、状态管理、模型调用策略及上下文处理机制的设计和实现，提升复杂任务中的执行稳定性与成功率；</li>\n<li>参与 Agent 工程化建设，包括 Harness Engineering 、Context Engineering 、错误处理、重试机制、日志记录、可观测性及性能优化；</li>\n<li>编写单元测试、集成测试和自动化回归测试，参与 Agent Benchmark 、评测 Harness 和质量评估体系建设；</li>\n<li>跟进并实践 AI Agent 领域的新技术，包括 ReAct 、Tool Calling 、Code Agent 、Multi-Agent 和 Agentic Workflow 等；</li>\n<li>与产品、算法及后端团队协作，将 Agent 能力应用于 AI Coding 、智能助手、自动化工作流等实际业务场景。</li>\n</ol>\n<h2>任职资格</h2>\n<ol>\n<li>计算机、软件工程或相关专业本科及以上学历，具备良好的数据结构、算法和计算机基础；</li>\n<li>具有 3 年左右软件开发经验，其中至少 2 年 TypeScript / Node.js 相关开发经验；</li>\n<li>熟练掌握 TypeScript 和 JavaScript ，理解类型系统、异步编程、模块化及常见设计模式；</li>\n<li>熟悉 Node.js 运行机制，包括 Promise 、Event Loop 、Stream 、Worker Thread 等，并具备实际项目应用经验；</li>\n<li>熟悉现代 TypeScript 工程体系，包括 npm 、pnpm 或 yarn 、ESM/CJS 、Monorepo 、Bundler 、CLI 开发和 Package 发布等；</li>\n<li>熟悉至少一种主流大模型 API ，如 OpenAI 、Anthropic 、Gemini 或其他兼容接口，了解 Prompt 、Tool Calling 、Structured Output 等基础能力；</li>\n<li>具有 Agent 、RAG 、AI Coding 、智能助手或 LLM 应用相关项目经验，能够独立完成 Agent 功能模块的开发和调试；</li>\n<li>熟悉 RESTful API 、WebSocket 、数据库及常见后端开发模式，具备良好的接口设计和系统集成能力；</li>\n<li>熟悉 Git 、Linux 和 Docker ，具备良好的编码规范、测试意识和问题排查能力；</li>\n<li>具备较强的学习能力和问题分析能力，能够定位并解决 Agent 长链路执行中的异常、状态错误和稳定性问题。</li>\n</ol>\n<h2>加分项</h2>\n<ol>\n<li>有 Verce",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-26T03:08:42Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "AI 时代，程序员变全干工程师",
-      "url": "https://www.v2ex.com/t/1229586#reply13",
+      "url": "https://www.v2ex.com/t/1229586#reply19",
       "location": "",
       "description": "AI 时代早已来临，对程序员的冲击是最大！过去软件行业的分工很精细，现在编程门槛降低了，是个人就能用 AI 写点代码。原先的职业程序员要变全干工程师了。xdm 的 agent work 生产力工具都用啥啊？",
       "source": "gh-relay/v2ex-jobs",
@@ -67,6 +86,44 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "兄弟们提离职了",
+      "url": "https://www.v2ex.com/t/1228783#reply55",
+      "location": "",
+      "description": "<p>传统行业传统 AI ，跳到外面创业公司做 agent 。\n现在提了流程，但是+1 +2 以及大 boss 都来留，薪资也愿意拉平，这可咋整。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-21T04:22:28Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "弱智领导 AI 治理团队，并且颁布离谱绩效考核",
+      "url": "https://www.v2ex.com/t/1229185#reply56",
+      "location": "香港",
+      "description": "公司年初来了一位技术总监，是个近些年移民香港的“老登”。刚上任时，他便找所有人逐一聊天。轮到和我对话时，我明显感到他对技术一窍不通。当时我跟同事说起这事，大家都不信；可后来事实证明，我的判断是对的。<br /><br />我们这个团队是新建的，上一任领导同样不懂技术，成立这么久也没能沉淀下自己的产品。新领导来了以后，跟老板大吹特吹，说要搞一套“本体系统”，接着就把我们拆分成若干小组——本来人手就紧缺，这下倒好，每人分到一个大型项目。他还向老板夸下海口，保证半年出成果。<br /><br />实际上，他连每个项目到底该做什么都搞不清楚：产品方向没定，技术细节不懂，管理方法也不会。整天只会甩锅，从不敢做决策；向所有人索要各种文档，自己又看不懂，转头丢给大模型，再把大模型生成的结果扔回给下面的人返工。<br /><br />更离谱的是，他最近颁布了一套绩效考核方案：每月扣除每人 15%的工资，放进所谓的绩效奖金池，每季度按考核结果重新分配；而且，团队团建和日常开支也要从这笔钱里出。不同意？那就直接裁员。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-23T01:00:15Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[创业组队] 远程 · 实物大宗商品贸易 AI Agent（团队在瑞士），已有试点客户，找技术合伙人",
       "url": "https://www.v2ex.com/t/1229431#reply7",
       "location": "远程",
@@ -86,10 +143,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "弱智领导 AI 治理团队，并且颁布离谱绩效考核",
-      "url": "https://www.v2ex.com/t/1229185#reply55",
-      "location": "香港",
-      "description": "公司年初来了一位技术总监，是个近些年移民香港的“老登”。刚上任时，他便找所有人逐一聊天。轮到和我对话时，我明显感到他对技术一窍不通。当时我跟同事说起这事，大家都不信；可后来事实证明，我的判断是对的。<br /><br />我们这个团队是新建的，上一任领导同样不懂技术，成立这么久也没能沉淀下自己的产品。新领导来了以后，跟老板大吹特吹，说要搞一套“本体系统”，接着就把我们拆分成若干小组——本来人手就紧缺，这下倒好，每人分到一个大型项目。他还向老板夸下海口，保证半年出成果。<br /><br />实际上，他连每个项目到底该做什么都搞不清楚：产品方向没定，技术细节不懂，管理方法也不会。整天只会甩锅，从不敢做决策；向所有人索要各种文档，自己又看不懂，转头丢给大模型，再把大模型生成的结果扔回给下面的人返工。<br /><br />更离谱的是，他最近颁布了一套绩效考核方案：每月扣除每人 15%的工资，放进所谓的绩效奖金池，每季度按考核结果重新分配；而且，团队团建和日常开支也要从这笔钱里出。不同意？那就直接裁员。",
+      "title": "寻商业合伙人｜市场验证、商务拓展与增长运营方向 [武汉]",
+      "url": "https://www.v2ex.com/t/1229295#reply2",
+      "location": "",
+      "description": "<p>一个商业化的 面向高咨询量场景的 AI 接待 Agent ｜通用 AI 客服 Agent 平台</p>\n<p><a href=\"https://okchat.mfidea.cn/\" rel=\"nofollow\">https://okchat.mfidea.cn/</a></p>\n<p>寻商业合伙人｜市场验证、商务拓展与增长运营方向 [武汉] </p>\n<p>核心任务是：</p>\n<p>1 、一起筛选有增长潜力的高咨询量行业</p>\n<p>2 、建立首批候选客户名单、访谈客户、验证真实问题</p>\n<p>3 、联系决策人、组织产品演示、推动 1—3 家种子客户试用</p>\n<p>4 、完善定价、销售材料、交付流程和客户案例、把成功方式沉淀成可复制的获客路径</p>\n<p>这不是“帮忙发发小红书、运营公众号”的岗位。内容运营只是手段，拿到真实市场反馈和客户才是主任务</p>\n<p>有兴趣的可以聊下。</p>",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -101,7 +158,7 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-07-23T01:00:15Z"
+      "published": "2026-07-23T07:00:45Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -140,102 +197,7 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-23T13:06:42Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "十年多开发经验的老兵寻智能体相关的工作（远程或者外包）",
-      "url": "https://www.v2ex.com/t/1229301#reply0",
-      "location": "远程",
-      "description": "<p>10 多年前后端开发经验，对产品，市场和技术有一些理解。近三年大部分精力投入大模型应用落地：多 Agent 系统、RAG 、Prompt 工程与模型编排均有上线项目。INTJ 不愿意受限的工作，已多年远程工作。</p>\n<p>写有<a href=\"https://mashihua.gitbook.io/everyone_is_a_programmer\" rel=\"nofollow\">人人都是程序员</a>，做过人工智能落地的系统方法演讲，理解企业端人工智能落地的短板和步骤。</p>\n<p>语音对话：24 年年底前做过三段式语音实时语音对话服务，基于 WebSocket 全双工协议，支持实时打断。</p>\n<p>RAG 全流程：游戏客服为 RAG 增强 Agent：覆盖知识库构建、文本切片、向量检索、召回排序、生成融合全环节，有效抑制幻觉问题。</p>\n<p>AI Agent 开发：设计并落地生产级多 Agent 内容生产架构（\"规划 Agent + 专职执行 Agent + 工具层\"分层编排），建立和实现评测体系，持续优化 Agent 能力</p>\n<p>MAAS 服务：TensorRT 推理加速，GPU 监控，模型请求队列，GRPC</p>\n<p>期望工作：</p>\n<ol>\n<li>企业级落地咨询或者 FDE</li>\n<li>Agent 远程工作或者外包</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-23T07:14:16Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "寻商业合伙人｜市场验证、商务拓展与增长运营方向 [武汉]",
-      "url": "https://www.v2ex.com/t/1229295#reply1",
-      "location": "",
-      "description": "<p>一个商业化的 面向高咨询量场景的 AI 接待 Agent ｜通用 AI 客服 Agent 平台</p>\n<p><a href=\"https://okchat.mfidea.cn/\" rel=\"nofollow\">https://okchat.mfidea.cn/</a></p>\n<p>寻商业合伙人｜市场验证、商务拓展与增长运营方向 [武汉] </p>\n<p>核心任务是：</p>\n<p>1 、一起筛选有增长潜力的高咨询量行业</p>\n<p>2 、建立首批候选客户名单、访谈客户、验证真实问题</p>\n<p>3 、联系决策人、组织产品演示、推动 1—3 家种子客户试用</p>\n<p>4 、完善定价、销售材料、交付流程和客户案例、把成功方式沉淀成可复制的获客路径</p>\n<p>这不是“帮忙发发小红书、运营公众号”的岗位。内容运营只是手段，拿到真实市场反馈和客户才是主任务</p>\n<p>有兴趣的可以聊下。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-23T07:00:45Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[赞德科技] [坐班/社招内推] 招聘 后端 / Flutter",
-      "url": "https://www.v2ex.com/t/1229283#reply0",
-      "location": "深圳",
-      "description": "<h1>公司简介</h1>\n<p>赞德科技（深圳）有限公司，是 MEDAD HOLDING 全球技术研发的核心引擎，专注于核心系统 开发、前沿科技创新与 7×24 小时全天候技术支持。 加入我们，您将成为一支多元、卓越的国际化团队中的一员。依托深圳作为全球科技人才高地的 独特优势，赞德科技汇聚了顶尖的金融科技研发精英，持续夯实 Medad Holding 平台的技术领 先性、系统安全性与运营稳定性，共创数字金融的未来。</p>\n<h1>高级后端开发工程师</h1>\n<p>高级后端开发工程师将负责设计、构建和维护集团内多个项目及产品线的后端系统。您将在快节奏、多产品并行的环境中工作，支持包括电子商务、金融科技、运营看板、移动应用以及内部企业系统在内的多种业务单元。 此职位需要扎实的技术能力、高度责任心，并能在同时构建、改进和维护多个后端架构与服务的环境中游刃有余。</p>\n<h2>主要职责</h2>\n<ul>\n<li>跨多个活跃项目设计、开发、优化和维护后端应用程序。</li>\n<li>构建可支持多产品、多团队及多业务领域的后端系统与可复用组件。</li>\n<li>与前端开发人员紧密协作，交付清晰且文档完备的后端 API （ REST / OpenAPI / GraphQL ）。</li>\n<li>与业务分析师和项目经理协作，细化产品需求。</li>\n<li>对分配的任务具备主人翁意识，并确保其完成。</li>\n<li>使用 Golang 实现可扩展且健壮的后端服务。</li>\n<li>编写自动化测试。</li>\n<li>维护编码规范。</li>\n<li>应用金融科技级别的安全准则。</li>\n<li>跟踪并管理开源依赖项。</li>\n<li>进行代码审查。</li>\n</ul>\n<h2>敏捷与交付支持</h2>\n<ul>\n<li>参与迭代周期内的各项会议。</li>\n<li>协助项目经理和业务分析师。</li>\n<li>提供架构设计方面的建议。</li>\n<li>在 DevSecOps 文化氛围中工作。</li>\n<li>确保系统达到生产就绪标准。</li>\n</ul>\n<h2>关键资质与技能</h2>\n<h3>技术技能</h3>\n<ul>\n<li>扎实的算法基础。</li>\n<li>后端开发：精通 Golang ，熟悉 JavaScript 、TypeScript 、Java 。</li>\n<li>拥有微服务架构设计经验。</li>\n<li>对前端技术（如 ReactJS ）有所了解。</li>\n<li>理解移动应用的后端需求。</li>\n<li>API 专业知识：精通 REST 、GraphQL ，具备支付集成经验。</li>\n<li>云平台与 DevSecOps：熟悉 AWS/GCP/Azure 、Docker 、Kubernetes 。</li>\n<li>缓存与性能优化：熟悉 Redis 、Kafka 。</li>\n<li>拥有全栈系统开发经验。</li>\n<li>精通 Git 工作流。</li>\n<li>软技能与协作能力</li>\n<li>能够同时管理多个并行项目中的职责。</li>\n<li>出色的跨职能协作能力。</li>\n<li>具备主导技术交付的经验。</li>\n<li>优秀的问题解决能力。</li>\n<li>能适应快节奏工作环境并表现出色。</li>\n<li>强大的沟通能力。</li>\n</ul>\n<h1>高级移动应用开发工程师</h1>\n<h2>职位描述</h2>\n<p>负责核心移动应用产品的设计、开发与优化，主导技术方案选型",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-23T06:29:35Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "兄弟们提离职了",
-      "url": "https://www.v2ex.com/t/1228783#reply52",
-      "location": "",
-      "description": "<p>传统行业传统 AI ，跳到外面创业公司做 agent 。\n现在提了流程，但是+1 +2 以及大 boss 都来留，薪资也愿意拉平，这可咋整。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-21T04:22:28Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[PromptX 极客团队招募] 寻找 5-8 位极客伙伴，在 AI Coding 时代一起做点酷东西！",
-      "url": "https://www.v2ex.com/t/1228932#reply16",
-      "location": "",
-      "description": "<p>你是否也有过这样的时刻：脑子里每天都有各种天马行空的想法，想做类似 <strong>Photoshop 、Figma 、Notion</strong> 这样兼具实用与美感的伟大工具，但每次一想到跨语言、跨平台的庞大工程量，就被复杂的现实劝退？</p>\n<p><strong>在 AI Coding 的时代，这个限制被彻底打破了。</strong></p>\n<p>借力 AI ，个人和微型团队的生产力被无限放大。现在的我们，拥有了前所未有的交付速度，正是去把那些“听起来很酷”的想法变成现实的最好时机。</p>\n<p>我想组建一个 <strong>5–8 人的高浓度创作小组</strong>（如果碰撞出成熟方向，随时准备真刀真枪创业）。</p>\n<hr />\n<h3>💡 我们可能探索的方向</h3>\n<p>我们不限制思路，主打<strong>快速验证、敏捷迭代</strong>。潜在的方向包括但不限于：</p>\n<ul>\n<li><strong>AI 视频编辑器</strong>（探索全新的 AI 剪辑/生成交互与管线）</li>\n<li><strong>AI 智能笔记本 / 知识库</strong>（重塑下一代 Thinking Tool ）</li>\n<li><strong>各类图形/设计/跨平台协同工具</strong></li>\n<li>...以及任何我们共同脑洞出来的酷产品！</li>\n</ul>\n<hr />\n<h3>🎯 寻找怎样的你？</h3>\n<p><strong>核心是能够下场动手、真正有执行力的伙伴：</strong></p>\n<ol>\n<li><strong>极客精神 &amp; AI Coding：</strong> 能够熟练运用 AI Coding 工具快速交付，有强烈的创造欲望。</li>\n<li><strong>多维背景大加分：</strong> 纯研发非常欢迎！但如果你除了写代码，还懂<strong>产品逻辑、推销/流量增长</strong>，或者有<strong>合规过审、独立 App 上架</strong>等全流程经验，那就更棒了。</li>\n<li><strong>极高的 Passion：</strong> 你对“创造”这件事本身充满激情，想真正下场折腾，而不是只来听听热闹。</li>\n</ol>\n<hr />\n<h3>💻 关于发起人（我是谁）</h3>\n<ul>\n<li><strong>大厂经验：</strong> 10 年，互联网经验，目前在大厂担任业务方向负责人（带 10 人左右团队），主导过比较多复杂的业务与架构系统。</li>\n<li><strong>极客基因：</strong> 几年前凭灵感独立手搓过一些开源项目，GitHub 累计 <strong>2k+ Star</strong>（账号：<a href=\"https://github.com/bobiscool\" rel=\"nofollow\">github.com/bobiscool</a>，不算高，但是我希望你也是有相应的作品）。</li>\n</ul>\n<hr />\n<h3>⚠️ 关于成本与未来（丑话说在前面）</h3>\n<ul>\n<li><strong>关于报酬：</strong> 目前<strong>无薪酬/无工资</strong>，这是一个纯粹由兴趣、野心和极客精神驱动的早期创作小组。</li>\n<li><strong>关于成本：</strong> 大家的 AI Coding 工具 / API 费用自行承担；服务器等公共资源费用初期平摊。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-21T16:18:13Z"
     }
   ],
-  "total_entries": 50
+  "total_entries": 40
 }
