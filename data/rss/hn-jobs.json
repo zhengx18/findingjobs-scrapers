@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T04:47:24.463915+00:00",
+  "generated_at": "2026-07-30T04:35:14.922711+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103026\">https://news.ycombinator.com/item?id=49103026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 29 Jul 2026 21:01:01 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "PgDog (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100056\">https://news.ycombinator.com/item?id=49100056</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 29 Jul 2026 17:01:10 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 07 Jul 2026 12:00:44 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
-      "url": "https://jobs.ashbyhq.com/lago",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/lago\">https://jobs.ashbyhq.com/lago</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48814509\">https://news.ycombinator.com/item?id=48814509</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 07 Jul 2026 07:00:27 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-      "url": "https://news.ycombinator.com/item?id=48806976",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806976\">https://news.ycombinator.com/item?id=48806976</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 06 Jul 2026 16:33:04 +0000"
     }
   ],
   "total_entries": 20
