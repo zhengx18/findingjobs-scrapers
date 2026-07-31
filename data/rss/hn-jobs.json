@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:35:14.922711+00:00",
+  "generated_at": "2026-07-31T05:01:03.972764+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112683\">https://news.ycombinator.com/item?id=49112683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 30 Jul 2026 17:00:21 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108840\">https://news.ycombinator.com/item?id=49108840</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 30 Jul 2026 12:01:05 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "SalesPatriot (YC W25) Is Hiring FDEs",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 09 Jul 2026 12:01:17 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\">https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841963\">https://news.ycombinator.com/item?id=48841963</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 09 Jul 2026 07:00:43 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48816533\">https://news.ycombinator.com/item?id=48816533</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 07 Jul 2026 12:00:44 +0000"
     }
   ],
   "total_entries": 20
