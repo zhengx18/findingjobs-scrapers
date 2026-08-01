@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:01:03.972764+00:00",
+  "generated_at": "2026-08-01T04:52:27.234703+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 31 Jul 2026 21:00:40 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125785\">https://news.ycombinator.com/item?id=49125785</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 31 Jul 2026 17:01:08 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122034\">https://news.ycombinator.com/item?id=49122034</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 31 Jul 2026 12:00:59 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Rise Reforming (YC S26) Is Hiring",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 10 Jul 2026 21:11:18 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\">https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858745\">https://news.ycombinator.com/item?id=48858745</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 10 Jul 2026 12:00:36 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849011\">https://news.ycombinator.com/item?id=48849011</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 09 Jul 2026 17:00:37 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
-      "url": "https://news.ycombinator.com/item?id=48844517",
-      "location": "Remote",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844517\">https://news.ycombinator.com/item?id=48844517</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 09 Jul 2026 12:01:17 +0000"
     }
   ],
   "total_entries": 20
