@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:52:27.234703+00:00",
+  "generated_at": "2026-08-02T04:54:49.724746+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 01 Aug 2026 22:52:44 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Kontigo (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133655\">https://news.ycombinator.com/item?id=49133655</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 01 Aug 2026 12:00:25 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Loops (YC W22) Is Hiring a Product Educator",
@@ -76,7 +116,7 @@
     },
     {
       "company": "HN Jobs (YC companies hiring)",
-      "title": "Rise Reforming (YC S26) Is Hiring",
+      "title": "Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer",
       "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
       "location": "",
       "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112683\">https://news.ycombinator.com/item?id=49112683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 13 Jul 2026 17:00:54 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success\">https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873665\">https://news.ycombinator.com/item?id=48873665</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 11 Jul 2026 17:00:35 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865332\">https://news.ycombinator.com/item?id=48865332</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 10 Jul 2026 21:11:18 +0000"
     }
   ],
   "total_entries": 20

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:52:27.234703+00:00",
+  "generated_at": "2026-08-02T04:54:49.724746+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,65 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "国企三方劳务派遣一周半，接手了一个巨坑项目",
+      "url": "https://www.v2ex.com/t/1231475#reply14",
+      "location": "",
+      "description": "<p>前文提要： <a href=\"https://www.v2ex.com/t/1230521?p=1#reply18\" rel=\"nofollow\">https://www.v2ex.com/t/1230521?p=1#reply18</a></p>\n<p>月底开部门会议，技责让我去支援 2 个同事接手的一个项目。</p>\n<p>让 ai 读取了下项目的技术架构和数据状态转移。</p>\n<p>是 2010 年的技术风格，本来是运行在 pc 上的 cs 架构程序，jsp-&gt;iframe 加载前端页面，然后部分页面再套一层 iframe 叠加主要的内容。</p>\n<p>现在要把这套程序部署到服务器，来支持大量公网用户在线访问。让我想办法来做页面部分的移动端适配。排期 4 周，本月月底就要上线。</p>\n<p>这要是 ai 时代之前让我支援，我都可以直接跑路了。</p>\n<p>接手之后想了两套方案，一个是直接复制原有页面和 css 和 js ，另起一套，放到新文件夹下。这种就是比较糊弄，而且如果要持续迭代，那就不太合适。适合临时应付下。</p>\n<p>另外一套方案是用 vue 或者 react 新建一套项目来开发，但是后续我本地把他们 java 项目启动后，发现页面的主要数据不是那种 get 请求的方式，而是用 iframe 来再次加载的。这就是双层 iframe 。不过我可以 v-html ，但是确实没这么搞过。</p>\n<p>目前是开着 5.6sol 极高，来按第一套方案先做了，看看效果怎么样，主要还有一些音频播放，录音等功能要 h5 也要支持。后边测试工作也不少。</p>\n<p>这俩同事都不会写前端，周一打算跟他们对齐一下，看他们在我来之前打算怎么搞。然后尽快把第一套方案搞的完成度再高一点，然后找技责再拍板一下。</p>\n<p>要不是行情太差，真的想跑路了。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-01T13:49:00Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[深圳 / 远程] 固件工程师 30 - 40K/mo",
+      "url": "https://www.v2ex.com/t/1228757#reply4",
+      "location": "深圳",
+      "description": "<p><a href=\"https://nonce.app\" rel=\"nofollow\">Nonce</a> 是算力与能源管理平台，为北美的上市矿企提供算电协同相关服务。在软件端提供监控与自动化运维，在固件方面提供 ASIC 机器的芯片管理 - 超频、降频、热管理等。</p>\n<h2>Firmware Engineer</h2>\n<ul>\n<li>30 - 40K/mo * 14 薪 + 奖金</li>\n<li>优先考虑深圳候选人，默认远程，偶尔工作需要会在本地 / 远程调试固件。</li>\n</ul>\n<h3>职责</h3>\n<ul>\n<li>开发维护嵌入式 Linux 固件，编写电源 / 散热 / 风扇 / Watchdog 等驱动与系统服务</li>\n<li>负责固件构建、测试与正式发布；配合远程升级（ GUI / 集群工具）</li>\n<li>适配新 SoC 、算力板与芯片，支持硬件 bring-up 与调试</li>\n<li>必要时逆向厂商固件与协议，实现兼容支持</li>\n</ul>\n<h3>要求</h3>\n<ul>\n<li>熟悉 SPI / I2C / UART 等通信协议</li>\n<li>熟悉交叉编译、固件打包、部署升级、回滚保护、测试验证和 CI 流程。</li>\n<li>熟悉 TCP/HTTP 协议，能够独立实现 API 服务</li>\n<li>基于 OpenWrt / Buildroot 开发和维护定制固件</li>\n<li>实现 ASIC 硬件性能调优：调频、调压、auto-tune 算法设计与优化</li>\n</ul>\n<h3>加分项</h3>\n<ul>\n<li>掌握 Rust / Zig</li>\n<li>英语尚可，5 年以上相关经验</li>\n<li>固件逆向（ Ghidra / IDA / Binary Ninja / binwalk ）</li>\n<li>Xilinx Zynq 、TI AM335x 、Amlogic 等 ARM SoC 经验</li>\n<li>BSP / 固件镜像构建（ Petalinux 、OpenWrt 、Yocto 等）</li>\n</ul>\n<h3>我们提供</h3>\n<ul>\n<li>远程工作</li>\n<li>14 薪 + 奖金，14 天年假</li>\n<li>流程简单，说话好听，会议少</li>\n<li>提供最好的 AI 服务 - Claude, Codex, Grok 等</li>\n</ul>\n<p>注：我们的面试流程简单，因为候选人的简历和 Github 已提供充足的信息。我们主要关注项目实践中展现的工程能力和协作能力。因此，我们会根据候选人的薪酬预期，提供为期 2 周左右的付费项目实践，候选人可自愿参与。</p>\n<h3>联系方式</h3>\n<ul>\n<li>投递邮箱： <a href=\"mailto:ashu@hashing.com\">ashu@hashing.com</a></li>\n<li>邮件主题 应聘岗位+姓名+来自 V2EX</li>\n</ul>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-21T03:11:54Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[求助] 感觉前端要没了啊",
+      "url": "https://www.v2ex.com/t/1231164#reply40",
+      "location": "",
+      "description": "求助一下各位大佬，之前几年就再说前端没了<br />直到今年 ai 冲击，没人再说了，因为前端真的要没了<br />我们公司现在全部使用 ai 开发，ai 基本上能完成任务<br />我现在感觉很焦虑，感觉这是最后一份工作了，毕业即失业<br />网上也看了看大家的交流，感觉岗位很少，并且现在基本都是全栈 + ai agent 岗<br /><br />希望各位大佬给一下建议<br /><br />1. 学习后端，转型全栈<br />2. 转型 ai agent 开发<br />3. 其他（欢迎各位大佬补充）",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-07-31T02:39:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[招聘] AI 生图社区全栈工程师（偏后端方向）",
-      "url": "https://www.v2ex.com/t/1231346#reply2",
+      "url": "https://www.v2ex.com/t/1231346#reply4",
       "location": "",
       "description": "<p>我们是一个专属二次元定位生图为主的 AIGC 社区，对标 Liblib 、SeaArt 的二次元版。</p>\n<p>平台接入多个基础模型、LoRA 与 ComfyUI 工作流，服务创作者完成从生成、发布、互动到复刻的完整体验，目前研发岗有偏前端的全栈，所以需要再补充一位全职后端全栈。</p>\n<p>项目和产品长期稳定，沟通方式简单高效，初步合作可按周/月，部分预付均可。</p>\n<p>薪资 20-35k ，团队有常规季度奖金和分红.（优秀匹配的情况下此岗位年包在 40+）</p>\n<h2>工作内容</h2>\n<ol>\n<li>\n<p>负责业务后台的核心功能设计、开发、上线和持续迭代，负责创作 agent 产品能力的开发；</p>\n</li>\n<li>\n<p>对接 ComfyUI 及相关图像生成服务，完成模型/LoRA/工作流调用。</p>\n</li>\n<li>\n<p>持续关注性能、稳定性、安全性与可扩展性。</p>\n</li>\n</ol>\n<p>4 ，共同做相关的新技术探索在产品中应用。</p>\n<h2>我们希望你具备</h2>\n<ol>\n<li>\n<p>5 年以上高级后端工程师经验，有独立负责过完整互联网产品或核心模块的经验，熟练使用 vibe coding 快速推进产品进度（ AI 应用类产品对迭代要求较高）</p>\n</li>\n<li>\n<p>熟练掌握 Node.js 、Python 、Java 后端技术栈；能够独立设计并实现稳定、清晰、可维护的后端服务与 API 。</p>\n</li>\n</ol>\n<p>3 ，了解并能并完成 ComfyUI API / WebSocket 的业务接入。</p>\n<ol>\n<li>责任心强，具备较强的自驱力、推进力和解决问题能力</li>\n</ol>\n<h2>有以下经验会明显加分</h2>\n<ul>\n<li>做过 AI 生图、视频生成、模型社区产品。</li>\n<li>做过 ComfyUI 、Stable Diffusion 、Flux 、LoRA 、模型市场或推理服务的接入与产品化。</li>\n<li>有任务队列、GPU 推理任务、文件上传处理、图片处理、对象存储、CDN 、内容审核等经验。</li>\n<li>自己是二次元、OC 、同人、插画或 AI 创作用户，真正理解创作者的使用习惯。</li>\n</ul>\n<p>投递时请附上 GitHub 、个人作品、上线项目链接，或说明你亲自负责过的产品模块。</p>\n<p>若你做过 AI 生图、ComfyUI 社区产品，请在简历中重点说明。</p>\n<p>联系方式（请先发送简历及作品到邮箱）：</p>\n<p>联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t</p>\n<p>联系 TG （ Base64 ）：QGN6YWs5</p>\n<p>有几个关键词会影响到这个岗位的匹配度</p>\n<p>高级后端工程师，agent 开发经验，高效，自驱</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -64,25 +121,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-31T13:02:15Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[求助] 感觉前端要没了啊",
-      "url": "https://www.v2ex.com/t/1231164#reply35",
-      "location": "",
-      "description": "求助一下各位大佬，之前几年就再说前端没了<br />直到今年 ai 冲击，没人再说了，因为前端真的要没了<br />我们公司现在全部使用 ai 开发，ai 基本上能完成任务<br />我现在感觉很焦虑，感觉这是最后一份工作了，毕业即失业<br />网上也看了看大家的交流，感觉岗位很少，并且现在基本都是全栈 + ai agent 岗<br /><br />希望各位大佬给一下建议<br /><br />1. 学习后端，转型全栈<br />2. 转型 ai agent 开发<br />3. 其他（欢迎各位大佬补充）",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-31T02:39:31Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -311,25 +349,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-07-29T06:52:34Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "诚寻创业(搞钱)合伙人(base 上海)",
-      "url": "https://www.v2ex.com/t/1230560#reply21",
-      "location": "上海",
-      "description": "创业(搞钱)方向：出海 saas ，具体项目方向已经比较明确，有兴趣可以出来喝杯咖啡详聊<br /><br />合作方式：共同出资，出资比例可谈，分成比例可谈，合作方式可谈，准备 3-5 人小团队。<br /><br />可免费提供办公场地与住宿<br /><br />希望你：<br />至少一年以上的工作经验，有创业经历优先，有创业想法优先，大模型狂热者优先，技术基础扎实。<br /><br />人在上海，可全职搞钱，对搞钱有兴趣<br /><br />必须是技术出身，后端优先<br /><br />独立负责过整个产品的开发优先<br /><br />懂 SEO 、GEO 优先，懂搜推广优先<br /><br />懂产品，懂用户优先<br /><br />95 后优先<br /><br />联系方式：YWljaHVoYWkyMDI2QDEyNi5jb20=<br /><br />欢迎闲聊，有其他搞钱方向缺少启动资金，或者缺少合作伙伴，也可交流交流，前提是 base 上海，方便交流。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-07-28T16:20:44Z"
     }
   ],
   "total_entries": 50
