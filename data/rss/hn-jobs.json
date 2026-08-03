@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:54:49.724746+00:00",
+  "generated_at": "2026-08-03T05:04:43.434585+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143683\">https://news.ycombinator.com/item?id=49143683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 02 Aug 2026 12:01:00 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 13 Jul 2026 21:01:00 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
-      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48895565\">https://news.ycombinator.com/item?id=48895565</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 13 Jul 2026 17:00:54 +0000"
     }
   ],
   "total_entries": 20
