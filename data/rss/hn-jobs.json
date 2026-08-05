@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:43:35.013257+00:00",
+  "generated_at": "2026-08-05T04:43:16.909559+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 04 Aug 2026 17:00:12 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167444\">https://news.ycombinator.com/item?id=49167444</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 04 Aug 2026 12:00:51 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165170\">https://news.ycombinator.com/item?id=49165170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 04 Aug 2026 07:01:26 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 15 Jul 2026 17:01:02 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/\">https://jiga.io/about-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919510\">https://news.ycombinator.com/item?id=48919510</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 15 Jul 2026 12:00:23 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security\">https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909820\">https://news.ycombinator.com/item?id=48909820</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 14 Jul 2026 17:00:17 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-      "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7\">https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898814\">https://news.ycombinator.com/item?id=48898814</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 13 Jul 2026 21:01:00 +0000"
     }
   ],
   "total_entries": 20
