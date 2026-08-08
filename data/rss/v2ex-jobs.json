@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:11:17.164469+00:00",
+  "generated_at": "2026-08-08T03:09:43.436648+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -30,7 +30,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "领导的奇思妙想，大模型都理解不了",
-      "url": "https://www.v2ex.com/t/1232609#reply25",
+      "url": "https://www.v2ex.com/t/1232609#reply38",
       "location": "",
       "description": "<p>领导整了个方案规划，写的贼高大上，但看不明白到底想做啥</p>\n<p>让我们做产品设计排开发计划</p>\n<p>大家看了半天都没看明白</p>\n<p>求助大模型</p>\n<p>大模型分析了半天，也没搞明白，给的总结就是关键环节讲的太模糊，他也不知道</p>\n<p>力竭了</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -48,8 +48,46 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "macOS / iOS 应用工程师招聘（全栈和具有跨平台能力者优先）",
+      "url": "https://www.v2ex.com/t/1232749#reply3",
+      "location": "",
+      "description": "<p>没在 V 站发过招聘，来试一试。</p>\n<p>我们正在打造下一代 AI agent 工具。</p>\n<p>如果你喜欢 Alfred 、Raycast 、Flows 、Cursor 、Notion 、Linear ，热衷于研究各种工作流、自动化和 AI Agent ，并希望亲手打造一款真正改变工作方式的产品，我们希望认识你。</p>\n<p>这是一个从 0 到 1 的核心岗位，你将参与产品设计、客户端开发、后端架构、AI 能力集成等几乎所有关键决策。</p>\n<p>你将负责——</p>\n<ul>\n<li>开发 macOS 和 iOS 原生应用（ Swift / SwiftUI ）</li>\n<li>设计并实现 AI 驱动的工作流和自动化能力</li>\n<li>构建 AI Agent 、Memory 、RAG 等核心能力</li>\n<li>负责客户端与后端的整体架构设计与开发</li>\n<li>设计 API 、数据库及云端服务，保障系统性能与稳定性</li>\n<li>接入各类 LLM 、MCP 、第三方工具及开发者生态</li>\n<li>与产品、设计共同打磨细节，持续优化用户体验</li>\n<li>快速迭代产品，验证想法，把创意真正变成用户每天都会使用的工具</li>\n</ul>\n<p>我们希望你具备——</p>\n<p>必备能力：</p>\n<ul>\n<li>有 macOS 或 iOS 原生应用开发经验</li>\n<li>熟悉 Swift 、SwiftUI ，对 Apple 平台有深入理解</li>\n<li>具备扎实的后端开发能力（ Node.js 、Go 、Rust 、Python 等任意一种均可）</li>\n<li>能独立设计并开发完整功能，从客户端一直做到服务端</li>\n<li>熟悉数据库设计、REST API 、实时通信等基础能力</li>\n<li>对 AI 产品充满兴趣，了解 LLM 、Agent 、Prompt 、RAG 等相关技术</li>\n<li>具备优秀的工程能力，关注性能、稳定性和代码质量</li>\n<li>有较强的产品意识，而不仅仅是完成需求</li>\n</ul>\n<p>如果你还具备这些，会非常加分：</p>\n<ul>\n<li>App Store 上架过自己的 app</li>\n<li>做过 Alfred Workflow 、Raycast Extension 或类似插件</li>\n<li>熟悉 Expo 、Flutter 等跨平台开发框架</li>\n<li>做过浏览器插件、VS Code Extension 、开发者工具</li>\n<li>使用过 Cursor 、Claude Code 、Codex 等 AI Coding 工具</li>\n<li>有 AI Agent 、Workflow 、Automation 产品开发经验</li>\n<li>做过 Electron 或 Tauri 桌面应用</li>\n<li>有 RAG 、向量数据库、Embedding 等相关经验</li>\n<li>熟悉 Apple Shortcuts 、Accessibility API 、Spotlight 、Launch Agent 等 macOS 系统能力</li>\n<li>开源项目贡献者，或拥有自己的 Side Project</li>\n</ul>\n<p>我们更看重——</p>\n<p>相比于会多少框架，我们更看重：</p>\n<ul>\n<li>对优秀产品有审美，对细节有追求</li>\n<li>喜欢折腾各种效率工具和自动化</li>\n<li>乐于",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-07T07:41:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "AI Agent 开发工程师（企业级应用方向）",
+      "url": "https://www.v2ex.com/t/1232739#reply1",
+      "location": "广州",
+      "description": "职位描述：<br />我们正在做企业级工作流方向的 AI Agent 应用。目标不是做一个只能聊天的助手，而是真正打造能够进入服装品牌跨境电商组织流程与业务流程的企业级数字员工智能体。<br />你将参与甚至主导企业内部 AI Agent 产品的设计与开发。我们不追求庞大的团队，更希望找到愿意一起做事、愿意打硬仗、对 AI 变革流程有兴趣、并且能拿结果的人。喜欢挑战、喜欢钻研、喜欢探索的同学，欢迎来聊。<br /><br />岗位职责：<br />1.参与业务需求分析、领域建模、系统拆分、技术方案设计。<br />2.负责系统的高可用、高并发、高性能、高一致性的设计与优化。<br />3.参与代码评审、架构评审、技术规范建设、提升团队工程质量。<br />4.负责项目的前端、运维、后端管理与开发。<br /><br />任职要求：<br />1.本科及以上学历，计算机/人工智能相关专业优先。<br />2.5 年以上以上开发经验，有完整项目落地实施经验。<br />3.熟悉 Java 语言，熟悉数据结构算法及应用，有扎实的编程能力。<br />4.熟练掌握 Spring Boot 、Mybatis 、Restful API 等主流技术栈。<br />5.具备较好的工程能力，能从 0 到 1 独立完成设计、开发、上线部署和问题排查。<br />6.熟悉 MySQL 、Postgresql 、Kafka 、Redis 、RabbitMQ 等常用中间件的使用和简单原理。<br />7.了解 CI/CD 、流水线、自动化测试、变更回滚等技术。<br />8.熟练使用 claude code 、codex 等 AI 工具。<br />9.具备良好的问题分析能力、沟通协作能力和技术推动的能力。<br /><br />加分项:<br />1.有 AI 项目落地经验。<br />2.有开源项目贡献更佳。<br />3.有高并发交易链路、大规模订单系统经验更佳。<br />4.有性能调优、JVM 调优、数据库优化、微服务拆分经验更佳。<br />5.有电商项目经验更佳。<br /><br /><br />薪资范围 20~35k*13 ，base 广州，报销所有开发过程中使用到的 AI 费用，可以理解为 Token 自由<br /><br />公司主营业务是服装类目的跨境电商<br /><br />微信：U2Jsb29keVM=",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-07T07:30:22Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[远程][全职][偏后端]全栈高级工程师/长沙、郑州、西安",
-      "url": "https://www.v2ex.com/t/1232467#reply4",
+      "url": "https://www.v2ex.com/t/1232467#reply6",
       "location": "远程",
       "description": "<h1>关于我们</h1>\n<ul>\n<li>创始人团队由北美物流专家、SaaS 领域专家以及具有丰富跨国公司战略经验的专业人士共同组建，团队成员在跨境物流行业拥有数十年的深厚经验；</li>\n<li>Trucking Simplified---致力于提供便捷的北美卡车履约方案；</li>\n<li>公司设有旧金山、洛杉矶、深圳坂田三处办公场地；</li>\n<li>自主设计开发独具竞争力的询价系统，推动公司盈利倍速增长；</li>\n<li>公司网址： <a href=\"https://www.drayeasy.com\" rel=\"nofollow\">https://www.drayeasy.com</a></li>\n<li>企业文化：真诚、高质、高标、高效、专一、专注、专业。</li>\n</ul>\n<h1>全栈高级工程师</h1>\n<h2>主要职责</h2>\n<ul>\n<li>负责系统的设计与开发，输出清晰的技术方案，保证代码质量、性能及可维护性</li>\n<li>参与完整的软件开发流程，包括需求分析、技术评估、开发实现、测试及上线，并对结果负责</li>\n<li>在开发过程中合理引入并使用 AI 能力（如 LLM 、自动化等），提升开发效率或优化业务流程</li>\n<li>负责核心功能模块开发，并对关键问题进行定位与解决（如性能问题、线上故障等）</li>\n<li>对现有系统进行持续优化与改进，包括代码重构、性能优化及稳定性提升，并持续关注新技术和发展趋势，以提升整体产品质量和用户体验</li>\n</ul>\n<h2>任职要求</h2>\n<ul>\n<li>全日制本科以上学历，计算机相关专业</li>\n<li>具备 3 年及以上开发经验，能够独立承担模块或项目开发工作</li>\n<li>熟悉主流 Web 开发技术（如 React / PHP / Python / Go 等），具备基本的全栈开发能力</li>\n<li>具备良好的工程习惯（代码规范、单元测试等）</li>\n<li>具备 AI 辅助开发经验，熟悉常用 AI 编程工具，能够提升开发效率或辅助完成实际功能</li>\n<li>具备良好的沟通能力和自驱力，能够适应远程协作</li>\n</ul>\n<h2>加分项</h2>\n<ul>\n<li>熟悉 Laravel ，python 有实际项目开发经验</li>\n<li>有物流行业相关系统开发经验</li>\n<li>有 AI 应用落地经验（如 RAG 、AI Agent 、自动化流程等）</li>\n</ul>\n<h2>我们提供</h2>\n<ul>\n<li>我们重视工程效率和 AI 辅助开发，公司提供 Cursor Teams + 额外 AI Credit 、ChatGPT / Codex 等工具支持，鼓励工程师以 AI-first 的方式提升编码、重构、测试、排障和交付效率。</li>\n<li>团队使用 Linear 进行项目管理，GitHub 进行代码管理，Lark 进行日常沟通。整体为远程协作模式，流程清晰，目标明确，重视工程质量和实际产出。</li>\n</ul>\n<h2>工作方式和语言</h2>\n<ul>\n<li>工作方式：全职远程，北京时间白天工作 8 小时。</li>\n<li>语言：团队沟通语言为中文，需具备英文技术文档阅读能力，无需听说能力。</li>\n</ul>\n<h2>面试流程：</h2>\n<p>笔试+三轮面试，通过则立即录用。</p>\n<h2>薪资福利</h2>\n<ul>\n<li>待遇：税前 20-25K ，周末双休+法定节假日。</li",
       "source": "gh-relay/v2ex-jobs",
@@ -64,6 +102,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-06T06:54:06Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "TapNow 正在招聘一名 Agent 工程师（QA 方向）",
+      "url": "https://www.v2ex.com/t/1232468#reply2",
+      "location": "深圳",
+      "description": "<h1>我们不想再招一个亲自做测试的人，而是想招一个让 Agent 学会做测试的人</h1>\n<blockquote>\n<p>TapNow 招聘：Agent 工程师（ QA 方向） / Agentic Quality Engineer ｜深圳</p>\n</blockquote>\n<p>从去年 12 月开始，我们一直在探索一件事：AI 时代，一家软件科技公司应该如何生产和协作。</p>\n<p>今天的 Agent 已经很强，但大多数 Agent 仍然只是个人助手：等待人的指令，运行在某位同事的电脑上，只拥有这个人当下提供的 context 。个人效率提高了，组织仍然依靠会议和文档传递信息，Agent 的生产力也依然受限于人的设备、注意力和作息。</p>\n<p>我们认为这不应该是终局。</p>\n<p>TapNow 是一个完全 AI Native 的团队。我们把 Agent 视为新的生产主体：人负责目标、判断与创造，Agent 在充分的 context 、工具和反馈中协作、工作并进化。</p>\n<h2>关于 TapNow</h2>\n<p>TapNow 正在构建 Creative OS：让用户带着想法而来，带着完整作品离开。</p>\n<p>Agent 是其中的灵魂和主轴。它将创作者的意图逐步转化为策略、任务、图像、视频和粗剪成片；画布、节点、3D 节点与 Playlist ，则为人和 Agent 提供共同创作的 Workspace 。</p>\n<p>复杂、长链路、多模态、非确定性的真实生产过程，让 TapNow 成为建设下一代 QA Agent 的理想场景。</p>\n<p>现在，我们希望有人专门把其中的 QA 环节做好。</p>\n<h2>为什么是 QA</h2>\n<p>当 Agent 可以快速完成开发，质量就会成为整个生产系统能否闭环的关键。</p>\n<p>我们的核心原则是 TDD：测试用例先行。Agent 不是写完代码以后再等待一个人验收，而是从任务开始就面对明确、可执行的质量标准，在开发、测试和修正之间自主迭代。</p>\n<p>自动化脚本只能解决“如何执行”，不能单独解决：应该测什么、怎样才算正确、如何覆盖边界、如何判断生成式 AI 的非确定性结果，以及怎样从一次失败中持续学习。</p>\n<p>所以，我们想找的不是传统测试工程师，而是一个<strong>测试 Agent 的优化者</strong>。</p>\n<p>你的工作，是把 QA Agent 这个角色调教得越来越好。</p>\n<p>它既可以是 multi-agent 团队中独立的 QA Agent ，也可以是开发 Agent 自身的端到端测试能力。由于 Agent 同样是 TapNow Creative OS 的产品灵魂，你也会参与产品 Agent 本身的质量评测。</p>\n<h2>这份工作可能不适合你，如果</h2>\n<ul>\n<li>\n<p>你希望主要根据别人写好的用例手工验收功能；</p>\n</li>\n<li>\n<p>你把“会写 Playwright 、Pytest”视为质量工程的终点；</p>\n</li>\n<li>\n<p>你只愿意在需求、流程和输入都非常明确后开始执行。</p>\n</li>\n</ul>\n<h2>测试用例是最重要的资产</h2>\n<p>一个 QA Agent 表现不好，很多时候并不是模型不够强，而是它没有得到足够好的测试用例。</p>\n<p>但你的工作不是自己长期编写这些用例，而是设计生成测试用例的 harness：让 Agent 获得正确的产品 context ，理解业务，",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-06T06:55:15Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -83,25 +140,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-06T06:55:38Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "TapNow 正在招聘一名 Agent 工程师（QA 方向）",
-      "url": "https://www.v2ex.com/t/1232468#reply0",
-      "location": "深圳",
-      "description": "<h1>我们不想再招一个亲自做测试的人，而是想招一个让 Agent 学会做测试的人</h1>\n<blockquote>\n<p>TapNow 招聘：Agent 工程师（ QA 方向） / Agentic Quality Engineer ｜深圳</p>\n</blockquote>\n<p>从去年 12 月开始，我们一直在探索一件事：AI 时代，一家软件科技公司应该如何生产和协作。</p>\n<p>今天的 Agent 已经很强，但大多数 Agent 仍然只是个人助手：等待人的指令，运行在某位同事的电脑上，只拥有这个人当下提供的 context 。个人效率提高了，组织仍然依靠会议和文档传递信息，Agent 的生产力也依然受限于人的设备、注意力和作息。</p>\n<p>我们认为这不应该是终局。</p>\n<p>TapNow 是一个完全 AI Native 的团队。我们把 Agent 视为新的生产主体：人负责目标、判断与创造，Agent 在充分的 context 、工具和反馈中协作、工作并进化。</p>\n<h2>关于 TapNow</h2>\n<p>TapNow 正在构建 Creative OS：让用户带着想法而来，带着完整作品离开。</p>\n<p>Agent 是其中的灵魂和主轴。它将创作者的意图逐步转化为策略、任务、图像、视频和粗剪成片；画布、节点、3D 节点与 Playlist ，则为人和 Agent 提供共同创作的 Workspace 。</p>\n<p>复杂、长链路、多模态、非确定性的真实生产过程，让 TapNow 成为建设下一代 QA Agent 的理想场景。</p>\n<p>现在，我们希望有人专门把其中的 QA 环节做好。</p>\n<h2>为什么是 QA</h2>\n<p>当 Agent 可以快速完成开发，质量就会成为整个生产系统能否闭环的关键。</p>\n<p>我们的核心原则是 TDD：测试用例先行。Agent 不是写完代码以后再等待一个人验收，而是从任务开始就面对明确、可执行的质量标准，在开发、测试和修正之间自主迭代。</p>\n<p>自动化脚本只能解决“如何执行”，不能单独解决：应该测什么、怎样才算正确、如何覆盖边界、如何判断生成式 AI 的非确定性结果，以及怎样从一次失败中持续学习。</p>\n<p>所以，我们想找的不是传统测试工程师，而是一个<strong>测试 Agent 的优化者</strong>。</p>\n<p>你的工作，是把 QA Agent 这个角色调教得越来越好。</p>\n<p>它既可以是 multi-agent 团队中独立的 QA Agent ，也可以是开发 Agent 自身的端到端测试能力。由于 Agent 同样是 TapNow Creative OS 的产品灵魂，你也会参与产品 Agent 本身的质量评测。</p>\n<h2>这份工作可能不适合你，如果</h2>\n<ul>\n<li>\n<p>你希望主要根据别人写好的用例手工验收功能；</p>\n</li>\n<li>\n<p>你把“会写 Playwright 、Pytest”视为质量工程的终点；</p>\n</li>\n<li>\n<p>你只愿意在需求、流程和输入都非常明确后开始执行。</p>\n</li>\n</ul>\n<h2>测试用例是最重要的资产</h2>\n<p>一个 QA Agent 表现不好，很多时候并不是模型不够强，而是它没有得到足够好的测试用例。</p>\n<p>但你的工作不是自己长期编写这些用例，而是设计生成测试用例的 harness：让 Agent 获得正确的产品 context ，理解业务，",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-06T06:55:15Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -200,10 +238,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "[北京 / AI] 寻找一位 AI 测评与平台技术负责人：把检测做成产品",
-      "url": "https://www.v2ex.com/t/1232068#reply13",
-      "location": "北京",
-      "description": "<p>我目前在北京一家信息通信与软件检测领域的国家级科研机构，正在负责一个刚刚起步的 AI 方向团队。我们已经有一些真实项目、检测业务基础、平台建设预算、行业标准资源和客户场景，现在希望寻找一位能够长期合作的技术负责人，一起把这个方向真正做起来。</p>\n<p>我们想做的，不是再搭一个大模型排行榜，也不是为了出报告而做几轮测试。</p>\n<p>我们的目标是围绕大模型、智能体和 AI 平台，建立一套可商业化、可复制的“AI 交付验证”能力，帮助企业解决模型训练、系统采购、项目验收和上线运行中的实际问题。</p>\n<p>目前正在推进的事情包括：</p>\n<ol>\n<li>大模型与智能体评测工具和平台；</li>\n<li>AI 项目的自动化测试与证据链管理；</li>\n<li>智能体任务效果、Token 、费用和计费透明度评测；</li>\n<li>利用历史检测数据训练审核模型；</li>\n<li>AI 测评相关标准、方法和行业服务。</li>\n</ol>\n<p>这些事情现在已经有一定基础，但还比较分散。我们希望把它们逐渐整合成一套真正能够服务客户、持续迭代的产品和能力体系。</p>\n<h1>希望你来做什么？</h1>\n<p>更希望你承担的是一个技术负责人的角色：</p>\n<ol>\n<li>\n<p>和我一起判断产品及技术方向；</p>\n</li>\n<li>\n<p>把比较模糊的业务设想转化成可落地的产品和技术方案；</p>\n</li>\n<li>\n<p>负责 AI 测评工具、平台及相关项目的整体交付；</p>\n</li>\n<li>\n<p>拆解任务并带领少量实习生、合作人员完成开发和测试；</p>\n</li>\n<li>\n<p>管理外部开发团队，判断其方案和交付质量；</p>\n</li>\n<li>\n<p>建立代码、数据、测试、证据和报告的标准化流程；</p>\n</li>\n<li>\n<p>逐渐形成一支能够独立运转的小型 AI 测评团队。</p>\n</li>\n</ol>\n<p>前期不会一上来把所有项目都压给你，而是先选择一个具体方向共同完成闭环，例如智能体计费评测工具、AI 自动化评测平台或企业模型交付验证方案。</p>\n<p>当第一个项目跑通以后，再逐步扩大你负责的范围。</p>\n<h1>目前能够提供的条件</h1>\n<p>我们能够提供什么，现阶段可以调动的人员主要是：</p>\n<ul>\n<li>若干实习生；</li>\n<li>内部协作人员；</li>\n<li>外部开发团队；</li>\n<li>根据项目引入的行业专家和合作伙伴。</li>\n</ul>\n<p>但是，我们能够提供一些在普通创业团队中比较难获得的资源：</p>\n<ul>\n<li>真实的企业客户和 AI 项目场景；</li>\n<li>软件检测、评测、标准和报告方面的行业基础；</li>\n<li>已经启动的平台和项目预算；</li>\n<li>参与行业标准、测试方法和能力体系建设的机会；</li>\n<li>比较大的产品和技术决策空间；</li>\n<li>将技术成果转化为检测服务和商业项目的渠道；</li>\n<li>从零搭建团队、方法和产品体系的机会。</li>\n</ul>\n<p>在方向、产品形态和技术路线方面，我希望与你共同决策，而不是把你当成单纯执行需求的外包人员。</p>\n<p>如果这个方向最终能够独立形成产品、团队或新的业务板块，也愿意给核心负责人足够的成长空间。你不只是“帮我们完成一个项目”，而是有机会在这里真正建立一块属于自己的事业。</p>\n<h1>合作形式和报酬</h1>\n<p>这部分也提前说明",
+      "title": "远程岗位： Go 开发组长，高级 Go 开发， PHP +GO， Java 转 Go，全栈工程师， Flutter（安卓+web）",
+      "url": "https://www.v2ex.com/t/1232747#reply0",
+      "location": "远程",
+      "description": "Go 开发组长，高级 Go 开发，PHP+GO ，Java 转 Go ，全栈工程师，Flutter （安卓+web ），Flutter+安卓，web 前端<br />AI 应用开发，AI Agent 架构师，AI 工作流工程师  ，运维工程师，AI 产品经理，大数据运维，海外 DevOps<br /><br />-----------------------------<br />更多岗位咨询详细，可直接添加或发简历到 TG： @<a href=\"https://www.v2ex.com/member/zhaopin88999\" rel=\"nofollow noopener\" target=\"_blank\">zhaopin88999</a><br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -215,26 +253,7 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-08-04T09:22:45Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "求建议：硕士毕业两年跳槽方向和薪资求指导",
-      "url": "https://www.v2ex.com/t/1231903#reply10",
-      "location": "上海",
-      "description": "<h2>背景</h2>\n<ul>\n<li>学历：985 软件工程硕士（本科双一流计算机）</li>\n<li>工作年限：约 2 年，在某国企内部做数据库相关的研发，包括云原生、分布式、PG 内核都有涉及，但是不深入</li>\n<li>实习经历：某一线大厂做过 GPU 和 CPU 的故障诊断和指标采集分析之类的运维工作，约 1 年</li>\n<li>坐标：南京</li>\n<li>目标 base 地：上海</li>\n<li>个人主技术栈: Go</li>\n<li>个人项目：平常写过三个中型的 Agent 相关的项目。一个 Go ，一个 Java ，一个 Swift</li>\n</ul>\n<h2>想请教的问题</h2>\n<ol>\n<li><strong>方向选择</strong>：继续走数据库内核/Infra ，还是转向 Agent/LLM 应用方向？以我的背景，人家谁肯要我啊。</li>\n<li><strong>薪资预期</strong>：硕士 + 2 年经验 + 上述技术栈，跳槽到上海的合理年包区间大概多少？互联网大厂 / 数据库或 Infra 创业公司 / AI 应用公司分别是什么水平啊。</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-04T01:34:52Z"
+      "published": "2026-08-07T07:39:18Z"
     }
   ],
   "total_entries": 50
