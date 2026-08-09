@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:09:43.436648+00:00",
+  "generated_at": "2026-08-09T03:16:45.725886+00:00",
   "jobs": [
     {
       "company": "HN Jobs (YC companies hiring)",
@@ -403,6 +403,44 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "测试工程师 / QA 工程师（区块链方向优先）",
+      "url": "https://www.v2ex.com/t/1232895#reply0",
+      "location": "",
+      "description": "<p>我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。MVP 即将上线，现招聘测试工程师，负责保障产品上线前的质量与稳定性，重点覆盖支付、链上交易、用户与创作者核心流程。</p>\n<p>一、功能测试与质量保障</p>\n<ol>\n<li>负责平台全业务线的功能测试与回归测试，涵盖：\n· 创作者内容发布与分享（图片、视频上传、直播连麦）\n· 社交互动（关注、评论、点赞、私信）\n· 商城模块（商品上架、下单、支付、订单管理、物流跟踪）\n· 用户体系（注册登录、KYC 、个人主页、创作者认证）</li>\n<li>重点负责区块链支付全流程测试，包括：\n· 钱包连接（ MetaMask 、WalletConnect 等多种钱包兼容）\n· 链上转账、交易广播与链上状态同步\n· 多链分账逻辑与佣金结算准确性\n· Gas 费估算与异常处理（ Gas 飙升、交易失败、网络拥堵等场景）\n· 多链兼容性（以太坊、Polygon 、BSC 、Solana 等主流公链）\n· 异常交易场景（交易回滚、Nonce 管理、签名验证失败等）</li>\n<li>编写与维护测试用例、测试计划，精准覆盖业务场景及边界条件</li>\n</ol>\n<p>二、性能与压力测试</p>\n<ol>\n<li>针对高并发场景设计并执行压力测试：\n· 直播连麦高并发观看与互动\n· 热门内容发布与传播瞬间的流量高峰\n· 商城秒杀/抢购活动\n· 区块链交易高并发场景（批量转账、同时分账等）</li>\n<li>使用性能测试工具（如 JMeter 、K6 、Locust ）进行压力、负载和稳定性测试</li>\n<li>评估系统响应时间、QPS 、TPS 、资源占用等指标，分析性能瓶颈并提出优化建议</li>\n</ol>\n<p>三、红黑测试与安全测试</p>\n<ol>\n<li>红黑测试（ Red Teaming / 安全测试） ：\n· 进行渗透测试与业务逻辑安全测试\n· 覆盖 Web 端和 API 常见漏洞（鉴权绕过、越权访问、重放攻击、签名验证绕过、频控绕过等）\n· 防刷、防爆破、防钓鱼攻击</li>\n<li>资金与数据安全：\n· 提币审批流、权限控制、会话管理安全验证\n· 数据加密与隐私保护验证\n· 账务 100%准确性与资金安全验证</li>\n<li>智能合约安全基础测试（如合约交互安全性、重入攻击、授权过度等）</li>\n</ol>\n<p>四、兼容性测试</p>\n<ol>\n<li>Web 端兼容性：覆盖 Chrome 、Brave 、Firefox 等主流浏览器</li>\n<li>移动端兼容性：覆盖 iOS 和 Android 平台</li>\n<li>钱包兼容性：验证不同钱包插件及 WalletConnect 等协议的兼容性</li>\n</ol>\n<p>五、接口测试与自动化</p>\n<ol>\n<li>执行接口测试：使用 Postman 、Apifox 等工具进行 RESTful API 、GraphQL 接口测试</li>\n<li>搭建与维护自动化测试框架（如 Playwright 、Cypress 、Pytest ），编写自动化脚本提升回归测试效率</li>\n<li>参与 CI/CD 流程，确保持续集成与持续交付下的质量验证</li>\n</ol>\n<p>六、测试流程建设与协作</p>\n<ol>\n<li>参与需求评审与架构设计评审，提前识别潜在风险与可测性问题</li>\n<li>跟踪并推动 Bug 修复，输出测试报告，把控上线质量</li>\n<li>建立基础测试流",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-08T06:09:12Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "AI Agent 开发工程师（企业级应用方向）",
+      "url": "https://www.v2ex.com/t/1232739#reply2",
+      "location": "广州",
+      "description": "职位描述：<br />我们正在做企业级工作流方向的 AI Agent 应用。目标不是做一个只能聊天的助手，而是真正打造能够进入服装品牌跨境电商组织流程与业务流程的企业级数字员工智能体。<br />你将参与甚至主导企业内部 AI Agent 产品的设计与开发。我们不追求庞大的团队，更希望找到愿意一起做事、愿意打硬仗、对 AI 变革流程有兴趣、并且能拿结果的人。喜欢挑战、喜欢钻研、喜欢探索的同学，欢迎来聊。<br /><br />岗位职责：<br />1.参与业务需求分析、领域建模、系统拆分、技术方案设计。<br />2.负责系统的高可用、高并发、高性能、高一致性的设计与优化。<br />3.参与代码评审、架构评审、技术规范建设、提升团队工程质量。<br />4.负责项目的前端、运维、后端管理与开发。<br /><br />任职要求：<br />1.本科及以上学历，计算机/人工智能相关专业优先。<br />2.5 年以上以上开发经验，有完整项目落地实施经验。<br />3.熟悉 Java 语言，熟悉数据结构算法及应用，有扎实的编程能力。<br />4.熟练掌握 Spring Boot 、Mybatis 、Restful API 等主流技术栈。<br />5.具备较好的工程能力，能从 0 到 1 独立完成设计、开发、上线部署和问题排查。<br />6.熟悉 MySQL 、Postgresql 、Kafka 、Redis 、RabbitMQ 等常用中间件的使用和简单原理。<br />7.了解 CI/CD 、流水线、自动化测试、变更回滚等技术。<br />8.熟练使用 claude code 、codex 等 AI 工具。<br />9.具备良好的问题分析能力、沟通协作能力和技术推动的能力。<br /><br />加分项:<br />1.有 AI 项目落地经验。<br />2.有开源项目贡献更佳。<br />3.有高并发交易链路、大规模订单系统经验更佳。<br />4.有性能调优、JVM 调优、数据库优化、微服务拆分经验更佳。<br />5.有电商项目经验更佳。<br /><br /><br />薪资范围 20~35k*13 ，base 广州，报销所有开发过程中使用到的 AI 费用，可以理解为 Token 自由<br /><br />公司主营业务是服装类目的跨境电商<br /><br />微信：U2Jsb29keVM=",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-07T07:30:22Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "领导的奇思妙想，大模型都理解不了",
       "url": "https://www.v2ex.com/t/1232609#reply38",
       "location": "",
@@ -438,25 +476,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-07T07:41:31Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "AI Agent 开发工程师（企业级应用方向）",
-      "url": "https://www.v2ex.com/t/1232739#reply1",
-      "location": "广州",
-      "description": "职位描述：<br />我们正在做企业级工作流方向的 AI Agent 应用。目标不是做一个只能聊天的助手，而是真正打造能够进入服装品牌跨境电商组织流程与业务流程的企业级数字员工智能体。<br />你将参与甚至主导企业内部 AI Agent 产品的设计与开发。我们不追求庞大的团队，更希望找到愿意一起做事、愿意打硬仗、对 AI 变革流程有兴趣、并且能拿结果的人。喜欢挑战、喜欢钻研、喜欢探索的同学，欢迎来聊。<br /><br />岗位职责：<br />1.参与业务需求分析、领域建模、系统拆分、技术方案设计。<br />2.负责系统的高可用、高并发、高性能、高一致性的设计与优化。<br />3.参与代码评审、架构评审、技术规范建设、提升团队工程质量。<br />4.负责项目的前端、运维、后端管理与开发。<br /><br />任职要求：<br />1.本科及以上学历，计算机/人工智能相关专业优先。<br />2.5 年以上以上开发经验，有完整项目落地实施经验。<br />3.熟悉 Java 语言，熟悉数据结构算法及应用，有扎实的编程能力。<br />4.熟练掌握 Spring Boot 、Mybatis 、Restful API 等主流技术栈。<br />5.具备较好的工程能力，能从 0 到 1 独立完成设计、开发、上线部署和问题排查。<br />6.熟悉 MySQL 、Postgresql 、Kafka 、Redis 、RabbitMQ 等常用中间件的使用和简单原理。<br />7.了解 CI/CD 、流水线、自动化测试、变更回滚等技术。<br />8.熟练使用 claude code 、codex 等 AI 工具。<br />9.具备良好的问题分析能力、沟通协作能力和技术推动的能力。<br /><br />加分项:<br />1.有 AI 项目落地经验。<br />2.有开源项目贡献更佳。<br />3.有高并发交易链路、大规模订单系统经验更佳。<br />4.有性能调优、JVM 调优、数据库优化、微服务拆分经验更佳。<br />5.有电商项目经验更佳。<br /><br /><br />薪资范围 20~35k*13 ，base 广州，报销所有开发过程中使用到的 AI 费用，可以理解为 Token 自由<br /><br />公司主营业务是服装类目的跨境电商<br /><br />微信：U2Jsb29keVM=",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-07T07:30:22Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -590,44 +609,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-05T04:15:27Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[招聘] AI 全栈开发工程师（WEB3 钱包方向）",
-      "url": "https://www.v2ex.com/t/1232247#reply1",
-      "location": "远程",
-      "description": "<p>公司目前做的是钱包产品，前期线下后期远程（上海）\n岗位职责：\n1.负责 Web3 钱包产品的全栈开发，涵盖前端、后端及 AI 功能模块\n设计并落地 AI 驱动的产品功能，包括智能交易分析、链上数据洞察、自然语言交互等\n2.参与移动端 APP （ iOS/Android ）的开发与迭代，保障用户体验与性能\n搭建和优化 AI 工作流（ Agent 、RAG 、Prompt Engineering 等），推动 AI 能力在产品中的深度整合\n3.对接区块链节点、钱包 SDK 、链上合约等 Web3 基础设施\n与产品、设计团队紧密协作，快速验证想法并推动上线\n岗位要求：\n一、1-10 年全栈开发经验，有完整的 APP 客户端开发经验（ React Native / Flutter / Swift / Kotlin 至少熟悉一项）\n二、熟练掌握主流前端框架（ React / Vue / Next.js ）及后端技术栈（ Node.js / Python / Go 任一）\n三、熟悉 AI 应用开发，有实际项目经验，包括但不限于：\n1.LLM API 集成与应用开发（ OpenAI / Claude / 开源模型）\n<a href=\"http://2.AI\" rel=\"nofollow\">2.AI</a> Agent / Function Calling / MCP 等工作流搭建\n3.Prompt 工程与效果调优\n4.熟悉 LangChain / LlamaIndex / Vercel AI SDK 等开发框架\n四、了解 Web3 基础概念（钱包、链、交易、签名、DeFi ），有 Web3 开发经验优先具备良好的系统设计能力，能独立完成从 0 到 1 的功能模块自驱力强，对 AI + Web3 的交叉领域有热情\n加分项：\n1.有 Web3 钱包（ MetaMask / Trust Wallet / OKX Wallet 等）相关开发经验\n2.有独立上架过 APP 的经验\n3.开源项目贡献者</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-05T06:35:16Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "远程岗位： Go 开发组长，高级 Go 开发， PHP +GO， Java 转 Go，全栈工程师， Flutter（安卓+web）",
-      "url": "https://www.v2ex.com/t/1232747#reply0",
-      "location": "远程",
-      "description": "Go 开发组长，高级 Go 开发，PHP+GO ，Java 转 Go ，全栈工程师，Flutter （安卓+web ），Flutter+安卓，web 前端<br />AI 应用开发，AI Agent 架构师，AI 工作流工程师  ，运维工程师，AI 产品经理，大数据运维，海外 DevOps<br /><br />-----------------------------<br />更多岗位咨询详细，可直接添加或发简历到 TG： @<a href=\"https://www.v2ex.com/member/zhaopin88999\" rel=\"nofollow noopener\" target=\"_blank\">zhaopin88999</a><br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-07T07:39:18Z"
     }
   ]
 }
