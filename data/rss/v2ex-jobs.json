@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:16:45.725886+00:00",
+  "generated_at": "2026-08-10T03:27:00.028818+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -27,6 +27,44 @@
     ]
   },
   "items": [
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[成都]dotnet/ Java MES 架构开发及管理",
+      "url": "https://www.v2ex.com/t/1233144#reply0",
+      "location": "成都",
+      "description": "<p>公司简介 成都华兴汇明科技有限公司是四川发展集团旗下国有控股高新技术企业，成立于 2016 年。公司专业从事专用测试设备及模块、OTA 与天线测试系统、射频综合测试系统和等业务。</p>\n<p>岗位 工作地点: 成都 / 四川 .net 软件工程师 九兴大道地铁站</p>\n<p>岗位职责：\n1 ，负责 MES 、IIOT 需求的设计、开发、测试及上线支持等前后端全栈工作；\n2 ，参与系统架构设计和技术选型讨论，解决高并发、高可用、分布式事务等核心挑战；\n3 ，负责平台性能调优、安全加固、故障排查和解决，保障线上系统稳定运行；\n4 ，与产品经理、设计师、系统工程师密切协作，深入理解行业业务逻辑和客户痛点，提出由价值的技术和体验建议，并能将模糊的需求转化为清晰的技术方案；\n5 ，指导初中级工程师，分享技术和业务经验，帮助团队共同成长；\n6 ，负责客户现场的实施支持，如功能培训、问题解决等，保障项目顺利推进；\n7 ，完成上级交办的其他事宜；</p>\n<p>岗位要求：\n1 ，5 年以上 MES 、IIOT 项目开发经验，3 年以上高级或全栈开发经验，本科及以上学历；\n2 ，以核心开发角色身份，完整参加过至少 3 款商业软件产品的研发周期并成功上线；\n3 ，熟悉工艺、排产、配方等 MES 核心业务逻辑，能设计支持灵活二次开发的模块化架构，保障系统在高负载场景下的健壮性；\n4 ，具有强烈的 owner 意识，能站在产品和用户角度思考技术实现，而不仅仅是完成开发任务；\n5 ，具有良好的系统设计能力，能编写出结构清晰、易于维护的代码和模块；\n6 ，面对复杂技术问题，能快速定位、分析并给出有效的解决方案；\n7 ，优秀的沟通能力和团队协作精神，能与产品、测试、UI 设计等角色高校配合；\n8 ，后端开发语言：Java 语言核心及 JVM 原理，精通 Spring Boot ，Spring Cloud 微服务生态，熟悉常用设计模式；或 C#语言，精通 <a href=\"http://ASP.NET\" rel=\"nofollow\">ASP.NET</a> Core 、EF 等框架，熟悉异步编程、RESTful 接口设计等；\n9 ，前端：精通 React 、Vue 、Angular 中至少一种现代前端框架，精通 TypeScript 、HTML5 、CSS3 等网页开发语言；\n10 ，数据库：精通 MySQL 、PostgreSQL 等关系型数据库及优化，熟练使用 Redis 等缓存技术，了解 MongoDB 等 NoSQL 数据库；\n11 ，协议：熟悉 MQTT 、Modbus 、CoAPP 、HTTP 等物联网常用协议；\n12 ，熟练使用 Docker 、K8s 等工具，熟悉 CI/CD 流程；</p>\n<p>加分项：\n1 ，有 MES 、IIOT 系统开发及实际落地项目经验；\n2 ，有大数据处理、数据可视化或数字孪生项目经验；\n3 ，有技术博客、开源项目贡献；</p>\n<p>薪资范围：\n18K--24K 14 薪</p>\n<p>申请，请备注来自 V2EX 微信 id （解码）: Y2hhY2hhdDIw</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-10T01:42:14Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[北京·海淀] 具身智能创业团队招资深前端",
+      "url": "https://www.v2ex.com/t/1233016#reply5",
+      "location": "北京",
+      "description": "<p>团队最近在招一位资深前端</p>\n<p>先说明一下：我是公司内部员工，不是猎头。这是个人发帖，不代表公司官方口径，具体信息以正式沟通和 offer 为准。</p>\n<p>我们是一家成立不久的具身智能创业公司，由北大教授创办并带队。公司融资进展比较顺利，目前资金充足。团队规模不算大，但人才密度很高：算法模型组大多数同事有清北背景，其他方向也有不少一线大厂出来的同事。</p>\n<p>我个人感受是团队氛围挺 nice ，沟通直接，大家都想把事情做好。诚心招人，不过标准也确实不低：希望你人 nice 、技术强、做事靠谱。</p>\n<p><strong>前端岗位 JD：</strong></p>\n<p><strong>主要工作：</strong></p>\n<p>参与公司统一平台建设，包括数据湖、标注服务、采集任务、设备管理等平台的前端设计与开发；\n负责机器人 3D 渲染和实时可视化。</p>\n<p><strong>希望你：</strong></p>\n<p>本科及以上，3 年以上前端经验，这次主要招资深及以上；\n熟悉 JavaScript 、TypeScript 、npm ，有复杂管理平台设计和开发经验；\n熟悉 Three.js 加分。</p>\n<p><strong>地点和待遇</strong></p>\n<ul>\n<li>北京海淀，全职到岗，不接受远程；</li>\n<li>薪资我没有准确区间，就不乱报数字了。应该是比较有竞争力，最终看面试和定级。</li>\n</ul>\n<p><strong>其他福利</strong></p>\n<ul>\n<li>在公司直线 6 公里内租房，每月补助 3,500 元；</li>\n<li>每天 60 元饭补，零食、下午茶不限量；</li>\n<li>AI 软件开发报销足额</li>\n<li>每年额外 5 天福利年假。</li>\n</ul>\n<p>另外，算法与 Infra 、物理仿真与数值计算、高性能计算与训练基础设施、机器人本体与硬件、SRE 、运维，以及销售和职能支持等方向也在招。后端坑位目前可能暂满。</p>\n<p>前端之外的岗位我就不在这里铺开了。有兴趣可以邮件联系，我把对应的详细 JD 发过去。部分算法和基础设施岗位要求会比较高，做得比较深的朋友也欢迎直接聊。</p>\n<p>简历请发： <a href=\"mailto:JLGuo.dev@outlook.com\">JLGuo.dev@outlook.com</a></p>\n<p>邮件标题建议：应聘方向 + 姓名 + 工作年限 + V2EX</p>\n<p>如果方便，也可以附上 GitHub 、个人主页或者有代表性的项目。收到后我会在 7 天内回复。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-09T03:25:42Z"
+    },
     {
       "company": "V2EX 招聘节点",
       "title": "测试工程师 / QA 工程师（区块链方向优先）",
@@ -140,101 +178,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-06T06:55:15Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[叮咚买菜] 算法人才内推",
-      "url": "https://www.v2ex.com/t/1232469#reply0",
-      "location": "",
-      "description": "<p>搜索推荐算法专家\n供应链销量预测/补货调拨算法专家\n资深物流调度算法工程师\n商品运营用户增长算法专家</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-06T06:55:38Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[内推] 深圳跨境电商公司 8 月职位内推",
-      "url": "https://www.v2ex.com/t/1232457#reply1",
-      "location": "深圳",
-      "description": "地址：华为地铁站 A 口，赣锋大厦<br />要求：涉及开发硬性要求全日制本科及以上<br />简历可发邮箱： unicornxu176@gmail.com<br />有如下岗位：<br />A 类岗位深圳岗位：<br />①销售类型：品牌运营主管（多平台）、运营专员（大件）<br />②中后台类型：AI 应用工程师、数据分析师、数据开发工程师、Al 产品经理、Agent 开发工程师、测试工程师<br />B 类岗位深圳岗位：<br />①销售类型：沃尔玛/亚马逊销售专员、品牌运营专员、TK 销售专员<br />②中后台类型：产品开发专员（海外仓）、物流计划专员、物流跟单专员、广告投放、SEO 专员、亚马站外推广专员、申诉专员、资料专员、账号维护专员、平面设计师、品牌视觉设计师<br />成都岗位：摄影师、采购下单专员、运营专员、产品开发专员、客服专员（西语/德语）、绩效申诉专员、Java 开发工程师、Java 架构师、内容专员<br />岗位薪资详情查看：BOSS 直聘搜索智汇创想",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-06T06:12:13Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[校招]字节跳动 2027 届校园招聘，严选 hr 回复时间小于 1 天的岗位，非技术类",
-      "url": "https://www.v2ex.com/t/1232387#reply1",
-      "location": "上海",
-      "description": "## 06 ｜产品经理<br /><br />###  [字节内推｜产品经理] <br /><br />产品方向覆盖 AI 、电商、增长、策略和平台产品，优先挑了业务线不同的岗位。<br /><br />- **AI 产品经理（商家端方向） - TikTok Shop （ 0.3 天） [上海] ： <a href=\"https://job.toutiao.com/s/I0WRUW_0V34**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/I0WRUW_0V34**</a><br />- **云与 AI 解决方案架构师 - 火山引擎（ 0.3 天） [上海、成都] ： <a href=\"https://job.toutiao.com/s/dCb5eSHwcpY**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/dCb5eSHwcpY**</a><br />- **用户增长产品经理 - 抖音电商（ 0.3 天） [上海、北京] ： <a href=\"https://job.toutiao.com/s/UQZ0Hqt2Hjk**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/UQZ0Hqt2Hjk**</a><br />- **AI 产品经理（工具图像方向） - 剪映 CapCut （ 0.3 天） [深圳] ： <a href=\"https://job.toutiao.com/s/dMXvWpR5K-k**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/dMXvWpR5K-k**</a><br />- **交易产品经理 - TikTok 生活服务（ 0.3 天） [上海、北京] ： <a href=\"https://job.toutiao.com/s/5B-eh0jDhaU**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/5B-eh0jDhaU**</a><br />- **大模型策略产品经理 - TikTok （ 0.3 天） [北京] ： <a href=\"https://job.toutiao.com/s/2hO2TVcToX0**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/2hO2TVcToX0**</a><br />- **豆包 AI 大模型产品解决方案 - 火山方舟（ 0.3 天） [北京、上海、杭州、深圳] ： <a href=\"https://job.toutiao.com/s/VNOiuc7PEkw**\" rel=\"nofollow noopener\" target=\"_blank\">https://job.toutiao.com/s/VNOiuc7PEkw**</a><br />- **策略产品经理 - 番茄畅听（ 0.3 天） [北京] ： <a href=\"https://job.toutiao.com/s/Y1PpXRYCvNM**\" rel=\"nofollow noopener\" target=",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-06T02:23:10Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "记录自己作为业余编程爱好者的 10 年",
-      "url": "https://www.v2ex.com/t/1231977#reply81",
-      "location": "",
-      "description": "<p>2016 年专科实习，职位：专升本教育机构销售（美其美 [学历顾问] ），月薪 3500</p>\n<p>闲暇时间学习 html\\javascript\\php ，开始写网站</p>\n<p>2016 年 10 月上线一个资源网站，主打就是各种安卓小众软件、工具软件分享、薅羊毛、在线工具、各种小技巧文章发布，那时候安卓论坛很多，所以发软文推广很容易，直到 2017 年 6 月，网站每天将近 5 万访问量，收费注册模式，6.66 注册永久账号，有些东西需要登录账号才可以看见，所以吸了一波用户，期间还有一些人咨询购买我的网站和域名，开出几万块的价格，我不卖，继续保持月收入 2000 元左右的节奏。</p>\n<p>2027 年 7 月，大专毕业，如我所愿，当初面试是做公众号运营的，被忽悠做了销售，我一点也不喜欢销售，我业绩也很差，招不到学生，但公司开始布局公众号这一块，所以我顺其自然就转岗微信公众号运营一职。</p>\n<p>公司布局广东省高校校园号，短期内注册了 50 多个公众号，基本大部分大专都有一个我们的号，聘请校园兼职做推广和运营，我负责的是一个垂直号，XXX 专升本考试一类的，校园号做各种内容（表白墙、二手、交友等以前很火）吸粉很猛，全都给我导流。</p>\n<p>那时候吸粉太容易了，那时候的学生，只要有免费的东西，都一拥而上，流量猛的很！一人转发，就传播出去，所以我们的公众号一个月就从 0 粉涨到 10 万。</p>\n<p>凭借自己的编程基础，开发了一些裂变页面、公众号邀请海报、为吸粉提供了非常关键的技术支持！</p>\n<p>然后一路绿灯，各种裂变，就把号做起来，我也顺其自然成为了运营主管。</p>\n<p>然后带了 4 个业务员，每个业务员都接收我这边吸过来的粉，他们在短短 3 个月内，相继成为公司销冠。</p>\n<p>而我月薪也从 3500 -&gt; 3w+</p>\n<p>所以自己的资源站很少维护，2018 年，国家监管严格，接过几次辖区网警电话，怕了，关站。</p>\n<p>2018 年，继续布局：</p>\n<ul>\n<li>\n<p>开发题库小程序</p>\n<ul>\n<li>学生考完试，花钱征集考生回忆，把零碎的片段整理成题库，这是卖点，因为题库完整版不会发布的</li>\n<li>公司资料研发团队也在研发内部各种类型的包装的题库（例如精练 1000 题、浓缩 500 题）</li>\n<li>出版纸质版资料</li>\n</ul>\n</li>\n<li>\n<p>开发院校查询小程序</p>\n<ul>\n<li>查询招生院校</li>\n<li>查询招生专业</li>\n<li>查询考试科目</li>\n<li>查询政策文件</li>\n<li>这个小程序主要是引流的，吸引考生加微信进一步转化</li>\n</ul>\n</li>\n<li>\n<p>开发志愿填报规划小程序</p>\n<ul>\n<li>也是引流的，主要是数据库里面有很多年的数据，考生输入考试成绩、排位、总分，就可以规划志愿的范围</li>\n</ul>\n</li>\n<li>\n<p>开发英语单词小程序</p>\n<ul>\n<li>和纸质版资料绑定，购买资料赠送激活码，作为纸质版资料的辅助卖点</li>\n</ul>\n</li>\n</ul>\n<p>2019 年，存款 50W 左右，买了车，给老家父母盖了房子。加入公司核心团队，继续深耕专升本行业，运营公众号 3 个、小程序 4 个、手下业务员 8 个。</p>\n<ul>\n<li>\n<p>开发微信活码系统</p>\n<ul>\n<li>解决微信群二维码 7 天后过期失效",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-04T05:02:02Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "这两年 AI 相关岗位的平均在职时间是半年吗难道😭😭",
-      "url": "https://www.v2ex.com/t/1232218#reply3",
-      "location": "",
-      "description": "<p>自从进了 AI 行业，半年就得找一次工作，结合我自己的遇到的情况+周围人的情况，总结了几个原因：</p>\n<ol>\n<li>技术迭代太快，市场风向差不多半年一变，风向变了之后岗位和职责就要变</li>\n<li>基模太卷了，每波大更新都能吞掉很多在中间层做软件、Agent 的市场和岗位</li>\n<li>做一个产品的周期大大压缩，都是从 0-1 ，竞品一堆，死的太快，没有几个能坚持长期打磨的</li>\n<li>AI 这两年比较吸金，高层/话事人收入高，派系斗争很严重（无论人多还是少，钱多的地方内斗也多</li>\n<li>fomo 情绪下，很多非公司都开了和 AI 相关的岗位，但实则 0 人清楚到底要做什么怎么做，迅速招人试错然后再砍掉\n求补充视角🙏</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-05T04:15:27Z"
     }
   ],
   "total_entries": 50
