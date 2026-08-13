@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:38:22.220022+00:00",
+  "generated_at": "2026-08-13T03:41:22.884124+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275465\">https://news.ycombinator.com/item?id=49275465</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 12 Aug 2026 17:00:21 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://job-boards.greenhouse.io/givecampus/jobs/4112793009\">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273395\">https://news.ycombinator.com/item?id=49273395</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 12 Aug 2026 14:55:27 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 17 Jul 2026 13:22:33 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Adaptional (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs\">https://www.ycombinator.com/companies/adaptional/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937125\">https://news.ycombinator.com/item?id=48937125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 16 Jul 2026 17:00:55 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "url": "https://jobs.ashbyhq.com/artie",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/artie\">https://jobs.ashbyhq.com/artie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923833\">https://news.ycombinator.com/item?id=48923833</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 15 Jul 2026 17:01:02 +0000"
     }
   ],
   "total_entries": 20
