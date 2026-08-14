@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:41:22.884124+00:00",
+  "generated_at": "2026-08-14T03:38:59.700851+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "url": "https://atg.science/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49284697\">https://news.ycombinator.com/item?id=49284697</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 13 Aug 2026 12:01:02 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sat, 18 Jul 2026 01:01:08 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer\">https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947100\">https://news.ycombinator.com/item?id=48947100</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 17 Jul 2026 13:22:33 +0000"
     }
   ],
   "total_entries": 20
