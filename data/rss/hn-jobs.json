@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:33:16.885293+00:00",
+  "generated_at": "2026-08-16T02:42:56.994905+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item?id=49313047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 15 Aug 2026 18:33:25 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 21 Jul 2026 17:00:20 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "DrDroid (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory\">https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954074\">https://news.ycombinator.com/item?id=48954074</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 18 Jul 2026 01:01:08 +0000"
     }
   ],
   "total_entries": 20
