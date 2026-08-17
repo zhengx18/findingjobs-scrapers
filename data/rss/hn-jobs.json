@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:42:56.994905+00:00",
+  "generated_at": "2026-08-17T02:42:31.218371+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 16 Aug 2026 13:30:27 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319215\">https://news.ycombinator.com/item?id=49319215</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 16 Aug 2026 12:00:23 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 27 Jul 2026 17:02:41 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49046858\">https://news.ycombinator.com/item?id=49046858</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 25 Jul 2026 12:00:04 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Bloomy (YC S26) is hiring a founding engineer",
-      "url": "https://news.ycombinator.com/item?id=48995037",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 21 Jul 2026 17:00:20 +0000"
     }
   ],
   "total_entries": 20
