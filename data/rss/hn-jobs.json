@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:38:26.336733+00:00",
+  "generated_at": "2026-08-21T02:45:20.111879+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377248\">https://news.ycombinator.com/item?id=49377248</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 20 Aug 2026 17:01:05 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 20 Aug 2026 12:00:23 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 29 Jul 2026 21:01:01 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "PgDog (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100056\">https://news.ycombinator.com/item?id=49100056</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 29 Jul 2026 17:01:10 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "location": "remote",
-      "description": "<p>Article URL: <a href=\"https://up.codes/careers?utm_source=HN\">https://up.codes/careers?utm_source=HN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49072523\">https://news.ycombinator.com/item?id=49072523</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 27 Jul 2026 17:02:41 +0000"
     }
   ],
   "total_entries": 20
