@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:45:20.111879+00:00",
+  "generated_at": "2026-08-22T02:35:41.956870+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393733\">https://news.ycombinator.com/item?id=49393733</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 21 Aug 2026 21:00:48 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6\">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390910\">https://news.ycombinator.com/item?id=49390910</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 21 Aug 2026 17:00:23 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Sixtyfour (YC P25) Is Hiring",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 30 Jul 2026 17:00:21 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108840\">https://news.ycombinator.com/item?id=49108840</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 30 Jul 2026 12:01:05 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103026\">https://news.ycombinator.com/item?id=49103026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 29 Jul 2026 21:01:01 +0000"
     }
   ],
   "total_entries": 20
