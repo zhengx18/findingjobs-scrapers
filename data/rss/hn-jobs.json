@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:46:20.319043+00:00",
+  "generated_at": "2026-08-25T02:39:25.261742+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\">https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423495\">https://news.ycombinator.com/item?id=49423495</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 24 Aug 2026 17:53:14 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 31 Jul 2026 12:00:59 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer",
-      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112683\">https://news.ycombinator.com/item?id=49112683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 30 Jul 2026 17:00:21 +0000"
     }
   ],
   "total_entries": 20
