@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:50:49.253249+00:00",
+  "generated_at": "2026-08-28T13:14:03.154150+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474060\">https://news.ycombinator.com/item?id=49474060</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 28 Aug 2026 03:35:15 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.bild.ai/jobs\">https://www.bild.ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49467837\">https://news.ycombinator.com/item?id=49467837</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 27 Aug 2026 17:00:14 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Adentris (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python\">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463361\">https://news.ycombinator.com/item?id=49463361</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 27 Aug 2026 12:00:31 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Proliferate (YC S25) Is Hiring",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Sun, 02 Aug 2026 12:01:00 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 01 Aug 2026 22:52:44 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kontigo (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133655\">https://news.ycombinator.com/item?id=49133655</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 01 Aug 2026 12:00:25 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 31 Jul 2026 21:00:40 +0000"
     }
   ],
   "total_entries": 20

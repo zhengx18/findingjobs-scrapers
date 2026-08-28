@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-27T11:50:49.253249+00:00",
+  "generated_at": "2026-08-28T13:14:03.154150+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474060\">https://news.ycombinator.com/item?id=49474060</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 28 Aug 2026 03:35:15 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.bild.ai/jobs\">https://www.bild.ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49467837\">https://news.ycombinator.com/item?id=49467837</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 27 Aug 2026 17:00:14 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Adentris (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python\">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463361\">https://news.ycombinator.com/item?id=49463361</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 27 Aug 2026 12:00:31 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Proliferate (YC S25) Is Hiring",
@@ -342,71 +402,11 @@
       "published": "Sun, 02 Aug 2026 12:01:00 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 01 Aug 2026 22:52:44 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Kontigo (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133655\">https://news.ycombinator.com/item?id=49133655</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sat, 01 Aug 2026 12:00:25 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 31 Jul 2026 21:00:40 +0000"
-    },
-    {
       "company": "V2EX 招聘节点",
-      "title": "[杭州] .NET 全栈工程师",
-      "url": "https://www.v2ex.com/t/1237589#reply9",
-      "location": "杭州",
-      "description": "<h3>岗位要求</h3>\n<ul>\n<li>具备扎实的 Web 开发经验，能独立设计、开发并优化大型 Web 系统。</li>\n<li>精通 .NET/C#，具备良好的后端架构设计能力，能够根据需求进行高效开发。</li>\n<li>拥有一定的 SQL 性能优化经验，能够有效识别和解决性能瓶颈，熟悉常见数据库（如 PostgreSQL 、MariaDB 、MySQL ）的设计和优化。</li>\n<li>熟悉并理解 DDD （领域驱动设计），能灵活运用在项目中，推动系统架构的演进。</li>\n<li>了解队列、缓存、分布式锁等, 能够解决分布式系统中的常见问题</li>\n<li>具备基本的前端开发能力，熟悉 Angular 或 React 框架，并能使用 TypeScript 进行开发。</li>\n<li>有一定的设计模式理解，能够在实际开发中运用设计模式解决复杂问题。</li>\n<li>熟悉至少一种主流云平台（如 AWS 、Azure 或 阿里云），能够配置和使用云服务来支撑应用的部署与运行</li>\n<li>具备 Docker 、Docker Swarm 或 Kubernetes （ K8s ）等容器化技术的使用经验，能够进行高效的容器化部署。</li>\n<li>热爱 coding, 拥抱 AI, 善于通过 Vibe Coding 提高效率, 入职成功公司提供 Cursor or Codex 账号</li>\n<li>自驱力强, 有主观能能动性, 逻辑清晰, 对技术有强烈的好奇心和攻坚精神，能快速学习并适应业务变化</li>\n<li>有敏捷开发（ Scrum 、Kanban 等）经验，熟悉敏捷开发流程(Jira)，能在团队中高效协作。</li>\n<li>良好的英语读写能力, 有简单的英语沟通能力</li>\n<li>面试主要聊项目、业务, 无八股, 无算法</li>\n</ul>\n<h3>薪资范围</h3>\n<p>12-20k, 具体技术面通过后跟 HR 聊</p>\n<p>邮箱: bGFnZ2FnZS1sYUBvdXRsb29rLmNvbQ==</p>",
+      "title": "[北京][求职] Rust/LLVM/Compiler",
+      "url": "https://www.v2ex.com/t/1237942#reply7",
+      "location": "北京",
+      "description": "<p>我的 GitHub： <a href=\"https://github.com/dianqk\" rel=\"nofollow\">https://github.com/dianqk</a> ，LLM 已经可以总结的差不多了：</p>\n<ul>\n<li><a href=\"https://chat.deepseek.com/share/8j1fwuxfycuxccck1x\" rel=\"nofollow\">https://chat.deepseek.com/share/8j1fwuxfycuxccck1x</a></li>\n<li><a href=\"https://chatgpt.com/share/6a916c5c-9eb8-83ee-a74a-0e79f1aa0e19\" rel=\"nofollow\">https://chatgpt.com/share/6a916c5c-9eb8-83ee-a74a-0e79f1aa0e19</a></li>\n<li><a href=\"https://chatgpt.com/share/6a916cf7-3afc-83ee-b4d9-7fdc0b8a7386\" rel=\"nofollow\">https://chatgpt.com/share/6a916cf7-3afc-83ee-b4d9-7fdc0b8a7386</a></li>\n</ul>\n<p>我在 Rust 和 LLVM 主要做编译优化相关，Rust 合并 <a href=\"https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Adianqk+merged%3A2020-01-01..2026-12-31+-label%3Arollup\" rel=\"nofollow\">95 PRs</a>，LLVM 提交 <a href=\"https://github.com/search?q=repo%3Allvm%2Fllvm-project+author%3Adianqk&amp;type=commits\" rel=\"nofollow\">81 Commits</a>. 大部分不是复杂问题，所以我期望一份工作可以让我有机会专注更长期和复杂的问题上面。</p>\n<p>也有一些其他周边贡献，比如：<a href=\"https://github.com/search?q=repo%3Aswiftlang%2Fswift+author%3Adianqk&amp;type=pullrequests\" rel=\"nofollow\">Swift</a>、<a href=\"https://github.com/search?q=repo%3Awasm3%2Fwasm3+author%3Adianqk&amp;type=pullrequests\" rel=\"nofollow\">Wasm3</a>。</p>\n<p>PS. </p>\n<ul>\n<li><a href=\"https://github.com/dianqk/uuplugin\" rel=\"nofollow\">https://github.com/dianqk/uuplugin</a> 好像才是传播最广的仓库。</li>\n<li>我对 Web3 和量化交易等类似项目没有兴趣。</li>\n<li>除了 GitHub 上可见内容，其他领域请当作 0 经验。</li>\n<li>邮箱请发： <a href=\"mailto:dianqk@dianqk.net\">dianqk@dian",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -418,12 +418,88 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-08-27T05:07:51Z"
+      "published": "2026-08-28T11:13:29Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "remote 高级后端开发工程师（ Java /Go 双栈）",
+      "url": "https://www.v2ex.com/t/1237925#reply0",
+      "location": "remote",
+      "description": "<p>高级后端开发工程师（ Java/Go 双栈）\n20-30k\n岗位职责\n1 、负责核心后端服务的设计、开发、优化与维护。\n2 、参与系统架构及技术方案设计，保障系统稳定性和可扩展性。\n3 、负责业务接口、服务模块及数据处理流程开发。\n4 、参与数据库设计、服务治理、性能优化和异常排查。\n5 、协同产品、前端、测试及运维团队推动需求落地。\n6 、推进研发规范、代码质量及 AI 辅助研发流程建设。\n任职要求\n1 、本科及以上学历，5 年以上后端研发经验。\n2 、精通 Java ，熟悉 JVM 、JUC 、Spring Boot 、Spring Cloud 、MyBatis-Plus 及 Dubbo 。\n3 、熟练掌握 Go ，理解 goroutine 、channel 、GC 及并发机制，具备生产项目经验。\n4 、熟悉 Gin 、gRPC 、Protobuf 、go-zero 或 Kratos 等 Go 技术框架。\n5 、熟悉 MySQL 、Redis 、Kafka 或 RabbitMQ 等常用中间件。\n6 、熟悉微服务、数据库建模、接口设计、性能优化及系统治理。\n7 、能够独立承担核心模块开发，具备良好的沟通协作能力。\n8 必须熟练使用 Claude Code 、Cursor 、Codex 等 AI 编程工具进行日常研发。\n加分项\n*熟悉 JavaScript 、TypeScript 、Vue 3 或 React ，具备前端开发能力。\n*有 Java 与 Go 技术栈迁移经验。\n*有 AI Agent 、RAG 或大模型应用经验。\n*有高并发、分布式系统项目经验。\n*熟悉 Docker 、Kubernetes 及 DevOps 。</p>\n<p>简历投递邮箱 <a href=\"mailto:linlinli88200@gmail.com\">linlinli88200@gmail.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-28T09:36:52Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[兼职]字节大模型匿名测试，靠谱且酬劳可观",
+      "url": "https://www.v2ex.com/t/1237859#reply0",
+      "location": "",
+      "description": "这是豆包和飞书合并后即将新开的大模型匿名测试资格申请。<br /><br />之前我陆续参加了 2 个月共 10 来次 llm 匿名测试，每次的报酬平均在 600~800 ￥，可作为兼职，申请之后按需参加（不强制）。<br /><br />做任务的流程主要就是：提交提示词让 claude 或 openclow 等正常开发，并同时完成任务书上面的要求，任务书每次的要求会不一样，有的要求任务时长，有的要求工具调用轮次，完成任务不难。<br /><br />结算和打款在 Xpert 专家社区（会有一定的筛选不是谁都能申请，学历，工作经历等，只做验证不卡红线，在坐的开发产品测试等应该都可以申请通过）。<br /><br />字节跳动大模型匿名测试资格：<br /><br />招募周期：2026.08.17 - 2026.09.06<br /><br />报名链接： <a href=\"https://www.corexpertdata.com/operation/s/recruitment-square?r_sk=S4WnGBmttfkZFguH&amp;r_sc=1\" rel=\"nofollow noopener\" target=\"_blank\">https://www.corexpertdata.com/operation/s/recruitment-square?r_sk=S4WnGBmttfkZFguH&amp;r_sc=1</a><br /><br />内推人我的 ID: 7647763321593466662<br /><br />有啥其他疑问可以加我 wx 同 v2exID<br /><br />顺便说一句之前的 seed2.1 就是我们测的，短暂登上过 llm 排行榜前十，嘿嘿~",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-28T06:11:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[深圳] 招一名 AI 测试工程师",
+      "url": "https://www.v2ex.com/t/1237828#reply0",
+      "location": "深圳",
+      "description": "<h2>公司背景：</h2>\n<p>我们是一家深耕人工智能内容生成的技术型企业，聚焦大模型、Agent 、多模态等前沿人工智能技术的场景化落地与产品化，以 AI 技术重构内容创作全链路，为创作者、MCN 机构及内容团队打造高效易用、可规模化的 AI 内容生产工具。  </p>\n<p>目前公司核心产品已完成市场验证，深受 C 端创作者与 B 端机构广泛认可，正处于从 1 到 100 的快速扩张阶段。\n团队深耕 LLM 应用等 AI 领域，技术氛围浓厚，崇尚实际工程落地与产品导向。<br />\n我们以技术驱动产品，以产品服务市场，现广纳优质 AI 人才，共推业务规模化、商业化发展。  </p>\n<p>其他：团队氛围 nice 、五险一金,周末双休、朝九晚六、带薪假期，所有岗位薪资 HR 一对一精准沟通，匹配你的能力与期待！</p>\n<p>我们有浓厚的 AI 技术氛围、高速增长的创业赛道、清晰的职业发展路径，与优秀的团队一起，在 AI 内容创作领域实现个人价值与事业成长！</p>\n<h2>AI 测试工程师（薪资 HR 沟通）</h2>\n<h3>岗位职责：</h3>\n<ol>\n<li>负责 AI 工具、CLI 产品、工作流、自动化脚本等内部产品的测试。</li>\n<li>根据业务场景设计测试用例，包括正常输入、异常输入、边界场景和批量任务。</li>\n<li>检查 AI 生成内容或交付物的准确性、完整性、格式规范、稳定性和可交付性。</li>\n<li>参与客户打样、小批量交付、批量生产结果的抽检和验收。</li>\n<li>记录测试问题，提交 Bug 、优化建议、复现步骤和验收结论。</li>\n<li>配合产品、开发、交付人员优化提示词、模板、流程和测试标准。</li>\n<li>建立测试清单、验收标准、回归测试记录和常见问题库。</li>\n<li>跟进产品迭代后的回归测试，确保新版本不影响已有交付质量。</li>\n</ol>\n<h3>任职要求：</h3>\n<ol>\n<li>5 年以上测试经验。</li>\n<li>熟悉常见 AI 工具，愿意深入研究 AI Agent 、工作流、提示词和自动化工具。</li>\n<li>具备测试思维，能设计测试场景、发现问题、复现问题并清晰记录。</li>\n<li>对内容质量、数据准确性、格式规范和客户交付体验敏感。</li>\n<li>熟练使用 Excel 、飞书文档、飞书表格或类似协作工具。</li>\n<li>能接受多项目并行、需求变化快、从 0 到 1 搭建流程的工作环境。</li>\n<li>会使用 GitHub Issues 、Postman 、命令行、Python 、自动化脚本者优先。</li>\n<li>有互联网、AI 工具、内容生产、电商服务、SaaS 或项目交付经验优先。\n###加分项：</li>\n<li>有 AI Agent 、Coze 、Dify 、扣子、工作流平台使用经验。</li>\n<li>有内容生成、批量生产、自动化交付类项目测试经验。</li>\n<li>能独立整理测试 SOP 、验收标准、问题库和回归测试清单。</li>\n<li>有基础脚本能力，能用 Python 、API 或命令行辅助测试。</li>\n<li>有自己的 github 或个人博客等；或愿提供脱敏的测试用例案例、测试报告案例等；</li>\n</ol>\n<p>Base：深圳<br />\n简历投递： <a href=\"mailto:holliehao@gridltd.com\">holliehao@gridltd.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-28T03:43:50Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[字节跳动] 27 年校招内推",
+      "url": "https://www.v2ex.com/t/1237800#reply0",
+      "location": "上海",
+      "description": "<p>推荐算法工程师 - 抖音电商&amp;直播</p>\n<p>上海、深圳、北京、杭州</p>\n<p>校招·正式·职位</p>\n<p>职位描述</p>\n<p>团队介绍：抖音电商算法团队，依托抖音、今日头条、番茄小说、红果短剧等产品，帮助用户发现、讨论并获得好物，享受美好生活；帮助商家高效经营，创建良性商业生态；激励创作并分享购物经验使用心得，构建有真诚有信息的电商内容氛围。在这个团队，我们不仅要通过推荐、广告和搜索算法搭建消费者和商家之间的桥梁，也要通过风控算法和治理算法去甄别违规行为，保护用户的购物体验，保护真正诚信经营的商家；我们还要建设智能客服技术、大规模商品知识图谱来提升各个交易环节的效率，降低商家的经营成本；我们也要结合机器学习和运筹算法，来优化供应链和物流的效率和成本，并进一步提升用户物流体验；另外我们还会用业界先进的数据科学技术为业务健康发展保驾护航。我们的使命：用算法的能力，让用户总能发现好东西，让美好生活触手可得。</p>\n<p>抖音直播算法团队，负责抖音、抖音极速版、抖音火山版等 App 的直播推荐算法优化，业务包括直播体裁基建和直播营收。直播体裁基建从用户侧的召回/粗排/精排/混排等模型和策略和主播侧的冷启动算法，结合多模态内容技术动态理解切片和用户兴趣，建立短视频域到直播域的兴趣迁移，在全场景分发直播体裁，满足用户看播需求并服务于营收、电商、生活服务、游戏等多业务。直播营收致力于为歌唱/舞蹈/弹奏/朗读/情感/户外等广泛的具有一技之长的普通人通过直播这个舞台被更多人看到获得收入，并满足用户多层次的精神消费和情感表达诉求，让优质内容供给持续增长反哺整个直播生态。在推荐技术方面，我们持续验证并落地全链路模型的高效 scaling up 方案，积极探索生成式推荐和 LLM4Rec 路线，提升模型系统的整体智能。</p>\n<p>1 、负责抖音等多端电商与直播场景的推荐算法优化，探索多模态大模型、生成式推荐等前沿技术，提升亿级用户分发体验；</p>\n<p>2 、主导全链路（召回、粗排、精排、混排）算法优化，运用推荐大模型提升预估精度，应用深度学习、强化学习、Uplift 建模等技术解决点击率、转化率预估、直播冷启动等核心问题，聚焦 GMV 、用户增长等业务核心指标；</p>\n<p>3 、基于大规模用户行为数据，构建用户兴趣模型与购买意图预测体系，挖掘优质商品及主播，优化流量分发效率；</p>\n<p>4 、深入理解用户、主播、平台生态需求，通过算法策略创新驱动用户体验、主播成长与平台营收健康增长；</p>\n<p>5 、与产品、运营团队紧密协作，推动大模型与工业级推荐系统融合落地，构建良性内容电商生态。</p>\n<p>职位要求</p>\n<p>1 、2027 届获得本科及以上学历，计算机、人工智能、数学、机器学习等相关专业优先；</p>\n<p>2 、编码能力扎实，熟练掌握 C++/Python 及 Linux 开发环境，熟悉至少一种主流深度学习框架（ TensorFlow/PyTorch 等）；</p>\n<p>3 、机器学习基础扎实，熟悉 CF 、LR 、GBDT 、DNN 等常用算法，对大模型、推荐系统有研究或项目经验者优先；</p>\n<p>4 、数据敏感度高，具备优秀的问题分析与解决能力，对挑战性问题充满热情；</p>\n<p>5 、工作积极主动、认真细致，具备良好的沟通表达与团队协作能力，能高效推进业务落地；</p>\n<p>6 、在 KDD/NeurIPS/SIGIR 等顶会发表论文、ACM/数据挖掘竞赛获奖，或有大规模推荐系统、计算",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-28T02:50:14Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "[全职远程] 美国初创公司招聘后端开发( Python )， 30K-40K",
-      "url": "https://www.v2ex.com/t/1237570#reply6",
+      "url": "https://www.v2ex.com/t/1237570#reply12",
       "location": "远程",
       "description": "<p>公司介绍：</p>\n<p>Youlify 是一家面向美国医疗机构的 AI 收入周期管理（ RCM ）初创公司。</p>\n<p>公司为独立诊所、中大型医疗集团及医院提供 RCM 平台和医疗账单服务，业务覆盖临床文档与医疗编码、理赔处理、付款入账、拒赔管理以及保险方政策监控等环节。</p>\n<p>产品通过任务型 AI Agent 自动化医疗账单流程中的重复工作，同时保留人工审核处理复杂及边缘情况，目标是降低拒赔率、加快医疗机构回款，并提高理赔全流程的可视性和可追踪性。</p>\n<p>公司主页 <a href=\"https://www.youlify.ai/\" rel=\"nofollow\">https://www.youlify.ai/</a></p>\n<p>领英： <a href=\"https://www.linkedin.com/company/youlify/\" rel=\"nofollow\">https://www.linkedin.com/company/youlify/</a></p>\n<p>后端技术栈为: Python/FastAPI/MongoDB/Airflow/Redis</p>\n<p>职位要求：</p>\n<p>2 年工作经验起\n后端开发，和技术栈匹配。\n有一定英文阅读能力（老板+开发团队都是国人，和 PM 对接需要书面英文沟通）。</p>\n<p>ps: 公司没有国内实体，和第三方 EOR company 签合同</p>\n<p>感兴趣的朋友请发简历至：</p>\n<p>amlhbWluZy5uaWUxM0BnbWFpbC5jb20=</p>\n<p>有问题也可以邮件联系，谢谢。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -438,6 +514,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-27T04:02:51Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[杭州] .NET 全栈工程师",
+      "url": "https://www.v2ex.com/t/1237589#reply10",
+      "location": "杭州",
+      "description": "<h3>岗位要求</h3>\n<ul>\n<li>具备扎实的 Web 开发经验，能独立设计、开发并优化大型 Web 系统。</li>\n<li>精通 .NET/C#，具备良好的后端架构设计能力，能够根据需求进行高效开发。</li>\n<li>拥有一定的 SQL 性能优化经验，能够有效识别和解决性能瓶颈，熟悉常见数据库（如 PostgreSQL 、MariaDB 、MySQL ）的设计和优化。</li>\n<li>熟悉并理解 DDD （领域驱动设计），能灵活运用在项目中，推动系统架构的演进。</li>\n<li>了解队列、缓存、分布式锁等, 能够解决分布式系统中的常见问题</li>\n<li>具备基本的前端开发能力，熟悉 Angular 或 React 框架，并能使用 TypeScript 进行开发。</li>\n<li>有一定的设计模式理解，能够在实际开发中运用设计模式解决复杂问题。</li>\n<li>熟悉至少一种主流云平台（如 AWS 、Azure 或 阿里云），能够配置和使用云服务来支撑应用的部署与运行</li>\n<li>具备 Docker 、Docker Swarm 或 Kubernetes （ K8s ）等容器化技术的使用经验，能够进行高效的容器化部署。</li>\n<li>热爱 coding, 拥抱 AI, 善于通过 Vibe Coding 提高效率, 入职成功公司提供 Cursor or Codex 账号</li>\n<li>自驱力强, 有主观能能动性, 逻辑清晰, 对技术有强烈的好奇心和攻坚精神，能快速学习并适应业务变化</li>\n<li>有敏捷开发（ Scrum 、Kanban 等）经验，熟悉敏捷开发流程(Jira)，能在团队中高效协作。</li>\n<li>良好的英语读写能力, 有简单的英语沟通能力</li>\n<li>面试主要聊项目、业务, 无八股, 无算法</li>\n</ul>\n<h3>薪资范围</h3>\n<p>12-20k, 具体技术面通过后跟 HR 聊</p>\n<p>邮箱: bGFnZ2FnZS1sYUBvdXRsb29rLmNvbQ==</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-27T05:07:51Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -499,7 +594,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "招聘： LLM 后训练工程师 (角色扮演对话模型类型)",
-      "url": "https://www.v2ex.com/t/1237578#reply1",
+      "url": "https://www.v2ex.com/t/1237578#reply4",
       "location": "远程",
       "description": "在 V2 已经招到 5 个以上全职远程的小伙伴了，目前都已经稳定在职，团队还在继续扩充<br /><br />目前的缺口有 LLM 后训练的算法工程师岗位，AIGC 创作的内容运营岗位，AI 伴侣产品岗位<br /><br />美国主体公司，有自己的 GPU 集群，支持远程全职，欢迎投递 <br /><br />岗位薪资标准：20-40k/月<br /><br />## 岗位职责<br /><br />  - 负责大语言模型的 SFT 、偏好优化及相关后训练工作；<br />  - 建设训练数据的采集、清洗、去重、标注和质量评估流程；<br />  - 设计模型评测集和评价指标，分析训练前后的能力变化；<br />  - 组织候选回答生成、人工评审和高质量训练样本生产；<br />  - 优化训练参数、数据配比、上下文长度和 Chat Template ；<br />  - 完成模型训练、推理部署、版本管理和线上效果跟踪；<br />  - 根据产品反馈定位模型、数据、Prompt 或推理环节的问题。<br /><br />  ## 任职要求<br /><br />  - 熟悉 Python 、PyTorch 、Transformers 等技术栈；<br />  - 有大语言模型 SFT 、LoRA/QLoRA 或偏好优化实战经验；<br />  - 理解生成模型的数据格式、损失计算、上下文截断和训练流程；<br />  - 能够独立完成数据处理、训练实验、效果评测和问题分析；<br />  - 具备良好的实验设计能力，重视数据隔离、可复现性和评测可信度；<br />  - 对语言质量、指令遵循、多轮对话和长上下文能力有判断力；<br />  - 具备较强的工程能力和跨团队沟通能力。<br /><br />  ## 加分项<br /><br />  - 有对话模型、角色扮演、互动叙事或创意写作模型经验；<br />  - 熟悉 TRL 、PEFT 、vLLM 、DeepSpeed 或同类工具；<br />  - 有 DPO 、KTO 、奖励模型或人工反馈数据经验；<br />  - 有模型评测、数据标注平台或线上模型迭代经验；<br />  - 有可展示的模型、数据集、代码或实验报告。<br /><br />符合的同学欢迎投递简历至以下渠道（投递默认为可以接受小型任务测试）：<br /><br />联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t<br /><br />联系 TG （ Base64 ）：QGN6YWs5",
       "source": "gh-relay/v2ex-jobs",
@@ -628,139 +723,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-26T10:56:35Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[上海]｜字节跳动｜资深后端工程师/后端技术专家",
-      "url": "https://www.v2ex.com/t/1237392#reply0",
-      "location": "上海",
-      "description": "<h1>上海｜字节跳动｜财务 × AI</h1>\n<p>招聘资深后端工程师/后端技术专家，一起建设下一代 AI 智能财务数据平台。</p>\n<p><strong>投递地址：</strong> <a href=\"https://job.toutiao.com/s/PJEHFdPyPpI\" rel=\"nofollow\">https://job.toutiao.com/s/PJEHFdPyPpI</a></p>\n<p><img alt=\"上海｜字节跳动｜财务 × AI\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.ibb.co/bj5WrcM0/codex-clipboard-b4284a80-acc0-4d18-92c0-dd561c01278f.png\" /></p>\n<h2>职位描述（ JD ）</h2>\n<ol>\n<li>负责管报核算平台与财务数据门户的后端架构设计与核心功能研发，保障系统可用性、性能与可扩展性。</li>\n<li>面向财务业务场景，包括核算、管报/经营分析、自助取数与报表加工等，建设稳定的数据加工与查询链路，支持大规模数据任务调度与高并发查询。</li>\n<li>与财务 BP 、管理会计专家、数据/算法/平台团队协作，沉淀统一口径与业务语义，推动能力平台化、服务化。</li>\n<li>在财务数据门户方向，推动“语义化建模 + AI 资产消费”能力落地，支持资产检索、指标理解、准确取数等 AI 场景。</li>\n<li>建设工程效能与质量体系，包括 Code Review 、压测与性能调优、线上问题定位与稳定性治理。</li>\n<li>懂 AI Coding ，了解业界 AI 动向，关注核心 KOL 的动态和思路。自己折腾过 Claude Code 、Codex 、中转站，玩过 Agent Loop 、沙箱等，有相关实践经验者优先。</li>\n</ol>\n<h2>职位要求</h2>\n<h3>1. 基础背景</h3>\n<ol>\n<li>本科及以上学历，计算机、软件工程等相关专业。</li>\n<li>3 年及以上后端开发经验，有复杂业务系统或平台型系统建设经验。</li>\n</ol>\n<h3>2. 技术能力</h3>\n<ol>\n<li>精通 Java ，深入理解 JVM 原理，具备 JVM 调优实战经验。</li>\n<li>熟练掌握 Spring Boot 等主流框架，具备高可用、高并发系统设计能力。</li>\n<li>精通 MyBatis 等 ORM 框架；熟悉复杂 SQL 编写与优化，能支撑数亿级数据加工与查询场景。</li>\n<li>熟悉大数据技术在 Java 生态中的集成；能熟练使用 Spark （ Java API ）进行批处理任务开发与优化；了解 Hadoop 生态（ HDFS/Hive ）者优先。</li>\n</ol>\n<h3>3. 业务架构与协作能力</h3>\n<ol>\n<li>理解财务会计与管理会计的核心差异，具备跨角色协作与需求抽象能力。</li>\n<li>能与财务 BP 、管理会计专家高效沟通，将边际贡献、变动成本法、因素分析等复杂业务术语转化为可落地的技术方案。</li>\n<li>具备将财务专家分析经验沉淀为可复用资产、规则及知识库（含 AI Agent 知识库）的抽象与建模能力。</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-26T07:58:09Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "3 年 Linux C++，该 传统 C++ 业务 还是转机器人 / DPDK / AI / Go？",
-      "url": "https://www.v2ex.com/t/1237381#reply0",
-      "location": "杭州",
-      "description": "<p>双非硕，目前做 Linux C++，工作内容偏 linux 平台单体设备和定制功能开发。\n主要是 linux cpp ，clickhouse ，mysql ，python ，一点 agent ，\n工作内容比较杂，性能优化、业务开发、流量处理，ck 查询优化，agent 等等。</p>\n<p>目前在纠结几个方向：</p>\n<ol>\n<li>\n<p>继续 Linux C++ / 设备软件 / 协议 / SDK\n连续性最好，但担心最后仍然只是普通业务 C++，技术护城河不足。感觉 cpp 业务 被 AI 冲击很严重。</p>\n</li>\n<li>\n<p>DPDK / VPP / OVS / 云网络\n但产品里相关代码不是我负责的，得补经验+包装，同时不了解岗位热度以及社招要求 卡不卡学历。</p>\n</li>\n<li>\n<p>机器人 / 具身智能\n热门行业，关注 ROS2/DDS 、中间件、设备通信 边云等方向。也担心经历连续性，能否跳以及未来发展情况。</p>\n</li>\n<li>\n<p>AI 或者互联网后端\n还是做业务，有一点 AI Agent 开发经验，但是并非大规模落地项目。</p>\n</li>\n</ol>\n<p>目标杭州。</p>\n<p>想问问这几个方向如何选择，大概年后想跳。网上问一些个人，每个人的说都不太一样甚至有很大冲突，有的说应该想办法试试 dpdk ，进入垂直领域，有的说这种也和 cpp 后端一样岗位收缩要求高，并且工程性工作也被 AI 冲击严重，要去新业务。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-26T07:26:17Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "测试工程师 / QA 工程师，创作者 BD（Creator BD），市场推广（用户增长）",
-      "url": "https://www.v2ex.com/t/1237338#reply4",
-      "location": "",
-      "description": "<p>测试工程师 / QA 工程师（区块链方向优先）</p>\n<pre><code> 职位描述：\n</code></pre>\n<p>我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。MVP 即将上线，现招聘测试工程师，负责保障产品上线前的质量与稳定性，重点覆盖支付、链上交易、用户与创作者核心流程。</p>\n<p>一、功能测试与质量保障</p>\n<ol>\n<li>负责平台全业务线的功能测试与回归测试，涵盖：\n· 创作者内容发布与分享（图片、视频上传、直播连麦）\n· 社交互动（关注、评论、点赞、私信）\n· 商城模块（商品上架、下单、支付、订单管理、物流跟踪）\n· 用户体系（注册登录、KYC 、个人主页、创作者认证）</li>\n<li>重点负责区块链支付全流程测试，包括：\n· 钱包连接（ MetaMask 、WalletConnect 等多种钱包兼容）\n· 链上转账、交易广播与链上状态同步\n· 多链分账逻辑与佣金结算准确性\n· Gas 费估算与异常处理（ Gas 飙升、交易失败、网络拥堵等场景）\n· 多链兼容性（以太坊、Polygon 、BSC 、Solana 等主流公链）\n· 异常交易场景（交易回滚、Nonce 管理、签名验证失败等）</li>\n<li>编写与维护测试用例、测试计划，精准覆盖业务场景及边界条件</li>\n</ol>\n<p>二、性能与压力测试</p>\n<ol>\n<li>针对高并发场景设计并执行压力测试：\n· 直播连麦高并发观看与互动\n· 热门内容发布与传播瞬间的流量高峰\n· 商城秒杀/抢购活动\n· 区块链交易高并发场景（批量转账、同时分账等）</li>\n<li>使用性能测试工具（如 JMeter 、K6 、Locust ）进行压力、负载和稳定性测试</li>\n<li>评估系统响应时间、QPS 、TPS 、资源占用等指标，分析性能瓶颈并提出优化建议</li>\n</ol>\n<p>三、红黑测试与安全测试</p>\n<ol>\n<li>红黑测试（ Red Teaming / 安全测试） ：\n· 进行渗透测试与业务逻辑安全测试\n· 覆盖 Web 端和 API 常见漏洞（鉴权绕过、越权访问、重放攻击、签名验证绕过、频控绕过等）\n· 防刷、防爆破、防钓鱼攻击</li>\n<li>资金与数据安全：\n· 提币审批流、权限控制、会话管理安全验证\n· 数据加密与隐私保护验证\n· 账务 100%准确性与资金安全验证</li>\n<li>智能合约安全基础测试（如合约交互安全性、重入攻击、授权过度等）</li>\n</ol>\n<p>四、兼容性测试</p>\n<ol>\n<li>Web 端兼容性：覆盖 Chrome 、Brave 、Firefox 等主流浏览器</li>\n<li>移动端兼容性：覆盖 iOS 和 Android 平台</li>\n<li>钱包兼容性：验证不同钱包插件及 WalletConnect 等协议的兼容性</li>\n</ol>\n<p>五、接口测试与自动化</p>\n<ol>\n<li>执行接口测试：使用 Postman 、Apifox 等工具进行 RESTful API 、GraphQL 接口测试</li>\n<li>搭建与维护自动化测试框架（如 Playwright 、Cypress 、Pytest ），编写自动化脚本提升回归测试效率</li>\n<li>参与 CI/CD 流程，确保持续集成与持续交付下的质量验证</li>\n</ol>\n<p>六、测试流程建设与协作</p>\n<ol>\n<li>\n<p>参与需求评审与架构设计评审，",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-26T05:51:43Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[找技术合伙人] 汽车零部件仓储 AI 项目，已有潜在客户，寻全栈技术合伙人（长沙/可远程）",
-      "url": "https://www.v2ex.com/t/1236621#reply18",
-      "location": "远程",
-      "description": "我是汽车供应链领域从业者，潜在客户为汽车零部件中小型仓库，仓库为多家汽车零部件厂商提供仓储物流服务，配套汽车整车厂，月出货量数十万件级别。<br /><br />这个行业有个致命痛点：重复性工作较多，数字化程度很低，仓库换装易出错导致主机厂停线——停线损失极高。中小仓库用不起传统 WMS （每年数万元的成本），只能用 Excel+纸质单据，账实不符、错装漏装频发。<br /><br />因此我准备启动一个创业项目：AI 驱动的轻量级仓储协同平台，从换装防错切入，为中小汽车零部件仓库提供低成本数字化服务。<br /><br />核心功能模块：<br /><br />1 、AI 智能收货：拍照自动识别供应商标签，蓝牙打印内部标准标签，告别手工录入<br />2 、智能换装防错：扫码硬性校验，拿错即拦截（核心价值）<br />3 、全流程追溯：操作留痕，责任到人<br />4 、AI 智能体订单自动化：用 AI 智能体登录整车厂系统，自动检索下载订单（符合长沙经开区最新政策方向）<br />5 、AI 智能交付看板：自动融合订单、库存数据，生成交付健康度分析，主动推送供应商协同信息<br />6 、自然语言交互：支持对话式查询库存、订单状态<br />7 、供应商协同模块（规划中）：供应商预贴标，货到扫码即收货<br /><br />我需要什么样的技术合伙人<br />1 、能独立开发微信小程序（前端+云开发或自建后端）<br />2 、熟悉 Node.js 或 Python ，能搭后端 API<br />3 、有数据库设计能力<br />4 、能对接 OCR API<br />5 、了解蓝牙打印机 SDK 调用<br />加分项：<br />1 、有 AI 大模型 API 集成经验（ DeepSeek 、智谱等）<br />2 、了解浏览器自动化/RPA （ OpenClaw 、智谱 AutoClaw 等）<br />3 、有工业/仓储业务经验<br />4 、有创业经验<br /><br />软性要求：<br /><br />1 、有主人翁意识，愿意从 0 到 1<br />2 、能接受初期无工资（有股权）<br />3 、最好在长沙或愿意来长沙<br /><br />我能提供的<br />1 、股权诚意：详细方案私聊<br />2 、现成客户：产品出来就有试用场景<br />3 、政策红利：长沙经开区有相关扶持政策<br /><br />如果你感兴趣，请加微信详聊：Finale_<br />备注“V2EX 技术合伙人”<br /><br />非诚勿扰，谢绝外包团队。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-23T13:02:26Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "远程 AI 测试工程师 15-25K",
-      "url": "https://www.v2ex.com/t/1237194#reply2",
-      "location": "远程",
-      "description": "一、岗位职责<br /><br />1.负责 Web 、App 、管理后台、API 的功能、回归、兼容性测试<br />2.参与需求评审,基于 PRD 与接口文档输出测试计划与用例<br />3.提交高质量 Bug 并推动闭环;负责上线前回归与线上问题复盘<br />4.编写并维护接口自动化脚本,提升核心链路回归效率<br />5.根据项目需要参与 UI 自动化或性能测试<br />6.从 0 到 1 搭建 AI 测试工作流——覆盖 Prompt 管理、评测流程、Bad Case 闭环、版本回归机制,形成可复用 SOP 与文档<br />7.负责 AI 产品的质量测试,覆盖对话、Agent 、AIGC 、数字人等场景<br />8.建立并维护 Bad Case 库(幻觉、答非所问、风格漂移、安全边界等)<br />9.参与 Prompt 版本回归 与 A/B 测试,输出测试报告与改进建议<br /><br />二、任职要求<br /><br />1.本科及以上,3 年以上软件测试经验,熟悉 Web / App / API 测试全流程<br />2.熟悉接口测试工具(Postman / Apifox)与抓包工具(Charles / Fiddler)<br />3.熟悉至少一种自动化框架:Pytest / Selenium / Playwright / Appium / JMeter<br />4.熟悉 Git 与 Jira / 禅道 / Tapd 等协作工具<br />5.具备从 0 到 1 搭建测试流程 / 规范的意识和能力,能独立梳理 SOP,而不是只执行别人定的流程<br />6.对 AI 产品有真实兴趣并有动手经验——用过 ChatGPT / Claude / 豆包 / Coze 等,自己写过 Prompt 或做过小项目<br />沟通清晰、执行力强,能跨产品 / 研发 / 算法推动问题闭环<br /><br />三、加分项<br /><br />1.有 AI 产品(对话、AIGC 、Agent 、数字人)测试经验<br />2.有 Prompt 回归、Bad Case 分析、模型输出评测经验<br />3.有从 0 到 1 搭建过测试体系 / 测试平台 / 质量流程的经历<br />4.用过 Promptfoo / LangSmith / Langfuse 等 AI 测试工具<br />5.了解 RAG 、Function Calling 、Agent Workflow 等概念<br />6.大厂或成熟互联网公司 QA 经历<br />7.英文阅读流畅,可直接看 OpenAI / Anthropic 文档<br />简历投递 TG:web3019",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-25T14:40:48Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "远程居家：后端工程师，后端开发工程师（高级），测试工程师，前端工程师，项目经理，大数据架构师， AI 应用",
-      "url": "https://www.v2ex.com/t/1237666#reply0",
-      "location": "远程",
-      "description": "后端工程师（ Go / Java / PHP / Node ）：15-30K<br />岗位职责<br />• 配合前端将现有模板站扩张为专题站、落地页、导航站、工具站等产品形态。<br />• 基于 SEO 侧现有 API 与数据，快速搭建接口层与数据聚合服务。<br />• 独立完成新服务从 0 到上线：接口设计、数据存取、联调、部署。<br />• 新产品从设计阶段支持多语言，内容与配置带语言维度，接口按语言返回。<br />• 保证 SEO 基本盘：URL 规范、301 / 404 、canonical 、sitemap 、响应速度与缓存头。<br />• 将重复建站与配置动作脚本化、工具化，降低复制成本。<br />任职要求<br />• 2 年以上后端开发经验，Go / Java / PHP / Node 至少一门能独立写服务并上线。<br />• 熟练使用 Claude Code 、Codex 、Cursor 等 AI 编码工具，能审查与验证 AI 代码。<br />• 能看懂并对接 API ，理解超时、重试、异常处理。<br />• 懂 SEO 站后端要点：URL 、slug 、状态码、canonical 、sitemap 、TTFB 与缓存。<br />• 会使用 PostgreSQL / MySQL / MongoDB 至少一种数据库，能建表建索引。<br />• 认同多语言 i18n 架构，面向用户文案不得硬编码。<br />• 交付速度快，配合意识强，具备远程自驱力。<br />加分项<br />• 懂 Linux 、Docker 、Nginx 、AWS 、CI/CD 。<br />• 会一点前端，能自己调通接口看到效果。<br />• 做过站群、多站点、SaaS 、批量生成类系统、内容站、爬虫或数据采集。<br />• 做过多语言 / 多地区系统、支付、会员或内部工具脚本。<br />-----------------------------<br />测试工程师（高级+自动化方向）：18-28K<br /><br />-------------------------------------------<br />后端开发工程师（高级）<br />薪资：30-35K<br />岗位职责：<br /><br />• 负责后端服务的设计、开发与维护，保障系统的高可用、高性能与可扩展性<br />• 参与核心业务模块的架构设计与技术选型<br />• 编写高质量、可测试、可维护的代码，并进行 Code Review<br />• 排查并解决线上问题，持续优化系统性能与稳定性<br />• 与前端、产品、测试等团队协作，推动需求落地<br /><br />岗位要求：<br /><br />• 计算机相关专业，5 年以上后端开发经验<br />• 精通 Go 和 Node.js ，具备扎实的工程能力<br />• 具备 AI 开发能力（熟悉大模型/LLM 应用开发、API 集成、Agent 或 RAG 等相关实践）<br />• 熟悉常见数据库（ MySQL / Redis 等）及消息队列<br />• 熟悉微服务架构、分布式系统设计<br />• 良好的问题分析与解决能力，具备较强的责任心和团队协作意识<br /><br />其他要求：<br /><br />• 有大型/高并发项目经验者优先<br />• 有 AI 产品落地经验者优先<br />• 具备良好的技术文档习惯与沟通能力<br /><br />----------<",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-27T08:44:07Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "想找几位 vibe coding 大神来试用一下我的语音 vibe 工具 RambleDesk[有偿~]",
-      "url": "https://www.v2ex.com/t/1236962#reply6",
-      "location": "",
-      "description": "最近 vibe coding 有点上头，顺手 vibe 了个小项目 RambleDesk ，路由 Agent 通知+给人类反馈提供工具（比如语音输入）。<br />Ramble 大概就是“想到哪说到哪、絮絮叨叨说一通”的意思。<br /><br />我和几个同事自己用了阵子，居然感觉还挺顺手。但自己人用自己做的东西多少有点自嗨，所以想找几位真正高强度 vibe coding 的大佬帮忙试试，尤其欢迎主力使用 Pi 或 DSH 的老哥（这两个目前的接入体验也是我比较想重点验证的）。<br /><br />RambleDesk 做的事情很简单：把不同 Agent 需要人类介入的事情统一路由到一个桌面工作台。Agent 需要你的时候自己来找你，你可以直接说话、截图、贴代码/文件，把想法一股脑 ramble 给它，然后让它接着干。<br />项目已经开源：<br /><a href=\"https://github.com/l1veIn/rambledesk\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/l1veIn/rambledesk</a><br /><a href=\"https://i.imgur.com/nieUC8k.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/nieUC8k.jpeg\" /></a><br />关于测试<br />不需要跑测试用例，也不用写测试报告。<br />我更希望你把它接进自己平时的 Coding Agent 工作流，然后该怎么写代码还怎么写。<br />体验 1 ～ 3 天以后，花 5 ～ 10 分钟告诉我真实感受即可。<br />第一批计划邀请 10 位朋友。为了感谢大家愿意花时间折腾一个还很早期的开源项目，完成体验反馈后会有 ¥100 感谢费。<br />不要求好评。发现完全没用，同样是非常有价值的反馈。<br />想参与的话可以直接加内测群报名：1079434587<br />进群后简单说一下自己平时主力用的 Agent / Harness 就行。第一批计划找 10 位左右，尤其欢迎 Pi / DSH 重度用户。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-25T01:43:26Z"
     }
   ]
 }
