@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:14:03.154150+00:00",
+  "generated_at": "2026-08-29T08:09:43.973758+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481423\">https://news.ycombinator.com/item?id=49481423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 28 Aug 2026 17:00:06 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 04 Aug 2026 07:01:26 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143683\">https://news.ycombinator.com/item?id=49143683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 02 Aug 2026 12:01:00 +0000"
     }
   ],
   "total_entries": 20
