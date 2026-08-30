@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T08:09:43.973758+00:00",
+  "generated_at": "2026-08-30T07:09:11.060767+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,10 +29,10 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
-      "title": "remote AI 测试工程师/测试工程师（高级+自动化方向）h c 3 个",
-      "url": "https://www.v2ex.com/t/1238027#reply0",
-      "location": "remote",
-      "description": "1️⃣测试工程师（高级+自动化方向） yp<br /><br />19k-28k<br /><br />岗位职责：<br />1. 负责产品全端（ APP/Web/H5/接口）自动化测试框架设计与开发<br />2. 主导 AI 辅助测试工具的落地应用，探索 AI 在测试领域的提效实践<br />3. 制定并优化自动化测试规范与流程，推动团队测试效能提升<br />4. 参与核心模块测试，保障产品质量与版本交付<br />5. 协助团队自动化测试技术能力建设<br /><br />岗位要求：<br />• 3 年以上自动化测试经验<br />• 熟悉 Python/go/node/flutter 等编程，能独立搭建自动化测试框架<br />• 掌握 Appium/Selenium/Playwright 等主流 UI 自动化工具<br />• 熟悉 Pytest/Jenkins 等接口自动化与 CI 持续集成工具<br />• 具备 AI 工具应用经验（如 Claude/codex/GPT 等 LLM 辅助测试）<br />• 有 Flutter/APP 自动化测试经验<br />• 有性能测试、稳定性测试经验（ JMeter/Locust ）<br /><br />其他要求：<br />• 能独立承担中大型项目测试，责任心强<br />• 有良好的沟通协调能力和团队协作精神<br />• 对 AI 工具落地有探索热情，能结合业务场景提出创新方案<br /><br />2️⃣AI 测试工程师 hr<br /><br />15-25k<br />一、岗位职责<br /><br />1.负责 Web 、App 、管理后台、API 的功能、回归、兼容性测试<br />2.参与需求评审,基于 PRD 与接口文档输出测试计划与用例<br />3.提交高质量 Bug 并推动闭环;负责上线前回归与线上问题复盘<br />4.编写并维护接口自动化脚本,提升核心链路回归效率<br />5.根据项目需要参与 UI 自动化或性能测试<br />6.从 0 到 1 搭建 AI 测试工作流——覆盖 Prompt 管理、评测流程、Bad Case 闭环、版本回归机制,形成可复用 SOP 与文档<br />7.负责 AI 产品的质量测试,覆盖对话、Agent 、AIGC 、数字人等场景<br />8.建立并维护 Bad Case 库(幻觉、答非所问、风格漂移、安全边界等)<br />9.参与 Prompt 版本回归 与 A/B 测试,输出测试报告与改进建议<br /><br />二、任职要求<br /><br />1.本科及以上,3 年以上软件测试经验,熟悉 Web / App / API 测试全流程<br />2.熟悉接口测试工具(Postman / Apifox)与抓包工具(Charles / Fiddler)<br />3.熟悉至少一种自动化框架:Pytest / Selenium / Playwright / Appium / JMeter<br />4.熟悉 Git 与 Jira / 禅道 / Tapd 等协作工具<br />5.具备从 0 到 1 搭建测试流程 / 规范的意识和能力,能独立梳理 SOP,而不是只执行别人定的流程<br />6.对 AI 产品有真实兴趣并有动手经验——用过 ChatGPT / Claude / 豆包 / Coze 等,自己写过 Prompt 或做过小项目<br />沟通清晰、执行力强,能跨产品 / 研发 / 算法推动问题闭环<br />",
+      "title": "[深圳/上海/南京/广州/北京] SHEIN 技术岗社招合集 后端/数据/算法/测试/SRE/安全 110+岗位",
+      "url": "https://www.v2ex.com/t/1238158#reply0",
+      "location": "深圳",
+      "description": "整理一波 SHEIN 技术岗岗位合集，方向覆盖后端/数据/算法/测试/SRE/安全，共计约 110+岗位，工作地覆盖 上海 / 南京 / 深圳 / 广州 / 北京 等。<br />大致方向：<br />- 后端 / Java / 服务端研发<br />- 前端 <br />- APP 研发 / iOS / Android<br />- 数据开发 / 数仓<br />- 数据平台 / 数据治理<br />- 数据分析 / BI<br />- 算法 / 机器学习<br />- 推荐 / 搜索 / 广告算法<br />- 测试开发 / 质量工程<br />- SRE / 运维 / DevOps<br />- 安全 / 风控 / 合规技术<br /><br />薪资可参考 SHEIN 招聘官网 &amp; Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/pqrryn\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/pqrryn</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />本人是 SHEIN 员工，不是 HR ，这帖只是内推信息整理，不代表官方招聘口径。<br />SHEIN 不同部门、团队、业务线差异比较大，我不能给所有团队背书，建议大家面试时重点确认团队业务、汇报线、加班节奏、人员稳定性和 HC 背景。<br />内推不保证面试或 offer ，也不保证 HR 回复时效，最终还是以 HR 和业务筛选为准。<br />如果已经明确匹配岗位，建议直接官网投递并填写内推码；表单只是给不确定方向的人做初步匹配用，不是必填。<br />SHEIN 社招技术岗大多没有 coding 环节，无需手撕代码。<br /><br />有问题评论区我会一一解答，保证回复真实有效（会跟对应 HR 咨询确认）。",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -44,12 +44,31 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-08-29T06:22:07Z"
+      "published": "2026-08-30T06:46:46Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "大学生有点迷茫，希望各位大佬给一下自己的见解",
+      "url": "https://www.v2ex.com/t/1238095#reply4",
+      "location": "",
+      "description": "大佬们好我现在是一个二本大四的学生，刚开学，然后我学的 java ，感觉学的也不咋地，之前在抖音直播认识了一个十年开发，给我说了学习路线，然后跟着学习，开始学习了 java 基础，jdbc ，servlet ，学完之后 ai 生成了个类似 mvc 的框架，看了看源码，之后学了 SSM,springboot ，springai 。vue2,vue3,ts 前端那些不太熟练，然后 springcloud 大概看了一遍但是没有去敲，敲了苍穹外卖和黑马点评，之后又学了 ai 开发 claudecode ，codex 之类的，新出的大模型一直都有关注。在暑假的时候进了一个公司，这个应该是中厂，全国很多地方都有分公司，公司每天报销点 ai 额度，然后全栈开发开发功能，感觉很迷茫，接下来不知道怎么去学，公司有用到微服务那套东西，但是我都还没有具体接触到。已经实习两个月了，感觉现在的技术还是很差，怕就算出去了找不到下份工作，视频平台还那么多的制造焦虑，希望各位大佬说说自己的见解，给弟弟参考参考。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-29T15:40:48Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "[北京][求职] Rust/LLVM/Compiler",
-      "url": "https://www.v2ex.com/t/1237942#reply9",
+      "url": "https://www.v2ex.com/t/1237942#reply12",
       "location": "北京",
       "description": "<p>我的 GitHub： <a href=\"https://github.com/dianqk\" rel=\"nofollow\">https://github.com/dianqk</a> ，LLM 已经可以总结的差不多了：</p>\n<ul>\n<li><a href=\"https://chat.deepseek.com/share/8j1fwuxfycuxccck1x\" rel=\"nofollow\">https://chat.deepseek.com/share/8j1fwuxfycuxccck1x</a></li>\n<li><a href=\"https://chatgpt.com/share/6a916c5c-9eb8-83ee-a74a-0e79f1aa0e19\" rel=\"nofollow\">https://chatgpt.com/share/6a916c5c-9eb8-83ee-a74a-0e79f1aa0e19</a></li>\n<li><a href=\"https://chatgpt.com/share/6a916cf7-3afc-83ee-b4d9-7fdc0b8a7386\" rel=\"nofollow\">https://chatgpt.com/share/6a916cf7-3afc-83ee-b4d9-7fdc0b8a7386</a></li>\n</ul>\n<p>我在 Rust 和 LLVM 主要做编译优化相关，Rust 合并 <a href=\"https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Adianqk+merged%3A2020-01-01..2026-12-31+-label%3Arollup\" rel=\"nofollow\">95 PRs</a>，LLVM 提交 <a href=\"https://github.com/search?q=repo%3Allvm%2Fllvm-project+author%3Adianqk&amp;type=commits\" rel=\"nofollow\">81 Commits</a>. 大部分不是复杂问题，所以我期望一份工作可以让我有机会专注更长期和复杂的问题上面。</p>\n<p>也有一些其他周边贡献，比如：<a href=\"https://github.com/search?q=repo%3Aswiftlang%2Fswift+author%3Adianqk&amp;type=pullrequests\" rel=\"nofollow\">Swift</a>、<a href=\"https://github.com/search?q=repo%3Awasm3%2Fwasm3+author%3Adianqk&amp;type=pullrequests\" rel=\"nofollow\">Wasm3</a>。</p>\n<p>PS. </p>\n<ul>\n<li><a href=\"https://github.com/dianqk/uuplugin\" rel=\"nofollow\">https://github.com/dianqk/uuplugin</a> 好像才是传播最广的仓库。</li>\n<li>我对 Web3 和量化交易等类似项目没有兴趣。</li>\n<li>除了 GitHub 上可见内容，其他领域请当作 0 经验。</li>\n<li>邮箱请发： <a href=\"mailto:dianqk@dianqk.net\">dianqk@dian",
       "source": "gh-relay/v2ex-jobs",
@@ -68,7 +87,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[兼职]字节大模型匿名测试，靠谱且酬劳可观",
-      "url": "https://www.v2ex.com/t/1237859#reply0",
+      "url": "https://www.v2ex.com/t/1237859#reply1",
       "location": "",
       "description": "这是豆包和飞书合并后即将新开的大模型匿名测试资格申请。<br /><br />之前我陆续参加了 2 个月共 10 来次 llm 匿名测试，每次的报酬平均在 600~800 ￥，可作为兼职，申请之后按需参加（不强制）。<br /><br />做任务的流程主要就是：提交提示词让 claude 或 openclow 等正常开发，并同时完成任务书上面的要求，任务书每次的要求会不一样，有的要求任务时长，有的要求工具调用轮次，完成任务不难。<br /><br />结算和打款在 Xpert 专家社区（会有一定的筛选不是谁都能申请，学历，工作经历等，只做验证不卡红线，在坐的开发产品测试等应该都可以申请通过）。<br /><br />字节跳动大模型匿名测试资格：<br /><br />招募周期：2026.08.17 - 2026.09.06<br /><br />报名链接： <a href=\"https://www.corexpertdata.com/operation/s/recruitment-square?r_sk=S4WnGBmttfkZFguH&amp;r_sc=1\" rel=\"nofollow noopener\" target=\"_blank\">https://www.corexpertdata.com/operation/s/recruitment-square?r_sk=S4WnGBmttfkZFguH&amp;r_sc=1</a><br /><br />内推人我的 ID: 7647763321593466662<br /><br />有啥其他疑问可以加我 wx 同 v2exID<br /><br />顺便说一句之前的 seed2.1 就是我们测的，短暂登上过 llm 排行榜前十，嘿嘿~",
       "source": "gh-relay/v2ex-jobs",
@@ -254,25 +273,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-08-14T08:01:57Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "社交应用项目，已获 YZi Labs 融资 招聘： React‑Native 移动端工程师",
-      "url": "https://www.v2ex.com/t/1237466#reply9",
-      "location": "深圳",
-      "description": "SmartX 项目已获得 YZi Labs 投资。<br /><br />相关公布信息 <a href=\"https://www.theblockbeats.info/flash/363465\" rel=\"nofollow noopener\" target=\"_blank\">https://www.theblockbeats.info/flash/363465</a><br /><br />SmartX 是新一代 Web3 社交交易应用，覆盖 Meme 币、永续合约、美股、预测市场。依托链上真实数据打造可信跟单生态，智能匹配交易信号，实现一键极速跟单。<br /><br />推特 X： <a href=\"https://x.com/SmartXTerminal\" rel=\"nofollow noopener\" target=\"_blank\">https://x.com/SmartXTerminal</a><br /><br />工作地点：深圳线下优先，或远程办公短期出差深圳也可。<br /><br />学历要求：第一学历本科及以上<br /><br />联系方式：TG：@AmberKuo_O 或邮箱 <a href=\"http://amberkuo.work\" rel=\"nofollow noopener\" target=\"_blank\">amberkuo.work</a>@gmail.com<br /><br />面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3 个工作日会回复您，通过简历筛选，我会联系进行 2-3 轮线上面试。<br /><br />背景要求：英文可以作为工作语言（流利读写以上水平），本科以上学历。必须深入了解 AI 工具及使用。<br /><br />React‑Native 移动端工程师（薪资 3000-6000u ）<br /><br />岗位职责<br /><br />1. 根据产品规划，基于 React‑Native 完成 iOS 、Android 双端移动端 App 的功能开发与迭代落地，实现行情展示、链上交易等业务场景。<br /><br />2. 负责移动端项目架构搭建、功能调试、多端兼容性测试，跟进 Google Play 商店应用上架、版本发布全流程。<br /><br />3. 承担线上 App 的日常维护，修复线上 Bug ；针对高频行情刷新、实时交易数据推送等场景开展渲染、内存、启动速度等专项性能优化，保障交易端稳定流畅。<br /><br />4. 协同后端、嵌入式、UI 、AI 研发团队，对接云服务及链上接口，联合排查线上疑难问题，输出交互与性能优化方案，持续提升产品用户体验。<br /><br />5. 编写高可读性、高复用性、易维护的业务代码，严格遵守团队编码规范与文档标准，保障单元测试与代码覆盖率。<br /><br />6. 参与团队多端通用 SDK 、公共组件库的设计、开发与迭代，沉淀可复用技术能力，提升多端项目稳定性与研发效率。<br /><br />任职要求<br /><br />1. 1 年及以上 React‑Native 移动端商业项目开发经验，拥有完整上线项目经历优先；<br /><br />2. JavaScript / TypeScript 基础扎实，熟练掌握 React 组件、Hooks 、Props 、State 等核心概念；<br /><br />3. 精通 React‑Native 主流状态管理方案、全局状态管控、导航路由框架设计",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-26T13:25:19Z"
     }
   ],
   "total_entries": 50
