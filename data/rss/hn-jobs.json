@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:09:11.060767+00:00",
+  "generated_at": "2026-08-31T07:22:44.668428+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500471\">https://news.ycombinator.com/item?id=49500471</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sun, 30 Aug 2026 17:01:56 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 04 Aug 2026 12:00:51 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165170\">https://news.ycombinator.com/item?id=49165170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 04 Aug 2026 07:01:26 +0000"
     }
   ],
   "total_entries": 20
