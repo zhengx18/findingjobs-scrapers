@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:22:44.668428+00:00",
+  "generated_at": "2026-09-01T06:36:46.537704+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Autonomous (YC F25) is hiring engineers",
+      "url": "https://news.ycombinator.com/item?id=49514781",
+      "location": "",
+      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514781\">https://news.ycombinator.com/item?id=49514781</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 31 Aug 2026 21:00:09 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/workweave",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512895\">https://news.ycombinator.com/item?id=49512895</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 31 Aug 2026 18:15:26 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Artie (YC S23) Is Hiring Technical AES",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 12 Aug 2026 14:55:27 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
-      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 04 Aug 2026 17:00:12 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Roame (YC S23) Is Hiring Lead Engineer",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167444\">https://news.ycombinator.com/item?id=49167444</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 04 Aug 2026 12:00:51 +0000"
     }
   ],
   "total_entries": 20
