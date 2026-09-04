@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:15:38.718709+00:00",
+  "generated_at": "2026-09-04T06:20:35.051881+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,66 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 21:01:10 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49553173\">https://news.ycombinator.com/item?id=49553173</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 17:00:16 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548864\">https://news.ycombinator.com/item?id=49548864</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 12:00:52 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
@@ -353,66 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 20 Aug 2026 17:01:05 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 20 Aug 2026 12:00:23 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 16 Aug 2026 13:30:27 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319215\">https://news.ycombinator.com/item?id=49319215</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 16 Aug 2026 12:00:23 +0000"
     }
   ],
   "total_entries": 20

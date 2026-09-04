@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-03T06:15:38.718709+00:00",
+  "generated_at": "2026-09-04T06:20:35.051881+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 21:01:10 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49553173\">https://news.ycombinator.com/item?id=49553173</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 17:00:16 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548864\">https://news.ycombinator.com/item?id=49548864</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 03 Sep 2026 12:00:52 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
@@ -342,69 +402,66 @@
       "published": "Thu, 20 Aug 2026 17:01:05 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "company": "V2EX 招聘节点",
+      "title": "[招聘 优质岗位丨 Base 杭州]招聘研发经理/技术架构师｜跨境电商·广告营销中台·数据平台·AI Agent",
+      "url": "https://www.v2ex.com/t/1234409#reply5",
+      "location": "杭州",
+      "description": "<p>坐标：杭州\n岗位：研发经理 / 技术架构师\n方向：广告营销中台、数据平台、跨境电商、AI Agent / AIGC</p>\n<p>公司简介：\n我们是一家专注于跨境电商出海营销的技术与服务团队，业务覆盖海外广告投放、数据分析、客户交付系统、智能广告管理及 AI 素材/Agent 等方向。\n公司自 2018 年起成为 Meta 官方认可代理商，后续获得 TikTok for Business 授权代理资质及 Google 合作伙伴相关资质，并持续建设自有广告管理平台和 AI 素材工具。公司已陪伴数万家企业开展海外业务，并获得多项 Meta 伙伴奖项。研发团队将直接参与广告营销中台、数据底座、海外广告平台 API 及 AI Agent 等核心系统建设。</p>\n<p>工作职责：\n1.主导广告营销中台架构演进与技术债治理，提升系统扩展性、稳定性和交付效率。\n2.优化 ETL 与数据清洗策略，建设标准化数据底座。\n3.对接广告平台 API 及跨境电商转化链路，完善客户交付系统和多账户报表能力。\n4.负责电商 SOP 、AIGC 素材生成等 AI 产品的技术架构与 Agent 架构设计。\n5.带领研发团队攻坚核心模块，推动 AI 辅助编程实践，提升研发效率。</p>\n<p>任职要求:\n1.计算机相关专业，第一学历 985/211 ；本科 5 年以上或硕士 4 年以上工作经验，CET-6 。\n2.精通 Python 、Go 、Java 、PHP 其中一种，有中台架构升级或大型系统重构经验。\n3.有数据平台、ETL 、指标治理经验，能够独立优化数据链路质量。\n4.有 Agent 产品落地经验，近一年持续使用 AI 辅助编程。\n5.熟悉广告平台 API 、Pixel/CAPI 或广告代理客户交付场景者优先。\n6.英语听说读写流利，或有海外留学经历。\n7.有跨境电商(关键要求)、广告平台、AI/AIGC SaaS 、数据分析等行业经验。\n薪资及福利：年薪(面议详谈)，六险一金，全额实缴，双休等\n联系方式：\n邮箱（ Base64 ）：bGlhbmd4dWVtZWlAeWlub2xpbmsuY29t\nVX （ Base64 ）：bHhtMjQ2NTIxODc=</p>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Thu, 20 Aug 2026 12:00:23 +0000"
+      "published": "2026-08-14T08:01:57Z"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "company": "V2EX 招聘节点",
+      "title": "面试请教",
+      "url": "https://www.v2ex.com/t/1239317#reply3",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>这几年听说行情不是很好\n尤其是 ai 冲击特别大\n我四五年没面试过了，想请教大家</p>\n<ol>\n<li>现在移动端还能面吗？</li>\n<li>算法问的还多么？</li>\n<li>ai 相关是必问对吧？需要问到 llm 底层知识么？ agent 相关底层知识么？</li>\n</ol>\n<p>地点一线和新一线吧。</p>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Sun, 16 Aug 2026 13:30:27 +0000"
+      "published": "2026-09-03T12:53:24Z"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+      "company": "V2EX 招聘节点",
+      "title": "各位怎么看\"电子民工\"的说法",
+      "url": "https://www.v2ex.com/t/1239249#reply17",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319215\">https://news.ycombinator.com/item?id=49319215</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>今天看到一个说法，说过去计算机领域职缺有 90% 是电子民工，现在会被 AI 取代的就是这波人。我挺认同的，这个词概括了我这段时间不少对 LLM Agent 能力边界的思考。</p>\n<p>大陆至少在过去把电子民工称为程序\"员\"，海对面已经把称号通膨成工程\"师\"了，每次刷境外社媒看到这个词就膈应。</p>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Sun, 16 Aug 2026 12:00:23 +0000"
+      "published": "2026-09-03T08:04:04Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "唉哎",
-      "url": "https://www.v2ex.com/t/1239090#reply20",
+      "url": "https://www.v2ex.com/t/1239090#reply27",
       "location": "",
       "description": "2025 年 12 月 5 日<br />各位同事：<br />自今年 9 月起，我们已在小范围测试使用 Claude 代码助手。测试期间，其在 Agent 协同、需求理解、代码生成与反思优化等方面表现突出，有效提升了研发效能与代码质量。<br />现正式决定，将 Claude code 代码助手推广至我部门全体研发团队，并作为研发流程的强制要求。 全体研发人员须将其深度融入日常开发工作。今后，对 AI 工具的使用深度与成效，将纳入研发人员的绩效考核体系，作为重要评估维度之一。<br />为帮助大家快速掌握并深度应用，我们将于近期组织 Claude code 专题学习交流会。请所有研发同学高度重视，积极学习与实践，共同推动团队能力与交付标准的持续提升。<br />同时，产品、运营等非研发同事如有需要使用 Claude 辅助产品设计、原型构建或效率工具开发，仍可通过 @刘 申请账号。<br />请各位知悉并立即落实。<br />@所有人<br /><br />2026 年 6 月 2 日<br />@所有人 ⏰ AI 效率先锋大赛报名即将截止！<br />本次大赛报名将于今日 18:30 截止，倒计时 5 小时！还没有报名的伙伴抓紧上车哦！<br />本次大赛奖金丰厚，就等你来！<br />扫码立即报名👇<br /><br />2026 年 8 月 3 日<br />已安排下调模型价格，同步下调大家每日重置额度为 100 @所有人<br /><br />2026 年 9 月 2 日<br />现在公司的 AI 使用规则调整了，由原来每天重置 100 的用量，变成 100 的用量使用完之后需要填写产出才会补充，每月上限 1000 。目前部门每天 AI 的消耗增长比较快，Claude 的价格相对于 Codex 要贵很多倍，所以能满足要求的情况下大家尽量使用 Codex+ChatGPT 模型或者其他国产模型<br />另外如果月度的额度用完了，但是确实工作有需要可以找我说明情况临时调整额度",
       "source": "gh-relay/v2ex-jobs",
@@ -422,8 +479,46 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "北京 | 上海 全栈， Agent 开发 职位推荐 ，希望资深一点",
+      "url": "https://www.v2ex.com/t/1239219#reply0",
+      "location": "北京",
+      "description": "<ol>\n<li>\n<p>北京-AI 应用工程师-AI 营销赛道 Top-增速快，可拿分红\n最近改成了全栈（前后端+数据）有过复杂的 AI 应用方向的经验，5-10 年起，优先研发 base 北京。\nhc：2-3 个，薪资范围：25-40 月薪之间。5 年＋的给期权。\n看有没有创业心态。3 轮左右面试。</p>\n</li>\n<li>\n<p>北京-架构师-C 轮公司，有自研大模型\n211 学历，英文 OK ，语音，会话型 Agent 产品经验加分</p>\n</li>\n<li>\n<p>上海-Senior Product-minded Fullstack Engineer 、Agent Engineer\n资深，5-10 年，需要有 0-1 经验，Ownership 强。\n预算：40-60k ，有机会远程，有期权。\n我直接和 CEO 对接的，增速相当快，老板期望 3 年美股上市（去年营收 2.5 亿，100 人的团队）</p>\n</li>\n<li>\n<p>上海-硅谷风外企-全网独家资源。\nSenior Fullstack Engineer-高并发+模型微调经验加分，对英文有点要求。\n月薪 50k 左右，加期权，和 founder 们都很熟，今年招四个人进去了。</p>\n</li>\n<li>\n<p>上海招聘-Video Agent 开发-大模型公司-中厂吧。\n学术资源+政府资源好，落地性更好。之前谈的 offer 人选涨薪 40%+，很大方。两轮面试，一轮需要线下。</p>\n</li>\n</ol>\n<p>wx: xu0912L, 备注职位+姓名，丢简历我回复速度更快！我叫 Cayla Xu~</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-03T06:53:14Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
+      "url": "https://www.v2ex.com/t/1238738#reply80",
+      "location": "成都",
+      "description": "6 年前端投了一个月简历，三个面试，另外两家挂了，有一家一二面都过了，下午 hr 打电话准备和我谈薪，结果因为我的第一学历直接把我拒了😥（我是自考本科），目前 boss 已经刷不到新的岗位了要么是打过招呼的要么是僵尸岗位。<br /><br />我只打算在成都或者重庆工作，现在非常迷茫，我有一点 node 服务端（ nest ）的经验。打算往全栈方向转型，现在在纠结是转 Go 还是 Java 还是 Python Agent ，咨询了一下学习周期都差不多大概是 3 个月左右，最近特别焦虑，求各位老哥给点建议。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-01T11:01:06Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "5 年开发投 2 个月简历杳无音讯，我应该放弃么",
-      "url": "https://www.v2ex.com/t/1238872#reply26",
+      "url": "https://www.v2ex.com/t/1238872#reply27",
       "location": "",
       "description": "<p>5 年开发全栈，目前在小公司做二开。想着有点心气，从 7 月份开始投简历积攒一些面试经验。但是光投了。连面试机会都没有。想问问现在还是老老实实苟着么。</p>\n<p>现在在小城市做开发，但是都是跟着项目全国跑。希望有个稳定的地点(但是连面试都要不到还能说啥呢)办公。前后端都会一点(和各位老哥们肯定比不了)，也尝试过开发一些 Agent 项目作为以后简历的亮点。但是投递完都没有后文了</p>\n<p>最近都特别焦虑，感觉心气都磨没了，我是不是该放弃啊，求各位老哥指点一下</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -438,6 +533,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-02T03:21:19Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "创作者 BD/市场推广(成人订阅网站这块的增长运营\n岗位名称： Creator BD / Creator Recruiter / Talent Acquisition (Adult Creator Economy)",
+      "url": "https://www.v2ex.com/t/1239012#reply1",
+      "location": "",
+      "description": "<p>创作者 BD</p>\n<p>职位描述：\n成人订阅网站这块的增长运营\n我们正在打造一款基于区块链支付的创作者激励平台（类似 OnlyFans 模式，支持订阅、打赏、付费内容，纯加密货币结算）。现正积极招募有经验的创作者 BD ，负责平台早期核心创作者的招募与维护，帮助平台快速冷启动并建立优质内容供给。工作职责：<br />\n负责制定并执行创作者招募计划，重点开拓中腰部及头部创作者资源<br />\n通过社群、社交媒体、私域、线下等方式主动触达并邀请创作者入驻<br />\n向创作者清晰讲解平台优势（高分成、纯区块链结算、稳定币到账、低门槛提现等），完成转化<br />\n维护已入驻创作者关系，收集反馈，协调解决使用问题，提升创作者活跃度与留存<br />\n策划并落地创作者激励活动（新人奖励、流量扶持、限时高分成等）<br />\n定期输出创作者数据分析报告，为产品和运营提供优化建议<br />\n建立创作者资源库，持续拓展优质创作者渠道\n任职要求：<br />\n1 年以上创作者运营、主播招募、网红 BD 或社交/内容平台相关经验（有 OnlyFans 、Patreon 、FANZA 、国内直播/短视频平台经验优先）<br />\n熟悉创作者生态，了解订阅制、打赏、付费内容等变现模式<br />\n具备良好的沟通能力与抗压能力，能独立完成从触达到转化的全流程<br />\n对区块链、加密货币、稳定币有基本认知（或愿意快速学习），能向创作者解释链上结算优势<br />\n结果导向，有较强的目标感和执行力<br />\n可接受一定弹性工作，适应早期创业节奏\n加分项：<br />\n自身有创作者资源或私域流量<br />\n有海外创作者运营经验<br />\n懂基础加密钱包使用（ MetaMask 、OKX Wallet 等）<br />\n有从 0 到 1 搭建创作者体系的经验\n我们提供：<br />\n有竞争力的薪资 + 创作者招募绩效奖金<br />\n早期核心团队成员身份，成长空间大<br />\n扁平化管理，直接参与产品决策</p>\n<p>请携带简历咨询，谢谢；\nTG：@dajidali2026\nE: <a href=\"mailto:ppllmm6868@gmail.com\">ppllmm6868@gmail.com</a></p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-02T10:37:35Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -457,25 +571,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-02T13:52:16Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
-      "url": "https://www.v2ex.com/t/1238738#reply76",
-      "location": "成都",
-      "description": "6 年前端投了一个月简历，三个面试，另外两家挂了，有一家一二面都过了，下午 hr 打电话准备和我谈薪，结果因为我的第一学历直接把我拒了😥（我是自考本科），目前 boss 已经刷不到新的岗位了要么是打过招呼的要么是僵尸岗位。<br /><br />我只打算在成都或者重庆工作，现在非常迷茫，我有一点 node 服务端（ nest ）的经验。打算往全栈方向转型，现在在纠结是转 Go 还是 Java 还是 Python Agent ，咨询了一下学习周期都差不多大概是 3 个月左右，最近特别焦虑，求各位老哥给点建议。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-01T11:01:06Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -514,25 +609,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-03T02:40:56Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "创作者 BD/市场推广(成人订阅网站这块的增长运营\n岗位名称： Creator BD / Creator Recruiter / Talent Acquisition (Adult Creator Economy)",
-      "url": "https://www.v2ex.com/t/1239012#reply0",
-      "location": "",
-      "description": "<p>创作者 BD</p>\n<p>职位描述：\n成人订阅网站这块的增长运营\n我们正在打造一款基于区块链支付的创作者激励平台（类似 OnlyFans 模式，支持订阅、打赏、付费内容，纯加密货币结算）。现正积极招募有经验的创作者 BD ，负责平台早期核心创作者的招募与维护，帮助平台快速冷启动并建立优质内容供给。工作职责：<br />\n负责制定并执行创作者招募计划，重点开拓中腰部及头部创作者资源<br />\n通过社群、社交媒体、私域、线下等方式主动触达并邀请创作者入驻<br />\n向创作者清晰讲解平台优势（高分成、纯区块链结算、稳定币到账、低门槛提现等），完成转化<br />\n维护已入驻创作者关系，收集反馈，协调解决使用问题，提升创作者活跃度与留存<br />\n策划并落地创作者激励活动（新人奖励、流量扶持、限时高分成等）<br />\n定期输出创作者数据分析报告，为产品和运营提供优化建议<br />\n建立创作者资源库，持续拓展优质创作者渠道\n任职要求：<br />\n1 年以上创作者运营、主播招募、网红 BD 或社交/内容平台相关经验（有 OnlyFans 、Patreon 、FANZA 、国内直播/短视频平台经验优先）<br />\n熟悉创作者生态，了解订阅制、打赏、付费内容等变现模式<br />\n具备良好的沟通能力与抗压能力，能独立完成从触达到转化的全流程<br />\n对区块链、加密货币、稳定币有基本认知（或愿意快速学习），能向创作者解释链上结算优势<br />\n结果导向，有较强的目标感和执行力<br />\n可接受一定弹性工作，适应早期创业节奏\n加分项：<br />\n自身有创作者资源或私域流量<br />\n有海外创作者运营经验<br />\n懂基础加密钱包使用（ MetaMask 、OKX Wallet 等）<br />\n有从 0 到 1 搭建创作者体系的经验\n我们提供：<br />\n有竞争力的薪资 + 创作者招募绩效奖金<br />\n早期核心团队成员身份，成长空间大<br />\n扁平化管理，直接参与产品决策</p>\n<p>请携带简历咨询，谢谢；\nTG：@dajidali2026\nE: <a href=\"mailto:ppllmm6868@gmail.com\">ppllmm6868@gmail.com</a></p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T10:37:35Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -590,101 +666,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-02T07:38:10Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[远程兼职] 8 年全栈（Golang/Node/Vue/ PHP ）寻 WEB3 / AI Agent 方向远程兼职，时间自由，随时开工",
-      "url": "https://www.v2ex.com/t/1239035#reply1",
-      "location": "远程",
-      "description": "<p>各位 V 友大家好，\n我是一名拥有 8 年全栈开发经验的工程师，主攻后端，兼顾前端与架构。技术栈以 Golang 、Node.js 、PHP 为核心，同时熟悉 Python 、React/Vue 等，能独立完成从需求分析到交付的全链路开发。</p>\n<p>为什么找我？</p>\n<p>经验扎实：多年一线互联网公司经历，处理过高并发、微服务、分布式事务、缓存优化等复杂场景，代码质量与系统稳定性有保障。</p>\n<p>技术适配：</p>\n<p>WEB3 方向：了解以太坊/智能合约交互、DApp 后端架构、节点通信、签名验签等，能快速融入链上业务。</p>\n<p>AI 方向：熟练对接 OpenAI 、Claude 等大模型 API ，做过 RAG 应用、Prompt 工程、AI 工作流编排，也懂基础的模型微调与数据处理。</p>\n<p>兼职优势：当前自由时间非常充裕，可投入 每天 6~8 小时，支持按项目/按工时/按里程碑多种合作方式，响应及时（工作日秒回，周末也可协商）。</p>\n<p>远程经验：过去 3 年一直远程办公，沟通高效，文档规范，习惯使用 Slack 、钉钉、飞书、Zoom 等工具，与团队协作无障碍。</p>\n<p>我能为你做什么？</p>\n<p>从 0 到 1 快速搭建 MVP 或原型系统</p>\n<p>现有项目性能优化、技术债清理、架构升级</p>\n<p>与 AI / 区块链相关的 API 服务、数据处理流水线、自动化脚本</p>\n<p>技术方案咨询、代码审查、疑难问题攻坚</p>\n<p>联系方式（ Base64 解码）：\nRmF2b3JvaXNoaQ==</p>\n<p>加我时请备注 “V2EX 兼职” 及大致需求，我会第一时间回复并附上简历/作品集（如 GitHub 或项目案例）。</p>\n<p>感谢各位大佬捞一把，期待能帮上忙，也欢迎先聊一聊，合不合适都没关系 👍</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T13:50:41Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "Base 一线城市 快 30 了 想探讨下关于留下涨薪&跳槽的决定",
-      "url": "https://www.v2ex.com/t/1238628#reply43",
-      "location": "",
-      "description": "<h2>A 岗（现有）</h2>\n<ul>\n<li>到手：12K ，1 个月年终奖，包中晚餐，提离职后说会涨薪到手 14K ，最低标准五险一金；</li>\n<li>工时：每天 8 小时，<strong>几乎不加班，准点下班</strong></li>\n<li>通勤往返 2 小时，每天耗在路上</li>\n<li>业务：传统 ToB 系统，业务稳定</li>\n<li>技术：老旧单体项目，陆续引用 AI ，大模型，并发不大，新增开发少，工作杂、事情多</li>\n<li>岗位：项目主要技术负责人，客户、项目代码等比较老练了</li>\n<li>人员：5 个开发，2 个签证，2 个其他系统，1 个领导</li>\n<li>公司规模：子公司 10-50 人   母公司 500+</li>\n<li>风险：直属领导毕竟喜欢压力人，上层领导可以，公司有裁员可能性，但你排序在后面不会先裁你 <strong>大领导口头承诺</strong></li>\n<li>福利：无节日礼包</li>\n</ul>\n<h2>B 岗（拿到 offer ）</h2>\n<ul>\n<li>到手：15K ，国内一笔  境外汇款一笔，年终奖未知 1-3 个月，全勤 500 ，最低标准五险一金</li>\n<li>工时：每天 8 小时，<strong>每周大概率 3 天加班 1-2 小时，上线期更忙</strong>  稳定双休</li>\n<li>通勤往返 1 小时</li>\n<li>业务： 外汇 CFD 行业</li>\n<li>技术：技术栈比较新，并发、分布式等等 有挑战，团队氛围、领导完全盲盒</li>\n<li>岗位：做 CFD 项目开发，APP ，网页端等全栈</li>\n<li>人员：15+开发，5 个 CFD 开发，10 个其他系统，2 个领导。</li>\n<li>公司规模：分公司 100+  总公司 400+  境外公司未知</li>\n<li>优点：薪资涨 3K ，有机会接触新开发内容，跳出老系统泥潭</li>\n<li>风险：领导未知，组员未知，产业业务风险属于灰产，综合年收入<strong>不确定性高</strong></li>\n</ul>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-01T03:53:18Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "AI 开发工程师（小初数学教育题库/新加坡数学 CPA 交互式题目方向）",
-      "url": "https://www.v2ex.com/t/1238484#reply2",
-      "location": "新加坡",
-      "description": "岗位名称<br />AI 开发工程师（教育课程习题智能生成方向）<br />职位：<br />创始级应用 AI 架构师 / Founding AI Architect （全职 / 远程或混合）<br />工作地点<br /> [可填写具体城市/线上办公] <br />岗位职责<br />1 、负责教育类智能题库系统研发，核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI 启发学习、迭代优化，覆盖多国大纲考点题型，适配线上交互答题场景。<br />2 、搭建题目智能校验算法体系，对 AI 生成的习题进行准确性、合规性、逻辑性、考点匹配度全维度验证，排查错题、偏题、超纲题，保障题库内容严谨、精准，贴合各国大纲及教学标准。<br />3 、基于深度学习、NLP 大模型算法，优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA 特色题型，提升题目交互性、实用性和测评准确性。<br />4 、结合教学场景及教学法，持续优化模型 Prompt 工程、微调策略，提升 AI 出题的贴合度、多样性和分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。<br />5 、跟进前沿 AI 算法技术，独立阅读英文技术文档、学术论文，落地适配教育题库场景的新技术、新方案，持续优化出题效率、题目质量与系统稳定性。<br />6 、配合产品、教研团队对接需求，梳理课程考点体系，迭代题库功能，解决 AI 出题过程中的各类技术及内容问题，保障产品持续迭代更新。<br />任职要求<br />1 、本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业，扎实的数学基础、算法功底，熟悉常用机器学习、深度学习、NLP 自然语言处理核心算法。<br />2 、精通大模型应用开发、微调、Prompt 优化，有教育题库智能出题、AI 内容生成、交互式题型开发相关项目经验者优先。<br />3 、具备极强的题目逻辑校验、内容甄别能力，可通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性、考点匹配度自动化验证。<br />4 、英文技术文档阅读无障碍，能够独立查阅海外前沿 AI 技术文档、论文及开源项目资料，精准落地技术方案。<br />5 、熟练掌握 Python 开发，熟悉主流大模型框架、向量数据库、知识库搭建，了解 RAG 、模型微调、文本生成、内容审核等相关技术。<br />6 、逻辑思维缜密，对内容严谨度、数据准确性有极高要求，具备独立拆解业务需求、解决复杂算法及技术问题的能力。<br />7 、熟悉教育行业题库产品逻辑、交互式答题场景开发者优先。<br />岗位优势<br />1 、垂直优质赛道：聚焦教育 AI 智能化升级，深耕 CPA 题库细分领域，业务稳定、需求刚需，发展前景广阔。<br />2 、技术成长空间大：可深度参与大模型落地、算法迭代、智能内容生成核心环节，直面行业前沿技术场景。<br />3 、团队氛围轻松：专注技术落地，无冗余内耗，注重员工个人技术成长与价值输出。<br />4 、福利完善：薪资优厚、绩效奖金、项目奖金、提供澳大利亚/新西兰绿卡移民机会、带薪年假、定期技术培训等。<br />适合定位：<br />追求技术深度、厌倦套壳项目、想参与全球化硬核 AI-Native 业务的资深工程师/架构师。<br />关于 Classcipe 与我们的使命<br />我们不做 Copilot 辅助工具，我们用 AI 直接交付业务结果。<br />Classcipe 正在践行 YC 最",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-31T11:28:13Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[远程] AI 创作平台前端工程师（20-25k）",
-      "url": "https://www.v2ex.com/t/1238603#reply9",
-      "location": "远程",
-      "description": "<h1>AI 创作平台前端工程师（画布 / Agent 方向）</h1>\n<p><strong>20-25K · 远程友好 · 全模态 AI 平台 · 新产品从 0 到 1</strong></p>\n<hr />\n<h2>关于我们</h2>\n<p>Atlas Cloud 是一家面向全球开发者与企业的 AI 基础设施公司，用一套统一 API 聚合数百个主流大模型，覆盖文本、图像、视频、音频四种模态。公司成立于 2024 年，总部位于美国，主要服务海外市场，平台业务已进入稳定增长阶段，团队规模持续扩张中。</p>\n<p>在成熟的 API 平台之上，我们正在从 0 到 1 打造<strong>面向专业创作者的 AI 创作平台</strong>。</p>\n<p>与「输入提示词、生成单张结果」的通用工具不同，我们服务的是需要<strong>可控、可复用、可迭代</strong>创作流程的用户——他们要在一块画布上把多个模型编排起来：文生图确定角色形象，图生视频完成分镜，中间穿插抠图、超分、风格化等处理，最终组装为完整作品。每个环节都可调整、可复用、可沉淀为模板。</p>\n<hr />\n<h2>这个岗位的价值</h2>\n<p><strong>深度参与一条新产品线的构建。</strong></p>\n<p>画布交互、节点编排、Agent 能力、生成结果的实时预览与回填，是这个产品的主体，也是技术难度最集中的部分。产品仍处于早期阶段，技术方案有充分的讨论和落地空间。</p>\n<p><strong>有真正值得解的技术问题。</strong></p>\n<p>大量节点场景下的渲染性能与交互流畅度、多模态生成结果的呈现、长任务的状态同步、模型参数的统一与编排——这些不是重复的表单和列表，做得扎实与否，用户能直接感知。</p>\n<p><strong>平台业务稳定，新产品有充分探索空间。</strong></p>\n<p>API 平台已跑通并持续增长，为新产品提供了稳定支撑。你不需要在生存压力下做取舍，可以把精力放在把产品做好上。</p>\n<hr />\n<h2>岗位职责</h2>\n<p><strong>画布与节点编排（核心工作）</strong></p>\n<ul>\n<li>可视化画布的核心交互：节点拖拽、连线、分组、框选、缩放平移、撤销重做</li>\n<li>工作流的编排与执行：节点依赖关系、参数传递、执行状态的实时反馈</li>\n<li>大量节点场景下的渲染性能优化与交互体验打磨</li>\n</ul>\n<p><strong>Agent 与模型能力落地</strong></p>\n<ul>\n<li>对接大模型 API ，实现流式输出、长任务管理、生成结果回填画布</li>\n<li>多模态生成（图像 / 视频 / 音频）在前端的呈现与体验优化</li>\n<li>Agent 类交互场景的前端实现</li>\n</ul>\n<p><strong>其他前端业务</strong></p>\n<ul>\n<li>官网、模型详情页、开发者控制台等业务的开发与迭代</li>\n<li>性能优化、体验打磨与线上维护</li>\n</ul>\n<hr />\n<h2>任职要求</h2>\n<p><strong>基础要求</strong></p>\n<ul>\n<li><strong>全日制本科及以上学历</strong></li>\n<li>3 年以上前端开发经验</li>\n<li>熟练掌握 React / Next.js / TypeScript ，能独立承担模块开发</li>\n</ul>\n<p><strong>核心能力",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-01T03:08:37Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[新西兰/远程招聘]AI 开发工程师（教育课程习题智能生成方向）",
-      "url": "https://www.v2ex.com/t/1238513#reply3",
-      "location": "远程",
-      "description": "# AI 开发工程师  <br />## 小初数学教育题库 / 新加坡数学 CPA 交互式题目方向<br /><br />**岗位名称：** AI 开发工程师（教育课程习题智能生成方向）  <br />**职位定位：** 创始级应用 AI 架构师（ Founding AI Architect ）  <br />**工作性质：** 全职 / 远程或混合办公  <br />**工作地点：**  [可填写具体城市 / 线上办公]   <br />**薪资范围：**  [可根据企业需求填写 / 可面议] <br /><br />---<br /><br />## 岗位职责<br /><br />1. **负责教育类智能题库系统研发**<br /><br />   核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI 启发学习及持续迭代优化，覆盖多国教学大纲、考点和题型，并适配线上交互答题场景。<br /><br />2. **搭建题目智能校验算法体系**<br /><br />   对 AI 生成的习题进行准确性、合规性、逻辑性和考点匹配度等全维度验证，自动排查错题、偏题及超纲题，保障题库内容严谨、精准，贴合各国教学大纲及教学标准。<br /><br />3. **优化题目生成逻辑与交互式题型**<br /><br />   基于深度学习、NLP 和大模型相关技术，持续优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA 特色题型，提升题目的交互性、实用性和测评准确性。<br /><br />4. **优化 Prompt 工程与模型策略**<br /><br />   结合实际教学场景及教学法，持续优化模型 Prompt 工程、微调策略和生成流程，提升 AI 出题的贴合度、多样性及分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。<br /><br />5. **跟进并落地前沿 AI 技术**<br /><br />   持续跟进前沿 AI 算法和大模型技术，能够独立阅读英文技术文档、学术论文及开源项目资料，并将适合的新技术、新方案落地到教育题库场景中，持续优化出题效率、题目质量和系统稳定性。<br /><br />6. **配合产品及教研团队推进产品迭代**<br /><br />   与产品、教研团队协作，梳理课程考点体系和业务需求，持续迭代题库功能，解决 AI 出题过程中出现的技术及内容问题，保障产品稳定、持续地更新迭代。<br /><br />---<br /><br />## 任职要求<br /><br />1. **教育背景与基础能力**<br /><br />   本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业；具备扎实的数学基础和算法功底，熟悉常用的机器学习、深度学习及 NLP 自然语言处理核心算法。<br /><br />2. **大模型应用开发经验**<br /><br />   精通大模型应用开发、模型微调及 Prompt 优化；有教育题库智能出题、AI 内容生成或交互式题型开发相关项目经验者优先。<br /><br />3. **题目自动化校验能力**<br /><br />   具备极强的题目逻辑校验和内容甄别能力，能够通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性和考点匹配度的自动化验证。<br /><br />4. **英文技术资料阅读能力**<br /><br />   英文技术文档阅读无障碍，能够独立查阅海外前沿 AI ",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-08-31T14:10:55Z"
     }
   ]
 }
