@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:20:35.051881+00:00",
+  "generated_at": "2026-09-05T06:08:52.872356+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+      "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer\">https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563415\">https://news.ycombinator.com/item?id=49563415</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 04 Sep 2026 12:01:07 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 21 Aug 2026 17:00:23 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377248\">https://news.ycombinator.com/item?id=49377248</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 20 Aug 2026 17:01:05 +0000"
     }
   ],
   "total_entries": 20

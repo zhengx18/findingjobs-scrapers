@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:20:35.051881+00:00",
+  "generated_at": "2026-09-05T06:08:52.872356+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,6 +29,25 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "招全栈开发工程师啦！远程 + on-site 结合",
+      "url": "https://www.v2ex.com/t/1239572#reply4",
+      "location": "远程",
+      "description": "关于我们<br /><br />Kapibala AI Limited 正组建全球化 AI 团队，聚焦 Sales AGI——覆盖获客、触达、谈判、成交、交付全链路的商业智能体，运行于主流 IM 平台和电销领域。产品已进入付费内测，被头部加密交易所、Web3 / RWA 、跨境广告等客户采用，Pre-Seed 轮 1000 万美元已完成。<br /><br />岗位定位<br /><br />传统的全栈开发工程师定位——从需求到上线端到端负责，把 Sales AGI 的业务系统、管理后台、数据看板、客户平台这些端到端交付出来。你要独立扛前端、后端、数据库、部署一条龙。<br /><br />AI Native 时代，你会重度使用 Claude Code / Cursor 等 AI Coding 工具让单人产出 3-5x——不是拧螺丝的写代码，而是用 AI 把自己变成一个\"个人军团\"。<br /><br />本岗位有 3 个可选深耕方向（数据库 / 语音 Agent / Agent ），全栈是入场券，方向能力是强加分与核心成长空间。 你可以在投递时说明希望往哪个方向深耕，也可以在面试时讨论。<br /><br />岗位职责<br /><br />端到端功能交付<br />从业务需求 → 技术方案 → 前后端实现 → 测试 → 上线，独立扛完整链路<br />后端服务开发<br />API 设计、状态管理、消息队列、缓存策略、高并发处理，输出稳定可维护的后端<br />前端交付<br />独立完成管理后台 / 客户平台 / 数据看板等前端界面，React 优先<br />数据库设计与优化<br />业务实体建模、schema 设计、query 优化、索引策略，让数据层扛得住业务增长<br />部署与运维<br />Docker / K8s / CI/CD ，配合监控告警，保障线上稳定<br />业务对齐<br />跟产品 / 业务 / 算法团队协作，把商业需求准确翻译成技术方案<br /><br /><br />任职要求（必备）<br /><br />3-5 年全栈开发经验，精通 TypeScript / Go / Python 中至少一种<br />熟练使用 Claude Code / Codex 等 AI Coding 工具，能用 AI 把单人产出拉到 3-5x<br />扎实的后端能力，熟悉高并发场景下的状态管理、消息队列、缓存策略<br />熟悉至少一种主流前端框架（ React 优先），能独立交付前后端<br />数据库：PostgreSQL + Redis 有实际使用经验，具备数据建模和性能优化基础<br />对 LLM / Agent 有基础理解，能判断「该写代码 vs 该让模型做」<br /><br /><br />加分项<br /><br />方向一 · 数据库方向加分<br /><br />PostgreSQL 深度调优经验：复杂 query 优化、大表分区、逻辑复制、EXPLAIN 分析<br />消息队列使用经验：Kafka / RabbitMQ / NATS 等任一<br />向量数据库实战经验：Milvus / Qdrant / pgvector<br />数据仓库 / OLAP 经验：ClickHouse 、DuckDB 等<br />有过数据库迁移、schema 升级的实操经验<br /><br />方向二 · 语音 Agent 方向加分<br /><br />全双工实时语音 pipeline：ASR + Agent ",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-04T11:08:44Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "[招聘 优质岗位丨 Base 杭州]招聘研发经理/技术架构师｜跨境电商·广告营销中台·数据平台·AI Agent",
       "url": "https://www.v2ex.com/t/1234409#reply5",
       "location": "杭州",
@@ -49,7 +68,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "面试请教",
-      "url": "https://www.v2ex.com/t/1239317#reply3",
+      "url": "https://www.v2ex.com/t/1239317#reply4",
       "location": "",
       "description": "<p>这几年听说行情不是很好\n尤其是 ai 冲击特别大\n我四五年没面试过了，想请教大家</p>\n<ol>\n<li>现在移动端还能面吗？</li>\n<li>算法问的还多么？</li>\n<li>ai 相关是必问对吧？需要问到 llm 底层知识么？ agent 相关底层知识么？</li>\n</ol>\n<p>地点一线和新一线吧。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -68,7 +87,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "各位怎么看\"电子民工\"的说法",
-      "url": "https://www.v2ex.com/t/1239249#reply17",
+      "url": "https://www.v2ex.com/t/1239249#reply19",
       "location": "",
       "description": "<p>今天看到一个说法，说过去计算机领域职缺有 90% 是电子民工，现在会被 AI 取代的就是这波人。我挺认同的，这个词概括了我这段时间不少对 LLM Agent 能力边界的思考。</p>\n<p>大陆至少在过去把电子民工称为程序\"员\"，海对面已经把称号通膨成工程\"师\"了，每次刷境外社媒看到这个词就膈应。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -83,6 +102,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-03T08:04:04Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
+      "url": "https://www.v2ex.com/t/1238738#reply84",
+      "location": "成都",
+      "description": "6 年前端投了一个月简历，三个面试，另外两家挂了，有一家一二面都过了，下午 hr 打电话准备和我谈薪，结果因为我的第一学历直接把我拒了😥（我是自考本科），目前 boss 已经刷不到新的岗位了要么是打过招呼的要么是僵尸岗位。<br /><br />我只打算在成都或者重庆工作，现在非常迷茫，我有一点 node 服务端（ nest ）的经验。打算往全栈方向转型，现在在纠结是转 Go 还是 Java 还是 Python Agent ，咨询了一下学习周期都差不多大概是 3 个月左右，最近特别焦虑，求各位老哥给点建议。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-01T11:01:06Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -124,10 +162,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
-      "url": "https://www.v2ex.com/t/1238738#reply80",
-      "location": "成都",
-      "description": "6 年前端投了一个月简历，三个面试，另外两家挂了，有一家一二面都过了，下午 hr 打电话准备和我谈薪，结果因为我的第一学历直接把我拒了😥（我是自考本科），目前 boss 已经刷不到新的岗位了要么是打过招呼的要么是僵尸岗位。<br /><br />我只打算在成都或者重庆工作，现在非常迷茫，我有一点 node 服务端（ nest ）的经验。打算往全栈方向转型，现在在纠结是转 Go 还是 Java 还是 Python Agent ，咨询了一下学习周期都差不多大概是 3 个月左右，最近特别焦虑，求各位老哥给点建议。",
+      "title": "招聘熟悉 SillyTavern 酒馆的作品表现层设计工程师（设计/前端方向）",
+      "url": "https://www.v2ex.com/t/1239036#reply4",
+      "location": "",
+      "description": "玩过酒馆的人都知道：同样的人设和作品，配一个精心排版的 HTML 开场页、一个状态栏、一组行动选项，多模态内容的植入，和一段纯文本，用户的体验完全是两回事。<br /><br />具体说，就是建立一套模板库和适配规则，让一个不会写代码的新手创作者，通过点选的方式，为自己的作品配出一套完整且好看的展示风格——开场页、正文排版、状态栏、行动选项，各个表现层都有可选方案，且能自动适配不同的作品类型。<br /><br />这个岗位是设计和前端的结合体， [岗位接受全职/兼职/项目制合作等多种样式，发送邮件时请确保你对酒馆产品有了解并可以直接输出一个案例] <br /><br /> [岗位职责] <br /><br />模板库建设：针对开场页、正文、状态栏、行动选项等表现层，设计并实现一套可组合的模板体系，覆盖不同题材和风格<br />适配规则：定义模板与作品内容之间的匹配逻辑——什么样的卡适合什么样的呈现，冲突时怎么降级，长内容和短内容怎么自适应<br />创作者工具 Agent：搭建一套 Agent ，让创作者用点选和描述的方式生成属于自己作品的展示风格，而不是手写 HTML<br />审美把关：模板的美观度和多样性由你负责。既要好看，也要不同的卡看起来不一样<br /><br /> [要求] <br /><br />熟悉酒馆（ SillyTavern ）类产品的创作流程，或者愿意在入职前自己摸一遍——原理不复杂，但必须真的用过、做过卡，知道创作者卡在哪儿<br />理解 AI 伴侣/角色扮演产品的提示词输入输出策略，了解主流产品里 HTML 开场页、正文、状态栏、行动选项这些常规表现形式是怎么组织的<br />前端能力扎实，能独立把设计稿变成可用的模板系统<br />有审美<br />有 Agent 开发经验，能独立闭环做出一个创作者工具级别的 Agent<br /><br />加分项：<br /><br />自己就是酒馆玩家或角色卡创作者<br />做过设计系统、组件库或任何\"给别人用的工具\"<br />对二次元/角色扮演内容生态有理解<br /><br /><br />符合的同学欢迎投递简历至以下渠道：<br /><br />联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t<br /><br />联系 TG （ Base64 ）：QGN6YWs5",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -139,7 +177,45 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-09-01T11:01:06Z"
+      "published": "2026-09-02T13:52:16Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "居家居家岗位：\n大数据应用运维工程师，运维助理， AI 应用工程师，高级 Go 后端工程师，浏览器内核工程师（C/C++ · Chromium）， C# 桌面客户端工程师（Avalonia · CEF/OSR）",
+      "url": "https://www.v2ex.com/t/1239636#reply0",
+      "location": "远程",
+      "description": "远程居家岗位：<br /><br />浏览器内核工程师（ C/C++ · Chromium ）<br />C# 桌面客户端工程师（ Avalonia · CEF/OSR ）<br />大数据应用运维工程师，<br />运维助理，<br />AI 应用工程师，<br />高级 Go 后端工程师，<br />Java/Go ，<br />前端负责人(视频播放器 &amp; 直播方向)，<br />Agent 架构师，<br />AIGC 生成，<br />AI 研发工程师，<br />项目经理，产品经理，<br />高级 Flutter 开发（安卓），<br />全栈工程师（后端 GO ），<br />高级品牌策划<br /><br /><br /><br />----------<br />更多岗位咨询详细，可直接添加或发简历到 TG：@skyewen20251<br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-05T01:51:08Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[保定-长城汽车] 诚聘资深前端 (2 人) | 5 年 + 经验 | 薪资 HR 面议",
+      "url": "https://www.v2ex.com/t/1238984#reply4",
+      "location": "",
+      "description": "<h2>🔹 前端：</h2>\n<h4>工作职责：</h4>\n<ol>\n<li>架构与评审：负责 web 端系统的技术选型、架构设计及代码评审</li>\n<li>核心开发：独立完成复杂业务功能模块的开发，并保证代码质量；</li>\n<li>产品赋能：能理解产品逻辑，参与需求分析，提出合理建议，进行工作量评估；</li>\n<li>跨端协作：能与 ui 设计、产品经理、后端研发等相关同事保持良好的沟通；</li>\n<li>质量保障：能快速查找并解决问题，兼顾关联模块，不产生衍生 bug</li>\n</ol>\n<h4>技能要求</h4>\n<ol>\n<li>本科及以上学历，计算机相关专业，英语四级，5 年以上 前端 开发工作经验</li>\n<li>年龄限制 35 岁左右，资深者可放宽至 40 岁以下</li>\n<li>熟练使用 HTML 、CSS 、JS ，熟悉页面架构和布局</li>\n<li>熟悉 Vue 2/3 全家桶，并具备 ES6 实践经验</li>\n<li>熟练使用 Webpack/Vite 构建工具，熟悉 Git 工作流；</li>\n<li>具有前端工程化、组件化、模块化开发经验，能持续主动优化代码的可读性和可维护性，熟练使用调试工具</li>\n<li>有 vibe coding 编程实践经验者优先</li>\n<li>有 App 开发经验者优先</li>\n</ol>\n<h2>📩 联系</h2>\n<ol>\n<li>简历请发：[1144536063@qq.com]</li>\n<li>邮件标题：V2EX - 岗位 - 姓名</li>\n</ol>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-02T09:05:50Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -178,120 +254,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-02T10:37:35Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "招聘熟悉 SillyTavern 酒馆的作品表现层设计工程师（设计/前端方向）",
-      "url": "https://www.v2ex.com/t/1239036#reply3",
-      "location": "",
-      "description": "玩过酒馆的人都知道：同样的人设和作品，配一个精心排版的 HTML 开场页、一个状态栏、一组行动选项，多模态内容的植入，和一段纯文本，用户的体验完全是两回事。<br /><br />具体说，就是建立一套模板库和适配规则，让一个不会写代码的新手创作者，通过点选的方式，为自己的作品配出一套完整且好看的展示风格——开场页、正文排版、状态栏、行动选项，各个表现层都有可选方案，且能自动适配不同的作品类型。<br /><br />这个岗位是设计和前端的结合体， [岗位接受全职/兼职/项目制合作等多种样式，发送邮件时请确保你对酒馆产品有了解并可以直接输出一个案例] <br /><br /> [岗位职责] <br /><br />模板库建设：针对开场页、正文、状态栏、行动选项等表现层，设计并实现一套可组合的模板体系，覆盖不同题材和风格<br />适配规则：定义模板与作品内容之间的匹配逻辑——什么样的卡适合什么样的呈现，冲突时怎么降级，长内容和短内容怎么自适应<br />创作者工具 Agent：搭建一套 Agent ，让创作者用点选和描述的方式生成属于自己作品的展示风格，而不是手写 HTML<br />审美把关：模板的美观度和多样性由你负责。既要好看，也要不同的卡看起来不一样<br /><br /> [要求] <br /><br />熟悉酒馆（ SillyTavern ）类产品的创作流程，或者愿意在入职前自己摸一遍——原理不复杂，但必须真的用过、做过卡，知道创作者卡在哪儿<br />理解 AI 伴侣/角色扮演产品的提示词输入输出策略，了解主流产品里 HTML 开场页、正文、状态栏、行动选项这些常规表现形式是怎么组织的<br />前端能力扎实，能独立把设计稿变成可用的模板系统<br />有审美<br />有 Agent 开发经验，能独立闭环做出一个创作者工具级别的 Agent<br /><br />加分项：<br /><br />自己就是酒馆玩家或角色卡创作者<br />做过设计系统、组件库或任何\"给别人用的工具\"<br />对二次元/角色扮演内容生态有理解<br /><br /><br />符合的同学欢迎投递简历至以下渠道：<br /><br />联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t<br /><br />联系 TG （ Base64 ）：QGN6YWs5",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T13:52:16Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[保定-长城汽车] 诚聘资深前端 (2 人) | 5 年 + 经验 | 薪资 HR 面议",
-      "url": "https://www.v2ex.com/t/1238984#reply3",
-      "location": "",
-      "description": "<h2>🔹 前端：</h2>\n<h4>工作职责：</h4>\n<ol>\n<li>架构与评审：负责 web 端系统的技术选型、架构设计及代码评审</li>\n<li>核心开发：独立完成复杂业务功能模块的开发，并保证代码质量；</li>\n<li>产品赋能：能理解产品逻辑，参与需求分析，提出合理建议，进行工作量评估；</li>\n<li>跨端协作：能与 ui 设计、产品经理、后端研发等相关同事保持良好的沟通；</li>\n<li>质量保障：能快速查找并解决问题，兼顾关联模块，不产生衍生 bug</li>\n</ol>\n<h4>技能要求</h4>\n<ol>\n<li>本科及以上学历，计算机相关专业，英语四级，5 年以上 前端 开发工作经验</li>\n<li>年龄限制 35 岁左右，资深者可放宽至 40 岁以下</li>\n<li>熟练使用 HTML 、CSS 、JS ，熟悉页面架构和布局</li>\n<li>熟悉 Vue 2/3 全家桶，并具备 ES6 实践经验</li>\n<li>熟练使用 Webpack/Vite 构建工具，熟悉 Git 工作流；</li>\n<li>具有前端工程化、组件化、模块化开发经验，能持续主动优化代码的可读性和可维护性，熟练使用调试工具</li>\n<li>有 vibe coding 编程实践经验者优先</li>\n<li>有 App 开发经验者优先</li>\n</ol>\n<h2>📩 联系</h2>\n<ol>\n<li>简历请发：[1144536063@qq.com]</li>\n<li>邮件标题：V2EX - 岗位 - 姓名</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T09:05:50Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[远程兼职] 8 年全栈（Golang/Node/Vue/ PHP ）寻 WEB3 / AI Agent 方向远程兼职，时间自由，随时开工",
-      "url": "https://www.v2ex.com/t/1239135#reply0",
-      "location": "远程",
-      "description": "<p>白天重新发一遍，昨晚发的太晚了，谢谢大家</p>\n<p>各位 V 友大家好， 我是一名拥有 8 年全栈开发经验的工程师，主攻后端，兼顾前端与架构。技术栈以 Golang 、Node.js 、PHP 为核心，同时熟悉 Python 、React/Vue 等，能独立完成从需求分析到交付的全链路开发。</p>\n<p>为什么找我？</p>\n<p>经验扎实：多年一线互联网公司经历，处理过高并发、微服务、分布式事务、缓存优化等复杂场景，代码质量与系统稳定性有保障。</p>\n<p>技术适配：</p>\n<p>WEB3 方向：了解以太坊/智能合约交互、DApp 后端架构、节点通信、签名验签等，能快速融入链上业务。</p>\n<p>AI 方向：熟练对接 OpenAI 、Claude 等大模型 API ，做过 RAG 应用、Prompt 工程、AI 工作流编排，也懂基础的模型微调与数据处理。</p>\n<p>兼职优势：当前自由时间非常充裕，可投入 每天 6~8 小时，支持按项目/按工时/按里程碑多种合作方式，响应及时（工作日秒回，周末也可协商）。</p>\n<p>远程经验：过去 3 年一直远程办公，沟通高效，文档规范，习惯使用 Slack 、钉钉、飞书、Zoom 等工具，与团队协作无障碍。</p>\n<p>我能为你做什么？</p>\n<p>从 0 到 1 快速搭建 MVP 或原型系统</p>\n<p>现有项目性能优化、技术债清理、架构升级</p>\n<p>与 AI / 区块链相关的 API 服务、数据处理流水线、自动化脚本</p>\n<p>技术方案咨询、代码审查、疑难问题攻坚</p>\n<p>联系方式（ Base64 解码）：RmF2b3JvaXNoaQ==</p>\n<p>加我时请备注 “V2EX 兼职” 及大致需求，我会第一时间回复并附上简历/作品集（如 GitHub 或项目案例）。</p>\n<p>感谢各位大佬捞一把，期待能帮上忙，也欢迎先聊一聊，合不合适都没关系 👍</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-03T02:40:56Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "拼多多集团 2027 届校园招聘",
-      "url": "https://www.v2ex.com/t/1238991#reply0",
-      "location": "上海",
-      "description": "<p>大家好，我是拼多多/TEMU 的在职员工，面向 2027 年毕业的同学（本硕均可）。如果你对电商、跨境业务感兴趣，想体验高速成长型公司的氛围，欢迎投递！</p>\n<p><strong>[招聘对象]</strong>\n2027 届毕业生（本科及以上学历），部分研发岗位面向硕士/博士生。</p>\n<p><strong>[工作地点]</strong>\n上海 · 广东省（如肇庆、东莞）· 河北雄安</p>\n<p><strong>[内推优势]</strong>\n通过我的内推链接投递，简历优先筛选，避免石沉大海。\n可加微信实时查询进度，有问题随时沟通。</p>\n<p><strong>[内推方式]</strong>\n内推链接：<a href=\"http://careers.pddglobalhr.com/campus/grad...=3539hBr6yJ\" rel=\"nofollow\">careers.pddglobalhr.com/campus/grad...=3539hBr6yJ</a> ，内推码：3539hBr6yJ 。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）</p>\n<p><strong>[联系方式]</strong>\n如果想了解团队具体做什么、面试经验，或者想咨询岗位匹配度，可以加我 wx （请备注“v2ex+姓名+学校”）：addonemoresecond</p>\n<p><strong>[岗位介绍]</strong></p>\n<h2>一、研发类岗位</h2>\n<h3>1. AI Infra 研发工程师</h3>\n<ul>\n<li><strong>工作地点：</strong> 上海</li>\n<li><strong>面向对象：</strong> 2026.9–2027.8 期间已获得或即将获得博士/硕士学位的同学</li>\n</ul>\n<p><strong>岗位职责：</strong></p>\n<ol>\n<li>大模型训练与推理基础设施研发：参与构建和优化面向大规模分布式训练/推理的 Infra 平台，支持文本、图像、视频、语音等多模态大模型、扩散模型的训练与推理。涵盖集群资源调度、训练框架优化、高性能通信、混合精度训练、显存优化等关键环节，确保模型的训练效率与系统稳定性。</li>\n<li>前沿 Infra 技术探索与创新：持续跟踪并攻关大模型基础设施领域的前沿方向（如：超大规模异构集群管理、更高效的并行策略、MoE 训练/推理优化、量化与推理加速框架、多模态模型高效并行策略等），通过系统创新显著提升训练吞吐、降低推理成本、改善资源利用率。</li>\n<li>\n大模型基础设施应用落地与赋能：将先进的 Infra 能力与公司大模型业务场景深度结合，主导技术方案的设计与实现，具体支持方向包括但不限于：<ul>\n<li>训练效率提升：支持 Pretrain 、SFT 、RLHF 等全流程训练任务，优化端到端训练性能</li>\n<li>推理服务优化：构建高并发、低延迟的在线推理平台，支持多模态大模型的实时服务</li>\n<li>成本与弹性优化：实现智能资源调度、Spot 实例利用、自动扩缩容等，显著降低大模型训练与推理的算力成本</li>\n<li>稳定性保障：打造高可用、故障自愈的分布式训练系统，确保 7×24 小时稳定运行</li>\n</ul>\n</li>\n<li>技术价值闭环：深度理解大模型训练与业务需求，利用平台海量算力与数据资源，推动 Infra 技术创新落地，并通过性能指标、成本指标、实验验证等科学",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T09:23:09Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "北京，招 develops 工程师 和 Python 数据平台后端(后端开发背景即可)；",
-      "url": "https://www.v2ex.com/t/1238961#reply0",
-      "location": "北京",
-      "description": "北京，招 develops 工程师 和 Python 数据平台后端(后端开发背景即可)；                   <br />帮朋友内推岗位（明星初创，真实 HC ，流程快），可发简历至邮箱： a3435677954@gmail.com<br />（学历、大厂经历、核心项目经历，至少需要有一项）<br /><br />devops 工程师<br />岗位职责：<br />负责软件研发、测试、发布、部署全流程的平台建设与持续优化。<br />负责推动 AI 研发流程的建设。<br />负责 Docker 、Kubernetes 等容器化平台的建设与运维，推进基础设施自动化和环境标准化。<br /><br /><br />Python 后端开发工程师 （数据平台）<br />岗位职责<br />负责数据标注和管理平台的设计、开发、测试、上线和持续优化。<br />使用 Python 构建稳定、可靠、可扩展的 API 和业务系统。<br />参与系统架构、数据模型、接口协议、缓存、任务队列等后端模块设计。<br />负责数据库设计与性能优化，保障数据一致性和服务稳定性。<br />与前端、产品、算法、数据和基础设施团队协作，推动业务需求落地。<br />参与线上问题排查、性能优化、监控告警和稳定性建设。<br />参与代码评审、技术方案评审和后端工程规范建设。",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T07:52:52Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[求职] 独立开发者接单： Java / Web / App / 小程序/ AI 接入 / Bug 修复 / MVP 等",
-      "url": "https://www.v2ex.com/t/1238953#reply0",
-      "location": "",
-      "description": "<p>大家好，我是一名独立开发者，目前有比较充足的开发时间，希望承接一些项目开发需求。</p>\n<p>下面这些类型的内容都可以：</p>\n<ul>\n<li>Java / 后端功能开发</li>\n<li>Web 前后端功能</li>\n<li>移动端 App 功能开发</li>\n<li>现有项目 Bug 修复</li>\n<li>API / 第三方服务接入</li>\n<li>AI / 大模型相关功能接入</li>\n<li>后台管理功能</li>\n<li>数据处理及自动化小工具</li>\n<li>老项目维护、功能修改</li>\n<li>从需求到可运行 Demo / MVP 的快速开发</li>\n<li>其他需求明确、周期较短的软件开发任务</li>\n</ul>\n<p>我自己也完整开发并上线过多款 App ，并且帮助过客户开发和上线了多个 Web 和小程序等项目，因此除了单纯写代码，也能够从需求、交互、开发、调试到上线独立推进产品。</p>\n<h2>合作方式</h2>\n<p>我目前希望尽快积累一些新的独立开发合作案例，所以 <strong>前几单会给出比较有竞争力的报价</strong>。</p>\n<p>如果需求比较小，例如一个 Bug 、一个接口、一个独立功能，也欢迎直接联系，不一定非要是完整项目。</p>\n<p>我也愿意先从一个较小的任务开始合作，建立信任，双方觉得沟通和交付都合适，再继续后面的需求。</p>\n<h2>关于价格</h2>\n<p>不同项目的需求复杂度、技术风险和交付要求差异很大，所以了解具体需求以后，详细商谈。</p>\n<h2>联系方式：</h2>\n<ul>\n<li>微信: xycoder01</li>\n<li>邮箱: <a href=\"mailto:xycoder@163.com\">xycoder@163.com</a></li>\n</ul>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-02T07:38:10Z"
     }
   ],
   "total_entries": 50
