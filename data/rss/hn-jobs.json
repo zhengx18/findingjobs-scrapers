@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:48:34.404518+00:00",
+  "generated_at": "2026-09-15T06:30:11.408344+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead\">https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700218\">https://news.ycombinator.com/item?id=49700218</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Mon, 14 Sep 2026 17:00:53 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 26 Aug 2026 12:00:07 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437566\">https://news.ycombinator.com/item?id=49437566</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 25 Aug 2026 17:28:52 +0000"
     }
   ],
   "total_entries": 20
