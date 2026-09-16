@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:30:11.408344+00:00",
+  "generated_at": "2026-09-16T06:28:56.125623+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+      "location": "Remote",
+      "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd\">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715446\">https://news.ycombinator.com/item?id=49715446</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 15 Sep 2026 17:00:31 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "location": "Remote",
+      "description": "<p>Article URL: <a href=\"https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708774\">https://news.ycombinator.com/item?id=49708774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 15 Sep 2026 07:00:30 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 27 Aug 2026 17:00:14 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Adentris (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python\">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463361\">https://news.ycombinator.com/item?id=49463361</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 27 Aug 2026 12:00:31 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49447480\">https://news.ycombinator.com/item?id=49447480</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 26 Aug 2026 12:00:07 +0000"
     }
   ],
   "total_entries": 20
