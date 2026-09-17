@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:28:56.125623+00:00",
+  "generated_at": "2026-09-17T06:28:55.786221+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer\">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725541\">https://news.ycombinator.com/item?id=49725541</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 16 Sep 2026 12:01:09 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 28 Aug 2026 03:35:15 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.bild.ai/jobs\">https://www.bild.ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49467837\">https://news.ycombinator.com/item?id=49467837</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Thu, 27 Aug 2026 17:00:14 +0000"
     }
   ],
   "total_entries": 20
