@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-17T06:28:55.786221+00:00",
+  "generated_at": "2026-09-18T06:23:38.739270+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "url": "https://zscc.ai/careers?job_id=109821",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://zscc.ai/careers?job_id=109821\">https://zscc.ai/careers?job_id=109821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743567\">https://news.ycombinator.com/item?id=49743567</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 17 Sep 2026 17:00:59 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -382,24 +402,80 @@
       "published": "Fri, 28 Aug 2026 17:00:06 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "company": "V2EX 招聘节点",
+      "title": "搜狐大模型算法工程师招聘",
+      "url": "https://www.v2ex.com/t/1242751#reply11",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474060\">https://news.ycombinator.com/item?id=49474060</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>目前搜狐视频音视频算法团队在招大模型算法工程师，大家感兴趣的可以发我简历：邮箱 <a href=\"mailto:gaotengxuelang@gmail.com\">gaotengxuelang@gmail.com</a> ，这个岗位到时候是汇报给我，大家有什么问题，可以随便提问</p>\n<p>公司优势，工作不卷，工作生活平衡</p>\n<p>岗位职责：</p>\n<ol>\n<li>围绕实际业务场景，将大模型与生成式 AI 技术进行工程化落地，解决实际业务问题并持续提升用户体验。</li>\n<li>参与 LLM 微调、Agent 架构设计、RAG 、Context Engineering 、模型推理优化及项目部署等相关工作。</li>\n<li>参与数据收集、清洗、预处理及评估体系建设，构建和维护高质量知识库，为模型训练、微调及 RAG 效果优化提供支持。</li>\n<li>跟进行业前沿技术，结合业务需求进行技术选型、方案设计、效果评估和工程落地，推动项目从技术验证到正式上线形成完整闭环。</li>\n</ol>\n<p>任职要求：</p>\n<ol>\n<li>计算机、人工智能、软件工程等相关专业，硕士及以上学历。</li>\n<li>具备 1–3 年人工智能、大模型或相关算法开发经验；优秀应届硕士毕业生可适当放宽。</li>\n<li>具备良好的算法与数据结构基础，熟练使用 Python ；掌握 C++、Go 等编程语言者优先。</li>\n<li>熟悉 Agent 、Context Engineering 、RAG 、Tool/Function Calling 、Skill/Workflow 等大模型应用开发技术。</li>\n<li>熟悉 PyTorch 等至少一种深度学习框架，了解 vLLM 、LangChain 、LlamaIndex 等大模型推理或应用开发框架。</li>\n<li>具备良好的工程实现能力，能够独立完成技术调研、方案验证、效果评估及项目落地。</li>\n<li>工作认真负责，工作态度积极，具备良好的沟通协作能力、问题分析能力和持续学习能力。</li>\n</ol>\n<p>加分项：</p>\n<ol>\n<li>热爱技术，喜欢新鲜事物，热爱 AI ，全面拥抱 AI 技术</li>\n</ol>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Fri, 28 Aug 2026 03:35:15 +0000"
+      "published": "2026-09-17T08:36:43Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[苏州] 深庭纪 Sentigent 热招： AI 部署工具链 / 强化算法 / 机器人控制 / 移动端 / 工业设计",
+      "url": "https://www.v2ex.com/t/1242765#reply0",
+      "location": "深圳",
+      "description": "<h2>关于深庭纪</h2>\n<p>深庭纪 Sentigent 成立于 2024 年 4 月，总部位于苏州，并在深圳设有子公司。</p>\n<p>我们专注于<strong>消费级具身智能产品</strong>，希望创造普惠、共情，真正进入日常生活的机器人。</p>\n<p>首款产品 <strong>Rovar X3</strong> 是一款双轮足户外陪伴机器人，面向露营、徒步、社区休闲等日常轻户外场景。我们希望机器人不只是完成指令的工具，而是能够感知环境、理解用户，并以更自然的方式参与人的真实生活。</p>\n<p>团队成员来自小鹏汽车、鹏行智能、阿里、大疆等科技企业，以及斯坦福大学、纽约大学、帝国理工学院、复旦大学、武汉大学、中山大学等高校，团队背景覆盖人工智能、机器人、人机交互、软硬件研发及消费级产品。</p>\n<ul>\n<li>公司官网：<a href=\"https://www.sentigent.cn/about.html\" rel=\"nofollow\">了解深庭纪 Sentigent</a></li>\n<li>工作地点：江苏·苏州，具体以岗位 JD 为准</li>\n</ul>\n<h2>招聘岗位</h2>\n<p>由于 JD 还没同步到官网，所以先简单整理了一个临时的岗位页面，方便直接查看详细 JD 。</p>\n<h3>AI 方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-systems\" rel=\"nofollow\">高级 AI 系统部署与加速工程师（机器人方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-toolchain\" rel=\"nofollow\">AI 部署工具链工程师</a></li>\n</ul>\n<h3>机器人方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#rl\" rel=\"nofollow\">机器人强化算法工程师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#control\" rel=\"nofollow\">机器人控制系统开发工程师（运控方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#compression\" rel=\"nofollow\">具身智能模型剪枝量化工程师</a></li>\n</ul>\n<h3>移动端方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#mobile\" rel=\"nofollow\">移动端开发工程师</a></li>\n</ul>\n<h3>产品研发方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#industrial-design\" rel=\"nofollow\">工业设计师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#process\" rel=\"nofollow\">工艺工程师</a></li>\n</ul>\n<h2>如何投递</h2>\n<p>投递邮箱：<code>wangjl@sentigent.ai</",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-17T09:14:05Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "房地产企业，领导要求年会上放 3-5 分钟关于 AI 的展示",
+      "url": "https://www.v2ex.com/t/1242651#reply2",
+      "location": "",
+      "description": "<p>去年年会给了差不多的任务，用 nano banana 和 Midjourney 做了展示区、室内设计相关的效果图，还有竖屏宣传海报，分别转成视频合并成一分钟的视频在年会上播放。</p>\n<p>今年领导不限内容和形式，背景是房地产企业，前段时间刚培训完 WorkBuddy ，但 AI 目前基本只落在营销条线生图生视频上，大部分也是落在广告公司头上；日常其他工作没有特别需求 AI 的地方，尤其是 Agent 这块，除了一些简单文件处理基本没有应用面。</p>\n<p>肯定还是以视频形式展示最稳妥，但是重复去年的似乎没什么意思，也体现不来现在 AI 的趋势，各位 V 友有没有好的思路？</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-17T03:18:48Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "帮朋友发一个招聘： Agent/FDE 开发工程师",
+      "url": "https://www.v2ex.com/t/1242236#reply46",
+      "location": "深圳",
+      "description": "<h2>职位详情</h2>\n<p>我们是一家刚成立于深圳南山的创业公司，专注于垂直行业 AI Agent 的开发。目前已经在珠三角某制造业取得了重大突破，无论在产品开发还是融资方面，都有不错的进展。</p>\n<p>为了更好地发展，我们希望寻找的，首先是一名后端工程基础扎实的工程师。相比已有的 AI / Agent 项目经验，我们更看重候选人的后端基本功、工程能力和问题解决能力；在此基础上，希望你对 AI / Agent 保持浓厚兴趣并具备一定基础，愿意深入真实业务场景。</p>\n<h2>岗位信息</h2>\n<ul>\n<li>薪资范围：15K–20K/月</li>\n<li>工作时间：双休，现阶段为 09:30–21:00 ，正逐步推行每周 2-3 天 7 点下班的模式</li>\n<li>AI 支持：ChatGPT Pro 20x + DeepSeek</li>\n<li>团队氛围：工作自由度高，鼓励自主探索与动手实践，适合喜欢折腾、愿意把想法真正做出来的人</li>\n<li>投递邮箱：MjI1NTI3MEBxcS5jb20=</li>\n</ul>\n<h2>岗位职责</h2>\n<ol>\n<li>负责垂直行业（制造、审计、商场运营等） Agent 相关功能模块的设计、开发与持续迭代；</li>\n<li>参与 Agent 执行流程的开发与调优，包括工具调用、上下文管理、结果校验与异常兜底等模块；</li>\n<li>参与客户一线业务调研，理解真实业务场景与需求，并完成相关功能的技术方案设计、工程实现和客户交付；</li>\n<li>参与团队 Agent Infra （基于 DeepSeek Harness 扩展自研）的持续扩展与优化，参与通用能力验证与沉淀，并将业务场景中的共性问题提炼至 Agent Infra ，推动其持续演进；</li>\n<li>参与 Agent 效果评估与持续优化，通过真实业务 Case 分析问题并推动能力迭代。</li>\n</ol>\n<h2>任职要求</h2>\n<ol>\n<li>全日制统招本科及以上学历，计算机相关专业优先；</li>\n<li>具备 1–3 年后端开发经验，参与过真实上线项目；对亲身参与的项目或技术实践有深入理解，能够清晰、自信地讲述其中的问题、思考、决策与技术取舍；</li>\n<li>熟悉 Java 、Go 等主流后端语言，基础扎实；具备良好的工程抽象能力，能将复杂业务拆解为清晰、可维护的模块；</li>\n<li>熟悉 MySQL 、PostgreSQL 等关系型数据库，有表结构设计经验，了解索引与事务的基本原理；了解 Redis 、消息队列等常用中间件的使用场景；</li>\n<li>熟悉 Git 协作流程与 Linux 常用命令，具备服务部署与线上问题排查能力；</li>\n<li>团队日常技术栈为 Python 、TypeScript ，需具备较强的跨语言学习能力；</li>\n<li>对 Agent 的基本运行机制与执行范式（ Agent Loop 、Tool Call 、Context 等）有一定了解，能够结合后端工程思维理解业务 Agent 的执行流程，并愿意在实际项目中持续学习和深入。</li>\n<li>具备较强的独立思考能力与问题解决能力，面对非标准化、模糊的业务需求，能够主动理解问题本质，完成需求抽象、方案设计与代码实现；</li>\n<li>保持独立思考与技术判断，以自身思考驾驭 Agent ，将 AI 作为工程能力的执行延伸，并对最终结果与工程质量负责。</li>\n</ol>\n<h2>加分项</h2>\n<",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-15T11:51:33Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -422,27 +498,8 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "帮朋友发一个招聘： Agent/FDE 开发工程师",
-      "url": "https://www.v2ex.com/t/1242236#reply43",
-      "location": "深圳",
-      "description": "<h2>职位详情</h2>\n<p>我们是一家刚成立于深圳南山的创业公司，专注于垂直行业 AI Agent 的开发。目前已经在珠三角某制造业取得了重大突破，无论在产品开发还是融资方面，都有不错的进展。</p>\n<p>为了更好地发展，我们希望寻找的，首先是一名后端工程基础扎实的工程师。相比已有的 AI / Agent 项目经验，我们更看重候选人的后端基本功、工程能力和问题解决能力；在此基础上，希望你对 AI / Agent 保持浓厚兴趣并具备一定基础，愿意深入真实业务场景。</p>\n<h2>岗位信息</h2>\n<ul>\n<li>薪资范围：15K–20K/月</li>\n<li>工作时间：双休，现阶段为 09:30–21:00 ，正逐步推行每周 2-3 天 7 点下班的模式</li>\n<li>AI 支持：ChatGPT Pro 20x + DeepSeek</li>\n<li>团队氛围：工作自由度高，鼓励自主探索与动手实践，适合喜欢折腾、愿意把想法真正做出来的人</li>\n<li>投递邮箱：MjI1NTI3MEBxcS5jb20=</li>\n</ul>\n<h2>岗位职责</h2>\n<ol>\n<li>负责垂直行业（制造、审计、商场运营等） Agent 相关功能模块的设计、开发与持续迭代；</li>\n<li>参与 Agent 执行流程的开发与调优，包括工具调用、上下文管理、结果校验与异常兜底等模块；</li>\n<li>参与客户一线业务调研，理解真实业务场景与需求，并完成相关功能的技术方案设计、工程实现和客户交付；</li>\n<li>参与团队 Agent Infra （基于 DeepSeek Harness 扩展自研）的持续扩展与优化，参与通用能力验证与沉淀，并将业务场景中的共性问题提炼至 Agent Infra ，推动其持续演进；</li>\n<li>参与 Agent 效果评估与持续优化，通过真实业务 Case 分析问题并推动能力迭代。</li>\n</ol>\n<h2>任职要求</h2>\n<ol>\n<li>全日制统招本科及以上学历，计算机相关专业优先；</li>\n<li>具备 1–3 年后端开发经验，参与过真实上线项目；对亲身参与的项目或技术实践有深入理解，能够清晰、自信地讲述其中的问题、思考、决策与技术取舍；</li>\n<li>熟悉 Java 、Go 等主流后端语言，基础扎实；具备良好的工程抽象能力，能将复杂业务拆解为清晰、可维护的模块；</li>\n<li>熟悉 MySQL 、PostgreSQL 等关系型数据库，有表结构设计经验，了解索引与事务的基本原理；了解 Redis 、消息队列等常用中间件的使用场景；</li>\n<li>熟悉 Git 协作流程与 Linux 常用命令，具备服务部署与线上问题排查能力；</li>\n<li>团队日常技术栈为 Python 、TypeScript ，需具备较强的跨语言学习能力；</li>\n<li>对 Agent 的基本运行机制与执行范式（ Agent Loop 、Tool Call 、Context 等）有一定了解，能够结合后端工程思维理解业务 Agent 的执行流程，并愿意在实际项目中持续学习和深入。</li>\n<li>具备较强的独立思考能力与问题解决能力，面对非标准化、模糊的业务需求，能够主动理解问题本质，完成需求抽象、方案设计与代码实现；</li>\n<li>保持独立思考与技术判断，以自身思考驾驭 Agent ，将 AI 作为工程能力的执行延伸，并对最终结果与工程质量负责。</li>\n</ol>\n<h2>加分项</h2>\n<",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-15T11:51:33Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "破坏模型被判 5 年， 是被判重了 ------- 我的一点法律分析",
-      "url": "https://www.v2ex.com/t/1242641#reply0",
+      "url": "https://www.v2ex.com/t/1242641#reply1",
       "location": "北京",
       "description": "<p>SOURCE： <a href=\"https://fzhapp.fzrb.cn/share/#/news_detail?contentType=5&amp;contentId=858248&amp;cId=0\" rel=\"nofollow\">https://fzhapp.fzrb.cn/share/#/news_detail?contentType=5&amp;contentId=858248&amp;cId=0</a></p>\n<p>有关讨论： <a href=\"https://www.v2ex.com/t/1242011\" rel=\"nofollow\">https://www.v2ex.com/t/1242011</a></p>\n<p>我的分析</p>\n<p>TL;DR\n这个确实重判了。 </p>\n<ul>\n<li>不是因为五年是该罪名下的最轻刑。 如果要判低一些，有大量的其他罪名可以选；</li>\n<li>这个行为不是过失犯罪，那就是故意行为。故意的话需要有主观动机。  案犯的目的不是为了删除集群资源。他是为了利用闲置资源，错误释放了不该释放的资源。主观上没有直接删除模型资源的故意。 否则，如果他另有所图，也不会启动删除然后什么都不做就下班了。 按照存疑有利于被告原则，不应该这么搞。 </li>\n<li>对计算机系统的论证太牵强。报道中说的是“训练数据被删除，直接导致模型训练的数据结构遭到破坏，影响模型训练功能的正常运行。” 模型对用户提供服务的方式是推理。  算法工程师的工作是训练模型。 从描述看，对外服务的系统没有遭受破坏，  也没有用户收到影响。（收到影响的是雇主公司的研发目标）</li>\n<li>从损害结果来看， 算成了 20 万元经济损失。也很牵强，报道用的是《检察官指出》，而不是法院的《本院认为》。“检察官经审查认为，王某的删除行为导致原本满负荷运转的集群 GPU （图形处理器）利用率直接归零，模型训练进程中断、算力资源闲置，集群系统在修复期间完全丧失了核心功能。公司为恢复数据、重启训练，既投入了人力成本，又投入了算力成本。算力作为驱动数字经济的“新型能源”，是人工智能大模型训练的核心生产要素。人力和算力成本均为公司为消除犯罪行为造成的危害、恢复系统功能而必须投入的成本，理应将算力支出纳入经济损失认定。”  导致集群闲置，能直接视为损失吗？  集群闲置时，不能调度其他作业吗？  公司投入了人力和算力，最后合计 20 万元。  北京的朋友算一算大概相当于几个人工的加班费？ 我预估约 2-4 个人月的 1.5 倍加班费。 </li>\n<li>全文没有辩护律师的意见。被告应该找个大律师，如果辩护意见不被尊重，那么也有公开发声渠道。</li>\n</ul>\n<p>我的结论和以前与 V 友讨论过的保持一致：在国内，法庭较量是双方斗争的延续。  在现实社会斗不过的， 法庭上依然斗不过。 谁赢我帮谁。 </p>\n<p>对从业人员的启示</p>\n<ul>\n<li>提高职业素养非常重要</li>\n<li>找个好律师，也许能轻判。</li>\n</ul>\n<p>结论：\n这个判决，说明了雇主公司实力非凡。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -480,7 +537,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
-      "url": "https://www.v2ex.com/t/1241795#reply180",
+      "url": "https://www.v2ex.com/t/1241795#reply182",
       "location": "远程",
       "description": "<p>在 AI 编程盛行的今天。招人，用人的成本反而更高了。无法再精确的筛选出合适的人选。</p>\n<p>远程面试， 让闭上眼睛回答问题，已经是基本操作了。\n上个月月底，面试了一个全栈。已经工作了 4 年，基础知识相当扎实。全程闭眼回答问题。\n入职后，让克隆代码，直接点击下载压缩包。</p>\n<p>然后让熟悉代码，开发一个小需求，对接小程序登录接口和获取颜色尺码列表的接口。</p>\n<p>一天后 说做完了。 我让她演示代码。不知道代码路径，不知道接口在哪调用。\n直接让走人了</p>\n<p>现在面试要求加了一条， 试用期不能用 AI agent 直接做需求。需要手写代码</p>\n<p>已经入职的两个人，刚开始也是 agent 一把梭。 但是也能发现代码的不合理。稍微引导一下就能完成重构。</p>\n<p>不知道大家现在是怎么处理这些问题的。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -552,44 +609,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-15T06:30:25Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "🔥拼多多集团-PDD｜ 27 届校招正式批内推｜ 可免笔试",
-      "url": "https://www.v2ex.com/t/1241978#reply2",
-      "location": "",
-      "description": "<p>🔥拼多多集团-PDD ｜ 27 届校招正式批</p>\n<p>出海电商搜索推荐广告组招聘算法/大模型算法/服务端研发/AI Infra 研发工程师/数据分析师</p>\n<p>由于现在笔试作弊太多，拼多多校招正式批现在可以免笔试，只要有评奖评优、竞赛奖项或者学术论文任意一项即可。</p>\n<p>内推链接： <a href=\"https://careers.pddglobalhr.com/campus/grad?t=6SghRnyMW7\" rel=\"nofollow\">https://careers.pddglobalhr.com/campus/grad?t=6SghRnyMW7</a> ，\n内推码：6SghRnyMW7 。</p>\n<p>（通过此链接投递，大模型算法工程师/算法工程师/AI infra 研发工程师/服务端研发工程师/数据分析师优先关联出海电商搜索推荐广告组）</p>\n<p>技术专场: <a href=\"https://careers.pddglobalhr.com/campus/grad/technical-session?t=6SghRnyMW7\" rel=\"nofollow\">https://careers.pddglobalhr.com/campus/grad/technical-session?t=6SghRnyMW7</a></p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-14T14:41:57Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "remote\nAI 短剧制作/二次元动漫原画师（AI 生成方向）/AI 内容生成（魔改/二创/视频制作）/AI 模型训练师 / AIGC 模型工程师/AI 短剧导演",
-      "url": "https://www.v2ex.com/t/1241993#reply0",
-      "location": "remote",
-      "description": "<p>AI 短剧制作\n20K-50K\n投递要求：必须提供本人视频作品，可提供自媒体账号、作品链接或视频文件</p>\n<p>岗位职责\n根据剧本独立完成剧情拆解、分镜设计、角色设定及场景设计；\n独立完成 AI 出图、图生视频、动作生成、配音配乐、剪辑包装及成片交付；\n把控人物一致性、服装造型、画面风格、动作自然度、剧情节奏和镜头衔接；\n修复人物变形、肢体异常、穿模、画面闪烁、镜头抖动、画风不统一等问题；\n根据业务反馈快速完成修改和迭代，稳定承接日常内容产能；\n沉淀提示词、角色模板、人物 LoRA 、制作模板及批量化生产 SOP ；\n配合编剧、导演及运营团队完成短剧内容交付。</p>\n<p>任职要求\n有成熟的 AI 短剧、AI 剧情视频或相关视频项目经验；\n能够独立完成从剧本、分镜、角色设定到成片交付的完整流程；\n入职后能够直接承接项目，不依赖长期手把手培训；\n熟悉可灵、即梦、Seedance 、Runway 、Pika 、Midjourney 、Stable Diffusion 、ComfyUI 等一种或多种工具；\n熟练使用剪映、Premiere 、After Effects 、达芬奇等剪辑软件；\n具备较强的剧情理解、分镜设计、镜头语言及画面审美能力；\n能够处理人物一致性、动作异常、镜头衔接及画面质量问题；\n能适应快速迭代、远程协作和稳定量产。</p>\n<p>优先条件\n有完整 AI 短剧成片及连续剧集制作经验；\n熟悉 ComfyUI 、LoRA 、角色一致性和动作控制；\n有批量内容生产、平台发布或短剧项目经验；</p>\n<p>作品要求\n必须提供视频作品，可提供本人自媒体账号、平台主页、作品链接或视频文件；\n作品类型包括 AI 短剧、AI 动漫、动态漫、剧情视频、广告视频、短视频等；\n至少提供能够体现本人实际制作能力的完整作品或连续片段；\n如为团队项目，需明确说明本人负责的具体环节；\n面试及测试环节需能够讲清作品的制作流程、使用工具、提示词及后期处理方式；\n无视频作品、无法提供账号/链接或无法说明本人实际贡献的候选人，原则上不进入后续面试。</p>\n<p>二次元动漫原画师（ AI 生成方向）\n20K-50K\n岗位定位</p>\n<p>本岗位面向具有动漫原画、角色设计、插画或相关美术经验的人才。入职后公司将提供 AI 短剧制作培训，帮助其逐步掌握 AI 图像及视频生成流程，并培养成为能够独立完成二次元动漫短剧的生成师。</p>\n<p>岗位职责\n根据短剧剧本完成剧情理解、人物分析、场景拆解及基础分镜设计。\n运用原画及美术能力，完成人物形象、服装、表情、动作和场景的视觉设计。\n在培训后使用 Seedance 、ComfyUI 、可灵等工具完成人物、场景及动漫视频镜头生成。\n根据剧情设计景别、构图、人物动作、情绪表演及镜头衔接，强化故事节奏和关键情绪。\n负责筛选、调整和优化 AI 生成结果，处理人物五官、肢体、服装及画面细节问题。\n保证同一剧集中人物形象、服装、场景、画风及镜头表现的一致性。\n配合导演及编剧完成镜头修改，并逐步具备独立负责完整剧集或主要镜头段落的能力。\n持续学习新的 AI 动漫制作工具和工作流，提升内容质量与生产效率。\n任职要求\n具备动漫原画、角色设计、漫画、插画、二次元游戏美术或相关工作经验。\n对二次元文化有成熟理解和长期热爱，熟悉不同动漫题材、人物属性及画风特点。\n具备良好的造型、人体结构、透视、色彩、构图及光影基础。\n具备一定的画面叙事和镜头意识，能够根据文字内容设计人物动作、表情及场景氛围。\n愿意从传统原画或插画方向转向 AI 动漫短剧制",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-14T16:07:42Z"
     }
   ]
 }

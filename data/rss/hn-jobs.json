@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:28:55.786221+00:00",
+  "generated_at": "2026-09-18T06:23:38.739270+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "url": "https://zscc.ai/careers?job_id=109821",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://zscc.ai/careers?job_id=109821\">https://zscc.ai/careers?job_id=109821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743567\">https://news.ycombinator.com/item?id=49743567</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 17 Sep 2026 17:00:59 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 28 Aug 2026 17:00:06 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474060\">https://news.ycombinator.com/item?id=49474060</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Fri, 28 Aug 2026 03:35:15 +0000"
     }
   ],
   "total_entries": 20
