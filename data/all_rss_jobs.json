@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-18T06:23:38.739270+00:00",
+  "generated_at": "2026-09-19T06:21:49.871451+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753131\">https://news.ycombinator.com/item?id=49753131</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Fri, 18 Sep 2026 12:00:10 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
@@ -382,24 +402,61 @@
       "published": "Sun, 30 Aug 2026 17:01:56 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481423\">https://news.ycombinator.com/item?id=49481423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "company": "V2EX 招聘节点",
+      "title": "[全职远程 / 40–45K 月薪 / 每周 40 小时] Zingage 招聘核心集成工程师（TypeScript / Node.js）",
+      "url": "https://www.v2ex.com/t/1243113#reply4",
+      "location": "远程",
+      "description": "<h2>关于我们</h2>\n<p>Zingage 是一家快速发展的美国 AI 初创公司，由红杉资本支持。我们通过 AI Agent 和深度自动化技术，为美国家庭护理机构提供运营支持系统。</p>\n<p>在这里，你的代码会直接服务于真实的护理场景：帮助机构安排班次、确保护工准时到岗，让需要照料的老人得到及时照顾。</p>\n<p>公司官网：<a href=\"https://zingage.com/\" rel=\"nofollow\">https://zingage.com/</a></p>\n<h2>薪资与工作方式</h2>\n<ul>\n<li><strong>薪资：40–45K/月。</strong></li>\n<li><strong>工作性质：全职，远程办公，每周 40 小时。</strong></li>\n<li><strong>时区要求：</strong>需要与美国东部工作时间保持至少 2–3 小时的重叠，通常意味着国内晚间或清晨需要在线沟通（一般是晚上-凌晨），其余时间可自行安排。</li>\n<li><strong>团队协作：</strong>扁平化管理，直接向创始人或资深工程师汇报，强调高效的异步沟通，减少不必要的会议。</li>\n</ul>\n<h2>这个岗位主要做什么</h2>\n<p>我们希望找到一位擅长<strong>解决复杂系统问题、推动方案落地</strong>的工程师。岗位的重点是外部系统集成、自动化和可靠性建设，而不只是常规的业务接口开发。</p>\n<p>如果你有电商、支付、物流或反欺诈系统的开发经验，并且处理过复杂的外部系统集成，这些经验会很有帮助。</p>\n<p>作为核心集成工程师，你将负责打通 Zingage 与各类遗留 EMR （电子病历）系统，具体包括：</p>\n<ol>\n<li>\n<p><strong>逆向分析与系统集成</strong>\n研究外部系统的非标准 API 和交互流程，实现排班、笔记、护理员信息等数据的读取与写入。</p>\n</li>\n<li>\n<p><strong>自动化与工具开发</strong>\n使用 TypeScript / Node.js 编写 CLI 工具和自动化脚本，通过无头浏览器（ Playwright / Puppeteer ）或协议分析，处理复杂的登录、表单提交和重定向流程。</p>\n</li>\n<li>\n<p><strong>可复用的集成层设计</strong>\n不止于写出能运行的一次性脚本，还需要将外部系统不统一的行为封装成内部统一、稳定、可维护的接口。</p>\n</li>\n<li>\n<p><strong>测试、监控与维护</strong>\n建立测试夹具（ Fixtures ）和监控机制，在外部系统发生变化，例如选择器变更、反爬策略更新时，能够及时发现、定位并修复问题。</p>\n</li>\n</ol>\n<h2>任职要求</h2>\n<p><strong>开发经验：</strong>3–7 年后端开发经验，具备扎实的代码落地能力。</p>\n<p><strong>编程语言：</strong>精通 TypeScript / Node.js ；也接受精通 Java / Go 、愿意转向 TypeScript / Node.js 开发的工程师。本岗位实际使用 TypeScript / Node.js 。</p>\n<p><strong>Web 协议与调试：</strong>精通 Web 协议与调试，熟练使用 Chrome DevTools 、Charles 、Fiddler 、Burp 等工具，能够分析",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Fri, 28 Aug 2026 17:00:06 +0000"
+      "published": "2026-09-19T02:09:45Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "朋友们，现在前端还能找到工作吗",
+      "url": "https://www.v2ex.com/t/1243072#reply3",
+      "location": "",
+      "description": "<p>感觉完全没有公司招人了，全变成 agent 全栈了，关键是 agent 也是僧多粥少</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-18T13:44:26Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "后端开发 gap 了快半年还是找不到工作",
+      "url": "https://www.v2ex.com/t/1243096#reply2",
+      "location": "",
+      "description": "<p>我的坐标是哈尔滨，后端开发，从今年 4 月初公司裁员后，出去玩一个月回来后就一直在找工作，距今已经 gap 了四个多月了，感觉现在找工作太难了，从来没体验过这样的招聘市场，尤其 35+的程序员，学历是非统招本科，简直是地狱级难度。\n开始以为是技术短板，自学了 agent 开发以后重新投，依然是极少有邀约。自从 2011 年开始做开发以来，头一次感觉到职业危机。大家有类似感觉吗？评论区聊聊…</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-18T17:37:40Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -422,10 +479,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "[苏州] 深庭纪 Sentigent 热招： AI 部署工具链 / 强化算法 / 机器人控制 / 移动端 / 工业设计",
-      "url": "https://www.v2ex.com/t/1242765#reply0",
+      "title": "帮朋友发一个招聘： Agent/FDE 开发工程师",
+      "url": "https://www.v2ex.com/t/1242236#reply49",
       "location": "深圳",
-      "description": "<h2>关于深庭纪</h2>\n<p>深庭纪 Sentigent 成立于 2024 年 4 月，总部位于苏州，并在深圳设有子公司。</p>\n<p>我们专注于<strong>消费级具身智能产品</strong>，希望创造普惠、共情，真正进入日常生活的机器人。</p>\n<p>首款产品 <strong>Rovar X3</strong> 是一款双轮足户外陪伴机器人，面向露营、徒步、社区休闲等日常轻户外场景。我们希望机器人不只是完成指令的工具，而是能够感知环境、理解用户，并以更自然的方式参与人的真实生活。</p>\n<p>团队成员来自小鹏汽车、鹏行智能、阿里、大疆等科技企业，以及斯坦福大学、纽约大学、帝国理工学院、复旦大学、武汉大学、中山大学等高校，团队背景覆盖人工智能、机器人、人机交互、软硬件研发及消费级产品。</p>\n<ul>\n<li>公司官网：<a href=\"https://www.sentigent.cn/about.html\" rel=\"nofollow\">了解深庭纪 Sentigent</a></li>\n<li>工作地点：江苏·苏州，具体以岗位 JD 为准</li>\n</ul>\n<h2>招聘岗位</h2>\n<p>由于 JD 还没同步到官网，所以先简单整理了一个临时的岗位页面，方便直接查看详细 JD 。</p>\n<h3>AI 方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-systems\" rel=\"nofollow\">高级 AI 系统部署与加速工程师（机器人方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-toolchain\" rel=\"nofollow\">AI 部署工具链工程师</a></li>\n</ul>\n<h3>机器人方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#rl\" rel=\"nofollow\">机器人强化算法工程师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#control\" rel=\"nofollow\">机器人控制系统开发工程师（运控方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#compression\" rel=\"nofollow\">具身智能模型剪枝量化工程师</a></li>\n</ul>\n<h3>移动端方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#mobile\" rel=\"nofollow\">移动端开发工程师</a></li>\n</ul>\n<h3>产品研发方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#industrial-design\" rel=\"nofollow\">工业设计师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#process\" rel=\"nofollow\">工艺工程师</a></li>\n</ul>\n<h2>如何投递</h2>\n<p>投递邮箱：<code>wangjl@sentigent.ai</",
+      "description": "<h2>职位详情</h2>\n<p>我们是一家刚成立于深圳南山的创业公司，专注于垂直行业 AI Agent 的开发。目前已经在珠三角某制造业取得了重大突破，无论在产品开发还是融资方面，都有不错的进展。</p>\n<p>为了更好地发展，我们希望寻找的，首先是一名后端工程基础扎实的工程师。相比已有的 AI / Agent 项目经验，我们更看重候选人的后端基本功、工程能力和问题解决能力；在此基础上，希望你对 AI / Agent 保持浓厚兴趣并具备一定基础，愿意深入真实业务场景。</p>\n<h2>岗位信息</h2>\n<ul>\n<li>薪资范围：15K–20K/月</li>\n<li>工作时间：双休，现阶段为 09:30–21:00 ，正逐步推行每周 2-3 天 7 点下班的模式</li>\n<li>AI 支持：ChatGPT Pro 20x + DeepSeek</li>\n<li>团队氛围：工作自由度高，鼓励自主探索与动手实践，适合喜欢折腾、愿意把想法真正做出来的人</li>\n<li>投递邮箱：MjI1NTI3MEBxcS5jb20=</li>\n</ul>\n<h2>岗位职责</h2>\n<ol>\n<li>负责垂直行业（制造、审计、商场运营等） Agent 相关功能模块的设计、开发与持续迭代；</li>\n<li>参与 Agent 执行流程的开发与调优，包括工具调用、上下文管理、结果校验与异常兜底等模块；</li>\n<li>参与客户一线业务调研，理解真实业务场景与需求，并完成相关功能的技术方案设计、工程实现和客户交付；</li>\n<li>参与团队 Agent Infra （基于 DeepSeek Harness 扩展自研）的持续扩展与优化，参与通用能力验证与沉淀，并将业务场景中的共性问题提炼至 Agent Infra ，推动其持续演进；</li>\n<li>参与 Agent 效果评估与持续优化，通过真实业务 Case 分析问题并推动能力迭代。</li>\n</ol>\n<h2>任职要求</h2>\n<ol>\n<li>全日制统招本科及以上学历，计算机相关专业优先；</li>\n<li>具备 1–3 年后端开发经验，参与过真实上线项目；对亲身参与的项目或技术实践有深入理解，能够清晰、自信地讲述其中的问题、思考、决策与技术取舍；</li>\n<li>熟悉 Java 、Go 等主流后端语言，基础扎实；具备良好的工程抽象能力，能将复杂业务拆解为清晰、可维护的模块；</li>\n<li>熟悉 MySQL 、PostgreSQL 等关系型数据库，有表结构设计经验，了解索引与事务的基本原理；了解 Redis 、消息队列等常用中间件的使用场景；</li>\n<li>熟悉 Git 协作流程与 Linux 常用命令，具备服务部署与线上问题排查能力；</li>\n<li>团队日常技术栈为 Python 、TypeScript ，需具备较强的跨语言学习能力；</li>\n<li>对 Agent 的基本运行机制与执行范式（ Agent Loop 、Tool Call 、Context 等）有一定了解，能够结合后端工程思维理解业务 Agent 的执行流程，并愿意在实际项目中持续学习和深入。</li>\n<li>具备较强的独立思考能力与问题解决能力，面对非标准化、模糊的业务需求，能够主动理解问题本质，完成需求抽象、方案设计与代码实现；</li>\n<li>保持独立思考与技术判断，以自身思考驾驭 Agent ，将 AI 作为工程能力的执行延伸，并对最终结果与工程质量负责。</li>\n</ol>\n<h2>加分项</h2>\n<",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -437,12 +494,12 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-09-17T09:14:05Z"
+      "published": "2026-09-15T11:51:33Z"
     },
     {
       "company": "V2EX 招聘节点",
       "title": "房地产企业，领导要求年会上放 3-5 分钟关于 AI 的展示",
-      "url": "https://www.v2ex.com/t/1242651#reply2",
+      "url": "https://www.v2ex.com/t/1242651#reply3",
       "location": "",
       "description": "<p>去年年会给了差不多的任务，用 nano banana 和 Midjourney 做了展示区、室内设计相关的效果图，还有竖屏宣传海报，分别转成视频合并成一分钟的视频在年会上播放。</p>\n<p>今年领导不限内容和形式，背景是房地产企业，前段时间刚培训完 WorkBuddy ，但 AI 目前基本只落在营销条线生图生视频上，大部分也是落在广告公司头上；日常其他工作没有特别需求 AI 的地方，尤其是 Agent 这块，除了一些简单文件处理基本没有应用面。</p>\n<p>肯定还是以视频形式展示最稳妥，但是重复去年的似乎没什么意思，也体现不来现在 AI 的趋势，各位 V 友有没有好的思路？</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -460,10 +517,10 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "帮朋友发一个招聘： Agent/FDE 开发工程师",
-      "url": "https://www.v2ex.com/t/1242236#reply46",
+      "title": "[苏州] 深庭纪 Sentigent 热招： AI 部署工具链 / 强化算法 / 机器人控制 / 移动端 / 工业设计",
+      "url": "https://www.v2ex.com/t/1242765#reply1",
       "location": "深圳",
-      "description": "<h2>职位详情</h2>\n<p>我们是一家刚成立于深圳南山的创业公司，专注于垂直行业 AI Agent 的开发。目前已经在珠三角某制造业取得了重大突破，无论在产品开发还是融资方面，都有不错的进展。</p>\n<p>为了更好地发展，我们希望寻找的，首先是一名后端工程基础扎实的工程师。相比已有的 AI / Agent 项目经验，我们更看重候选人的后端基本功、工程能力和问题解决能力；在此基础上，希望你对 AI / Agent 保持浓厚兴趣并具备一定基础，愿意深入真实业务场景。</p>\n<h2>岗位信息</h2>\n<ul>\n<li>薪资范围：15K–20K/月</li>\n<li>工作时间：双休，现阶段为 09:30–21:00 ，正逐步推行每周 2-3 天 7 点下班的模式</li>\n<li>AI 支持：ChatGPT Pro 20x + DeepSeek</li>\n<li>团队氛围：工作自由度高，鼓励自主探索与动手实践，适合喜欢折腾、愿意把想法真正做出来的人</li>\n<li>投递邮箱：MjI1NTI3MEBxcS5jb20=</li>\n</ul>\n<h2>岗位职责</h2>\n<ol>\n<li>负责垂直行业（制造、审计、商场运营等） Agent 相关功能模块的设计、开发与持续迭代；</li>\n<li>参与 Agent 执行流程的开发与调优，包括工具调用、上下文管理、结果校验与异常兜底等模块；</li>\n<li>参与客户一线业务调研，理解真实业务场景与需求，并完成相关功能的技术方案设计、工程实现和客户交付；</li>\n<li>参与团队 Agent Infra （基于 DeepSeek Harness 扩展自研）的持续扩展与优化，参与通用能力验证与沉淀，并将业务场景中的共性问题提炼至 Agent Infra ，推动其持续演进；</li>\n<li>参与 Agent 效果评估与持续优化，通过真实业务 Case 分析问题并推动能力迭代。</li>\n</ol>\n<h2>任职要求</h2>\n<ol>\n<li>全日制统招本科及以上学历，计算机相关专业优先；</li>\n<li>具备 1–3 年后端开发经验，参与过真实上线项目；对亲身参与的项目或技术实践有深入理解，能够清晰、自信地讲述其中的问题、思考、决策与技术取舍；</li>\n<li>熟悉 Java 、Go 等主流后端语言，基础扎实；具备良好的工程抽象能力，能将复杂业务拆解为清晰、可维护的模块；</li>\n<li>熟悉 MySQL 、PostgreSQL 等关系型数据库，有表结构设计经验，了解索引与事务的基本原理；了解 Redis 、消息队列等常用中间件的使用场景；</li>\n<li>熟悉 Git 协作流程与 Linux 常用命令，具备服务部署与线上问题排查能力；</li>\n<li>团队日常技术栈为 Python 、TypeScript ，需具备较强的跨语言学习能力；</li>\n<li>对 Agent 的基本运行机制与执行范式（ Agent Loop 、Tool Call 、Context 等）有一定了解，能够结合后端工程思维理解业务 Agent 的执行流程，并愿意在实际项目中持续学习和深入。</li>\n<li>具备较强的独立思考能力与问题解决能力，面对非标准化、模糊的业务需求，能够主动理解问题本质，完成需求抽象、方案设计与代码实现；</li>\n<li>保持独立思考与技术判断，以自身思考驾驭 Agent ，将 AI 作为工程能力的执行延伸，并对最终结果与工程质量负责。</li>\n</ol>\n<h2>加分项</h2>\n<",
+      "description": "<h2>关于深庭纪</h2>\n<p>深庭纪 Sentigent 成立于 2024 年 4 月，总部位于苏州，并在深圳设有子公司。</p>\n<p>我们专注于<strong>消费级具身智能产品</strong>，希望创造普惠、共情，真正进入日常生活的机器人。</p>\n<p>首款产品 <strong>Rovar X3</strong> 是一款双轮足户外陪伴机器人，面向露营、徒步、社区休闲等日常轻户外场景。我们希望机器人不只是完成指令的工具，而是能够感知环境、理解用户，并以更自然的方式参与人的真实生活。</p>\n<p>团队成员来自小鹏汽车、鹏行智能、阿里、大疆等科技企业，以及斯坦福大学、纽约大学、帝国理工学院、复旦大学、武汉大学、中山大学等高校，团队背景覆盖人工智能、机器人、人机交互、软硬件研发及消费级产品。</p>\n<ul>\n<li>公司官网：<a href=\"https://www.sentigent.cn/about.html\" rel=\"nofollow\">了解深庭纪 Sentigent</a></li>\n<li>工作地点：江苏·苏州，具体以岗位 JD 为准</li>\n</ul>\n<h2>招聘岗位</h2>\n<p>由于 JD 还没同步到官网，所以先简单整理了一个临时的岗位页面，方便直接查看详细 JD 。</p>\n<h3>AI 方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-systems\" rel=\"nofollow\">高级 AI 系统部署与加速工程师（机器人方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#ai-toolchain\" rel=\"nofollow\">AI 部署工具链工程师</a></li>\n</ul>\n<h3>机器人方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#rl\" rel=\"nofollow\">机器人强化算法工程师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#control\" rel=\"nofollow\">机器人控制系统开发工程师（运控方向）</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#compression\" rel=\"nofollow\">具身智能模型剪枝量化工程师</a></li>\n</ul>\n<h3>移动端方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#mobile\" rel=\"nofollow\">移动端开发工程师</a></li>\n</ul>\n<h3>产品研发方向</h3>\n<ul>\n<li><a href=\"https://sentigent-careers.pages.dev/#industrial-design\" rel=\"nofollow\">工业设计师</a></li>\n<li><a href=\"https://sentigent-careers.pages.dev/#process\" rel=\"nofollow\">工艺工程师</a></li>\n</ul>\n<h2>如何投递</h2>\n<p>投递邮箱：<code>wangjl@sentigent.ai</",
       "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
@@ -475,7 +532,26 @@
       ],
       "market": "cn",
       "pool": "watch",
-      "published": "2026-09-15T11:51:33Z"
+      "published": "2026-09-17T09:14:05Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "Web3 交易/数据/合约核心岗招人，主打 AI Native 协作， Package 给够！",
+      "url": "https://www.v2ex.com/t/1242471#reply2",
+      "location": "香港",
+      "description": "各位 V 友好！<br /><br />我们是一个专注于 Web3 交易基础设施与核心链上业务的团队。目前正在寻找具备系统级架构思维、追求极速与安全的工程师加入我们。<br /><br />如果你厌倦了无意义的重复敲代码，倡导 AI Native 工作流，想挑战端到端负责核心交易/数据系统，欢迎砸简历！<br /><br />---<br /><br />🔥 为什么值得加入我们？<br /><br />1. 极简高效的技术文化：我们鼓励并全面采用 AI Agent (Claude Code) 作为日常主力生产方式，不卷重复体力活，只看你的顶层架构设计与核心逻辑把关。<br />2. 核心业务话语权：拒绝“需求翻译机”，直接端到端对核心交易路由、链上数据管道或 Launchpad 资金安全负全责。<br />3. 具有竞争力的 Package：Base 香港（协助签证），薪资 Package 绝对对得起你的能力（具体面议/年终奖励丰厚）。<br /><br />---<br /><br />🛠 目前热招岗位（ JD 如下）<br /><br />岗位一：高级后端开发工程师（ Senior Backend Engineer ）<br />岗位概述<br />负责公司核心业务平台的平台基础能力与实时数据链路的设计与研发。平台侧涵盖公共框架、基础组件与对外 API ，支撑多条业务线的快速迭代；实时侧以 WebSocket 长连接网关与流式筛选推送引擎为核心，向百万级客户端持续推送高频行情与用户订阅的动态数据。系统跨多个地理区域部署，对时效性、一致性与可用性均有较高要求。<br /><br />岗位职责：<br />-平台基础能力建设 负责公共框架、基础组件与对外 API 的设计与演进，统一接口契约、鉴权、限流与错误语义，支撑多业务线复用与快速交付。<br /><br />-实时数据链路研发 负责长连接网关与流式推送链路的设计与迭代，涵盖订阅模型、增量推送、消息压缩与多区域分发，对推送时效与投递完整性负责。<br /><br />-业务系统交付 负责多条业务线的需求落地，涵盖用户订阅、消息通知、榜单展示、支付与资金流转等方向，独立完成业务分析、数据建模、技术方案设计与端到端交付。<br /><br />-稳定性与架构演进 对所负责系统的线上表现负责：设计指标与日志埋点，建立异常发现与定位手段，治理消费积压、连接抖动、跨区依赖中断与第三方通道异常等容错场景；识别链路瓶颈与重复劳动，推动抽象与架构优化。<br /><br />任职要求：<br />—5 年以上 Go 服务端开发经验，具备高并发实时系统的设计与实现能力；熟悉消息队列（ Kafka ）、关系型数据库、Redis 与 NoSQL 存储的生产实践，理解其在真实故障场景下的行为边界。<br />-具备长连接 / 流式推送系统的实战经验：熟悉 WebSocket 或同类协议的连接管理、订阅模型、增量推送与压缩机制；理解多实例、多区域部署下的路由与一致性问题。<br />-具备平台化与 API 设计能力：能抽象公共框架与基础组件，设计清晰稳定的接口契约与版本兼容策略，让多条业务线在其上高效迭代。<br />-具备服务端安全工程意识：理解鉴权与权限边界、幂等与防重放、限流与防刷、敏感数据与密钥管理，能在涉及资金与用户资产的链路上主动识别风险面。<br />-具备独立设计与推进方案的能力：能独立产出技术方案，说明取舍依据、影响面与回滚路径，并推动落地至上线验收。<br />-具备系统化的线上问题定位能力与严谨的",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-16T08:46:03Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -514,101 +590,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-17T03:04:05Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "Web3 交易/数据/合约核心岗招人，主打 AI Native 协作， Package 给够！",
-      "url": "https://www.v2ex.com/t/1242471#reply1",
-      "location": "香港",
-      "description": "各位 V 友好！<br /><br />我们是一个专注于 Web3 交易基础设施与核心链上业务的团队。目前正在寻找具备系统级架构思维、追求极速与安全的工程师加入我们。<br /><br />如果你厌倦了无意义的重复敲代码，倡导 AI Native 工作流，想挑战端到端负责核心交易/数据系统，欢迎砸简历！<br /><br />---<br /><br />🔥 为什么值得加入我们？<br /><br />1. 极简高效的技术文化：我们鼓励并全面采用 AI Agent (Claude Code) 作为日常主力生产方式，不卷重复体力活，只看你的顶层架构设计与核心逻辑把关。<br />2. 核心业务话语权：拒绝“需求翻译机”，直接端到端对核心交易路由、链上数据管道或 Launchpad 资金安全负全责。<br />3. 具有竞争力的 Package：Base 香港（协助签证），薪资 Package 绝对对得起你的能力（具体面议/年终奖励丰厚）。<br /><br />---<br /><br />🛠 目前热招岗位（ JD 如下）<br /><br />岗位一：高级后端开发工程师（ Senior Backend Engineer ）<br />岗位概述<br />负责公司核心业务平台的平台基础能力与实时数据链路的设计与研发。平台侧涵盖公共框架、基础组件与对外 API ，支撑多条业务线的快速迭代；实时侧以 WebSocket 长连接网关与流式筛选推送引擎为核心，向百万级客户端持续推送高频行情与用户订阅的动态数据。系统跨多个地理区域部署，对时效性、一致性与可用性均有较高要求。<br /><br />岗位职责：<br />-平台基础能力建设 负责公共框架、基础组件与对外 API 的设计与演进，统一接口契约、鉴权、限流与错误语义，支撑多业务线复用与快速交付。<br /><br />-实时数据链路研发 负责长连接网关与流式推送链路的设计与迭代，涵盖订阅模型、增量推送、消息压缩与多区域分发，对推送时效与投递完整性负责。<br /><br />-业务系统交付 负责多条业务线的需求落地，涵盖用户订阅、消息通知、榜单展示、支付与资金流转等方向，独立完成业务分析、数据建模、技术方案设计与端到端交付。<br /><br />-稳定性与架构演进 对所负责系统的线上表现负责：设计指标与日志埋点，建立异常发现与定位手段，治理消费积压、连接抖动、跨区依赖中断与第三方通道异常等容错场景；识别链路瓶颈与重复劳动，推动抽象与架构优化。<br /><br />任职要求：<br />—5 年以上 Go 服务端开发经验，具备高并发实时系统的设计与实现能力；熟悉消息队列（ Kafka ）、关系型数据库、Redis 与 NoSQL 存储的生产实践，理解其在真实故障场景下的行为边界。<br />-具备长连接 / 流式推送系统的实战经验：熟悉 WebSocket 或同类协议的连接管理、订阅模型、增量推送与压缩机制；理解多实例、多区域部署下的路由与一致性问题。<br />-具备平台化与 API 设计能力：能抽象公共框架与基础组件，设计清晰稳定的接口契约与版本兼容策略，让多条业务线在其上高效迭代。<br />-具备服务端安全工程意识：理解鉴权与权限边界、幂等与防重放、限流与防刷、敏感数据与密钥管理，能在涉及资金与用户资产的链路上主动识别风险面。<br />-具备独立设计与推进方案的能力：能独立产出技术方案，说明取舍依据、影响面与回滚路径，并推动落地至上线验收。<br />-具备系统化的线上问题定位能力与严谨的",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-16T08:46:03Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
-      "url": "https://www.v2ex.com/t/1241795#reply182",
-      "location": "远程",
-      "description": "<p>在 AI 编程盛行的今天。招人，用人的成本反而更高了。无法再精确的筛选出合适的人选。</p>\n<p>远程面试， 让闭上眼睛回答问题，已经是基本操作了。\n上个月月底，面试了一个全栈。已经工作了 4 年，基础知识相当扎实。全程闭眼回答问题。\n入职后，让克隆代码，直接点击下载压缩包。</p>\n<p>然后让熟悉代码，开发一个小需求，对接小程序登录接口和获取颜色尺码列表的接口。</p>\n<p>一天后 说做完了。 我让她演示代码。不知道代码路径，不知道接口在哪调用。\n直接让走人了</p>\n<p>现在面试要求加了一条， 试用期不能用 AI agent 直接做需求。需要手写代码</p>\n<p>已经入职的两个人，刚开始也是 agent 一把梭。 但是也能发现代码的不合理。稍微引导一下就能完成重构。</p>\n<p>不知道大家现在是怎么处理这些问题的。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-14T02:49:49Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "留子回国想转型 agent 开发或者继续全栈，求大佬们指点",
-      "url": "https://www.v2ex.com/t/1242168#reply12",
-      "location": "",
-      "description": "<p>楼主 2 月底离职 Amazon ，5 月中旬回国，之后 gap 了一段时间，大概在七月底开始学习，准备面试。\n但是目前感觉知识越学越多，感觉自己之前都太混了，现在感觉想做 agent 要求真的挺高，我暂时有点迷茫</p>\n<ol>\n<li>到什么程度能够去面 agent 开发，我看很多岗位描述都是要求 agent 开发经验，我自己折腾的小项目感觉拿不上台面，如果只是准备好八股文能上吗</li>\n<li>如果去做通用的全栈开发，我自己在 Amazon 的时候没怎么写过 Java 后端，虽然号称全栈但基本上是前端 React + JS + Amazon 内部的后端框架稍微写写 Java 。我需要为此详细的准备 SpringBoot ，Redis 等一系列内容，但是不知道准备到什么程度比较合理，我个人感觉最多背背八股文，搭建一下 demo 。怕一面就挂了</li>\n<li>关于国内的大厂比如阿里字节网易这些，如果有多个目标岗位可以短时间内面试多个岗位吗？我担心没准备好上了挂了一个岗位，后面就难面浪费机会了。</li>\n<li>最关键的是薪资等级，我在 boss 直聘等平台都没有看到岗位写具体的内部等级，我对于国内的薪资没什么数，不知道<a href=\"https://duibiao.info/%EF%BC%9B\" rel=\"nofollow\">这个网站</a>靠谱吗. 我自己在 Amazon 没熬到 L5 签证就到期回来了，不知道能匹配到什么级别（我自己感觉我就阿里 P5 撑死够不到 P6 ）</li>\n</ol>\n<p>可能有点没太多逻辑的说了一堆，求大佬们指点一二。</p>\n<p><a href=\"https://scndwvt8h03t.feishu.cn/file/UokgbxZGUogvUexeb9McPixAn5b\" rel=\"nofollow\">简历在这</a></p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-15T07:32:01Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "remote 高级 Java 架构师（互联网方向 · 搜索系统）",
-      "url": "https://www.v2ex.com/t/1241837#reply9",
-      "location": "remote",
-      "description": "<p>高级 Java 架构师（互联网方向 · 搜索系统）</p>\n<p>我们需要一个能把架构图画在白板上、也能把它落到线上的人。 你要面对的不是一张白纸，而是一套已经跑在百万级流量上、同时还在长的系统，搜索是其中最核心也最难啃的一块。</p>\n<hr />\n<p>岗位画像</p>\n<p>这个岗位有四个不可替代的关键词：百万级流量的真实战场、做过搜索系统、主导过的重构升级、带过人的技术管理者。四者缺一，我们大概率不是彼此合适的选择。</p>\n<p>你会同时对两件事负责：系统的稳定性与演进方向，以及团队的产出与成长。我们希望你既能在故障群里第一个定位到根因，也能在半年后交出一份让团队变强的答卷。</p>\n<hr />\n<p>你将负责</p>\n<ol>\n<li>\n<p>架构设计与演进\n主导核心业务系统的整体架构设计、技术选型与演进规划；在百万级日活/日请求量场景下完成容量规划、性能调优与稳定性建设——限流、降级、熔断、灰度、多活容灾。</p>\n</li>\n<li>\n<p>重构与技术升级\n主导历史系统的重构落地：单体拆分微服务、技术栈升级、数据库治理（分库分表、读写分离、数据迁移）。制定平滑迁移与回滚方案，保证业务零中断或低中断。</p>\n</li>\n<li>\n<p>搜索系统建设\n负责搜索链路的整体架构与持续优化：索引构建与更新机制、召回与排序链路、相关性调优、搜索性能与稳定性；与算法团队协同，把模型能力工程化落到线上可控可回滚。</p>\n</li>\n<li>\n<p>技术攻坚与标准沉淀\n解决系统疑难问题、主导线上重大故障的复盘与改进落地；建立编码规范、接口规范、代码评审与发布流程，持续偿还技术债而不是不断新增技术债。</p>\n</li>\n</ol>\n<hr />\n<p>任职要求</p>\n<p>硬性门槛： 本科及以上计算机相关专业； 8 年以上 Java 开发经验，其中 3 年以上架构设计经验； 2 年以上团队管理经验，独立带过 8 人以上研发团队；有服务过百万级以上用户量或日请求量产品的实战经历；有搜索系统的设计与落地经验。</p>\n<ul>\n<li>JVM 与并发——精通 Java 及 JVM 原理，具备 GC 调优、内存泄漏与线上性能问题排查的实战能力；熟悉并发编程与多线程模型。</li>\n<li>微服务体系——精通 Spring Boot / Spring Cloud （或 Dubbo ），理解服务治理、注册发现、配置中心、链路追踪的机制与边界。</li>\n<li>存储与中间件——精通 MySQL ，具备索引与 SQL 调优、分库分表实践经验；熟悉 Redis 与消息队列在高并发场景下的应用与常见坑点。</li>\n<li>搜索系统——有 Elasticsearch / Solr / Lucene 的生产级实践，独立负责过搜索链路的设计或改造：索引设计与增量更新、分片与集群容量规划、召回与排序策略、相关性调优、慢查询与深分页治理。能说清你的搜索系统数据量级、QPS 与 P99 延迟。</li>\n<li>分布式核心问题——分布式事务、分布式锁、缓存一致性、幂等设计、CAP 权衡，能讲清你的取舍依据。</li>\n<li>云原生与可观测性——熟悉 Docker 、Kubernetes 与 CI/CD ；有 Prometheus / Grafana / ELK / SkyWalking 等监控告警体系建设经验。</li>\n<li>重构案例——能完整讲述一次由你主导的架构升级：背景、方案、遇到的阻力、最终的量化结果，以及如果重来一次你会怎么改。</li>\n</",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-14T04:45:58Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "前端转行有什么推荐的吗？",
-      "url": "https://www.v2ex.com/t/1242147#reply29",
-      "location": "",
-      "description": "前端这个行业嘎了吧？<br /><br />不知道现在转行有什么推荐的行业吗？我目前的想法有下面的俩：<br /><br />1. 后端（ py/js + html)<br />2. agent 开发，跨度比较大，但是听说最近这个行业很火<br />3. other",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-15T06:30:25Z"
     }
   ]
 }
