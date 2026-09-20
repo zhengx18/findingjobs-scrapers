@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:21:49.871451+00:00",
+  "generated_at": "2026-09-20T06:44:46.997823+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "url": "https://supabase.link/orioledbjob",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://supabase.link/orioledbjob\">https://supabase.link/orioledbjob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768220\">https://news.ycombinator.com/item?id=49768220</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 19 Sep 2026 17:01:30 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Cekura (YC F24) Is Hiring",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Mon, 31 Aug 2026 18:15:26 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500471\">https://news.ycombinator.com/item?id=49500471</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Sun, 30 Aug 2026 17:01:56 +0000"
     }
   ],
   "total_entries": 20
