@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:32:36.732333+00:00",
+  "generated_at": "2026-09-25T06:26:37.065358+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "url": "https://www.usestable.com/careers/product-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.usestable.com/careers/product-engineer\">https://www.usestable.com/careers/product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49834893\">https://news.ycombinator.com/item?id=49834893</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 24 Sep 2026 18:29:18 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 01 Sep 2026 07:01:49 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Autonomous (YC F25) is hiring engineers",
-      "url": "https://news.ycombinator.com/item?id=49514781",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514781\">https://news.ycombinator.com/item?id=49514781</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 31 Aug 2026 21:00:09 +0000"
     }
   ],
   "total_entries": 20
