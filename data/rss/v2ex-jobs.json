@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T06:28:12.096089+00:00",
+  "generated_at": "2026-09-27T06:55:16.927763+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,46 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "AI Agent 大量堆代码的时代，怎么管理代码质量还有服务稳定性的",
+      "url": "https://www.v2ex.com/t/1245007#reply5",
+      "location": "",
+      "description": "之前研发自己用 cursor 、copilot 写代码的时候是最开心的，真的节省时间好摸鱼。<br />现在自己用 Codex/Claude Code 开发的功能更复杂了，代码质量更高了，但工作量也急速增加了。<br /><br />而且大量没有开发经验的人用 Codex/Claude Code 堆代码，<br />AI Review 都 review 不过来，线上告警多是非自己负责的模块导致的。<br />并且最近薪资和职责范围都小升了一下，需要带人和负责服务稳定性。这一块有什么好的解决方法吗",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-27T03:37:12Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[Coupang 内推]电商、外卖、搜索推荐、物流、广告、大模型等方向持续招聘，欢迎交流",
+      "url": "https://www.v2ex.com/t/1238194#reply10",
+      "location": "北京",
+      "description": "<p>（本帖长期有效，Coupang 北京、上海、深圳、首尔等多地岗位持续招聘中，岗位开放情况变化比较快，具体可以以官网为准，有兴趣的同学可以加我微信或发简历给我，我会尽量帮大家匹配合适岗位。）</p>\n<p>大家好，我最近刚刚加入 Coupang ，之后也想持续帮对 Coupang 感兴趣的同学做内推。</p>\n<p>趁着最近对公司、团队和招聘流程有了更多了解，我把目前收集到的信息整理成这篇帖子，希望能帮助大家了解 Coupang 、准备面试，也判断这里的岗位是不是适合自己。</p>\n<p>Coupang 对不少国内同学来说可能还比较陌生，但它其实是一家非常有特点的公司：业务根基在韩国电商和本地生活，技术团队则分布在上海、首尔、西雅图、Mountain View 等多个地点。公司的核心业务不是单纯做一个 App 或网页，而是把电商、仓储、物流、配送、搜索推荐、广告、支付、商家平台等一整套复杂系统串起来，这些系统不仅要处理大量用户和订单，还要解决库存是否充足、仓库如何调度、商品怎样更快送达等现实问题。</p>\n<p>如果你对下面这些方向感兴趣，Coupang 可能会比较适合你：</p>\n<ul>\n<li>大规模后端系统、分布式系统、稳定性和平台工程</li>\n<li>电商搜索、推荐、广告、个性化、机器学习</li>\n<li>交易、支付、结算、商家平台、增长和营销系统</li>\n<li>物流履约、仓储、路径规划、地理空间数据、供应链优化</li>\n<li>移动端、前端、消费者体验和运营工具</li>\n<li>想在外企/全球化团队环境中工作，但又希望业务离真实商业场景更近</li>\n</ul>\n<p>本文比较长，为了节省大家时间，我先列出问题目录，大家可以直接跳到自己关心的部分：</p>\n<p>Q1: Coupang 是一家什么样的公司？\nQ2: Coupang 最值得关注的特点是什么？\nQ3: Coupang 现在有哪些岗位和工作地点？\nQ4: 申请 Coupang 需要什么样的门槛？\nQ5: Coupang 的面试流程大概是什么样？\nQ6: 针对 Coupang 面试需要做哪些准备？\nQ7: 英文不好是不是就没有机会？\nQ8: Coupang 的技术栈和技术挑战是什么样？\nQ9: Coupang 的工作节奏怎么样，会不会很卷？\nQ10: Coupang 适合什么样的人，不适合什么样的人？\nQ11: Coupang 的薪资待遇怎么样？\nQ12: 如果我不确定投哪个岗位，应该怎么办？\nQ13: 怎么找我内推？</p>\n<p>Q1: Coupang 是一家什么样的公司？\nA: Coupang 可以理解为一家用技术和运营重构电商体验的公司。它最有代表性的业务是 Rocket Delivery ，也就是很多韩国用户非常熟悉的快速配送体验。和纯线上互联网产品不同，Coupang 的难点在于它要同时处理线上流量、商品供给、仓储、预测、履约、配送、退货、会员、内容、广告等复杂链路。</p>\n<p>这意味着工程师做的很多事情不是“页面上多一个按钮”或者“接口多一个字段”这么简单，而是会影响真实世界里的库存、路径、时效、成本和用户体验。对喜欢复杂系统、业务闭环和真实影响力的同学来说，这会是一个很有意思的地方。</p>\n<p>Q2: Coupang 最值得关注的特点是什么？\nA: Coupang 既有上市公司和全球团队的资源，也保留了较强的行动速度、owner 意识和结果导向。工程团队面对的不只是线上产品问题，还需要把商品、库存、仓储、配送和用户体验连接起来，在真实的",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-08-30T10:52:11Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "9 年全栈 大厂工作经验寻 web3 相关的开发工作",
-      "url": "https://www.v2ex.com/t/1244873#reply0",
+      "url": "https://www.v2ex.com/t/1244873#reply2",
       "location": "远程",
       "description": "<p>白天重新发一遍，昨晚发的太晚了，谢谢大家</p>\n<p>各位 V 友大家好， 我是一名拥有 9 年全栈开发经验的工程师，主攻后端，兼顾前端与架构。技术栈以 Golang 、Node.js 、PHP 为核心，同时熟悉 Python 、React/Vue 等，能独立完成从需求分析到交付的全链路开发。</p>\n<p>为什么找我？</p>\n<p>经验扎实：多年一线互联网公司经历，处理过高并发、微服务、分布式事务、缓存优化等复杂场景，代码质量与系统稳定性有保障。</p>\n<p>技术适配：</p>\n<p>WEB3 方向：了解以太坊/智能合约交互、DApp 后端架构、节点通信、签名验签等，能快速融入链上业务。</p>\n<p>AI 方向：熟练对接 OpenAI 、Claude 等大模型 API ，做过 RAG 应用、Prompt 工程、AI 工作流编排，也懂基础的模型微调与数据处理。</p>\n<p>兼职优势：当前自由时间非常充裕，可投入 每天 6~8 小时，支持按项目/按工时/按里程碑多种合作方式，响应及时（工作日秒回，周末也可协商）。</p>\n<p>远程经验：过去 3 年一直远程办公，沟通高效，文档规范，习惯使用 Slack 、钉钉、飞书、Zoom 等工具，与团队协作无障碍。</p>\n<p>我能为你做什么？</p>\n<p>从 0 到 1 快速搭建 MVP 或原型系统</p>\n<p>现有项目性能优化、技术债清理、架构升级</p>\n<p>与 AI / 区块链相关的 API 服务、数据处理流水线、自动化脚本</p>\n<p>技术方案咨询、代码审查、疑难问题攻坚</p>\n<p>联系方式：a8coin</p>\n<p>加我时请备注 “V2EX 兼职” 及大致需求，我会第一时间回复并附上简历/作品集（如 GitHub 或项目案例）。</p>\n<p>感谢各位大佬捞一把，期待能帮上忙，也欢迎先聊一聊，合不合适都没关系 👍</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -49,7 +87,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "agent 开发以后会被淘汰吗",
-      "url": "https://www.v2ex.com/t/1244747#reply13",
+      "url": "https://www.v2ex.com/t/1244747#reply14",
       "location": "",
       "description": "agent 开发，比如 ai 客服，这类的工作，业务前景怎么样<br /><br /><br />agent 如果以后都被并进大模型里面，那么业务的开发还能转什么方向",
       "source": "gh-relay/v2ex-jobs",
@@ -159,7 +197,83 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-23T10:14:51Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "深圳南山，持牌港美股交易平台招聘（设计 / 产品 / 前端 / 测试 / 后端）",
+      "url": "https://www.v2ex.com/t/1244341#reply1",
+      "location": "深圳",
+      "description": "坐标深圳南山，持牌港美股交易平台<br />简历投递邮箱 bmFjaHQuY2FpQGF2ZW5pcnguY29t<br /><br /># 全球港美股交易平台招聘（设计 / 产品 / 前端 / 测试 / 后端）<br /><br />覆盖交易 App 、Web 、H5 全端，产品面向全球用户。更新日期：2026-07-29 。<br /><br />## 通用要求<br /><br />以下各岗位均适用：<br /><br />1. 能用主流的 AI 工具提升效率。编码类包括 Cursor 、Claude Code 、GitHub Copilot ，设计类包括 Midjourney 、Stable Diffusion 、Figma AI 等。<br />2. 掌握与岗位匹配的主流技术栈和工具链，保持对新工具的关注。<br />3. 适应敏捷迭代节奏，熟悉 Scrum / Kanban 、双周冲刺和 CI/CD 持续交付。<br />4. 有跨职能协作意识，对结果负责，有 Owner 心态。<br /><br />## 档位说明<br /><br />- 中级：3 年以上相关经验，能独立交付。<br />- 高级：5 年以上经验，能主导设计与技术决策、带教新人。<br /><br />两档都要求 AI 工具用得熟练、技术栈够新、能适应敏捷节奏。<br /><br />## 一、设计师（视觉 / 产品设计）<br /><br />### 1.1 高级设计师<br /><br />岗位定位：主导交易产品（ App / Web / H5 ）的视觉与体验设计，建立可复用的设计系统，对核心链路的视觉表达和转化负责。<br /><br />岗位职责：<br /><br />1. 主导产品视觉方向，从 brief 到概念、执行、制作全程把控，保证 iOS / Android / Web / H5 多端品牌和体验一致。<br />2. 搭建并持续维护设计系统（ Design System / Token 体系），沉淀可复用组件规范，和前端一起推进组件化落地。<br />3. 负责获客和增长类视觉物料，包括活动海报、Banner 、信息流广告、落地页，根据转化数据持续优化，提升点击和留存。<br />4. 设计交易核心场景（ K 线、深度图、订单簿、持仓、强平提示），兼顾专业性和阅读效率，与产品、风控团队对齐信息层级。<br />5. 指导中初级设计师，组织设计评审，推动设计规范迭代和团队能力提升。<br /><br />任职要求：<br /><br />1. 本科及以上学历，设计、人机交互、视觉传达等相关专业； 5 年以上 UI / UX 或视觉设计经验，有金融、券商或交易类产品经验更佳。<br />2. 熟练使用 Figma （ Variables / Auto Layout / Dev Mode ）和 Adobe 套件；会 C4D / Blender 等 3D 工具加分。<br />3. 会用 Midjourney / Stable Diffusion / Figma AI 等生成式工具辅助设计，重点是提高出图效率，审美判断仍由人来做。<br />4. 有产品思维和交互设计能力，习惯用数据做设计决策；做过跨语言、跨币种金融产品本地化设计是加分项。<br />5. 英文沟通流畅者优先，产品面向全球用户。<br /><br />### 1.2 中级设计师<br /><br />岗位定位：独立交付产品模块的视觉与交互设计，在高级设计师指导下参与设计系统建设。<br",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-23T12:53:40Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[上海] 招聘前端工程师兼设计师（跨境支付行业）",
+      "url": "https://www.v2ex.com/t/1241300#reply0",
+      "location": "上海",
+      "description": "<p><a href=\"https://emq.com\" rel=\"nofollow\">EMQ</a>是一家提供跨境支付基础设施的公司，客户包括支付宝、腾讯支付和各类金融机构。目前研发团队在上海招聘一个职位：</p>\n<p>要求：</p>\n<ul>\n<li>有丰富的 web 前端开发经验（ TypeScript/CSS/HTML 及相关技术栈和 toolchain ）</li>\n<li>有比较好的英语沟通能力（工作语言为英语，需要用英语进行内部沟通）</li>\n<li>有积极的工作态度和好的协作心态</li>\n<li>\n加分项：<ul>\n<li>有一定前端设计经验</li>\n<li>支付行业工作经验（非必需）</li>\n</ul>\n</li>\n</ul>\n<p>职责：</p>\n<ul>\n<li>参与面向客户和内部员工的 web portal 的设计和开发</li>\n<li>参与新产品的讨论、设计和开发</li>\n</ul>\n<p>上海办公室靠近北外滩。请发送简历至 <a href=\"mailto:hong@emq.com\">hong@emq.com</a> ，如果有问题也欢迎发 email 询问。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-11T04:48:31Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[求职][北京] 11 年后端/架构，近阶段主做 LLM / AI Agent，求 AI 应用开发方向",
+      "url": "https://www.v2ex.com/t/1244009#reply2",
+      "location": "北京",
+      "description": "<p>11 年左右后端研发及系统架构经验，长期使用 Go ，具备 Python 开发经验。前期主要从事分布式系统、微服务及平台架构，近阶段主要从事 LLM / AI Agent 应用工程，包括多模型接入、Model Gateway 、Agent Workflow 、MCP 、长任务以及 AI 应用商业化相关系统。</p>\n<p>感兴趣的话可以 V2EX 私信我，我可以提供完整简历进一步沟通。</p>\n<p>[求职方向] </p>\n<p>优先考虑：</p>\n<ul>\n<li>AI Agent 开发工程师</li>\n<li>AI 应用开发工程师 </li>\n<li>AI 平台 / AI Infra 应用层方向</li>\n<li>偏 Agent 工程化的后端架构岗位</li>\n</ul>\n<p>相比纯模型训练/算法研究，更偏向：</p>\n<p>LLM + Agent + 后端系统架构 + 工程化落地。</p>\n<p>[工作地点] </p>\n<p>北京优先。</p>\n<p>合适的机会可以具体沟通。</p>\n<p>[个人背景] </p>\n<ul>\n<li>11 年左右后端研发及系统架构经验</li>\n<li>长期使用 Go 进行后端及分布式系统开发</li>\n<li>有 Python / Django 开发经历，也做过 PyTorch / 深度学习相关技术预研</li>\n<li>近阶段主要从事 AI 应用平台、LLM Model Gateway 、Agent 长任务及相关商业化系统建设</li>\n<li>有从 0 到 1 服务设计、核心模块开发、存量系统重构及微服务化经验</li>\n<li>有复杂任务系统、支付/计费、配额、状态机、并发控制、可靠性治理等工程经验</li>\n<li>持续关注 AI Agent 生态，业余有开源项目、技术博客及技术内容输出</li>\n</ul>\n<p>[核心技术栈] </p>\n<p>Go / Python / MySQL / Redis / Kafka / Docker / 微服务</p>\n<p>LLM &amp; Agent：\nModel Gateway / Agentic Workflow / Function Calling / MCP / Prompt Engineering</p>\n<p>AI 工程化：\n多模型接入 / 模型路由 / 异步长任务 / SSE / Retry &amp; Fallback / 配额计费</p>\n<p>RAG：\n熟悉 RAG Pipeline 、Hybrid Search 、Rerank 、Vector DB 、GraphRAG 等相关技术</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-22T08:53:58Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "扫地大妈、保安大爷使用 AI Agent，能否替代程序员？",
+      "url": "https://www.v2ex.com/t/1243894#reply100",
+      "location": "",
+      "description": "现在 AI Agent 的能力越来越强，很多代码已经可以直接让 AI 生成<br /><br />那是不是可以换一种思路：不一定非要招聘程序员，而是招聘普通人，再给每个人配一个每月 1000 美元额度的 AI Agent ，让 AI 负责写代码，普通人负责描述需求、测试和验收<br /><br />毕竟一个高级程序员的成本，可能相当于多个普通员工。既然 AI 已经能完成大量编码工作，那么“普通人 + AI Agent”是否有可能替代部分程序员的工作？",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-22T03:14:33Z"
     }
   ],
-  "total_entries": 40
+  "total_entries": 50
 }
