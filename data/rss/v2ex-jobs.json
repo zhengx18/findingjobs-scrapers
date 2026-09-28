@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:55:16.927763+00:00",
+  "generated_at": "2026-09-28T07:23:59.445601+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,27 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "开源一个帮我 30 天内找到 50+%薪资涨幅工作的 skill 组",
+      "url": "https://www.v2ex.com/t/1245050#reply12",
+      "location": "",
+      "description": "<p>最近用 Claude Code 辅助找工作，把研究市场、找岗位、投递和面试准备串成了一套工作流。实际用下来，我想留下的是一套能持续积累材料、根据反馈调整的求职方法，现在整理成 Skills 开源出来，欢迎试用和一起完善。</p>\n<p><a href=\"https://github.com/gilgameshcc/ai-native-jobhunt\" rel=\"nofollow\">https://github.com/gilgameshcc/ai-native-jobhunt</a></p>\n<h3>怎么运行</h3>\n<p>主体是 Markdown ，分工比较直接：</p>\n<ul>\n<li><strong>Skills 定义步骤和判断</strong>：需要哪些输入、怎样筛选岗位、信息不全时补查什么、下一步做什么。</li>\n<li><strong>本地文件保存进度</strong>：自己的经历、岗位信息、材料版本、投递记录和面试反馈可以持续积累，后续任务接着用。</li>\n<li><strong>浏览器工具执行平台操作</strong>：Agent 按流程查岗位、填写和投递，再核验结果、更新记录。实际执行需要接上可用的浏览器工具并授权；定时运行另配调度。</li>\n</ul>\n<p>仓库里提供 Skills 、模板、虚构样例和平台适配格式，另有可选的简历 PDF 工具。模块可以单独用，也可以连起来：</p>\n<ol>\n<li><strong>理解市场、找机会</strong>：从自己的经历出发，研究相关产品、公司和团队，核实招聘岗位，也探索原本没想到的相邻方向。</li>\n<li><strong>筛选和投递</strong>：按求职条件筛选，用真实经历准备材料，推进投递、去重、记录回应。发送结果不明确时先核实，避免重复操作。</li>\n<li><strong>持续支持面试</strong>：面试前做公司研究、梳理项目经历和要问的问题；面试后记下实际问题、没讲清的地方，更新下一场准备。</li>\n<li><strong>用反馈迭代</strong>：回看岗位、材料版本和回应，调整表达、补充经历证据，或者重新探索方向。</li>\n</ol>\n<p>这套流程把相邻机会探索、面试反馈和进度记录接在一起：可以多看一些原本没想到的方向，把上一场面试的反馈用于下一场准备，也减少靠记忆管理进度和待办的负担。</p>\n<h3>我自己的使用情况</h3>\n<p>我已经在自己的 BOSS 直聘环境里做过实际测试和使用，效果很好。接上浏览器执行工具后，整体自动化程度比较高，查找筛选、材料整理、投递推进和记录更新等步骤主要交给 Agent 。我提供真实经历和求职条件，参加面试，再把反馈交回去。</p>\n<p>这次找工作用了一个月，探索了 5000 多岗位，打了了 400 多招呼，面试 20 多场，拿到 3 个 offer ，薪资涨幅 50%+。</p>\n<p>其他招聘平台、公司官网招聘页和网页申请流程，也可以尝试用同样的浏览器驱动方式适配。不同网站的读取、填写和提交确认需要分别验证，欢迎大家补充实际走通的步骤和遇到的问题。</p>\n<h3>怎么开始</h3>\n<p>把仓库链接交给能联网、读写本地文件的 Agent ，例如 Claude Code 、Codex 或 Cursor ，让它下载配置 Skills 、初始化求职工作区，并根据你的方向和经历带你开始；遇到配置问题先让它排查，需要资料时再补充。</p>\n<p>可以先找一轮机会，或者复盘一场已经结束的面试。要",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-27T09:55:40Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "AI Agent 大量堆代码的时代，怎么管理代码质量还有服务稳定性的",
-      "url": "https://www.v2ex.com/t/1245007#reply5",
+      "url": "https://www.v2ex.com/t/1245007#reply7",
       "location": "",
       "description": "之前研发自己用 cursor 、copilot 写代码的时候是最开心的，真的节省时间好摸鱼。<br />现在自己用 Codex/Claude Code 开发的功能更复杂了，代码质量更高了，但工作量也急速增加了。<br /><br />而且大量没有开发经验的人用 Codex/Claude Code 堆代码，<br />AI Review 都 review 不过来，线上告警多是非自己负责的模块导致的。<br />并且最近薪资和职责范围都小升了一下，需要带人和负责服务稳定性。这一块有什么好的解决方法吗",
       "source": "gh-relay/v2ex-jobs",
@@ -87,7 +106,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "agent 开发以后会被淘汰吗",
-      "url": "https://www.v2ex.com/t/1244747#reply14",
+      "url": "https://www.v2ex.com/t/1244747#reply15",
       "location": "",
       "description": "agent 开发，比如 ai 客服，这类的工作，业务前景怎么样<br /><br /><br />agent 如果以后都被并进大模型里面，那么业务的开发还能转什么方向",
       "source": "gh-relay/v2ex-jobs",
@@ -121,6 +140,44 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-25T05:55:32Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[招聘] 「迪拜/全远程」 Kapibala AI 诚聘全栈开发工程师 (AI Native)",
+      "url": "https://www.v2ex.com/t/1244320#reply8",
+      "location": "远程",
+      "description": "AI 全栈工程师<br />Full-Stack Engineer AI Native<br />Base 迪拜/全远程(二选一) · 全职 · 3 年以上经验(参考)<br /><br />有一件事值得先说清楚,因为它基本决定了你会不会喜欢这里:我们是真的靠 AI 工具在交付。过去一个月合并了七百多个 PR,非合并提交里超过一半带着 AI 协作者的署名。也正因为如此,我们把\"怎么确认它是对的”做成了制度:机器闸、独立验收、可观测性要求,都是写进流程里的硬约束。用得猛和管得严,在这里是同一件事的两面。<br /><br />关于这个机会<br />① “一人到底”是真的,含义也比听上去重。<br />按模块切,每人前后端全包,模块内怎么实现由你自己定,不需要先写方案等人批。代价是”到底\"包含最后一公里:要一直推到独立验收通过、业务同事也真用过并认可,才算结束。动到多人共用的公共部分和数据库结构变更时,需要先出方案、和受影响的同事一起过一遍。这部分我们不含糊,因为它们的影响面是全局的。<br />② 把 AI 能力接进产品,是一个刚打开的工作面。出于安全约束,今天线上的模型推理不开放工具调用;要让产品里的 AI 从“给建议的副驾”走到”能替客户办事”,这条线基本是从零搭起,是接下来一年最大的一块新增量。agent 内核本身(记忆、知识检索、人设组装、模型调度)由专门的团队负责;你的活是把这些能力真正接进一个有客户在用的产品:接口契约、状态持久化、并发与限流、失败降级、人工接管与留痕、前端交互、用量计量。这是全栈工程的活,不是模型调优的活。<br />③ 有几道真正的工程题在等人。多租户与组织层级正在落地(子树可见性、防环、读写两侧口径一致);再往后是两块已经排进路线的深水区——本地文件存储云化,以及把 IM 连接层从单进程拆成按租户调度的 worker 池。这些不是”以后可能会做”,是有排期的题。<br />④ 你的判断会被认真挑战,而不是被流程磨平。团队小,决定谁来做、怎么做的链条很短,提一个方案会得到具体的技术反驳,而不是一句\"走个流程”。对应地,你负责的模块从设计到线上表现都由你自己 own 。这是\"一人到底\"真正的分量。<br /><br />岗位职责<br />日常是混着来的,不是分阶段的。<br /><br />现网产品:功能交付与线上运行<br />① 承接完整功能模块的端到端交付:需求拆解→接口设计数据库结构与迁移→后端实现→前端页面→上线观察。前端在这里是与后端同量级的主战场,不是\"接口联调之外顺手写的页面”。<br />② 把问题收到根上。跨语种的内容判定、消息的幂等与顺序、长连接断开后的状态恢复。这类问题的共同点是,表面症状只是一个点,真正的工作是把同一类情况一次梳理干净。我们看重的是后者。<br />③ 持续的架构演进:拆分过大的模块、收敛重复实现、为关键路径补上自动化测试与可观测性。在有存量、有客户、不能停机的系统里安全地做这件事,比在空地上重建更考验判断。这也是我们最看重的能力之一。<br />Go 重写:在新仓里承接模块<br />④ 按模块承接后端重构:读懂现网这块业务真正的行为,在新架构里重新实现它。迁功能不迁文件,只带走经过验证的业务语义。<br />⑤ 在新架构的硬约束下工作,并参与把它建起来:状态只落 PostgreSQL 一层(锁与租约进库,与被保护的数据同一个事务)、一张表只归一个模块、状态转换只走中心化的统一入口。约束本身可以讨论,但不能绕——它们是写死在 CI 里的。<br />⑥ 维护现网已有的 G",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-23T10:14:51Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[求职][北京] 11 年后端/架构，近阶段主做 LLM / AI Agent，求 AI 应用开发方向",
+      "url": "https://www.v2ex.com/t/1244009#reply3",
+      "location": "北京",
+      "description": "<p>11 年左右后端研发及系统架构经验，长期使用 Go ，具备 Python 开发经验。前期主要从事分布式系统、微服务及平台架构，近阶段主要从事 LLM / AI Agent 应用工程，包括多模型接入、Model Gateway 、Agent Workflow 、MCP 、长任务以及 AI 应用商业化相关系统。</p>\n<p>感兴趣的话可以 V2EX 私信我，我可以提供完整简历进一步沟通。</p>\n<p>[求职方向] </p>\n<p>优先考虑：</p>\n<ul>\n<li>AI Agent 开发工程师</li>\n<li>AI 应用开发工程师 </li>\n<li>AI 平台 / AI Infra 应用层方向</li>\n<li>偏 Agent 工程化的后端架构岗位</li>\n</ul>\n<p>相比纯模型训练/算法研究，更偏向：</p>\n<p>LLM + Agent + 后端系统架构 + 工程化落地。</p>\n<p>[工作地点] </p>\n<p>北京优先。</p>\n<p>合适的机会可以具体沟通。</p>\n<p>[个人背景] </p>\n<ul>\n<li>11 年左右后端研发及系统架构经验</li>\n<li>长期使用 Go 进行后端及分布式系统开发</li>\n<li>有 Python / Django 开发经历，也做过 PyTorch / 深度学习相关技术预研</li>\n<li>近阶段主要从事 AI 应用平台、LLM Model Gateway 、Agent 长任务及相关商业化系统建设</li>\n<li>有从 0 到 1 服务设计、核心模块开发、存量系统重构及微服务化经验</li>\n<li>有复杂任务系统、支付/计费、配额、状态机、并发控制、可靠性治理等工程经验</li>\n<li>持续关注 AI Agent 生态，业余有开源项目、技术博客及技术内容输出</li>\n</ul>\n<p>[核心技术栈] </p>\n<p>Go / Python / MySQL / Redis / Kafka / Docker / 微服务</p>\n<p>LLM &amp; Agent：\nModel Gateway / Agentic Workflow / Function Calling / MCP / Prompt Engineering</p>\n<p>AI 工程化：\n多模型接入 / 模型路由 / 异步长任务 / SSE / Retry &amp; Fallback / 配额计费</p>\n<p>RAG：\n熟悉 RAG Pipeline 、Hybrid Search 、Rerank 、Vector DB 、GraphRAG 等相关技术</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-22T08:53:58Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -159,120 +216,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-23T14:21:17Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[腾讯云][深圳/北京/上海][业务负责人直招]Agent Runtime/云原生｜实习/校招/社招",
-      "url": "https://www.v2ex.com/t/1244365#reply0",
-      "location": "深圳",
-      "description": "<p>大家好，我叫 Gary ，是腾讯云 Agent Runtime 与云原生团队业务负责人。</p>\n<p>团队目前在招 2028 届日常实习、2027 届校招，以及社会招聘。工作地点深圳 / 北京 / 上海，我会自己看简历并参与沟通。</p>\n<h2>团队做什么</h2>\n<p>我们负责腾讯云容器服务 TKE 、Serverless 和 Agent Runtime 等产品与基础设施能力。</p>\n<p>技术范围从 CPU/GPU 、网络、存储，到虚拟机、MicroVM 、容器、Kubernetes 、调度、Serverless 、弹性和资源效率；面向 Agent ，还包括 Sandbox 、Session 、Workspace 、Memory 、Tool 、Identity 、Harness 等能力。</p>\n<p>既使用 Kubernetes 、Linux 、KVM/QEMU 等开源技术，也有大量面向大规模生产环境的自研系统。</p>\n<p>TKE 整体承载数千万核计算资源，内部支撑微信、QQ 、腾讯会议、王者荣耀等业务，也支撑腾讯云和 TKE 自身；外部服务小红书、美团、富途、微众等客户。</p>\n<p>Agent Runtime 已支持 WorkBuddy 、CodeBuddy 、IMA 、元宝等腾讯内部产品，也服务智谱、MiniMax 等 AI 客户的强化学习场景，承载数百万级 Sandbox 。</p>\n<p>目前会碰到的技术问题包括 Kubernetes 与资源调度、虚拟化与 MicroVM 、网络存储、CPU/GPU 资源效率，以及 Agent Sandbox 、Session / State 、Checkpoint / Recovery 、Memory 、Tool Execution 、Harness 、多 Agent 协同等。</p>\n<h2>招聘方向</h2>\n<p>整体包括 Agent Runtime / Sandbox 、Kubernetes 、调度与资源效率、虚拟化与 OS 、网络、存储、GPU / 异构计算、AI 产品工程、Developer Platform 、国际化，以及技术产品、解决方案架构师、资源运营等。</p>\n<h3>日常实习｜ 2028 届</h3>\n<p>更看重好奇心和动手能力。</p>\n<p>如果你在课程之外，因为喜欢或者单纯觉得某件事情很酷，自己花时间做过一些东西，即使它看起来“不太有用”，也很欢迎发给我。</p>\n<h3>校园招聘｜ 2027 届</h3>\n<p>希望除了基础和兴趣之外，已经有一些实际项目能体现自己的投入和能力，例如个人项目、开源贡献、实习、科研或者长期投入形成的作品。</p>\n<h3>社会招聘</h3>\n<p>不限毕业年份。</p>\n<p>持续在看高级工程师、技术专家、TL / 研发负责人、技术产品、解决方案架构师、资源运营和国际化方向。</p>\n<p>对社招，我比较看重工作多年之后是否依然对技术和产品有兴趣、有自己的判断，也愿意继续学习和尝试新东西。</p>\n<p>专家和 TL 会进一步关注技术判断、体系化架构、关键问题攻坚、生产落地和 Hands-on 能力。</p>\n<h2>技术产品 / 解决方案</h2>\n<p>欢迎研发背景转技术产品或解决方案架构师。</p>\n<p>我们的技术产品不是纯 PRD 岗位，<strong>产品也要写代码</strong>，需要理解架构、做 Prototype 、验证技术路径，再把客户问题抽象成产品能力。</p>\n<h2>团队工作方式</h",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-23T15:21:14Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[招聘] 「迪拜/全远程」 Kapibala AI 诚聘全栈开发工程师 (AI Native)",
-      "url": "https://www.v2ex.com/t/1244320#reply7",
-      "location": "远程",
-      "description": "AI 全栈工程师<br />Full-Stack Engineer AI Native<br />Base 迪拜/全远程(二选一) · 全职 · 3 年以上经验(参考)<br /><br />有一件事值得先说清楚,因为它基本决定了你会不会喜欢这里:我们是真的靠 AI 工具在交付。过去一个月合并了七百多个 PR,非合并提交里超过一半带着 AI 协作者的署名。也正因为如此,我们把\"怎么确认它是对的”做成了制度:机器闸、独立验收、可观测性要求,都是写进流程里的硬约束。用得猛和管得严,在这里是同一件事的两面。<br /><br />关于这个机会<br />① “一人到底”是真的,含义也比听上去重。<br />按模块切,每人前后端全包,模块内怎么实现由你自己定,不需要先写方案等人批。代价是”到底\"包含最后一公里:要一直推到独立验收通过、业务同事也真用过并认可,才算结束。动到多人共用的公共部分和数据库结构变更时,需要先出方案、和受影响的同事一起过一遍。这部分我们不含糊,因为它们的影响面是全局的。<br />② 把 AI 能力接进产品,是一个刚打开的工作面。出于安全约束,今天线上的模型推理不开放工具调用;要让产品里的 AI 从“给建议的副驾”走到”能替客户办事”,这条线基本是从零搭起,是接下来一年最大的一块新增量。agent 内核本身(记忆、知识检索、人设组装、模型调度)由专门的团队负责;你的活是把这些能力真正接进一个有客户在用的产品:接口契约、状态持久化、并发与限流、失败降级、人工接管与留痕、前端交互、用量计量。这是全栈工程的活,不是模型调优的活。<br />③ 有几道真正的工程题在等人。多租户与组织层级正在落地(子树可见性、防环、读写两侧口径一致);再往后是两块已经排进路线的深水区——本地文件存储云化,以及把 IM 连接层从单进程拆成按租户调度的 worker 池。这些不是”以后可能会做”,是有排期的题。<br />④ 你的判断会被认真挑战,而不是被流程磨平。团队小,决定谁来做、怎么做的链条很短,提一个方案会得到具体的技术反驳,而不是一句\"走个流程”。对应地,你负责的模块从设计到线上表现都由你自己 own 。这是\"一人到底\"真正的分量。<br /><br />岗位职责<br />日常是混着来的,不是分阶段的。<br /><br />现网产品:功能交付与线上运行<br />① 承接完整功能模块的端到端交付:需求拆解→接口设计数据库结构与迁移→后端实现→前端页面→上线观察。前端在这里是与后端同量级的主战场,不是\"接口联调之外顺手写的页面”。<br />② 把问题收到根上。跨语种的内容判定、消息的幂等与顺序、长连接断开后的状态恢复。这类问题的共同点是,表面症状只是一个点,真正的工作是把同一类情况一次梳理干净。我们看重的是后者。<br />③ 持续的架构演进:拆分过大的模块、收敛重复实现、为关键路径补上自动化测试与可观测性。在有存量、有客户、不能停机的系统里安全地做这件事,比在空地上重建更考验判断。这也是我们最看重的能力之一。<br />Go 重写:在新仓里承接模块<br />④ 按模块承接后端重构:读懂现网这块业务真正的行为,在新架构里重新实现它。迁功能不迁文件,只带走经过验证的业务语义。<br />⑤ 在新架构的硬约束下工作,并参与把它建起来:状态只落 PostgreSQL 一层(锁与租约进库,与被保护的数据同一个事务)、一张表只归一个模块、状态转换只走中心化的统一入口。约束本身可以讨论,但不能绕——它们是写死在 CI 里的。<br />⑥ 维护现网已有的 G",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-23T10:14:51Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "深圳南山，持牌港美股交易平台招聘（设计 / 产品 / 前端 / 测试 / 后端）",
-      "url": "https://www.v2ex.com/t/1244341#reply1",
-      "location": "深圳",
-      "description": "坐标深圳南山，持牌港美股交易平台<br />简历投递邮箱 bmFjaHQuY2FpQGF2ZW5pcnguY29t<br /><br /># 全球港美股交易平台招聘（设计 / 产品 / 前端 / 测试 / 后端）<br /><br />覆盖交易 App 、Web 、H5 全端，产品面向全球用户。更新日期：2026-07-29 。<br /><br />## 通用要求<br /><br />以下各岗位均适用：<br /><br />1. 能用主流的 AI 工具提升效率。编码类包括 Cursor 、Claude Code 、GitHub Copilot ，设计类包括 Midjourney 、Stable Diffusion 、Figma AI 等。<br />2. 掌握与岗位匹配的主流技术栈和工具链，保持对新工具的关注。<br />3. 适应敏捷迭代节奏，熟悉 Scrum / Kanban 、双周冲刺和 CI/CD 持续交付。<br />4. 有跨职能协作意识，对结果负责，有 Owner 心态。<br /><br />## 档位说明<br /><br />- 中级：3 年以上相关经验，能独立交付。<br />- 高级：5 年以上经验，能主导设计与技术决策、带教新人。<br /><br />两档都要求 AI 工具用得熟练、技术栈够新、能适应敏捷节奏。<br /><br />## 一、设计师（视觉 / 产品设计）<br /><br />### 1.1 高级设计师<br /><br />岗位定位：主导交易产品（ App / Web / H5 ）的视觉与体验设计，建立可复用的设计系统，对核心链路的视觉表达和转化负责。<br /><br />岗位职责：<br /><br />1. 主导产品视觉方向，从 brief 到概念、执行、制作全程把控，保证 iOS / Android / Web / H5 多端品牌和体验一致。<br />2. 搭建并持续维护设计系统（ Design System / Token 体系），沉淀可复用组件规范，和前端一起推进组件化落地。<br />3. 负责获客和增长类视觉物料，包括活动海报、Banner 、信息流广告、落地页，根据转化数据持续优化，提升点击和留存。<br />4. 设计交易核心场景（ K 线、深度图、订单簿、持仓、强平提示），兼顾专业性和阅读效率，与产品、风控团队对齐信息层级。<br />5. 指导中初级设计师，组织设计评审，推动设计规范迭代和团队能力提升。<br /><br />任职要求：<br /><br />1. 本科及以上学历，设计、人机交互、视觉传达等相关专业； 5 年以上 UI / UX 或视觉设计经验，有金融、券商或交易类产品经验更佳。<br />2. 熟练使用 Figma （ Variables / Auto Layout / Dev Mode ）和 Adobe 套件；会 C4D / Blender 等 3D 工具加分。<br />3. 会用 Midjourney / Stable Diffusion / Figma AI 等生成式工具辅助设计，重点是提高出图效率，审美判断仍由人来做。<br />4. 有产品思维和交互设计能力，习惯用数据做设计决策；做过跨语言、跨币种金融产品本地化设计是加分项。<br />5. 英文沟通流畅者优先，产品面向全球用户。<br /><br />### 1.2 中级设计师<br /><br />岗位定位：独立交付产品模块的视觉与交互设计，在高级设计师指导下参与设计系统建设。<br",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-23T12:53:40Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[上海] 招聘前端工程师兼设计师（跨境支付行业）",
-      "url": "https://www.v2ex.com/t/1241300#reply0",
-      "location": "上海",
-      "description": "<p><a href=\"https://emq.com\" rel=\"nofollow\">EMQ</a>是一家提供跨境支付基础设施的公司，客户包括支付宝、腾讯支付和各类金融机构。目前研发团队在上海招聘一个职位：</p>\n<p>要求：</p>\n<ul>\n<li>有丰富的 web 前端开发经验（ TypeScript/CSS/HTML 及相关技术栈和 toolchain ）</li>\n<li>有比较好的英语沟通能力（工作语言为英语，需要用英语进行内部沟通）</li>\n<li>有积极的工作态度和好的协作心态</li>\n<li>\n加分项：<ul>\n<li>有一定前端设计经验</li>\n<li>支付行业工作经验（非必需）</li>\n</ul>\n</li>\n</ul>\n<p>职责：</p>\n<ul>\n<li>参与面向客户和内部员工的 web portal 的设计和开发</li>\n<li>参与新产品的讨论、设计和开发</li>\n</ul>\n<p>上海办公室靠近北外滩。请发送简历至 <a href=\"mailto:hong@emq.com\">hong@emq.com</a> ，如果有问题也欢迎发 email 询问。</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-11T04:48:31Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[求职][北京] 11 年后端/架构，近阶段主做 LLM / AI Agent，求 AI 应用开发方向",
-      "url": "https://www.v2ex.com/t/1244009#reply2",
-      "location": "北京",
-      "description": "<p>11 年左右后端研发及系统架构经验，长期使用 Go ，具备 Python 开发经验。前期主要从事分布式系统、微服务及平台架构，近阶段主要从事 LLM / AI Agent 应用工程，包括多模型接入、Model Gateway 、Agent Workflow 、MCP 、长任务以及 AI 应用商业化相关系统。</p>\n<p>感兴趣的话可以 V2EX 私信我，我可以提供完整简历进一步沟通。</p>\n<p>[求职方向] </p>\n<p>优先考虑：</p>\n<ul>\n<li>AI Agent 开发工程师</li>\n<li>AI 应用开发工程师 </li>\n<li>AI 平台 / AI Infra 应用层方向</li>\n<li>偏 Agent 工程化的后端架构岗位</li>\n</ul>\n<p>相比纯模型训练/算法研究，更偏向：</p>\n<p>LLM + Agent + 后端系统架构 + 工程化落地。</p>\n<p>[工作地点] </p>\n<p>北京优先。</p>\n<p>合适的机会可以具体沟通。</p>\n<p>[个人背景] </p>\n<ul>\n<li>11 年左右后端研发及系统架构经验</li>\n<li>长期使用 Go 进行后端及分布式系统开发</li>\n<li>有 Python / Django 开发经历，也做过 PyTorch / 深度学习相关技术预研</li>\n<li>近阶段主要从事 AI 应用平台、LLM Model Gateway 、Agent 长任务及相关商业化系统建设</li>\n<li>有从 0 到 1 服务设计、核心模块开发、存量系统重构及微服务化经验</li>\n<li>有复杂任务系统、支付/计费、配额、状态机、并发控制、可靠性治理等工程经验</li>\n<li>持续关注 AI Agent 生态，业余有开源项目、技术博客及技术内容输出</li>\n</ul>\n<p>[核心技术栈] </p>\n<p>Go / Python / MySQL / Redis / Kafka / Docker / 微服务</p>\n<p>LLM &amp; Agent：\nModel Gateway / Agentic Workflow / Function Calling / MCP / Prompt Engineering</p>\n<p>AI 工程化：\n多模型接入 / 模型路由 / 异步长任务 / SSE / Retry &amp; Fallback / 配额计费</p>\n<p>RAG：\n熟悉 RAG Pipeline 、Hybrid Search 、Rerank 、Vector DB 、GraphRAG 等相关技术</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-22T08:53:58Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "扫地大妈、保安大爷使用 AI Agent，能否替代程序员？",
-      "url": "https://www.v2ex.com/t/1243894#reply100",
-      "location": "",
-      "description": "现在 AI Agent 的能力越来越强，很多代码已经可以直接让 AI 生成<br /><br />那是不是可以换一种思路：不一定非要招聘程序员，而是招聘普通人，再给每个人配一个每月 1000 美元额度的 AI Agent ，让 AI 负责写代码，普通人负责描述需求、测试和验收<br /><br />毕竟一个高级程序员的成本，可能相当于多个普通员工。既然 AI 已经能完成大量编码工作，那么“普通人 + AI Agent”是否有可能替代部分程序员的工作？",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-22T03:14:33Z"
     }
   ],
   "total_entries": 50
