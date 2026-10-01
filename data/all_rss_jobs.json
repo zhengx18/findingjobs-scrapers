@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-30T07:09:43.506333+00:00",
+  "generated_at": "2026-10-01T07:34:30.028151+00:00",
   "jobs": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\">https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911531\">https://news.ycombinator.com/item?id=49911531</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Wed, 30 Sep 2026 17:00:20 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Stable (YC W20) Is Hiring Product Engineers",
@@ -382,24 +402,80 @@
       "published": "Tue, 01 Sep 2026 17:00:14 +0000"
     },
     {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "company": "V2EX 招聘节点",
+      "title": "节前最后一天，被裁员了。",
+      "url": "https://www.v2ex.com/t/1245891#reply52",
       "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49518877\">https://news.ycombinator.com/item?id=49518877</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
+      "description": "<p>下午三点，正想着待会吃啥，人事突然叫我去办公室，然后就是宣布裁员，N+1 ，走流程。</p>\n<p>人生第一次经历裁员，我到现在整个人都还是懵的。 回家的地铁上下载了 BOSS 直聘，随便搜了几个前端岗位，脑子烦躁的根本看不下去。</p>\n<p>和另一个同样被裁的同事聊了几句，他说市面上现在都不招前端了，招全栈和 Agent 开发，听得我头大如斗，我的三脚猫 golang 和 php 能算全栈吗？</p>\n<p>储蓄还有两万，赔偿金和本月工资一起在 10 号发放，但房租 11 月就要到期了。 我很发愁再找不到工作还能干啥？唉。</p>",
+      "source": "gh-relay/v2ex-jobs",
       "tags": [
         "github-relay",
         "rss",
-        "hn-jobs",
+        "v2ex-jobs",
         "aggregator",
-        "hn",
-        "yc",
-        "llm"
+        "v2ex",
+        "cn"
       ],
-      "market": "global",
+      "market": "cn",
       "pool": "watch",
-      "published": "Tue, 01 Sep 2026 07:01:49 +0000"
+      "published": "2026-09-30T11:14:39Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[深圳 9.30 岗位更新] SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
+      "url": "https://www.v2ex.com/t/1245910#reply1",
+      "location": "深圳",
+      "description": "更新了一批 SHEIN 当前深圳 base 的全量 29 个技术类岗位和对应薪资（上次发布是两个月前）。<br /><br />这批岗位主要集中在：<br />算法 / 推荐 / 搜索 / 广告投放<br />大模型 / LLM / 多模态 / CV<br />流量反作弊 / 商品治理 / 商品标签<br />智慧供应链算法 / 预测 / 活动选品 / 价格策略<br />数据开发 / 数仓 / 数据分析<br />后端 / AI Infra / 推荐平台 / 算法工程化<br />安全 / 移动安全 / 云安全 / SOC<br />测试 / 自动化测试<br />iOS<br /><br />其中算法和大模型相关方向薪资整体更高（薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）：<br />广告投放 / 广告商业化算法：约 45-80K/月<br />流量反作弊算法：约 40-80K/月<br />大模型 / 多模态 / CV：约 30-75K/月<br />智慧供应链算法：约 30-70K/月<br />后端 / AI Infra / 推荐平台：约 25-60K/月<br />安全方向：约 25-60K/月<br />测试方向：约 20-40K/月<br />iOS：约 25-45K/月<br />同一岗位也可以结合 BOSS 上的薪资来看，最终薪资、职级和 offer 结构以面试及 HR 沟通为准。<br /><br />比较适合：<br />有 2 年以上相关技术经验；<br />做过互联网、电商、广告、推荐、搜索、供应链、AI 平台、数据平台等业务；<br />算法方向有线上业务落地经验；<br />后端方向有复杂系统、平台化、稳定性或性能优化经验；<br />数据方向有数仓、数据链路、指标体系、数据治理经验。<br /><br />薪资可参考 SHEIN 招聘官网 &amp; Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/wzieyt\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/wzieyt</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />本人是 SHEIN 员工，不是 HR ，这帖只是内推",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-30T13:21:07Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "招募 嵌入式蓝牙固件/音频工程师（兼职/顾问形式）",
+      "url": "https://www.v2ex.com/t/1245895#reply0",
+      "location": "远程",
+      "description": "<blockquote>\n<p><strong>项目招募</strong>：便携式开放式有线/无线音频模块开发（传统嵌入式蓝牙固件）</p>\n</blockquote>\n<blockquote>\n<p><strong>合作速览</strong>：兼职/顾问 ｜ 标准 Turnkey 方案（无自定义 AI ） ｜ 蓝牙 5.4 双模 ｜ Realtek / QCC 系列 ｜ 按阶段里程碑结算</p>\n</blockquote>\n<hr />\n<h2>一、项目概述</h2>\n<p>我们正在研发一款开放式运动音频及通信硬件系统，目前硬件架构和外壳堆叠已确定，硬件工程师正在同步画板。</p>\n<p>现寻找一位经验丰富的<strong>嵌入式蓝牙固件/音频工程师</strong>（兼职/顾问形式），负责整板的底层芯片配置、<strong>双麦克风通话降噪（ ENC ）调优</strong>、以及基础控制逻辑编写。</p>\n<blockquote>\n<p><strong>由于采用标准 Turnkey 方案</strong>，本项目不涉及任何自定义 AI 算法训练，专注于经典嵌入式音频工程的快速落地。</p>\n</blockquote>\n<hr />\n<h2>二、核心技术任务</h2>\n<h3>1. 蓝牙音频 SoC 配置</h3>\n<ul>\n<li>基于标准平台（如 <strong>Realtek 或 Qualcomm QCC 系列</strong>）开发<strong>蓝牙 5.4 双模</strong>音频固件，配置高音质编解码器（<strong>AAC / LHDC 等</strong>），对接主流安卓/小米手机生态。</li>\n</ul>\n<h3>2. 双麦降噪（ ENC ）调优</h3>\n<ul>\n<li>利用芯片自带的软硬件<strong>双麦波束成形与回声消除（ AEC ）算法</strong>，调优户外防风噪与人声清晰度。</li>\n</ul>\n<h3>3. 外围外设驱动</h3>\n<ul>\n<li>配置 <strong>I2C 触觉驱动 IC</strong>（如艾为 AW 系列）以驱动微型线性马达（<strong>LRA</strong>），实现低延迟物理按键触觉震动反馈；完成物理<strong>GPIO 按键映射</strong>。</li>\n</ul>\n<h3>4. 电源与基本功耗</h3>\n<ul>\n<li>配合硬件工程师，完成<strong>锂电池片上充电路径</strong>配置与<strong>低功耗逻辑</strong>优化。</li>\n</ul>\n<hr />\n<h2>三、期待您</h2>\n<ol>\n<li><strong>嵌入式开发与量产经验</strong>：熟练掌握 C/C++ 嵌入式开发，有成熟的蓝牙音频方案（耳机、音频眼镜或运动对讲模块）量产出货经验。</li>\n<li><strong>双麦通话降噪调优</strong>：熟悉双麦通话降噪原理，能熟练使用芯片商提供的配置工具调节音频 EQ 与降噪参数。</li>\n<li><strong>现成工程框架优先</strong>：拥有现成可直接二改的音频固件工程框架者优先，可远程协作，按阶段里程碑结算。</li>\n</ol>\n<hr />\n<h2>四、投递方式</h2>\n<p>有意者请发送技术简历及以往开发案例至：</p>\n<p><strong>项目邮箱</strong>：<a href=\"http://linwingman92$$gmail.com 或 57619622",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-30T11:55:44Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "招募音频 AI/嵌入式工程师 Audio AI Algorithm Consultant (Speech Enhancement / TinyML)",
+      "url": "https://www.v2ex.com/t/1245873#reply0",
+      "location": "远程",
+      "description": "<h1>独立项目合作招募：面向边缘 AI （ TinyML ）的语音带宽扩展与固件开发专家</h1>\n<blockquote>\n<p><strong>合作速览</strong>：远程阶段性外包 ｜ 全包合同 ｜ 4 个核心研发阶段 ｜ 推理延迟 ≤ 12ms ｜ 2 个工作日内评估反馈</p>\n</blockquote>\n<hr />\n<h2>一、项目概述</h2>\n<p>我们团队目前正在设计一款创新的<strong>硬连线便携式音频通信模块</strong>。该硬件采用<strong>纯有线结构（不涉及蓝牙传输）</strong>，旨在对低带宽的特殊音频传感器输入进行实时处理。</p>\n<p>目前，我们的硬件工程师已经到位，正在推进 PCBA 的硬件原理图与布线工作。现寻找一位在音频 AI 算法开发与边缘部署领域有深厚实战经验的<strong>软件/算法独立顾问</strong>，来全权负责该项目的软件、AI 模型训练以及底层固件体系的搭建。</p>\n<blockquote>\n<p><strong>开发周期紧凑</strong>：我们强烈倾向于寻找在此领域有现成技术积累、甚至有类似成熟方案可直接进行二次修改复用的大牛合作。</p>\n</blockquote>\n<hr />\n<h2>二、核心技术任务与交付物</h2>\n<p>本期项目为<strong>全包合同</strong>，主要包含以下四个核心开发阶段：</p>\n<h3>阶段一：语音生成式带宽扩展（ ABE ）模型训练（算法层）</h3>\n<ul>\n<li>基于成对的<strong>低带宽语音</strong>（如身体传导 / 特殊声学传感器输入）与<strong>高保真空气麦克风语音</strong>数据集，进行深度学习模型训练。</li>\n<li>模型需实现生成式语音修复（ Spectral Reconstruction ），在极低延迟下动态“还原/合成”语音缺失的<strong>高频细节与鼻音共振</strong>，使输出人声自然、清晰、具备高辨识度。</li>\n</ul>\n<h3>阶段二：硬件感知量化与模型部署（ TinyML 边缘层）</h3>\n<ul>\n<li>将训练好的音频深度学习模型（如基于 PyTorch 的网络结构）进行深度量化（<code>INT8/INT4</code>）与裁剪（<code>Pruning</code>），使其能够完美塞入<strong>微型边缘 AI 芯片的内部 SRAM</strong> 中。</li>\n<li>芯片选型方案：优先考虑基于 <code>Syntiant NDP120/NDP200</code> 系列或 <code>恒玄（ Bestechnic ） NPU</code> 平台进行边缘部署。</li>\n</ul>\n<h3>阶段三：音频流链路与底层固件构建（嵌入式底层）</h3>\n<ul>\n<li>协同硬件工程师完成模拟前端（ AFE ）麦克风前级放大与音频 ADC/DAC 的<strong>数字音频流（<code>I2S/PCM</code>）通路调通</strong>。</li>\n<li>确保模型推理的整体算法延迟严格控制在 <strong>12ms 以内</strong>，以满足高时效通信环境。</li>\n</ul>\n<h3>阶段四：双路音频输出功能集成（应用层）</h3>\n<ul>\n<li><strong>模拟路</strong>：经由 DAC 输出标准的模拟麦克风电平信号，直接对接外部物理通信设备。</li>\n<li><stron",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-30T09:35:12Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -457,6 +533,25 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-29T05:57:16Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "有机会的话，想加入一个真正的 AI startup 团队，产品",
+      "url": "https://www.v2ex.com/t/1245360#reply7",
+      "location": "上海",
+      "description": "<p>目前在职，也在不算小的公司里负责 AI Agent 产品，经过上半年的努力，内部赛马基本赢了，但我不打算继续在这里做，几个原因；</p>\n<ul>\n<li>\n<p>1 、<strong>现在的厂并不是 AI 产品为主线的厂，主线是新能源汽车；这对我来说意味着团队的注意力和目标都和 AI 产品不完全一致，有许多 trende off ；</strong></p>\n</li>\n<li>\n<p>2 、<strong>我现在负责的 AI 销售场景已经基本证明了业务价值，拿了 1000 多个销售伙伴花了 1 个 Q 的时间，做了相对严谨的 ABtest ，也做了反转实验，AI 有用没用、有多大用，数据已经论证清楚(基于当前的业务模式)。</strong></p>\n</li>\n<li>\n<p>3 、<strong>现在负责的 AI 产品的使用率，基本做到了预期的目标，一线上万人的销售团队基本用起来了，日活 50%左右，也嵌入到了他们的工作流程中，销售部门的负责人也都确认了内部结算的模式，从产品经理的视角而言，这意味着商业模式跑通；</strong></p>\n</li>\n</ul>\n<p>还有一些比较小的原因，有兴趣可以交流；</p>\n<p>而期望我期望加入的 startup 团队，希望有这么几个特点：</p>\n<ul>\n<li>\n<p>1 、<strong>有独特的视角去解读咱们创业方向的价值，最好是一些行业看不见、看不起、看不懂的场景；</strong>\n-- \t同质化的供给最终都没有办法获得高额的回报，所以想做一些不一样的事情； </p>\n</li>\n<li>\n<p>2 、<strong>有足够高的天花板；</strong>\n-- \t这一条和第一条其实有点相悖，但这就可能是创业的魅力吧，也许这个天花板是未来的高度，而不是现在的高度，可以一起 bet 这个目标；</p>\n</li>\n<li>\n<p>3 、<strong>利他</strong>\n-- \t不纯玩资本游戏，想做真正有价值的产品、场景；</p>\n</li>\n</ul>\n<p>还有些小的条件，希望 base 上海之类的；</p>\n<p>我能给团队带来的价值</p>\n<ul>\n<li><strong>比较突出的能力是我很会沟通，属于不会让话掉地上的产品；</strong></li>\n<li><strong>在混沌中设计实验，进行实验，论证假设；</strong></li>\n<li><strong>在万人企业中落地一套 B 端的 Harness 系统，完全自建，完成商业闭环；</strong></li>\n<li><strong>熟悉电商、客服、新能源汽车业务场景，不过这些和我期待的第一条都相悖；</strong></li>\n</ul>\n<p>还有一些比如 8 年 AI 产品经验(NLP 时代过来)、23 年做过一些失败的基础模型、24 年做过一些失败的 ai 应用，带过团队背过业务目标之类的，就不多赘述了</p>\n<p>如果有合适的场景，欢迎邮箱交流： <a href=\"mailto:chatbot@aliyun.com\">chatbot@aliyun.com</a> ，本人；</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-28T14:04:15Z"
     },
     {
       "company": "V2EX 招聘节点",
@@ -536,25 +631,6 @@
     },
     {
       "company": "V2EX 招聘节点",
-      "title": "有机会的话，想加入一个真正的 AI startup 团队，产品",
-      "url": "https://www.v2ex.com/t/1245360#reply6",
-      "location": "上海",
-      "description": "<p>目前在职，也在不算小的公司里负责 AI Agent 产品，经过上半年的努力，内部赛马基本赢了，但我不打算继续在这里做，几个原因；</p>\n<ul>\n<li>\n<p>1 、<strong>现在的厂并不是 AI 产品为主线的厂，主线是新能源汽车；这对我来说意味着团队的注意力和目标都和 AI 产品不完全一致，有许多 trende off ；</strong></p>\n</li>\n<li>\n<p>2 、<strong>我现在负责的 AI 销售场景已经基本证明了业务价值，拿了 1000 多个销售伙伴花了 1 个 Q 的时间，做了相对严谨的 ABtest ，也做了反转实验，AI 有用没用、有多大用，数据已经论证清楚(基于当前的业务模式)。</strong></p>\n</li>\n<li>\n<p>3 、<strong>现在负责的 AI 产品的使用率，基本做到了预期的目标，一线上万人的销售团队基本用起来了，日活 50%左右，也嵌入到了他们的工作流程中，销售部门的负责人也都确认了内部结算的模式，从产品经理的视角而言，这意味着商业模式跑通；</strong></p>\n</li>\n</ul>\n<p>还有一些比较小的原因，有兴趣可以交流；</p>\n<p>而期望我期望加入的 startup 团队，希望有这么几个特点：</p>\n<ul>\n<li>\n<p>1 、<strong>有独特的视角去解读咱们创业方向的价值，最好是一些行业看不见、看不起、看不懂的场景；</strong>\n-- \t同质化的供给最终都没有办法获得高额的回报，所以想做一些不一样的事情； </p>\n</li>\n<li>\n<p>2 、<strong>有足够高的天花板；</strong>\n-- \t这一条和第一条其实有点相悖，但这就可能是创业的魅力吧，也许这个天花板是未来的高度，而不是现在的高度，可以一起 bet 这个目标；</p>\n</li>\n<li>\n<p>3 、<strong>利他</strong>\n-- \t不纯玩资本游戏，想做真正有价值的产品、场景；</p>\n</li>\n</ul>\n<p>还有些小的条件，希望 base 上海之类的；</p>\n<p>我能给团队带来的价值</p>\n<ul>\n<li><strong>比较突出的能力是我很会沟通，属于不会让话掉地上的产品；</strong></li>\n<li><strong>在混沌中设计实验，进行实验，论证假设；</strong></li>\n<li><strong>在万人企业中落地一套 B 端的 Harness 系统，完全自建，完成商业闭环；</strong></li>\n<li><strong>熟悉电商、客服、新能源汽车业务场景，不过这些和我期待的第一条都相悖；</strong></li>\n</ul>\n<p>还有一些比如 8 年 AI 产品经验(NLP 时代过来)、23 年做过一些失败的基础模型、24 年做过一些失败的 ai 应用，带过团队背过业务目标之类的，就不多赘述了</p>\n<p>如果有合适的场景，欢迎邮箱交流： <a href=\"mailto:chatbot@aliyun.com\">chatbot@aliyun.com</a> ，本人；</p>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-28T14:04:15Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
       "title": "开源一个帮我 30 天内找到 50+%薪资涨幅工作的 skill 组",
       "url": "https://www.v2ex.com/t/1245050#reply16",
       "location": "",
@@ -571,25 +647,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-27T09:55:40Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "AI Agent 大量堆代码的时代，怎么管理代码质量还有服务稳定性的",
-      "url": "https://www.v2ex.com/t/1245007#reply8",
-      "location": "",
-      "description": "之前研发自己用 cursor 、copilot 写代码的时候是最开心的，真的节省时间好摸鱼。<br />现在自己用 Codex/Claude Code 开发的功能更复杂了，代码质量更高了，但工作量也急速增加了。<br /><br />而且大量没有开发经验的人用 Codex/Claude Code 堆代码，<br />AI Review 都 review 不过来，线上告警多是非自己负责的模块导致的。<br />并且最近薪资和职责范围都小升了一下，需要带人和负责服务稳定性。这一块有什么好的解决方法吗",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-27T03:37:12Z"
     }
   ]
 }
