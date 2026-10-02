@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:34:30.028151+00:00",
+  "generated_at": "2026-10-02T07:21:48.592511+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate\">https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49919680\">https://news.ycombinator.com/item?id=49919680</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Thu, 01 Oct 2026 09:48:18 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Wed, 02 Sep 2026 08:43:49 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "url": "https://news.ycombinator.com/item?id=49524704",
-      "location": "",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524704\">https://news.ycombinator.com/item?id=49524704</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Tue, 01 Sep 2026 17:00:14 +0000"
     }
   ],
   "total_entries": 20
