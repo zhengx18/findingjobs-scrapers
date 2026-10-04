@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:54:39.142725+00:00",
+  "generated_at": "2026-10-04T07:16:04.275154+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,46 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?id=49945904</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 03 Oct 2026 17:00:12 +0000"
+    },
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "location": "Remote",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943524\">https://news.ycombinator.com/item?id=49943524</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 03 Oct 2026 12:02:10 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
@@ -373,46 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Thu, 03 Sep 2026 12:00:52 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-      "url": "https://nango.dev/careers",
-      "location": "remote",
-      "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542486\">https://news.ycombinator.com/item?id=49542486</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 02 Sep 2026 21:00:04 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-      "url": "https://careers.telli.com/",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://careers.telli.com/\">https://careers.telli.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49533557\">https://news.ycombinator.com/item?id=49533557</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 02 Sep 2026 08:43:49 +0000"
     }
   ],
   "total_entries": 20

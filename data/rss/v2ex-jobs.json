@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:54:39.142725+00:00",
+  "generated_at": "2026-10-04T07:16:04.275154+00:00",
   "feed": {
     "slug": "v2ex-jobs",
     "name": "V2EX 招聘节点",
@@ -29,8 +29,46 @@
   "items": [
     {
       "company": "V2EX 招聘节点",
+      "title": "下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见",
+      "url": "https://www.v2ex.com/t/1246360#reply11",
+      "location": "北京",
+      "description": "<p>本科是双非的生物类专业，23 年毕业直接进的一家生物小公司，负责处理客户的生物数据（ DNA RNA 血浆这种），工作内容就是服务器里 conda 搭建环境，安装包，下载数据库，作比对，然后写成流程，用 python 搭起来，有些论文的图用 R 语言去绘制，基本上不敲代码，都是指挥 agent 去做；上个月公司在这里的分部撤回北京了，我没跟去。</p>\n<p>一方面薪资低，没发展，在这公司 3 年待办公室混的太舒服了，天天就是看科技新闻，刷 V2EX ，刷知乎，用 AI 提效更好地摸鱼；另一方面，去北京那边，不是纯办公室，得对接高校老师，帮人家干活，采样，做实验，顺带服务器跑跑分析，那边一个熟人没有，实在没有想去的动力。</p>\n<p>存款目前 4-5w ，某书偶尔接点单，还凑合，单身，不买房没债务，家里是我说了算，不吃压力。</p>\n<p>高考发挥偏失常，数学 120 ，英语 120 ，六级背了几天单词 450 多过的</p>\n<p>不考虑生物考研</p>\n<p>想拼一把明年 12 月考试的科软（中科大软件学院）</p>\n<p>咨询大家两个问题</p>\n<p>第一，上岸的客观难度</p>\n<p>第二，假设成功上岸，从程序员的角度，上岸应该怎么卷实习，大概的一个薪资区间，未来的职业发展，[因为我这几年都是在高校以及医院的圈子里，没有程序员视角]</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-04T04:49:03Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "USACO 竞赛编程讲师（远程，华盛顿州）",
+      "url": "https://www.v2ex.com/t/1246319#reply2",
+      "location": "远程",
+      "description": "<h2>职位简介</h2>\n<p>我们正在招募一名积极热情、具备扎实算法竞赛背景的 USACO （美国计算机奥林匹克竞赛）竞赛编程讲师，以远程兼职的形式加入我们的团队，为北美 K–12 学生提供高质量的算法与竞赛编程指导。</p>\n<p>作为团队的一员，你将帮助学生系统学习算法、数据结构和编程技巧，指导他们解决具有挑战性的竞赛题目，培养逻辑思维、独立解决问题的能力，并为 USACO 等算法竞赛做好准备。</p>\n<p>我们希望你不仅具备优秀的编程能力和算法竞赛经验，还热爱教学，善于将复杂的算法概念讲解清楚，并能够根据学生的不同水平提供有针对性的指导。如果你对教育科技和 AI 辅助学习产品的开发也感兴趣，未来还有机会参与相关产品和学习工具的设计与建设。</p>\n<h2>工作职责</h2>\n<ul>\n<li>根据学生的年龄、编程基础和竞赛目标，设计和准备算法、数据结构及竞赛编程课程。</li>\n<li>为学生讲解 USACO 涉及的核心知识点、常见算法、解题思路和编程技巧。</li>\n<li>通过实际编程练习、经典竞赛题目和模拟比赛，帮助学生提升分析问题和解决问题的能力。</li>\n<li>指导学生分析复杂题目，理解不同解法的思路、时间复杂度和空间复杂度，并优化代码实现。</li>\n<li>根据学生的学习进度和薄弱环节，提供个性化反馈、学习建议和针对性的练习。</li>\n<li>跟踪学生的学习表现与竞赛准备情况，及时调整教学内容和辅导策略。</li>\n<li>营造积极、互动的学习氛围，鼓励学生主动思考、独立探索，并培养面对难题时的耐心与韧性。</li>\n<li>根据需要，与学生及家长沟通学习进展、阶段性目标和后续学习计划。</li>\n<li><strong>可选机会：</strong> 如果对软件开发、AI/LLM 或教育科技产品感兴趣，可以参与算法学习平台、编程题库及 AI 辅助教学工具的设计与开发。</li>\n</ul>\n<h2>任职要求</h2>\n<ul>\n<li>具备扎实的算法、数据结构、编程基础和计算机科学相关知识。</li>\n<li>有较强的算法竞赛背景，例如 USACO Gold 或以上、CSP-S / NOIP 、ICPC/ACM 区域赛、Codeforces 或其他同等水平的竞赛经历。</li>\n<li>熟练掌握至少一种主流编程语言，例如 C++、Python 或 Java 。</li>\n<li>能够清晰地讲解算法原理、解题思路和代码实现，善于将复杂问题拆解为学生容易理解的步骤。</li>\n<li>具备良好的沟通能力、责任心和独立解决问题的能力。</li>\n<li>对教学有热情，愿意帮助学生建立扎实的编程基础，并逐步提升竞赛水平。</li>\n</ul>\n<h2>加分项</h2>\n<ul>\n<li>USACO Platinum 级别成绩，或 ICPC 区域赛奖项及其他优秀算法竞赛成绩。</li>\n<li>有 USACO 、信息学奥赛（ OI ）、CSP-S / NOIP 或其他竞赛编程课程的教学、家教、助教或学生辅导经验。</li>\n<li>有辅导不同年龄、不同编程水平学生的经验。</li>\n<li>有课程设计、教学材料编写、竞赛题目分析或模拟比赛组织经验。</li>\n<li>有 Full-Stack 、AI/LLM 、在线评测系统或教育科技产品开发经验。</li>\n</ul>\n<h2>工作方式</h2>\n<ul>\n<li><strong>工作性质：</strong> 远程兼职</li>\n<li><strong>工作地点：</stro",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-03T17:09:32Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "节前最后一天，被裁员了。",
-      "url": "https://www.v2ex.com/t/1245891#reply87",
+      "url": "https://www.v2ex.com/t/1245891#reply88",
       "location": "",
       "description": "<p>下午三点，正想着待会吃啥，人事突然叫我去办公室，然后就是宣布裁员，N+1 ，走流程。</p>\n<p>人生第一次经历裁员，我到现在整个人都还是懵的。 回家的地铁上下载了 BOSS 直聘，随便搜了几个前端岗位，脑子烦躁的根本看不下去。</p>\n<p>和另一个同样被裁的同事聊了几句，他说市面上现在都不招前端了，招全栈和 Agent 开发，听得我头大如斗，我的三脚猫 golang 和 php 能算全栈吗？</p>\n<p>储蓄还有两万，赔偿金和本月工资一起在 10 号发放，但房租 11 月就要到期了。 我很发愁再找不到工作还能干啥？唉。</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -49,7 +87,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[远程 / 苏州] 8 年多开发经验，找全栈或 AI 应用开发的机会",
-      "url": "https://www.v2ex.com/t/1246048#reply0",
+      "url": "https://www.v2ex.com/t/1246048#reply2",
       "location": "远程",
       "description": "<p>大家好，最近在看新的工作机会，想在这里发个帖子试试。</p>\n<p>有 8 年多开发经验，做过金融业务、AI 对话产品和办公场景的应用，也有国内互联网公司和外企的工作经历。公司和个人信息先略去，感兴趣的话可以单独提供完整简历。</p>\n<p>主要用 Node.js 、Nuxt 和 Next.js 做全栈开发。做过贷款、支付、保险相关业务，负责过 SSR 应用和接口开发，也参与过基于 ELK + Node.js 的日志系统搭建。AI 产品方面，做过 Next.js 整体架构、登录和数据库设计、大模型接入，以及流式生成内容的表格渲染。</p>\n<p>日常会用 Codex 、Cursor 、Claude 辅助开发、排查问题和跑 E2E 测试，也会把重复流程整理成 Skills 和定时任务。比较喜欢把一个功能从需求到上线完整做下来。</p>\n<p>工作之外，对设计工具、组件库和交互动画也挺有兴趣，做过设计工具插件和浏览器插件，维护过开源组件库。看到做得好的产品，会忍不住研究一下它的细节。<a href=\"https://github.com/zouhangwithsweet\" rel=\"nofollow\">GitHub: zouhangwithsweet</a></p>\n<p>目前在苏州，远程、苏州的岗位都可以考虑，主要想找全栈或 AI 应用开发方向的机会。英文读写没问题，口语可以进行日常工作沟通。</p>\n<p>如果有合适的岗位或团队，欢迎留言交流，详细经历和联系方式可以再单独沟通。谢谢大家！</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -68,7 +106,7 @@
     {
       "company": "V2EX 招聘节点",
       "title": "[深圳 9.30 岗位更新] SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
-      "url": "https://www.v2ex.com/t/1245910#reply1",
+      "url": "https://www.v2ex.com/t/1245910#reply2",
       "location": "深圳",
       "description": "更新了一批 SHEIN 当前深圳 base 的全量 29 个技术类岗位和对应薪资（上次发布是两个月前）。<br /><br />这批岗位主要集中在：<br />算法 / 推荐 / 搜索 / 广告投放<br />大模型 / LLM / 多模态 / CV<br />流量反作弊 / 商品治理 / 商品标签<br />智慧供应链算法 / 预测 / 活动选品 / 价格策略<br />数据开发 / 数仓 / 数据分析<br />后端 / AI Infra / 推荐平台 / 算法工程化<br />安全 / 移动安全 / 云安全 / SOC<br />测试 / 自动化测试<br />iOS<br /><br />其中算法和大模型相关方向薪资整体更高（薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）：<br />广告投放 / 广告商业化算法：约 45-80K/月<br />流量反作弊算法：约 40-80K/月<br />大模型 / 多模态 / CV：约 30-75K/月<br />智慧供应链算法：约 30-70K/月<br />后端 / AI Infra / 推荐平台：约 25-60K/月<br />安全方向：约 25-60K/月<br />测试方向：约 20-40K/月<br />iOS：约 25-45K/月<br />同一岗位也可以结合 BOSS 上的薪资来看，最终薪资、职级和 offer 结构以面试及 HR 沟通为准。<br /><br />比较适合：<br />有 2 年以上相关技术经验；<br />做过互联网、电商、广告、推荐、搜索、供应链、AI 平台、数据平台等业务；<br />算法方向有线上业务落地经验；<br />后端方向有复杂系统、平台化、稳定性或性能优化经验；<br />数据方向有数仓、数据链路、指标体系、数据治理经验。<br /><br />薪资可参考 SHEIN 招聘官网 &amp; Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/wzieyt\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/wzieyt</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />本人是 SHEIN 员工，不是 HR ，这帖只是内推",
       "source": "gh-relay/v2ex-jobs",
@@ -216,44 +254,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-09-28T14:04:15Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[广州-三七互娱-社招] Java 服务端专家、AI 算法工程师、AI 平台开发工程师",
-      "url": "https://www.v2ex.com/t/1245447#reply1",
-      "location": "广州",
-      "description": "JAVA 服务端专家<br /><br />连接： <a href=\"https://neitui.italent.cn/37wan/sharejobs/detail?shareId=851b2125-03c2-4543-b857-4d3a51dfd582&amp;language=zh_CN\" rel=\"nofollow noopener\" target=\"_blank\">https://neitui.italent.cn/37wan/sharejobs/detail?shareId=851b2125-03c2-4543-b857-4d3a51dfd582&amp;language=zh_CN</a><br /><br />工作职责<br /><br />1 、统筹指导工作室服务端技术开发工作；<br />2 、负责核心业务系统后端架构设计、技术选型及高可用、高性能服务开发与优化；<br />3 、主导复杂模块的需求分析、方案设计、代码实现及性能调优，保障系统稳定性与可扩展性；<br />4 、参与技术攻关与疑难问题解决，指导团队成员进行代码评审、技术沉淀与知识共享；<br />5 、协同产品、前端、测试及运维团队，高效推进项目落地与迭代交付。<br />任职资格<br /><br />1 、计算机及相关专业本科以上学历，8 年以上 JAVA 编程经验，有较扎实的 JAVA 基础知识，能够熟练使用 JAVA 相关技术（ socket ，spring ）进行独立开发；<br />2 、熟悉 JAVA 多线程、并发、线程安全；<br />3 、熟悉 TCP/IP 协议，有基于 java nio 框架开发经验，熟悉 Mina 、Netty 等网络通讯框架；<br />4 、熟悉 Linux/unix 常用命令，有基于 Tomcat/Weblogic/Nginx 等网络服务部署、管理及优化配置经验；<br />5 、熟悉 MySQL 数据库，能编写数据分析及查询类 SQL 语句，具备对游戏服务端数据存储的设计能力；<br />6 、有规范化标准化的代码编写习惯，思路清晰，善于思考，能独立分析和解决问题；<br />7 ，必须要游戏行业相关经验。<br /><br />=============================================================<br /><br />AI 算法工程师<br /><br />连接： <a href=\"https://neitui.italent.cn/37wan/sharejobs/detail?shareId=e5fc4bdc-58c2-4b9a-85ef-dde913ddb9e2&amp;language=zh_CN\" rel=\"nofollow noopener\" target=\"_blank\">https://neitui.italent.cn/37wan/sharejobs/detail?shareId=e5fc4bdc-58c2-4b9a-85ef-dde913ddb9e2&amp;language=zh_CN</a><br /><br />工作职责<br /><br />1. 负责 AI 算法在业务的落地和优化，包括但不限于内容生产、智能助手、本地化翻译、chatBI 、代码生成等；  <br />2. 探索大模型 Post-Training 、Inference 、RAG 、Agent 等相关技术的业务落地，优化算法的效果和产品体验；<br />3. 研究和优化",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-29T02:32:10Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[招聘]: 医疗器械软件工程师， C++/Qt，桌面应用开发，上海，薪资面议",
-      "url": "https://www.v2ex.com/t/1245478#reply0",
-      "location": "上海",
-      "description": "岗位职责：<br />1.负责医疗器械软件平台及基础框架开发与维护。 <br />2.负责多线程、进程间通信、配置管理、日志系统等基础模块开发。 <br />3.负责第三方设备 SDK 的统一接入与接口封装。 <br />4.负责软件工作流开发，根据研发和临床反馈，持续优化软件功能和系统稳定性。<br />5.编写医疗器械设计文档，参与代码评审和技术规范建设。<br />6.参与产品集成、系统联调及功能验证，定位并解决现场技术问题。 <br />7.参与临床试验、注册检验等活动的软件技术支持，配合完成现场部署、调试、问题排查及数据分析。 <br />任职要求：<br />1.本科及以上学历，计算机、软件工程、生物医学工程等相关专业。 <br />2.3 年及以上 C++ 开发经验，熟悉 C++17/20。 <br />3.熟练使用 Qt、CMake、Git，熟悉 linux/windows 开发环境<br />4.熟悉多线程、网络通信及常用设计模式。 <br />5.具备第三方 SDK 集成经验，能够独立完成模块设计与开发。 <br />6.具备良好的现场问题分析与沟通协调能力。<br />7.具有良好的代码规范、问题分析和团队协作能力。<br />加分项：<br />1.有医疗器械软件（特别是 3 类有源器械）开发经验。 <br />2.熟悉 OpenCV、VTK、DCMTK，ITK 等相关开源库使用。 <br />3.熟悉 IEC 62304、ISO 13485，YY0664 等医疗软件开发规范。<br /><br />公司介绍：<br />一家做非侵入式脑机接口的初创公司，今年刚融资近 3 亿。<br /><br /><br />简历投递：base64: Z3VvanVuamllQGJjaXNvbmljcy5jb20=",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-29T03:31:21Z"
     }
   ],
   "total_entries": 50
