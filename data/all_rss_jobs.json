@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:34:07.585891+00:00",
+  "generated_at": "2026-10-08T07:51:03.225816+00:00",
   "jobs": [
     {
       "company": "HN Jobs (YC companies hiring)",
@@ -403,8 +403,141 @@
     },
     {
       "company": "V2EX 招聘节点",
+      "title": "后端工程师求职",
+      "url": "https://www.v2ex.com/t/1247067#reply2",
+      "location": "广州",
+      "description": "个人背景：<br />base 地首选广州/深圳。<br />男，排名靠前的 985 本硕，计算机专业，工作 11+年。（我之前的帖子有一些内容）<br /><br />期望就业方向：后端业务系统，偏底层的基础系统的研发工作。具体业务不限（ web3 和量化不考虑）<br /><br />履历：<br />在本公司之前，在 3 家厂子工作过，平均每家 3 年左右。在这家公司 2.5 年不到。<br /><br />技术能力：<br />从业 10 几年来，一直做后端系统，做过游戏/IM/数据存储/Agent ，后两者是从 0 到 1 开发的。<br />golang/java/cpp 都比较熟悉，都做过线上业务，Python 也可以。<br />后端的各类组件：redis/MySQL/Zookeeper/Kafka/Docker/k8s 这些组件的技术原理也都了解。<br />自己也利用 AI 写过一些前端（个人应用，非线上业务），做全栈也 OK 。<br />有虚线管理经历，但个人更喜欢钻研技术和业务，不追求做管理。<br /><br />wechat：emRraW5nMDgxMzU=",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-08T07:33:11Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "电气本硕，干了 4 年前端，现在想转回老本行，还有机会吗？",
+      "url": "https://www.v2ex.com/t/1247048#reply4",
+      "location": "上海",
+      "description": "<p><strong>关于前端开发转行的问题🙋</strong></p>\n<p>本人 22 年研究生毕业，本科和研究生都是电气工程及自动化相关专业。</p>\n<p>毕业的时候，因为不太喜欢 PLC 、电气自动化这类工作，感觉经常要出差，加上当时计算机行情还不错，所以转行干了前端开发。</p>\n<p>结果这两年的情况大家也都知道了。</p>\n<p>今年 2 月份在上海被裁之后，到现在一直没找到合适的工作。Boss 都快翻烂了，基本上都是外包岗位，投出去的简历也没几个回复。</p>\n<p>而且现在能看到的岗位，薪资甚至还不如我 22 年刚毕业的时候。</p>\n<p>身边几个一起干前端的朋友也是，待业的待业，转行的转行。</p>\n<p>说实话，现在对前端这个方向确实有点失去信心了，不知道还有没有继续投入的必要。</p>\n<p>最近又重新了解了一下 PLC 和电气自动化行业，感觉这个方向似乎还有一些机会，所以有点想转回老本行。</p>\n<p>但问题也挺现实的：</p>\n<p>首先，毕业后一直在干软件开发，四年没碰过电气相关的东西，很多专业知识基本都忘得差不多了。</p>\n<p>其次，没有任何电气行业的实际工作经验，现在走社招，企业会不会直接把简历刷掉？</p>\n<p>还有一点就是，当年不想干电气，主要就是因为不喜欢频繁出差。不知道现在有没有出差比较少、能长期发展的细分方向，比如工厂自动化、新能源、数据中心这些。</p>\n<p>当然，也在考虑另一条路，就是继续留在软件行业，往全栈或者 AI Agent 开发方向转。</p>\n<p>现在比较纠结的就是：</p>\n<p><strong>以我这种电气本硕 + 四年前端开发的背景，到底是重新捡起电气专业更合适，还是继续在软件行业深耕？</strong></p>\n<p>有没有了解这两个行业的佬，能给点实际建议？</p>\n<p>尤其想听听已经从软件转回电气，或者目前在做 PLC 、自动化相关工作的朋友怎么说。</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-08T06:30:34Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "阿里安全部数据安全业务招聘 AI 应用研发工程师",
+      "url": "https://www.v2ex.com/t/1247059#reply0",
+      "location": "杭州",
+      "description": "过完节了，帮团队招人 👋<br /><br />我们正在用 AI Native 的方式重构数据安全。期待你工程基础扎实，理解 LLM 原理，有 AI/Agent 应用实战经验，能把 AI 能力落地为生产系统，并持续提升实际效果。<br /><br />工作地杭州，层级 P6–P7<br /><br />职位详情参见 <a href=\"https://talent-holding.alibaba.com/off-campus/position-detail?lang=zh&amp;positionId=100033620003\" rel=\"nofollow noopener\" target=\"_blank\">https://talent-holding.alibaba.com/off-campus/position-detail?lang=zh&amp;positionId=100033620003</a><br /><br />欢迎官网投递，或发简历至 dongshuang.xds@alibaba<a href=\"http://-inc.com\" rel=\"nofollow noopener\" target=\"_blank\">-inc.com</a>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-08T07:12:43Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "腾讯云 Agent Runtime 团队欢迎牛逼技术专家、应届生、实习生加入",
+      "url": "https://www.v2ex.com/t/1246998#reply0",
+      "location": "",
+      "description": "<p>没错，无论你是应届生、实习生，还是已经工作多年的业界大佬，我们都非常欢迎 😊</p>\n<h2>团队简介</h2>\n<p>腾讯云 Agent Runtime 团队欢迎优秀的 Agent 基础设施人才加入。</p>\n<p>我们为腾讯内部业务及外部公有云客户提供 Agent 安全沙箱、Session 、身份凭证、Agent Registry 等 Agent Infra 相关能力，已支持 WorkBuddy 、CodeBuddy 、IMA 、元宝等腾讯内部产品，也服务于智谱、MiniMax 等 AI 客户的强化学习场景，承载数百万量级的 Sandbox 。</p>\n<p>产品入口：<a href=\"https://console.cloud.tencent.com/ags\" rel=\"nofollow\">腾讯云 Agent Runtime</a></p>\n<h2>岗位要求</h2>\n<ol>\n<li>计算机相关专业。</li>\n<li>具备优秀的 AI Coding 能力，熟练使用主流 AI Coding 工具及方法论。</li>\n<li>有 Agent Infra 相关产品研发经验者优先。</li>\n<li>有云产品相关研发经验者优先。</li>\n</ol>\n<p>另外 </p>\n<ol>\n<li>对于社招，我们希望你有 5 年以上云产品相关工作经验。</li>\n<li>对于应届生，我们希望你有让自己感到骄傲的作品，展示你的过人之处。</li>\n<li>对于实习生，我们希望你对技术充满热情，富有创造力和执行力。</li>\n</ol>\n<h2>联系方式</h2>\n<p>欢迎将简历投递至 <strong>raylhuang@tencent.com</strong>，最好能附上一段简单的自我介绍 😊</p>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-08T04:00:10Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "SEO 增长专员（内容运营方向／研究执行方向）",
+      "url": "https://www.v2ex.com/t/1246982#reply1",
+      "location": "远程",
+      "description": "<h1>SEO 增长专员（内容运营方向／研究执行方向）</h1>\n<p>招聘人数：2 人<br />\n工作方式：远程协作<br />\n招聘形式：全职／实习<br />\n全职／实习薪酬：实习薪资 200–300 元／天，全职薪酬面议<br />\n招聘截止：2026 年 11 月 8 日</p>\n<h2>岗位介绍</h2>\n<p>我们希望招聘两位伙伴，参与 <a href=\"https://www.seeles.ai/\" rel=\"nofollow\">SEELE</a> 海外产品的 SEO 增长。</p>\n<p><strong>内容运营方向：</strong>全职优先，负责从关键词研究、内容规划到发布、更新和效果跟踪的内容流程。</p>\n<p><strong>研究执行方向：</strong>实习或长期兼职优先，协助关键词与竞品研究、数据整理、外链推进和 SEO 实验执行。</p>\n<p>产品面向海外市场，内容以英文为主。日常工作会使用 AI 工具辅助研究、撰写和分析，因此不要求候选人具备母语级英文写作能力；更看重信息核验、内容判断、执行力和对搜索意图的理解。SEO 策略方向和复杂技术问题会由团队负责人带领。</p>\n<h2>工作内容</h2>\n<h3>内容运营方向</h3>\n<ol>\n<li>根据关键词和搜索意图，整理内容选题、内容 brief 和发布计划。</li>\n<li>使用 AI 工具辅助生成或优化英文内容，并核对事实、结构、产品信息和搜索意图匹配度。</li>\n<li>协调内容生产、页面发布和旧内容更新，维护内容从规划到上线的流程。</li>\n<li>优化标题、描述、页面结构、内链等基础 SEO 要素。</li>\n<li>跟踪内容表现，发现需要更新或进一步优化的页面，并记录效果。</li>\n</ol>\n<h3>研究执行方向</h3>\n<ol>\n<li>协助开展关键词、搜索结果页和竞品研究，整理潜在增长机会。</li>\n<li>使用 Google Search Console 、GA4 等工具跟踪展现、点击、排名、收录和流量数据，维护报表并整理观察结果。</li>\n<li>协助排查常见 SEO 问题，例如页面未收录、重复内容、canonical 、robots 、sitemap 、内链和页面标题描述等。</li>\n<li>执行 SEO 实验和优化任务，记录实验假设、执行过程和结果。</li>\n<li>协助寻找外链合作机会、整理目标网站并跟进外联进度。</li>\n<li>与内容、产品及研发团队协作，跟进页面和内容优化上线。</li>\n</ol>\n<h2>岗位要求</h2>\n<h3>内容运营方向</h3>\n<ol>\n<li>有内容运营、内容 SEO 或相关项目经验；有能力独立推进内容从选题到发布的流程。</li>\n<li>了解关键词研究、搜索意图和页面优化等 SEO 基础。</li>\n<li>能使用 AI 工具辅助研究、生成和编辑英文内容，并主动核验信息、判断内容质量。</li>\n<li>能阅读英文搜索结果、竞品页面和资料；不要求英文母语或高水平英文文案能力。</li>\n<li>做事有条理，能维护内容计划、跟进交付并根据数据持续优化。</li>\n</ol>\n<h3>研究执行方向</h3>\n<ol>\n<li>有 SEO 相关经验或项目实践优先；实习生和相关专业在读同学也欢迎。</li>\n<li>了解关键词研究、抓取与索引、页面优化等 SEO 基础概念。</li>\n<li>能使用 Google Search Console 、GA4 查看基础数据；有",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-08T03:21:29Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[北京/上海/深圳/西安/南京] [具身智能] 地瓜机器人热招芯片架构 / AI 编译器 / SoC 系统软件等 24 岗，无偿内推",
+      "url": "https://www.v2ex.com/t/1243876#reply4",
+      "location": "北京",
+      "description": "<p>我来帮几个团队捞简历：简历直达用人部门，流程进度我帮你盯。\n公司是做什么的</p>\n<ul>\n<li>地瓜机器人（ D-Robotics ），2024 年从地平线（ Horizon Robotics ）拆分独立，做机器人「母生态」：给机器人行业提供芯片、底层系统软件和开发者套件（ RDK 系列），思路是做机器人产业的基础设施</li>\n<li>400+ 人，base 北京为主，上海 / 深圳 / 西安/南京都有团队</li>\n<li>正处在芯片量产和开发者生态扩张的阶段，这批岗位都是公司重点急招，流程走得快\n热招岗位（ 24 个方向，工程师到总监职级都有需求，高级别尤其急）\n芯片设计 / 量产 / EDA：</li>\n<li>SOC 芯片系统架构师（北京 / 上海 / 西安）</li>\n<li>AI SoC 高级芯片架构师，存储技术方向（北京 / 上海 / 西安）</li>\n<li>AI 编译器研发工程师（北京 / 上海）</li>\n<li>芯片项目经理（北京 / 上海）</li>\n<li>芯片量产工程负责人（北京 / 上海）</li>\n<li>资深芯片量产工程师（ PE ）（北京 / 上海）</li>\n<li>AI 芯片产品总监（北京 / 上海 / 深圳）</li>\n<li>芯片运维专家（ EDA ）（北京）\n算法 / 影像：</li>\n<li>多媒体影像算法，3A 方向（深圳 / 上海）</li>\n<li>资深图像工程师（深圳）\nSoC 系统软件 / 驱动（以下均在北京 / 上海 / 深圳 / 西安）：</li>\n<li>Camera 系统软件开发工程师</li>\n<li>Display 驱动开发工程师</li>\n<li>SoC 系统安全工程师（ Security ）</li>\n<li>SoC 系统软件工程师（ power &amp; clk ）</li>\n<li>SOC 系统软件开发工程师（性能 / 稳定性）</li>\n<li>SoC 系统软件工程师（ Boot &amp; DDR ）\n产品 / 开发者生态：</li>\n<li>产品总监（ RDK 机器人开发者套件）（北京 / 上海 / 深圳）</li>\n<li>产品市场经理（芯片原厂 / 半导体行业背景优先）（深圳 / 北京）</li>\n<li>开发者增长 / 技术运营（南京 / 深圳）\n销售 / 客户支持：</li>\n<li>机器人高级销售经理（北京 / 上海 / 深圳 / 西安）</li>\n<li>大模型量化部署 FAE （北京 / 上海）</li>\n<li>芯片现场技术支持工程师（ FAE ）（上海 / 北京）</li>\n<li>海外技术支持工程师（机器人 / AI ）（南京 / 深圳）</li>\n<li>FAE 现场应用工程师（机器人 / AI 硬件）（南京 / 深圳）</li>\n</ul>\n<p>怎么投递</p>\n<ol>\n<li>加我微信：Littlejoy11 ，备注「 V2EX + 意向岗位」</li>\n<li>我把该岗位的完整 JD 发你，先确认方向、base 、是否合适，避免白跑一趟</li>\n<li>你觉得 OK 就把简历发我，我通过公司内推系统提交，直达用人部门，之后进度我帮你查</li>\n</ol>",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-09-22T02:49:44Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
+      "title": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
+      "url": "https://www.v2ex.com/t/1246802#reply0",
+      "location": "广州",
+      "description": "更新了一批 SHEIN 当前广州 base 的全量 10 个技术类岗位和对应薪资（上次发布是 3 个月前）。<br /><br />这批岗位方向覆盖算法、AI 、供应链研发、运维、网络、安全、架构等，薪资范围最高可达 70K （薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）。<br /><br />比较适合：<br />有 2 年以上相关技术经验；<br />做过互联网、电商、广告、推荐、搜索、供应链、AI 平台、数据平台等业务；<br />算法方向有线上业务落地经验；<br />后端方向有复杂系统、平台化、稳定性或性能优化经验。<br /><br />薪资可参考 SHEIN 招聘官网 &amp; Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/fyfjka\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/fyfjka</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />本人是 SHEIN 员工，不是 HR ，这帖只是内推信息整理，不代表官方招聘口径。<br />SHEIN 不同部门、团队、业务线差异比较大，我不能给所有团队背书，建议大家面试时重点确认团队业务、汇报线、加班节奏、人员稳定性和 HC 背景。<br />内推不保证面试或 offer ，也不保证 HR 回复时效，最终还是以 HR 和业务筛选为准。<br />如果已经明确匹配岗位，建议直接官网投递并填写内推码；表单只是给不确定方向的人做初步匹配用，不是必填。<br />SHEIN 社招技术岗大多没有 coding 环节，无需手撕代码。<br /><br />有问题评论区我会一一解答，保证回复真实有效（会跟对应 HR 咨询确认）。<br /><br />上次 7 月份也发过同样主题的帖子，不过今天更新的是 10 月 7 日最新岗位清单。部分岗位期间有增减。",
+      "source": "gh-relay/v2ex-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "v2ex-jobs",
+        "aggregator",
+        "v2ex",
+        "cn"
+      ],
+      "market": "cn",
+      "pool": "watch",
+      "published": "2026-10-07T09:46:49Z"
+    },
+    {
+      "company": "V2EX 招聘节点",
       "title": "下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见",
-      "url": "https://www.v2ex.com/t/1246360#reply34",
+      "url": "https://www.v2ex.com/t/1246360#reply37",
       "location": "北京",
       "description": "<p>本科是双非的生物类专业，23 年毕业直接进的一家生物小公司，负责处理客户的生物数据（ DNA RNA 血浆这种），工作内容就是服务器里 conda 搭建环境，安装包，下载数据库，作比对，然后写成流程，用 python 搭起来，有些论文的图用 R 语言去绘制，基本上不敲代码，都是指挥 agent 去做；上个月公司在这里的分部撤回北京了，我没跟去。</p>\n<p>一方面薪资低，没发展，在这公司 3 年待办公室混的太舒服了，天天就是看科技新闻，刷 V2EX ，刷知乎，用 AI 提效更好地摸鱼；另一方面，去北京那边，不是纯办公室，得对接高校老师，帮人家干活，采样，做实验，顺带服务器跑跑分析，那边一个熟人没有，实在没有想去的动力。</p>\n<p>存款目前 4-5w ，某书偶尔接点单，还凑合，单身，不买房没债务，家里是我说了算，不吃压力。</p>\n<p>高考发挥偏失常，数学 120 ，英语 120 ，六级背了几天单词 450 多过的</p>\n<p>不考虑生物考研</p>\n<p>想拼一把明年 12 月考试的科软（中科大软件学院）</p>\n<p>咨询大家两个问题</p>\n<p>第一，上岸的客观难度</p>\n<p>第二，假设成功上岸，从程序员的角度，上岸应该怎么卷实习，大概的一个薪资区间，未来的职业发展，[因为我这几年都是在高校以及医院的圈子里，没有程序员视角]</p>",
       "source": "gh-relay/v2ex-jobs",
@@ -495,82 +628,6 @@
       "market": "cn",
       "pool": "watch",
       "published": "2026-10-01T12:47:27Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[深圳 9.30 岗位更新] SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
-      "url": "https://www.v2ex.com/t/1245910#reply2",
-      "location": "深圳",
-      "description": "更新了一批 SHEIN 当前深圳 base 的全量 29 个技术类岗位和对应薪资（上次发布是两个月前）。<br /><br />这批岗位主要集中在：<br />算法 / 推荐 / 搜索 / 广告投放<br />大模型 / LLM / 多模态 / CV<br />流量反作弊 / 商品治理 / 商品标签<br />智慧供应链算法 / 预测 / 活动选品 / 价格策略<br />数据开发 / 数仓 / 数据分析<br />后端 / AI Infra / 推荐平台 / 算法工程化<br />安全 / 移动安全 / 云安全 / SOC<br />测试 / 自动化测试<br />iOS<br /><br />其中算法和大模型相关方向薪资整体更高（薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）：<br />广告投放 / 广告商业化算法：约 45-80K/月<br />流量反作弊算法：约 40-80K/月<br />大模型 / 多模态 / CV：约 30-75K/月<br />智慧供应链算法：约 30-70K/月<br />后端 / AI Infra / 推荐平台：约 25-60K/月<br />安全方向：约 25-60K/月<br />测试方向：约 20-40K/月<br />iOS：约 25-45K/月<br />同一岗位也可以结合 BOSS 上的薪资来看，最终薪资、职级和 offer 结构以面试及 HR 沟通为准。<br /><br />比较适合：<br />有 2 年以上相关技术经验；<br />做过互联网、电商、广告、推荐、搜索、供应链、AI 平台、数据平台等业务；<br />算法方向有线上业务落地经验；<br />后端方向有复杂系统、平台化、稳定性或性能优化经验；<br />数据方向有数仓、数据链路、指标体系、数据治理经验。<br /><br />薪资可参考 SHEIN 招聘官网 &amp; Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href=\"https://app.mokahr.com/su/wzieyt\" rel=\"nofollow noopener\" target=\"_blank\">https://app.mokahr.com/su/wzieyt</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href=\"http://careers.shein.cn/\" rel=\"nofollow noopener\" target=\"_blank\">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href=\"https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1\" rel=\"nofollow noopener\" target=\"_blank\">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />本人是 SHEIN 员工，不是 HR ，这帖只是内推",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-30T13:21:07Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "招募 嵌入式蓝牙固件/音频工程师（兼职/顾问形式）",
-      "url": "https://www.v2ex.com/t/1245895#reply0",
-      "location": "远程",
-      "description": "<blockquote>\n<p><strong>项目招募</strong>：便携式开放式有线/无线音频模块开发（传统嵌入式蓝牙固件）</p>\n</blockquote>\n<blockquote>\n<p><strong>合作速览</strong>：兼职/顾问 ｜ 标准 Turnkey 方案（无自定义 AI ） ｜ 蓝牙 5.4 双模 ｜ Realtek / QCC 系列 ｜ 按阶段里程碑结算</p>\n</blockquote>\n<hr />\n<h2>一、项目概述</h2>\n<p>我们正在研发一款开放式运动音频及通信硬件系统，目前硬件架构和外壳堆叠已确定，硬件工程师正在同步画板。</p>\n<p>现寻找一位经验丰富的<strong>嵌入式蓝牙固件/音频工程师</strong>（兼职/顾问形式），负责整板的底层芯片配置、<strong>双麦克风通话降噪（ ENC ）调优</strong>、以及基础控制逻辑编写。</p>\n<blockquote>\n<p><strong>由于采用标准 Turnkey 方案</strong>，本项目不涉及任何自定义 AI 算法训练，专注于经典嵌入式音频工程的快速落地。</p>\n</blockquote>\n<hr />\n<h2>二、核心技术任务</h2>\n<h3>1. 蓝牙音频 SoC 配置</h3>\n<ul>\n<li>基于标准平台（如 <strong>Realtek 或 Qualcomm QCC 系列</strong>）开发<strong>蓝牙 5.4 双模</strong>音频固件，配置高音质编解码器（<strong>AAC / LHDC 等</strong>），对接主流安卓/小米手机生态。</li>\n</ul>\n<h3>2. 双麦降噪（ ENC ）调优</h3>\n<ul>\n<li>利用芯片自带的软硬件<strong>双麦波束成形与回声消除（ AEC ）算法</strong>，调优户外防风噪与人声清晰度。</li>\n</ul>\n<h3>3. 外围外设驱动</h3>\n<ul>\n<li>配置 <strong>I2C 触觉驱动 IC</strong>（如艾为 AW 系列）以驱动微型线性马达（<strong>LRA</strong>），实现低延迟物理按键触觉震动反馈；完成物理<strong>GPIO 按键映射</strong>。</li>\n</ul>\n<h3>4. 电源与基本功耗</h3>\n<ul>\n<li>配合硬件工程师，完成<strong>锂电池片上充电路径</strong>配置与<strong>低功耗逻辑</strong>优化。</li>\n</ul>\n<hr />\n<h2>三、期待您</h2>\n<ol>\n<li><strong>嵌入式开发与量产经验</strong>：熟练掌握 C/C++ 嵌入式开发，有成熟的蓝牙音频方案（耳机、音频眼镜或运动对讲模块）量产出货经验。</li>\n<li><strong>双麦通话降噪调优</strong>：熟悉双麦通话降噪原理，能熟练使用芯片商提供的配置工具调节音频 EQ 与降噪参数。</li>\n<li><strong>现成工程框架优先</strong>：拥有现成可直接二改的音频固件工程框架者优先，可远程协作，按阶段里程碑结算。</li>\n</ol>\n<hr />\n<h2>四、投递方式</h2>\n<p>有意者请发送技术简历及以往开发案例至：</p>\n<p><strong>项目邮箱</strong>：<a href=\"http://linwingman92$$gmail.com 或 57619622",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-30T11:55:44Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "招募音频 AI/嵌入式工程师 Audio AI Algorithm Consultant (Speech Enhancement / TinyML)",
-      "url": "https://www.v2ex.com/t/1245873#reply0",
-      "location": "远程",
-      "description": "<h1>独立项目合作招募：面向边缘 AI （ TinyML ）的语音带宽扩展与固件开发专家</h1>\n<blockquote>\n<p><strong>合作速览</strong>：远程阶段性外包 ｜ 全包合同 ｜ 4 个核心研发阶段 ｜ 推理延迟 ≤ 12ms ｜ 2 个工作日内评估反馈</p>\n</blockquote>\n<hr />\n<h2>一、项目概述</h2>\n<p>我们团队目前正在设计一款创新的<strong>硬连线便携式音频通信模块</strong>。该硬件采用<strong>纯有线结构（不涉及蓝牙传输）</strong>，旨在对低带宽的特殊音频传感器输入进行实时处理。</p>\n<p>目前，我们的硬件工程师已经到位，正在推进 PCBA 的硬件原理图与布线工作。现寻找一位在音频 AI 算法开发与边缘部署领域有深厚实战经验的<strong>软件/算法独立顾问</strong>，来全权负责该项目的软件、AI 模型训练以及底层固件体系的搭建。</p>\n<blockquote>\n<p><strong>开发周期紧凑</strong>：我们强烈倾向于寻找在此领域有现成技术积累、甚至有类似成熟方案可直接进行二次修改复用的大牛合作。</p>\n</blockquote>\n<hr />\n<h2>二、核心技术任务与交付物</h2>\n<p>本期项目为<strong>全包合同</strong>，主要包含以下四个核心开发阶段：</p>\n<h3>阶段一：语音生成式带宽扩展（ ABE ）模型训练（算法层）</h3>\n<ul>\n<li>基于成对的<strong>低带宽语音</strong>（如身体传导 / 特殊声学传感器输入）与<strong>高保真空气麦克风语音</strong>数据集，进行深度学习模型训练。</li>\n<li>模型需实现生成式语音修复（ Spectral Reconstruction ），在极低延迟下动态“还原/合成”语音缺失的<strong>高频细节与鼻音共振</strong>，使输出人声自然、清晰、具备高辨识度。</li>\n</ul>\n<h3>阶段二：硬件感知量化与模型部署（ TinyML 边缘层）</h3>\n<ul>\n<li>将训练好的音频深度学习模型（如基于 PyTorch 的网络结构）进行深度量化（<code>INT8/INT4</code>）与裁剪（<code>Pruning</code>），使其能够完美塞入<strong>微型边缘 AI 芯片的内部 SRAM</strong> 中。</li>\n<li>芯片选型方案：优先考虑基于 <code>Syntiant NDP120/NDP200</code> 系列或 <code>恒玄（ Bestechnic ） NPU</code> 平台进行边缘部署。</li>\n</ul>\n<h3>阶段三：音频流链路与底层固件构建（嵌入式底层）</h3>\n<ul>\n<li>协同硬件工程师完成模拟前端（ AFE ）麦克风前级放大与音频 ADC/DAC 的<strong>数字音频流（<code>I2S/PCM</code>）通路调通</strong>。</li>\n<li>确保模型推理的整体算法延迟严格控制在 <strong>12ms 以内</strong>，以满足高时效通信环境。</li>\n</ul>\n<h3>阶段四：双路音频输出功能集成（应用层）</h3>\n<ul>\n<li><strong>模拟路</strong>：经由 DAC 输出标准的模拟麦克风电平信号，直接对接外部物理通信设备。</li>\n<li><stron",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-30T09:35:12Z"
-    },
-    {
-      "company": "V2EX 招聘节点",
-      "title": "[北京/上海/深圳/西安/南京] [具身智能] 地瓜机器人热招芯片架构 / AI 编译器 / SoC 系统软件等 24 岗，无偿内推",
-      "url": "https://www.v2ex.com/t/1243876#reply4",
-      "location": "北京",
-      "description": "<p>我来帮几个团队捞简历：简历直达用人部门，流程进度我帮你盯。\n公司是做什么的</p>\n<ul>\n<li>地瓜机器人（ D-Robotics ），2024 年从地平线（ Horizon Robotics ）拆分独立，做机器人「母生态」：给机器人行业提供芯片、底层系统软件和开发者套件（ RDK 系列），思路是做机器人产业的基础设施</li>\n<li>400+ 人，base 北京为主，上海 / 深圳 / 西安/南京都有团队</li>\n<li>正处在芯片量产和开发者生态扩张的阶段，这批岗位都是公司重点急招，流程走得快\n热招岗位（ 24 个方向，工程师到总监职级都有需求，高级别尤其急）\n芯片设计 / 量产 / EDA：</li>\n<li>SOC 芯片系统架构师（北京 / 上海 / 西安）</li>\n<li>AI SoC 高级芯片架构师，存储技术方向（北京 / 上海 / 西安）</li>\n<li>AI 编译器研发工程师（北京 / 上海）</li>\n<li>芯片项目经理（北京 / 上海）</li>\n<li>芯片量产工程负责人（北京 / 上海）</li>\n<li>资深芯片量产工程师（ PE ）（北京 / 上海）</li>\n<li>AI 芯片产品总监（北京 / 上海 / 深圳）</li>\n<li>芯片运维专家（ EDA ）（北京）\n算法 / 影像：</li>\n<li>多媒体影像算法，3A 方向（深圳 / 上海）</li>\n<li>资深图像工程师（深圳）\nSoC 系统软件 / 驱动（以下均在北京 / 上海 / 深圳 / 西安）：</li>\n<li>Camera 系统软件开发工程师</li>\n<li>Display 驱动开发工程师</li>\n<li>SoC 系统安全工程师（ Security ）</li>\n<li>SoC 系统软件工程师（ power &amp; clk ）</li>\n<li>SOC 系统软件开发工程师（性能 / 稳定性）</li>\n<li>SoC 系统软件工程师（ Boot &amp; DDR ）\n产品 / 开发者生态：</li>\n<li>产品总监（ RDK 机器人开发者套件）（北京 / 上海 / 深圳）</li>\n<li>产品市场经理（芯片原厂 / 半导体行业背景优先）（深圳 / 北京）</li>\n<li>开发者增长 / 技术运营（南京 / 深圳）\n销售 / 客户支持：</li>\n<li>机器人高级销售经理（北京 / 上海 / 深圳 / 西安）</li>\n<li>大模型量化部署 FAE （北京 / 上海）</li>\n<li>芯片现场技术支持工程师（ FAE ）（上海 / 北京）</li>\n<li>海外技术支持工程师（机器人 / AI ）（南京 / 深圳）</li>\n<li>FAE 现场应用工程师（机器人 / AI 硬件）（南京 / 深圳）</li>\n</ul>\n<p>怎么投递</p>\n<ol>\n<li>加我微信：Littlejoy11 ，备注「 V2EX + 意向岗位」</li>\n<li>我把该岗位的完整 JD 发你，先确认方向、base 、是否合适，避免白跑一趟</li>\n<li>你觉得 OK 就把简历发我，我通过公司内推系统提交，直达用人部门，之后进度我帮你查</li>\n</ol>",
-      "source": "gh-relay/v2ex-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "v2ex-jobs",
-        "aggregator",
-        "v2ex",
-        "cn"
-      ],
-      "market": "cn",
-      "pool": "watch",
-      "published": "2026-09-22T02:49:44Z"
     }
   ]
 }
