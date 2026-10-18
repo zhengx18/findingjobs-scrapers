@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:56:43.284158+00:00",
+  "generated_at": "2026-10-18T06:24:24.865555+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "url": "https://www.artie.com/careers",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.artie.com/careers\">https://www.artie.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132839\">https://news.ycombinator.com/item?id=50132839</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Sat, 17 Oct 2026 17:02:50 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Fri, 11 Sep 2026 17:00:17 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor\">https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49625110\">https://news.ycombinator.com/item?id=49625110</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Wed, 09 Sep 2026 12:01:38 +0000"
     }
   ],
   "total_entries": 20
