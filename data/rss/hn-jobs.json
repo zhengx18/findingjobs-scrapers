@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:22:17.892400+00:00",
+  "generated_at": "2026-10-21T06:22:33.301423+00:00",
   "feed": {
     "slug": "hn-jobs",
     "name": "HN Jobs (YC companies hiring)",
@@ -14,6 +14,26 @@
     ]
   },
   "items": [
+    {
+      "company": "HN Jobs (YC companies hiring)",
+      "title": "Hazel (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "location": "",
+      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci\">https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50164991\">https://news.ycombinator.com/item?id=50164991</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "gh-relay/hn-jobs",
+      "tags": [
+        "github-relay",
+        "rss",
+        "hn-jobs",
+        "aggregator",
+        "hn",
+        "yc",
+        "llm"
+      ],
+      "market": "global",
+      "pool": "watch",
+      "published": "Tue, 20 Oct 2026 12:00:32 +0000"
+    },
     {
       "company": "HN Jobs (YC companies hiring)",
       "title": "Evidence (YC S21) Is Hiring Software Engineers",
@@ -393,26 +413,6 @@
       "market": "global",
       "pool": "watch",
       "published": "Tue, 15 Sep 2026 07:00:30 +0000"
-    },
-    {
-      "company": "HN Jobs (YC companies hiring)",
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "location": "",
-      "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead\">https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700218\">https://news.ycombinator.com/item?id=49700218</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "source": "gh-relay/hn-jobs",
-      "tags": [
-        "github-relay",
-        "rss",
-        "hn-jobs",
-        "aggregator",
-        "hn",
-        "yc",
-        "llm"
-      ],
-      "market": "global",
-      "pool": "watch",
-      "published": "Mon, 14 Sep 2026 17:00:53 +0000"
     }
   ],
   "total_entries": 20
